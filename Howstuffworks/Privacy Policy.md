@@ -43,7 +43,7 @@ Last modified: January 31, 2020
 
 **INTRODUCTION**
 
-System1 LLC (including its subsidiaries) respects your privacy and we are committed to protecting it through our compliance with this privacy policy (the “Policy”) in connection with the online websites, applications and services (the “Services”) that we operate. This Policy also applies to the following System1 subsidiaries, including Infospace Holdings LLC, Qool Media Holdings LLC, Dotzup Holdings LLC, Concourse Media Holdings LLC and MapQuest Holdings LLC (the “System1 Parties”).
+System1 LLC (including its subsidiaries) respects your privacy and we are committed to protecting it through our compliance with this privacy policy (the “Policy”) in connection with the online websites, applications and services (the “Services”) that we operate. This Policy also applies to the following System1 subsidiaries, including Infospace Holdings LLC, Qool Media Holdings LLC, Dotzup Holdings LLC, Concourse Media Holdings LLC, MapQuest Holdings LLC, Privacy One Group Limited and System1 Waterfox (the “System1 Parties”).
 
 We respect your privacy and we are committed to protecting it through our compliance with this Policy. HowStuffWorks is a division of Infospace Holdings LLC, which is a System1 LLC subsidiary.
 
@@ -63,7 +63,7 @@ System1 LLC, and the System1 Parties comply with the EU-US Privacy Shield Framew
 
 To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/
 
-System1 is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+System1 is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). Furthermore, with regards to any human resources related data that may be transferred from the EU to the U.S. in connection with or in the context of any employment relationship with a EU-based employee, System1 is committed to co-operating with EU data protection authorities (or DPAs) in the relevant country regarding any such EU-based employee and comply with the advice provided by such DPAs in connection with the foregoing.
 
 **CHILDREN UNDER THE AGE OF 13**
 
@@ -157,7 +157,7 @@ We may also disclose your personal information:
 *   To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
 *   If we believe disclosure is necessary or appropriate to protect our rights, property, or for our safety, and that of our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 *   Under certain circumstances, we may be required to disclose your personal information in response to valid requests by public authorities, including to meet national security or law enforcement requirements.
-*   System1’s accountability for data it receives pursuant to the EU-US and Swiss-US Privacy Shield and subsequent transfer of that data to third parties is detailed in the Privacy Shield Principles. In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the EU-US or and Swiss-US Privacy Shield, System1 is potentially liable. In particular, System1 remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless System1 proves that it is not responsible for the event giving rise to the damage.
+*   System1’s accountability for data it receives pursuant to the EU-US and Swiss-US Privacy Shield and subsequent transfer of that data to third parties is detailed in the Privacy Shield Principles. In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the EU-US or and Swiss-US Privacy Shield, System1 is potentially liable. In particular, System1 remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless System1 proves that it is not responsible for the event giving rise to the damage. With regards to any human resources related data that may be transferred from the EU to the US in connection with or in the context of any employment relationship with a EU-based employee, System1 is committed to co-operating with EU data protection authorities (or DPAs) in the relevant country regarding any such EU-based employee and comply with the advice provided by such DPAs in connection with the foregoing.
 
 **CHOICES ABOUT HOW WE USE AND DISCLOSE YOUR INFORMATION**
 
