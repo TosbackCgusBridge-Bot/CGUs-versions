@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-5%  2% 
+18%  1% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-5%  Arrest Records &. Driving Infractions
+17%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -159,7 +159,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 2% 
+Facebook 1% 
 
 *   Prıvacy PoIicy (emha wollen paradies) - Pr&.
     
@@ -213,7 +213,7 @@ Facebook 2% 
     
 *   Show Less ...
 
-Twitter 2% 
+Twitter 1% 
 
 *   CDC - CDCgov
     
@@ -259,7 +259,7 @@ Twitter 2% 
     
 *   Show Less ...
 
-Instagram 2% 
+Instagram 1% 
 
 *   Privacy Policy - insta\_privacy\_policy
     
@@ -305,7 +305,7 @@ Instagram 2% 
     
 *   Show Less ...
 
-Myspace 2% 
+Myspace 1% 
 
 *   Privacy Policy - 49086242
     
@@ -329,7 +329,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Social Profiles 4%  Pinterest 1% 
+Social Profiles 17%  Pinterest 1% 
 
 *   Privacy Policy - privacypolicyvino
     
@@ -370,7 +370,7 @@ Wikipedia 1% 
     
 *   Show Less ...
 
-Music 4%  Photo Albums 1% 
+Music 17%  Photo Albums 1% 
 
 *   Help
     
@@ -418,7 +418,7 @@ Music 4%  Photo Albums 1% 
     
 *   Show Less ...
 
-Web Search 4%  Images 1% 
+Web Search 17%  Images 1% 
 
 16
 
@@ -426,7 +426,7 @@ Web Search 4%  Images 1% 
 
 20
 
-8
+2
 
 facebookx
 
