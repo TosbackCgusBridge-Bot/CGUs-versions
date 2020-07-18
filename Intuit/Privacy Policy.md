@@ -40,32 +40,16 @@ BeddingBUY 1 GET 1 50% OFF\*all your basic needs | select styles**Boys** **Girls
 
 Beauty (retail) therapy Freshen up your routine with faves from Salon &. Sephora inside JCPenney.Haircare—go big or go homeStock up on all your value-sized faves.SEPHORA COLLECTION Makeup, Starting at $10select styles | Excluded from coupons.  Learn More  Shop Now Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
-    
-    $124.98
-    
-    192
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $124.98
-    
-    134
+*   Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel $5.99 - $41.24with code~$16 - $124~138
+*   St. John's Bay Mid Rise Capris $9.74with code~$32~50
+*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $26.24 - $47.24with code~$50 - $90~221
+*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $14.99with code~$6 - $48~543
+*   Liz Claiborne Signature Plush Bath Towel Collection $5.24 - $35.99with code~$12 - $96~542
 *   Clarks Womens Brinkley Jazz Flip-Flops
     
     $29.99sale
     
     ~$55~299
-*   Home Expressions Lisette Rod-Pocket Sheer Panel
-    
-    $4.99 - $27.99sale
-    
-    ~$16 - $40~1241
-*   Regal Home Collections, Inc. Sterling Embroidery Energy Saving Blackout Grommet-Top Single Curtain Panel $30 - $45with code23
-*   Cooks 1.5 Quart Slow Cooker
-    
-    $22
-    
-    334
 
 Shop and Save at JCPenney
 
