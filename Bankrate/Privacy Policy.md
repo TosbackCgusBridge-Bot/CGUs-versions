@@ -23,7 +23,7 @@ Active
 
 Always Active
 
-Save SettingsAllow All Open navigation
+Save SettingsAllow All Open navigation Bankrate
 
 *   BR Mortgages
 *   BR Banking
@@ -673,4 +673,4 @@ Bankrate US | UK
 
 © 2020 Bankrate, LLC. A Red Ventures company. All Rights Reserved.
 
-<iframe location="coinfo master" src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2085058148404940&amp;ev=PageView&amp;noscript=1">. <img src="//bat.bing.com/action/0?ti=4064189&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">. <img src="//trc.taboola.com/1014189/log/3/unip?en=page\_view" width="0" height="0" style="display:none">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
+<iframe location="coinfo master" src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2085058148404940&amp;ev=PageView&amp;noscript=1">. <img src="//bat.bing.com/action/0?ti=4064189&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">. <img src="//trc.taboola.com/1014189/log/3/unip?en=page\_view" width="0" height="0" style="display:none">. BESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswyBESbswy
