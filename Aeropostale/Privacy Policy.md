@@ -458,11 +458,17 @@ Crave-worthy comfort denim.
 
 Girls Shorts Previous
 
+Long Board Chino
+
 Classic Jogger
 
-Cargo
-
 Active Short
+
+Slim Cut-Off
+
+Classic Chino
+
+Cargo
 
 Long Cargo  
 **Online Only**
@@ -473,22 +479,20 @@ Beach Short
 
 Slim Cuffed
 
-Classic Chino
+Belted Cargo  
+**Online Only**
 
 Long Board Chino
 
 Classic Jogger
 
-Cargo
-
 Active Short
 
-Long Cargo  
-**Online Only**
+Slim Cut-Off
 
-Longboard Short
+Classic Chino
 
-Beach Short
+Cargo
 
 Next
 
