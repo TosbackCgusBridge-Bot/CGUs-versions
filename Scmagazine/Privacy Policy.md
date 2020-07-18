@@ -252,23 +252,23 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   Hidden purpose of Mac 'ransomware' EvilQuest is data exfiltration, say researchers
-    *   Inside the Dark Web: 4 Misconceptions and How Security Teams Can Change Minds and Benefit
-    *   Is TikTok out of time? Experts mull implications of ban
-    *   Microsoft phishing domains takedown aimed at familiar criminals refocused on Covid-19
-    *   DMARC embraced by government, private industry lags
+    *   Docker attackers devise clever technique to avoid detection
+    *   U.S. universities at risk of back-to-school and Covid-19 email fraud
+    *   Biden's, Apple's Twitter hacked in cryptocurrency scam
+    *   5 Elements of Next-Gen Deception Technology
+    *   Revengeful hacker leaks database info after researcher threatens to reveal identities
     
-    *   Here are the hurdles that will face Biden’s new CISO
-    *   5 Ways vCISOs Move the Security Needle
-    *   Huawei ban driven by security, trade considerations
-    *   More Chinese tax software found to dish out backdoor malware
-    *   U.S. top in significant cyberattacks on CSIS list
+    *   Credit card skimmer preyed on old ASP.NET-powered websites with shopping carts
+    *   EDP Renewables says PII compromised in Ragnar Locker attack
+    *   Exposed dating service databases leak sensitive info on romance-seekers
+    *   U.S. universities at risk of back-to-school and Covid-19 email fraud
+    *   Open S3 bucket exposes one million files of fitness brand V Shred
     
+    *   Twitter hack is a reminder of the dangers of unfettered employee access
     *   Docker attackers devise clever technique to avoid detection
     *   Huawei ban driven by security, trade considerations
     *   Fake Cisco switches provoked network failures
     *   Critical SAP flaw puts 40,000 users at risk
-    *   Microsoft sounds alarm to fix wormable bug "SIGRed"
 
 Back to Top
 
@@ -301,4 +301,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
