@@ -165,7 +165,7 @@ My Account Contact Us Shopping Cart Sign Out
     
     *   Watches
     *   Men's Watches
-    *   Women's WatchesEstate Jewelry &. Watches >.
+    *   Women's WatchesTake 30% Off Select Estate Jewelry >.
 *   Specials
     
     *   Weekly Features
