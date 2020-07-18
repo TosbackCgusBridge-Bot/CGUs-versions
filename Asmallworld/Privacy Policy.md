@@ -1,8 +1,8 @@
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KCPGM7" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Apply Login Apply for MembershipApply Menu
 
 *   Explorer
-*   Travel
-    *   ASW Collection COMING SOON
+*   TravelNew
+    *   ASW CollectionNew
     *   ASW Private
 *   Events
 *   Become a member
