@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Best practices for an effective remote team in the world of cloud delivery
+*   ROS Security Benchmark open for public comment
 *   Kubernetes from cloud to edge: A US virtual event
-*   Robotics Recap: Learning, Programming &. Snapping ROS 2
-*   Ubuntu Support of AWS Graviton2 Instances
