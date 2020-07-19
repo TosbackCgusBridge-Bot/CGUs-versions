@@ -6,6 +6,8 @@ Change country/language X
 
 Autodesk logo
 
+*   0
+
 *   Sign In
     
     Autodesk Account
@@ -189,7 +191,7 @@ Subscribe
 
 $2,425/year
 
-Cloud-based 3D CAD/CAM/CAE software for product design
+Cost-effective 2D CAD
 
 Learn more
 
@@ -197,9 +199,9 @@ Free trial
 
 Subscribe
 
-$248/year
+$420/year
 
-$495 Try, buy, or learn more about Autodesk products See all products Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
+Try, buy, or learn more about Autodesk products See all products Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
 
 We’ve combined advanced technology, a network of builders, and powerful predictive insights to connect all stages of the building lifecycle: design, plan, build, and operate.
 
