@@ -13,7 +13,6 @@ Show Menu Hide Menu
     *   Cruises
     *   Vacation Rentals
     *   Things to do
-    *   Travel Tips
 
 *   List your property
 *   Account
@@ -50,18 +49,15 @@ For customer service, call us toll-free at 1-800-397-3342. For customers outside
 *   Cruises
 *   Vacation Rentals
 *   Things to do
-*   Travel Tips
 *   More
     *   Mobile
     *   Cruises
     *   Vacation Rentals
     *   Things to do
-    *   Travel Tips
 *   More
     *   Cruises
     *   Vacation Rentals
     *   Things to do
-    *   Travel Tips
 
 Beginning of main content Create an account Create your free account Create your free account Sign Up with Google Sign Up with Apple Sign Up with Naver Sign Up with Facebook **OR** We apologize for our system failure. Please try again Account already exists Authentication failure. Please try again Action required!  
 To finish creating your account, please click the link we just sent to First name
