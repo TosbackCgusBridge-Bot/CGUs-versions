@@ -9,9 +9,23 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   90 Degree by Reflex Under $35
+    *   Designer Sunglasses ft. Persol &. Oliver Peoples
+    *   Lucky Brand &. More Up to 70% Off Incl. Plus
+    *   Summer-Ready Dresses Incl. Plus
+    *   Summer Styles Under $25 Incl. Plus &. Petites
+    *   Lucky Brand Men Up to 60% Off
+    *   Swim Essentials: Chic One-Pieces Up to 70% Off
+    *   Gallery 57 Wall Art
+    *   Flat Sandals Up to 70% Off
+    *   Home Organization
+    *   Fresh Finds: Pumps Up to 60% Off
+    *   Men's Dress Shoes Up to 70% Off
+    *   Trending Now: Camera-Ready Kids' Styles
     *   Comfort Sneakers &. More Up to 65% Off
     *   Men's Comfort Shoes Up to 60% Off
     *   Frye Up to 65% Off
+    
     *   Frye Men Up to 65% Off
     *   Frye Handbags Up to 55% Off
     *   Now Trending: Crops, Flares &. More
@@ -23,96 +37,76 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Circulon Nonstick Cookware
     *   Summer Jewelry Stacks: Chan Luu &. More
     *   Nordstrom Rack Exclusives ft. Harper Canyon
-    *   Face Mask Sets
-    *   Breezy Boho Looks Up to 75% Off Incl. Plus
-    *   X by Gottex Under $30
-    
-    *   WFH Finds Up to 75% Off Incl. Plus &. Petites
     *   Men's WFH Essentials Up to 75% Off
-    *   Sleep &. Lingerie ft. French Connection
-    *   Pumps Up to 70% Off
-    *   Contemporary Sandals Up to 60% Off
-    *   Girls' Dresses ft. BCBGirls
+    *   John Varvatos Star USA Up to 70% Off
     *   Toys Starting at $10
     *   Kids' Sneakers ft. New Balance &. More
-    *   Steve Madden Up to 60% Off
-    *   BCBGMAXAZRIA &. BCBGeneration Up to 80% Off
-    *   John Varvatos Star USA Up to 70% Off
-    *   Premium Denim We Love ft. JOE'S Jeans
-    *   Steve Madden Kids
-    *   Kids' Swim Styles Up to 65% Off
-    *   Statement Looks ft. Faux Lashes from $10
-    *   adidas Men
-    *   Fresh Prints: Summer Dresses
+    *   Steve Madden Men Up to 60% Off
     
-    *   Blouses &. More Under $25 Incl. Plus &. Petites
+    *   Statement Looks ft. Faux Lashes from $10
     *   Casual Bottoms Under $35 Incl. Plus &. Petites
     *   Chic &. Cozy Lounge Under $35
     *   Kitchen Gadgets
     *   Kitchen Upgrade: Air Fryers
     *   bObsweep Up to 75% Off
+    *   Men's Summer Styles Under $25
     *   Rompers &. Jumpsuits Up to 70% Off Incl. Plus &. Petites
-    *   Steve Madden Men Up to 60% Off
-    *   Levi's Men Starting at $15
-    *   Men's Lounge Under $30
+    *   Breezy Boho Looks Up to 75% Off Incl. Plus
+    *   X by Gottex Under $30
+    *   WFH Finds Up to 75% Off Incl. Plus &. Petites
+    *   Sleep &. Lingerie ft. French Connection
+    *   Girls' Dresses ft. BCBGirls
     *   Shark Vacuums
-    *   Max Studio Up to 75% Off Incl. Plus &. Petites
-    *   Men's Outdoor Shoes
     *   Summer Essentials: Denim Shorts
-    *   Summer Active Styles Up to 65% Off
 *   WomenShop Sale Events
     
+    *   90 Degree by Reflex Under $35
+    *   Designer Sunglasses ft. Persol &. Oliver Peoples
+    *   Lucky Brand &. More Up to 70% Off Incl. Plus
+    *   Summer-Ready Dresses Incl. Plus
+    *   Summer Styles Under $25 Incl. Plus &. Petites
+    *   Swim Essentials: Chic One-Pieces Up to 70% Off
+    *   Flat Sandals Up to 70% Off
+    *   Fresh Finds: Pumps Up to 60% Off
     *   Comfort Sneakers &. More Up to 65% Off
     *   Frye Up to 65% Off
     *   Frye Handbags Up to 55% Off
     *   Now Trending: Crops, Flares &. More
     *   Sanctuary Up to 70% Off Incl. Plus &. Petites
+    
     *   Vanity Room
     *   Rain or Shine: Jackets Up to 70% Off
     *   Anne Klein &. More Under $40
     *   Summer Jewelry Stacks: Chan Luu &. More
-    *   Face Mask Sets
+    *   Statement Looks ft. Faux Lashes from $10
+    *   Casual Bottoms Under $35 Incl. Plus &. Petites
+    *   Chic &. Cozy Lounge Under $35
+    *   Rompers &. Jumpsuits Up to 70% Off Incl. Plus &. Petites
     *   Breezy Boho Looks Up to 75% Off Incl. Plus
     *   X by Gottex Under $30
     *   WFH Finds Up to 75% Off Incl. Plus &. Petites
     *   Sleep &. Lingerie ft. French Connection
-    
-    *   Pumps Up to 70% Off
-    *   Contemporary Sandals Up to 60% Off
-    *   Steve Madden Up to 60% Off
-    *   BCBGMAXAZRIA &. BCBGeneration Up to 80% Off
-    *   Premium Denim We Love ft. JOE'S Jeans
-    *   Statement Looks ft. Faux Lashes from $10
-    *   Fresh Prints: Summer Dresses
-    *   Blouses &. More Under $25 Incl. Plus &. Petites
-    *   Casual Bottoms Under $35 Incl. Plus &. Petites
-    *   Chic &. Cozy Lounge Under $35
-    *   Rompers &. Jumpsuits Up to 70% Off Incl. Plus &. Petites
-    *   Max Studio Up to 75% Off Incl. Plus &. Petites
     *   Summer Essentials: Denim Shorts
-    *   Summer Active Styles Up to 65% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
+    *   Jewelry
     *   Lingerie &. Shapewear
     *   Accessories
-    *   Jewelry
     *   Handbags
 *   MenShop Sale Events
     
+    *   Designer Sunglasses ft. Persol &. Oliver Peoples
+    *   Lucky Brand Men Up to 60% Off
+    *   Men's Dress Shoes Up to 70% Off
     *   Men's Comfort Shoes Up to 60% Off
     *   Frye Men Up to 65% Off
     *   Always Essential: Suiting Up to 75% Off
-    *   Face Mask Sets
     *   Men's WFH Essentials Up to 75% Off
     *   John Varvatos Star USA Up to 70% Off
-    
-    *   adidas Men
     *   Steve Madden Men Up to 60% Off
-    *   Levi's Men Starting at $15
-    *   Men's Lounge Under $30
-    *   Men's Outdoor Shoes
+    *   Men's Summer Styles Under $25
     
     Shop By Category
     *   Clothing
@@ -120,22 +114,23 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Trending Now: Camera-Ready Kids' Styles
     *   Nordstrom Rack Exclusives ft. Harper Canyon
-    *   Girls' Dresses ft. BCBGirls
     *   Toys Starting at $10
     *   Kids' Sneakers ft. New Balance &. More
-    *   Steve Madden Kids
-    *   Kids' Swim Styles Up to 65% Off
+    *   Girls' Dresses ft. BCBGirls
     
     Shop By Category
     *   Girls
+    *   Boys
     *   Baby
     *   Toys
-    *   Girls' Shoes
     *   Boys' Shoes
-    *   Boys
+    *   Girls' Shoes
 *   HomeShop Sale Events
     
+    *   Gallery 57 Wall Art
+    *   Home Organization
     *   Circulon Nonstick Cookware
     *   Kitchen Gadgets
     *   Kitchen Upgrade: Air Fryers
@@ -144,8 +139,12 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     
     Shop By Category
     *   Kitchen &. Tabletop
+    *   Home Decor
     *   Cleaning &. Organization
     *   Outdoor Living
+    *   Pet Accessories
+    *   Accent Furniture
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
     *   Statement Looks ft. Faux Lashes from $10
