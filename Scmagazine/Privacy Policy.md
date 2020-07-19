@@ -252,23 +252,23 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
+    *   Frequency, size of fines for failing to secure data will grow by 2025, report
+    *   5 Ways to Translate Security Data into Actionable Business Insight
+    *   Hidden purpose of Mac 'ransomware' EvilQuest is data exfiltration, say researchers
+    *   Conti ransomware encrypts files quicker, targets SMB network shares
     *   Docker attackers devise clever technique to avoid detection
-    *   U.S. universities at risk of back-to-school and Covid-19 email fraud
-    *   Biden's, Apple's Twitter hacked in cryptocurrency scam
-    *   5 Elements of Next-Gen Deception Technology
-    *   Revengeful hacker leaks database info after researcher threatens to reveal identities
     
+    *   Frequency, size of fines for failing to secure data will grow by 2025, report
+    *   Flaws in SETracker watch app posed danger to dementia patients
     *   Credit card skimmer preyed on old ASP.NET-powered websites with shopping carts
-    *   EDP Renewables says PII compromised in Ragnar Locker attack
-    *   Exposed dating service databases leak sensitive info on romance-seekers
-    *   U.S. universities at risk of back-to-school and Covid-19 email fraud
-    *   Open S3 bucket exposes one million files of fitness brand V Shred
-    
-    *   Twitter hack is a reminder of the dangers of unfettered employee access
-    *   Docker attackers devise clever technique to avoid detection
+    *   DMARC embraced by government, private industry lags
     *   Huawei ban driven by security, trade considerations
-    *   Fake Cisco switches provoked network failures
-    *   Critical SAP flaw puts 40,000 users at risk
+    
+    *   Leaked videos offer rare behind-the-scenes look at Iranian APT operation
+    *   Covid-19 vaccines, economies in peril after Russian APT29 attacks
+    *   Winning business: CISOs chime in on the cyber vendor 'dating game'
+    *   CISOs value peer advice most when researching cyber solutions
+    *   Twitter hack is a reminder of the dangers of unfettered employee access
 
 Back to Top
 
@@ -301,4 +301,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
