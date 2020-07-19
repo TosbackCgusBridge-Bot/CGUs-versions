@@ -1,6 +1,7 @@
-Our COVID-19 response  DetailsEXTRA 30% OFF $75+ with code: FRESH8  Details  
-EXTRA 25% OFF under $75 with code: FRESH8  Details  
-Free Shipping Over $49  DetailsOur stores are now open  +Try curbside pickup today! DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75+ with code: FRESH8  Details  
+Our stores are now open  +Try curbside pickup today! DetailsEXTRA 30% OFF $75+ with code: FRESH8 Details  
+EXTRA 25% OFF under $75 with code: FRESH8 Details  
+Sandals &. Handbags Flash Sale EXTRA 40% OFF w/ code: HURRY24 Details  
+Free Shipping Over $49  DetailsOur stores are now open  +Try curbside pickup today! DetailsEXTRA 30% OFF $75+ with code: FRESH8 Details  
 
 Enable Accessibility
 
@@ -40,16 +41,12 @@ BeddingBUY 1 GET 1 50% OFF\*all your basic needs | select styles**Boys** **Girls
 
 Beauty (retail) therapy Freshen up your routine with faves from Salon &. Sephora inside JCPenney.Haircare—go big or go homeStock up on all your value-sized faves.SEPHORA COLLECTION Makeup, Starting at $10select styles | Excluded from coupons.  Learn More  Shop Now Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel $5.99 - $41.24with code~$16 - $124~138
-*   St. John's Bay Mid Rise Capris $9.74with code~$32~50
 *   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $26.24 - $47.24with code~$50 - $90~221
+*   St. John's Bay Mid Rise Capris $9.74with code~$32~50
+*   JCPenney Home™ 300tc 100% Cotton Ultra Soft Solid and Print Sheet Sets $18.74 - $52.49with code416
 *   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $14.99with code~$6 - $48~543
-*   Liz Claiborne Signature Plush Bath Towel Collection $5.24 - $35.99with code~$12 - $96~542
-*   Clarks Womens Brinkley Jazz Flip-Flops
-    
-    $29.99sale
-    
-    ~$55~299
+*   St. John's Bay-Womens V Neck Short Sleeve T-Shirt $5.24with code~$14~25
+*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.49 - $28.49with code~$10 - $72~1693
 
 Shop and Save at JCPenney
 
