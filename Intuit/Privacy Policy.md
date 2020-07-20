@@ -41,12 +41,20 @@ BeddingBUY 1 GET 1 50% OFF\*all your basic needs | select styles**Boys** **Girls
 
 Beauty (retail) therapy Freshen up your routine with faves from Salon &. Sephora inside JCPenney.Haircare—go big or go homeStock up on all your value-sized faves.SEPHORA COLLECTION Makeup, Starting at $10select styles | Excluded from coupons.  Learn More  Shop Now Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $26.24 - $47.24with code~$50 - $90~221
-*   St. John's Bay Mid Rise Capris $9.74with code~$32~50
-*   JCPenney Home™ 300tc 100% Cotton Ultra Soft Solid and Print Sheet Sets $18.74 - $52.49with code416
 *   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $14.99with code~$6 - $48~543
-*   St. John's Bay-Womens V Neck Short Sleeve T-Shirt $5.24with code~$14~25
-*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $4.49 - $28.49with code~$10 - $72~1693
+*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.74with code~$32~14
+*   Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set $9.74 - $22.49with code~$26 - $60~1700
+*   Clarks Womens Brinkley Jazz Flip-Flops
+    
+    $29.99sale
+    
+    ~$55~299
+*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+    
+    $124.98
+    
+    192
+*   St. John's Bay-Womens Crew Neck Short Sleeve T-Shirt $5.24with code~$14~43
 
 Shop and Save at JCPenney
 
