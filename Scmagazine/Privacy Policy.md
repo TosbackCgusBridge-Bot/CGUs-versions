@@ -252,17 +252,17 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   Frequency, size of fines for failing to secure data will grow by 2025, report
-    *   5 Ways to Translate Security Data into Actionable Business Insight
-    *   Hidden purpose of Mac 'ransomware' EvilQuest is data exfiltration, say researchers
-    *   Conti ransomware encrypts files quicker, targets SMB network shares
-    *   Docker attackers devise clever technique to avoid detection
+    *   EDP Renewables says PII compromised in Ragnar Locker attack
+    *   Is TikTok out of time? Experts mull implications of ban
+    *   Here are the hurdles that will face Biden’s new CISO
+    *   U.S. top in significant cyberattacks on CSIS list
+    *   Microsoft sounds alarm to fix wormable bug "SIGRed"
     
-    *   Frequency, size of fines for failing to secure data will grow by 2025, report
-    *   Flaws in SETracker watch app posed danger to dementia patients
-    *   Credit card skimmer preyed on old ASP.NET-powered websites with shopping carts
-    *   DMARC embraced by government, private industry lags
-    *   Huawei ban driven by security, trade considerations
+    *   Trump commutes Roger Stone's sentence stemming from Mueller probe
+    *   Microsoft phishing domains takedown aimed at familiar criminals refocused on Covid-19
+    *   Zoom fixing zero-day vulnerability in Windows client
+    *   EDP Renewables says PII compromised in Ragnar Locker attack
+    *   U.S. top in significant cyberattacks on CSIS list
     
     *   Leaked videos offer rare behind-the-scenes look at Iranian APT operation
     *   Covid-19 vaccines, economies in peril after Russian APT29 attacks
@@ -301,4 +301,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+
+You can skip this ad in 2 seconds.
