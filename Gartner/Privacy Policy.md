@@ -82,7 +82,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 709 3013
+    1 855 255 3079
     
 
 *   Solutions By Function
@@ -151,7 +151,7 @@ Search
 
 *   Become a Client
     
-    1 855 709 3013
+    1 855 255 3079
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
