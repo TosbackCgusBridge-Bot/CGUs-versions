@@ -252,17 +252,17 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   EDP Renewables says PII compromised in Ragnar Locker attack
+    *   Conti ransomware encrypts files quicker, targets SMB network shares
+    *   Patch Tuesday: Adobe eliminates four critical bugs
+    *   Leaked videos offer rare behind-the-scenes look at Iranian APT operation
+    *   Huawei ban driven by security, trade considerations
     *   Is TikTok out of time? Experts mull implications of ban
-    *   Here are the hurdles that will face Biden’s new CISO
-    *   U.S. top in significant cyberattacks on CSIS list
-    *   Microsoft sounds alarm to fix wormable bug "SIGRed"
     
-    *   Trump commutes Roger Stone's sentence stemming from Mueller probe
-    *   Microsoft phishing domains takedown aimed at familiar criminals refocused on Covid-19
-    *   Zoom fixing zero-day vulnerability in Windows client
-    *   EDP Renewables says PII compromised in Ragnar Locker attack
+    *   DMARC embraced by government, private industry lags
     *   U.S. top in significant cyberattacks on CSIS list
+    *   Legacy ICS puts critical infrastructure at risk
+    *   CFAA will harm security researchers, EFF tells SCOTUS
+    *   Exposed dating service databases leak sensitive info on romance-seekers
     
     *   Leaked videos offer rare behind-the-scenes look at Iranian APT operation
     *   Covid-19 vaccines, economies in peril after Russian APT29 attacks
@@ -303,4 +303,4 @@ Back to Top
 
 Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
 
-You can skip this ad in 2 seconds.
+You can skip this ad in 1 seconds.
