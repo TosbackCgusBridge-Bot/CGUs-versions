@@ -1,14 +1,13 @@
-Our stores are now open  +Try curbside pickup today! DetailsEXTRA 30% OFF $75+ with code: FRESH8 Details  
-EXTRA 25% OFF under $75 with code: FRESH8 Details  
-Sandals &. Handbags Flash Sale EXTRA 40% OFF w/ code: HURRY24 Details  
-Free Shipping Over $49  DetailsOur stores are now open  +Try curbside pickup today! DetailsEXTRA 30% OFF $75+ with code: FRESH8 Details  
+Our COVID-19 response  DetailsEXTRA 30% OFF $75+ with code:FRESH8 Details  
+EXTRA 25% OFF under $75 with code: FRESH8 Details  
+Free Shipping Over $49  DetailsOur stores are now open  + Try curbside pickup today! DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75+ with code:FRESH8 Details  
 
 Enable Accessibility
 
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -22,39 +21,79 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-UP TO 50% OFFStart fresh with new bedroom essentials.select styles
+UP TO 25% OFF adidas and Champion for the familyselect styles | Excluded from coupons.Shop adidasShop ChampionUP TO 40% OFFXersion for the familyselect styles
 
-*   Bedding
+*   Shop Xersion
 
-*   Quilts &. bedspreads
-    
-*   Comforters &. bedding sets
-    
-*   Sheets
-    
-*   Mattress Pads &. Pillows
-    
-
-BeddingBUY 1 GET 1 50% OFF\*all your basic needs | select styles**Boys** **Girls** **Men** **Women**\*Buy one item at regular price, get a second item of equal or lesser value for 50% off, while supplies last.   ApparelShoesBackpacksFor HerFor HimBoysGirlsCasual Looks for HerCasual Looks for HimUP TO 50% OFF School Uniforms Comfy styles that are first in class &. made to last.select styles
+UP TO 50% OFF Home SaleSnuggle up to savings on your best bed yet.  
+select styles  
 
 *   Shop All
 
-Beauty (retail) therapy Freshen up your routine with faves from Salon &. Sephora inside JCPenney.Haircare—go big or go homeStock up on all your value-sized faves.SEPHORA COLLECTION Makeup, Starting at $10select styles | Excluded from coupons.  Learn More  Shop Now Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+*   Comforters &. Bedding Sets
+    
+*   Sheets
+    
+*   Pillows
+    
+*   Mattresses
+    
 
-*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $14.99with code~$6 - $48~543
-*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.74with code~$32~14
-*   Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set $9.74 - $22.49with code~$26 - $60~1700
+Shop AllGet a head start on meals for the week!UP TO 40% OFF Kitchen essentialsselect styles
+
+*   Shop All
+
+*   Air Fryers
+    
+*   Cookware
+    
+*   Coffee Makers
+    
+*   Cutlery
+    
+
+Shop AllUP TO 40% OFF Must-have summer essentialsPerfect picks that show you’re up for anything.select stylesCasual Looks For HerCasual Looks For HimUP TO 40% OFF A+ looks from tops to bottomsselect styles
+
+*   Shop All
+
+*   Boys
+    
+*   Girls
+    
+*   Young Men
+    
+*   Juniors
+    
+
+UP TO 40% OFF School uniforms  
+Comfy styles that are first in-class &. made to last.select styles
+
+*   Shop All
+
+Beauty (retail) therapyFreshen up your routine with faves fromSalon &. Sephora inside JCPenney.Haircare — go big or go homeStock up on all your value-sized faves.SEPHORA COLLECTION makeup, starting at $9select styles | Excluded from coupons.Shop Now Shop Now Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
 *   Clarks Womens Brinkley Jazz Flip-Flops
     
     $29.99sale
     
-    ~$55~299
+    ~$55~300
 *   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $124.98
     
     192
-*   St. John's Bay-Womens Crew Neck Short Sleeve T-Shirt $5.24with code~$14~43
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+    
+    $124.98
+    
+    135
+*   Home Expressions Lisette Rod-Pocket Sheer Panel
+    
+    $4.99 - $27.99sale
+    
+    ~$16 - $40~1241
+*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $31.49 - $47.24with code~$60 - $90~112
+*   Regal Home Collections, Inc. Sterling Embroidery Energy Saving Blackout Grommet-Top Single Curtain Panel $20.99 - $31.49with code~$40 - $60~25
 
 Shop and Save at JCPenney
 
