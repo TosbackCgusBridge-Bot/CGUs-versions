@@ -28,9 +28,9 @@ Lands' End let's get comfy™ Sign In menu
 
 0 Free Shipping on $75+
 
-Receive up to 60% off your order!
+Receive 60% off backpacks &. lunch boxes. 30% off everything else!
 
-code: SUNNY pin: PROMOTION DETAILS
+code: BOOKBAG pin: PROMOTION DETAILS
 
 Customer Service Menu
 
