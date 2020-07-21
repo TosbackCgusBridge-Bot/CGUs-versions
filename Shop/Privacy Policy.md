@@ -33,9 +33,9 @@ Lenovo Explore Close
         *   IdeaPad S940
         *   Lenovo New Products
         
-        Sale
+        Students save now
         
-        Enjoy special savings on laptops for work, home or school while they last!
+        Start your back to school shopping today + college students save an extra 8% off sitewide
         
     *   Desktops
         
@@ -68,7 +68,7 @@ Lenovo Explore Close
         
         Sale
         
-        Enjoy deals on desktops including a special Nano offer with savings over $850!
+        Enjoy BIG deals on desktops including a special Nano offer worth $850 in savings!
         
     *   Workstations
         
@@ -97,7 +97,7 @@ Lenovo Explore Close
         
         Sale
         
-        Enjoy special pricing on workstations and get all the power you need
+        Get the power you need with our wide selection of highly rated workstations. Enjoy savings now!
         
     *   Tablets
         
@@ -121,7 +121,7 @@ Lenovo Explore Close
         
         Sale
         
-        These deals won't last forever. Shop holiday savings this summer now
+        Find the perfect tablet or smart device for you and the whole family. Enjoy weekly discounts today!
         
         Yoga Smart Tab
         
@@ -292,7 +292,7 @@ Lenovo Explore Close
         
         Things to consider when choosing a laptop
         
-    *   Cyber Monday
+    *   Sale
         
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
@@ -323,9 +323,9 @@ Lenovo Explore Close
         *   Trade In Program
         *   Outlet
         
-        Sale
+        Students save now
         
-        Shop our wide range of PCs &. accessories while they last!
+        Start your back to school shopping today + college students save an extra 8% off sitewide
         
 *   Phones
 *   Data Center
