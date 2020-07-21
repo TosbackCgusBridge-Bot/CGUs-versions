@@ -9,7 +9,27 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Hobo Handbags
+    *   Superga Up to 60% Off
+    *   Original Penguin Up to 70% Off
+    *   BLANKNYC Denim Up to 70% Off
+    *   Love...Ady
+    *   Summer Basics: Tanks &. More Under $20 Incl. Plus
+    *   Looks We Love: Jackets Up to 70% Off
+    *   Summer Basics: Bottoms Under $30 Incl. Plus
+    *   Summer Breeze: Perforated Shoes
+    *   Honeydew Intimates &. Sleep Under $30
+    *   Sterling Forever
+    *   Stratton Home Wall Decor
+    *   Slim Fit Dress Shirts Up to 70% Off
+    *   Exclusively Ours: Susina, Caslon &. More
+    *   Sleep Well: Kids' Pajamas Up to 55% Off
+    *   Kids' Basics Starting at $10
+    *   BergHOFF
+    *   Tommy Hilfiger Kids' Shoes
+    *   Superga Kids Up to 55% Off
     *   Espadrilles for Every Outfit Up to 70% Off
+    
     *   Summer Styles Up to 75% Off Incl. Plus &. Petites
     *   Summer Essentials: Swim &. Cover-Ups Under $30
     *   Men's Shoes Up to 80% Off
@@ -24,15 +44,13 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Designer Tops Up to 75% Off
     *   Ruffled Dresses
     *   Dr. Scholl's Up to 60% Off
-    *   BergHOFF
     *   Pure Enrichment Air Purifiers &. Humidifiers
     *   Flip-Flops &. Slides Up to 65% Off
     *   Tommy Hilfiger &. More Up to 60% Off
     *   Tommy Hilfiger Men's Shoes
-    
-    *   Rompers &. Jumpsuits Up to 70% Off Incl. Plus &. Petites
     *   90 Degree by Reflex Under $35
     *   Designer Sunglasses ft. Persol &. Oliver Peoples
+    
     *   Lucky Brand &. More Up to 70% Off Incl. Plus
     *   Summer-Ready Dresses Incl. Plus
     *   Summer Styles Under $25 Incl. Plus &. Petites
@@ -44,39 +62,32 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Fresh Finds: Pumps Up to 60% Off
     *   Men's Dress Shoes Up to 70% Off
     *   Trending Now: Camera-Ready Kids' Styles
-    *   Comfort Sneakers &. More Up to 65% Off
-    *   Men's Comfort Shoes Up to 60% Off
-    *   Frye Up to 65% Off
-    *   Frye Men Up to 65% Off
-    *   Frye Handbags Up to 55% Off
-    *   Now Trending: Crops, Flares &. More
-    
-    *   Sanctuary Up to 70% Off Incl. Plus &. Petites
-    *   Vanity Room
-    *   Rain or Shine: Jackets Up to 70% Off
-    *   Always Essential: Suiting Up to 75% Off
-    *   Anne Klein &. More Under $40
     *   Circulon Nonstick Cookware
-    *   Summer Jewelry Stacks: Chan Luu &. More
-    *   Nordstrom Rack Exclusives ft. Harper Canyon
-    *   Girls' Dresses ft. BCBGirls
-    *   Men's Summer Styles Under $25
-    *   Kids' Sneakers ft. New Balance &. More
-    *   Statement Looks ft. Faux Lashes from $10
     *   Shark Vacuums
-    *   Kitchen Gadgets
+    *   Men's Summer Styles Under $25
     *   Kitchen Upgrade: Air Fryers
-    *   bObsweep Up to 75% Off
     *   Pretty in Prints: Styles Under $30 Incl. Plus
-    *   Tommy Hilfiger Kids' Shoes
-    *   Toys Starting at $10
+    *   bObsweep Up to 75% Off
+    *   Kitchen Gadgets
 *   WomenShop Sale Events
     
+    *   Hobo Handbags
+    *   Superga Up to 60% Off
+    *   BLANKNYC Denim Up to 70% Off
+    *   Love...Ady
+    *   Summer Basics: Tanks &. More Under $20 Incl. Plus
+    *   Looks We Love: Jackets Up to 70% Off
+    *   Summer Basics: Bottoms Under $30 Incl. Plus
+    *   Summer Breeze: Perforated Shoes
+    *   Honeydew Intimates &. Sleep Under $30
+    *   Sterling Forever
+    *   Exclusively Ours: Susina, Caslon &. More
     *   Espadrilles for Every Outfit Up to 70% Off
     *   Summer Styles Up to 75% Off Incl. Plus &. Petites
     *   Summer Essentials: Swim &. Cover-Ups Under $30
     *   Nike
     *   Nike Women's Clothing
+    
     *   Nike Sunglasses
     *   Shorts Up to 70% Off Incl. Plus &. Petites
     *   Designer Tops Up to 75% Off
@@ -84,26 +95,14 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Dr. Scholl's Up to 60% Off
     *   Flip-Flops &. Slides Up to 65% Off
     *   Tommy Hilfiger &. More Up to 60% Off
-    *   Rompers &. Jumpsuits Up to 70% Off Incl. Plus &. Petites
     *   90 Degree by Reflex Under $35
     *   Designer Sunglasses ft. Persol &. Oliver Peoples
     *   Lucky Brand &. More Up to 70% Off Incl. Plus
-    
     *   Summer-Ready Dresses Incl. Plus
     *   Summer Styles Under $25 Incl. Plus &. Petites
     *   Swim Essentials: Chic One-Pieces Up to 70% Off
     *   Flat Sandals Up to 70% Off
     *   Fresh Finds: Pumps Up to 60% Off
-    *   Comfort Sneakers &. More Up to 65% Off
-    *   Frye Up to 65% Off
-    *   Frye Handbags Up to 55% Off
-    *   Now Trending: Crops, Flares &. More
-    *   Sanctuary Up to 70% Off Incl. Plus &. Petites
-    *   Vanity Room
-    *   Rain or Shine: Jackets Up to 70% Off
-    *   Anne Klein &. More Under $40
-    *   Summer Jewelry Stacks: Chan Luu &. More
-    *   Statement Looks ft. Faux Lashes from $10
     *   Pretty in Prints: Styles Under $30 Incl. Plus
     
     Shop By Category
@@ -115,18 +114,17 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
+    *   Original Penguin Up to 70% Off
+    *   Slim Fit Dress Shirts Up to 70% Off
     *   Men's Shoes Up to 80% Off
     *   Nike Men
     *   Nike Men's Clothing
     *   Nike Sunglasses
+    
     *   Tommy Hilfiger Men's Shoes
     *   Designer Sunglasses ft. Persol &. Oliver Peoples
-    
     *   Lucky Brand Men Up to 60% Off
     *   Men's Dress Shoes Up to 70% Off
-    *   Men's Comfort Shoes Up to 60% Off
-    *   Frye Men Up to 65% Off
-    *   Always Essential: Suiting Up to 75% Off
     *   Men's Summer Styles Under $25
     
     Shop By Category
@@ -135,13 +133,12 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Sleep Well: Kids' Pajamas Up to 55% Off
+    *   Kids' Basics Starting at $10
+    *   Superga Kids Up to 55% Off
     *   Nike Kids
     *   Nike Kids' Clothing
     *   Trending Now: Camera-Ready Kids' Styles
-    *   Nordstrom Rack Exclusives ft. Harper Canyon
-    *   Girls' Dresses ft. BCBGirls
-    *   Kids' Sneakers ft. New Balance &. More
-    *   Toys Starting at $10
     
     Shop By Category
     *   Girls
@@ -149,34 +146,27 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Girls' Shoes
     *   Boys' Shoes
     *   Baby
-    *   Toys
 *   HomeShop Sale Events
     
+    *   Stratton Home Wall Decor
     *   BergHOFF
     *   Pure Enrichment Air Purifiers &. Humidifiers
     *   Gallery 57 Wall Art
     *   Home Organization
     *   Circulon Nonstick Cookware
     *   Shark Vacuums
-    *   Kitchen Gadgets
     *   Kitchen Upgrade: Air Fryers
     *   bObsweep Up to 75% Off
+    *   Kitchen Gadgets
     
     Shop By Category
-    *   Kitchen &. Tabletop
     *   Home Decor
+    *   Kitchen &. Tabletop
     *   Cleaning &. Organization
-    *   Accent Furniture
     *   Luggage &. Travel
-    *   Outdoor Living
+    *   Accent Furniture
     *   Pet Accessories
-*   BeautyShop Sale Events
-    
-    *   Statement Looks ft. Faux Lashes from $10
-    
-    Shop By Category
-    *   Makeup
-    *   Tools &. Accessories
+*   Beauty
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
