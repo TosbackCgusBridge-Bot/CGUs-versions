@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
-*   Best practices for an effective remote team in the world of cloud delivery
-*   ROS Security Benchmark open for public comment
-*   Kubernetes from cloud to edge: A US virtual event
+*   Design and Web team summary – 20th July 2020
+*   What can you do with MicroK8s?
+*   Employee spotlight: Alice Cambridge, Inside Sales Representative
