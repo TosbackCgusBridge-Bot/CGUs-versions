@@ -9,9 +9,9 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
-    *   Human Capital (2020)
-    *   My Brothers' Crossing
-    *   The Painted Bird
+    *   The Big Ugly (2020)
+    *   The Rental (2020)
+    *   Tijuana Jackson: Purpose Over Prison
     *   See All Opening This Week
     
     Coming Soon
@@ -480,8 +480,6 @@ We have separate policies for workforce data, which is governed by the policies 
 
 New + Coming soon
 
-*   My Brothers' Crossing
-    
 *   Unhinged (2020)
     
 *   Mulan (2020)
@@ -489,6 +487,8 @@ New + Coming soon
 *   Tenet
     
 *   Antebellum
+    
+*   The New Mutants
     
 *   The Invisible Man (2020)
     
