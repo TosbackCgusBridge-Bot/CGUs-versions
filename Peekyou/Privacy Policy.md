@@ -329,7 +329,7 @@ Myspace 2% 
     
 *   Show Less ...
 
-Social Profiles 8%  Pinterest 2% 
+Social Profiles 7%  Pinterest 1% 
 
 *   Privacy Policy - privacypolicyvino
     
@@ -338,7 +338,7 @@ Social Profiles 8%  Pinterest 2% 
 *   Learn about instant apps Google Play Instant Apps are Play Store apps you can open before requiring - girlfriendnomore1
     
 
-Wikipedia 2% 
+Wikipedia 1% 
 
 *   Privacy policy
     
@@ -370,7 +370,7 @@ Wikipedia 2% 
     
 *   Show Less ...
 
-Music 8%  Photo Albums 2% 
+Music 7%  Photo Albums 1% 
 
 *   Help
     
@@ -418,7 +418,7 @@ Music 8%  Photo Albums 2% 
     
 *   Show Less ...
 
-Web Search 8%  Images 2% 
+Web Search 7%  Images 1% 
 
 16
 
@@ -426,7 +426,7 @@ Web Search 8%  Images 2% 
 
 20
 
-8
+7
 
 facebookx
 
