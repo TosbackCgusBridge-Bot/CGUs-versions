@@ -1,4 +1,4 @@
-**We prioritize health and safety as we reopen stores at selected locations.** Read more.
+**We’ve reopened our stores. Shop with extra safety measures.** Read more.
 
 Nordstrom RackHauteLook
 
@@ -9,14 +9,31 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Sagebrook Candles
+    *   Back to Dorm Life
+    *   Anthropologie
+    *   Free People Starting at $25
+    *   Free People FP Movement Starting at $25
+    *   In Bloom: Floral Styles Up to 70% Off Incl. Plus
+    *   Naturalizer &. SOUL Naturalizer
+    *   DR2 by Daniel Rainn &. More Incl. Plus &. Petites
+    *   All That Glitters: Heels &. Pumps
+    *   Scotch &. Soda
+    *   Interior Illusion Home Decor
+    *   Free Shipping: Storage for Every Room
+    *   Go Wild: Animal Print Shoes
+    *   Men's Basic Tees ft. XRAY
+    *   Wave Hello: O'Neill Kids &. More
+    *   Best for Baby: Styles Up to 65% Off
+    *   Exclusively Ours: Men's Shoes ft. Wallin &. Bros
+    *   Crossbodies Under $100 ft. Rebecca Minkoff
     *   Hobo Handbags
+    
     *   Superga Up to 60% Off
-    *   Original Penguin Up to 70% Off
     *   BLANKNYC Denim Up to 70% Off
     *   Love...Ady
     *   Summer Basics: Tanks &. More Under $20 Incl. Plus
     *   Looks We Love: Jackets Up to 70% Off
-    *   Summer Basics: Bottoms Under $30 Incl. Plus
     *   Summer Breeze: Perforated Shoes
     *   Honeydew Intimates &. Sleep Under $30
     *   Sterling Forever
@@ -29,144 +46,130 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Tommy Hilfiger Kids' Shoes
     *   Superga Kids Up to 55% Off
     *   Espadrilles for Every Outfit Up to 70% Off
-    
-    *   Summer Styles Up to 75% Off Incl. Plus &. Petites
     *   Summer Essentials: Swim &. Cover-Ups Under $30
     *   Men's Shoes Up to 80% Off
+    
     *   Nike
     *   Nike Men
     *   Nike Women's Clothing
     *   Nike Kids
     *   Nike Men's Clothing
     *   Nike Kids' Clothing
-    *   Nike Sunglasses
-    *   Shorts Up to 70% Off Incl. Plus &. Petites
-    *   Designer Tops Up to 75% Off
-    *   Ruffled Dresses
-    *   Dr. Scholl's Up to 60% Off
     *   Pure Enrichment Air Purifiers &. Humidifiers
-    *   Flip-Flops &. Slides Up to 65% Off
-    *   Tommy Hilfiger &. More Up to 60% Off
     *   Tommy Hilfiger Men's Shoes
-    *   90 Degree by Reflex Under $35
-    *   Designer Sunglasses ft. Persol &. Oliver Peoples
-    
-    *   Lucky Brand &. More Up to 70% Off Incl. Plus
-    *   Summer-Ready Dresses Incl. Plus
-    *   Summer Styles Under $25 Incl. Plus &. Petites
-    *   Lucky Brand Men Up to 60% Off
-    *   Swim Essentials: Chic One-Pieces Up to 70% Off
     *   Gallery 57 Wall Art
-    *   Flat Sandals Up to 70% Off
     *   Home Organization
-    *   Fresh Finds: Pumps Up to 60% Off
     *   Men's Dress Shoes Up to 70% Off
-    *   Trending Now: Camera-Ready Kids' Styles
     *   Circulon Nonstick Cookware
-    *   Shark Vacuums
-    *   Men's Summer Styles Under $25
-    *   Kitchen Upgrade: Air Fryers
-    *   Pretty in Prints: Styles Under $30 Incl. Plus
-    *   bObsweep Up to 75% Off
-    *   Kitchen Gadgets
+    *   Original Penguin Up to 70% Off
+    *   Summer Basics: Bottoms Under $30 Incl. Plus
+    *   IT Cosmetics, Urban Decay, NARS &. MAC
+    *   Summer Styles Up to 75% Off Incl. Plus &. Petites
+    *   Designer Tops Up to 75% Off
+    *   90 Degree by Reflex Under $35
 *   WomenShop Sale Events
     
+    *   Free People Starting at $25
+    *   Free People FP Movement Starting at $25
+    *   In Bloom: Floral Styles Up to 70% Off Incl. Plus
+    *   Naturalizer &. SOUL Naturalizer
+    *   DR2 by Daniel Rainn &. More Incl. Plus &. Petites
+    *   All That Glitters: Heels &. Pumps
+    *   Go Wild: Animal Print Shoes
+    *   Crossbodies Under $100 ft. Rebecca Minkoff
     *   Hobo Handbags
     *   Superga Up to 60% Off
     *   BLANKNYC Denim Up to 70% Off
     *   Love...Ady
     *   Summer Basics: Tanks &. More Under $20 Incl. Plus
     *   Looks We Love: Jackets Up to 70% Off
-    *   Summer Basics: Bottoms Under $30 Incl. Plus
+    
     *   Summer Breeze: Perforated Shoes
     *   Honeydew Intimates &. Sleep Under $30
     *   Sterling Forever
     *   Exclusively Ours: Susina, Caslon &. More
     *   Espadrilles for Every Outfit Up to 70% Off
-    *   Summer Styles Up to 75% Off Incl. Plus &. Petites
     *   Summer Essentials: Swim &. Cover-Ups Under $30
     *   Nike
     *   Nike Women's Clothing
-    
-    *   Nike Sunglasses
-    *   Shorts Up to 70% Off Incl. Plus &. Petites
+    *   Summer Basics: Bottoms Under $30 Incl. Plus
+    *   IT Cosmetics, Urban Decay, NARS &. MAC
+    *   Summer Styles Up to 75% Off Incl. Plus &. Petites
     *   Designer Tops Up to 75% Off
-    *   Ruffled Dresses
-    *   Dr. Scholl's Up to 60% Off
-    *   Flip-Flops &. Slides Up to 65% Off
-    *   Tommy Hilfiger &. More Up to 60% Off
     *   90 Degree by Reflex Under $35
-    *   Designer Sunglasses ft. Persol &. Oliver Peoples
-    *   Lucky Brand &. More Up to 70% Off Incl. Plus
-    *   Summer-Ready Dresses Incl. Plus
-    *   Summer Styles Under $25 Incl. Plus &. Petites
-    *   Swim Essentials: Chic One-Pieces Up to 70% Off
-    *   Flat Sandals Up to 70% Off
-    *   Fresh Finds: Pumps Up to 60% Off
-    *   Pretty in Prints: Styles Under $30 Incl. Plus
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
-    *   Accessories
     *   Handbags
+    *   Jewelry
     *   Lingerie &. Shapewear
+    *   Accessories
 *   MenShop Sale Events
     
-    *   Original Penguin Up to 70% Off
+    *   Scotch &. Soda
+    *   Men's Basic Tees ft. XRAY
     *   Slim Fit Dress Shirts Up to 70% Off
     *   Men's Shoes Up to 80% Off
     *   Nike Men
     *   Nike Men's Clothing
-    *   Nike Sunglasses
-    
     *   Tommy Hilfiger Men's Shoes
-    *   Designer Sunglasses ft. Persol &. Oliver Peoples
-    *   Lucky Brand Men Up to 60% Off
     *   Men's Dress Shoes Up to 70% Off
-    *   Men's Summer Styles Under $25
+    *   Original Penguin Up to 70% Off
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Wave Hello: O'Neill Kids &. More
+    *   Best for Baby: Styles Up to 65% Off
     *   Sleep Well: Kids' Pajamas Up to 55% Off
     *   Kids' Basics Starting at $10
     *   Superga Kids Up to 55% Off
     *   Nike Kids
     *   Nike Kids' Clothing
-    *   Trending Now: Camera-Ready Kids' Styles
     
     Shop By Category
     *   Girls
     *   Boys
+    *   Baby
     *   Girls' Shoes
     *   Boys' Shoes
-    *   Baby
 *   HomeShop Sale Events
     
+    *   Sagebrook Candles
+    *   Back to Dorm Life
+    *   Anthropologie
+    *   Interior Illusion Home Decor
+    *   Free Shipping: Storage for Every Room
     *   Stratton Home Wall Decor
+    
     *   BergHOFF
     *   Pure Enrichment Air Purifiers &. Humidifiers
     *   Gallery 57 Wall Art
     *   Home Organization
     *   Circulon Nonstick Cookware
-    *   Shark Vacuums
-    *   Kitchen Upgrade: Air Fryers
-    *   bObsweep Up to 75% Off
-    *   Kitchen Gadgets
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
     *   Cleaning &. Organization
+    *   Kitchen &. Tabletop
     *   Luggage &. Travel
+    *   Bath
     *   Accent Furniture
+    *   Bedding
+    *   Electronic &. Tech Accessories
     *   Pet Accessories
-*   Beauty
+    *   Holiday Decorations
+*   BeautyShop Sale Events
+    
+    *   IT Cosmetics, Urban Decay, NARS &. MAC
+    
+    Shop By Category
+    *   Makeup
+    *   Tools &. Accessories
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
