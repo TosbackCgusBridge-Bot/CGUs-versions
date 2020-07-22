@@ -6,6 +6,8 @@ Change country/language X
 
 Autodesk logo
 
+*   0
+
 *   Sign In
     
     Autodesk Account
@@ -126,6 +128,8 @@ Autodesk logo
 
 Keyboard **ALT + g** to toggle grid overlay
 
+Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products) Promo Data: July 21-31 2020
+
 Autodesk industry collections
 
 COVID-19 support
@@ -154,7 +158,7 @@ Integrated BIM tools, including Revit, AutoCAD, and Civil 3D Learn more Free tri
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products)
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe
 
 *   Subscribe for 3 years. Get 10% off.
     
@@ -177,7 +181,9 @@ Free trial
 
 Subscribe
 
-—/year
+$1,521/year
+
+$1,690
 
 Software for Building Information Modeling
 
@@ -187,7 +193,7 @@ Free trial
 
 Subscribe
 
-—/year
+$2,425/year
 
 Cost-effective 2D CAD
 
