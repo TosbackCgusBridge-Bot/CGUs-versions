@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$23.03
+$23.25
 
 Change
 
-\-0.49
++0.22
 
 Percent Change
 
-(-2.08%)
+(+0.96%)
 
 Data Provided by Refinitiv. Minimum 15 minutes delayed.
 
 view details  
-Recent News Jul 17, 2020 Office Depot and OfficeMax to Require Customers Wear Face Coverings While Shopping in Stores view more Recent News Jul 17, 2020 Office Depot and OfficeMax to Require Customers Wear Face Coverings While Shopping in Stores view more Events Jun 4, 2020 at 10:50 AM EDT Office Depot Presents at Baird's 2020 Global Consumer, Technology &. Services Conference view more Events Jun 4, 2020 at 10:50 AM EDT Office Depot Presents at Baird's 2020 Global Consumer, Technology &. Services Conference view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
+Recent News Jul 21, 2020 Office Depot Helps to Start and ‘Keep School Going’ with Programs and Partnerships that Give Back and Help Teachers Save view more Recent News Jul 21, 2020 Office Depot Helps to Start and ‘Keep School Going’ with Programs and Partnerships that Give Back and Help Teachers Save view more Events Jun 4, 2020 at 10:50 AM EDT Office Depot Presents at Baird's 2020 Global Consumer, Technology &. Services Conference view more Events Jun 4, 2020 at 10:50 AM EDT Office Depot Presents at Baird's 2020 Global Consumer, Technology &. Services Conference view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
 
 *   Home
 *   News &. Events
