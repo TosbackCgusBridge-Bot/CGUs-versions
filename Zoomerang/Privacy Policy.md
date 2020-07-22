@@ -18,12 +18,11 @@
 *   Careers
 *   Contact
 
-MetrixLab MetrixLab We help you make smarter business decisions faster. Our response to COVID-19
+MetrixLab MetrixLab We help you make smarter business decisions faster. Stay close to your consumers as we navigate the new normal
 
-We know that you, like all of us, are feeling the impact of the coronavirus (COVID-19).  
-We understand that for our clients, having access to the latest research on consumer behavior and attitudes is more important than ever. With digital in our DNA, we’ve been able to adapt our operation to continue with the highest flexibility and minimal impact.  
-You can expect the same high-quality service and support you normally receive from us.  
-As always, contact us with any questions.
+Having access to the latest research on consumer behavior and attitudes is more important than ever. Leverage our tracker data following the 12 month impact of COVID-19 to make the best decisions for your brand today.
+
+**Find out how**
 
 Our solutions Advertising &. brand Product innovation Point-of-purchase influencers Pre-testing Customer value Packaging design Social insights Case stories Co-creating with Philips Edgewell measurement program Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights How beauty giants can become more sustainable
 
