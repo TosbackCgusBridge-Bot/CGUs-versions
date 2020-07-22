@@ -25,19 +25,20 @@ Search or TrackGoClosex
     *   Locations Close
     *   View &. Pay Bill Close
     
-    *   Tracking Track Shipments
+    *   Tracking Quick Links to Track
         
         *   Track &. Track History
         *   Change Delivery
-        *   Manage Inbound/Outbound Shipments:  
-            _Quantum View_
+        *   Manage Inbound/Outbound Deliveries:  
+            _Quantum View - for Large Enterprise Businesses_
         *   Explore All Tracking
         
         UPS My Choice
-        *   Manage Home Deliveries:  
-            _UPS My Choice for home_
-        *   Manage Business Shipments:  
-            _UPS My Choice for business_
+        
+        *   Explore Managing Home Deliveries
+        
+        UPS My Choice for Business
+        *   Explore and Manage Business Deliveries
     *   Shipping New Shipments
         
         *   Create a Shipment:  
