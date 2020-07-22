@@ -16,9 +16,6 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Coming Soon
     
-    *   Unhinged (2020)
-    *   The Broken Hearts Gallery
-    *   Tenet
     *   Mulan (2020)
     *   Antebellum
     *   Bill &. Ted Face the Music
@@ -54,7 +51,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
-    *   What to Watch on FandangoNOW: ‘Enter the Fat Dragon,’ ‘Game of Death,’ Martial Arts Classics and More Read More
+    *   What to Watch on FandangoNOW: ‘Guest Artist,’ ‘The Room,’ Comic Book Movies and More Read More
     *   Your Most Anticipated DC Movies To Make a Big Splash at First-Ever DC FanDome Event Read More
     
     Explore Content
