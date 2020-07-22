@@ -18,26 +18,24 @@ Subscribe Sign In
 
 *   Polls
     *   Latest Polls
-    *   Trump Job Approval
-    *   Trump vs. Biden
-    *   Political Leaders Favorability
-    *   General Election Polls
-    *   Generic Congressional Ballot
-    *   Senate Polls
-    *   Direction of Country
-    *   State of the Union Polls
-    *   All Latest Election Polls
-*   Election 2020
     *   RCP National Average
-    *   Latest Betting Odds
-    *   Electoral College Map
-    *   President Polls
-    *   Election Calendar
+    *   Top Battlegrounds Average
+    *   Trump Job Approval
+    *   Biden, Trump Favorability
+    *   All Election Polls
+    *   State Polls
     *   Senate Polls
-    *   Governor Polls
     *   Generic Ballot
-    *   Democratic Delegate Count
-    *   Latest Election 2020 Polls
+    *   Direction of Country
+*   Election 2020
+    *   RCP Electoral Map
+    *   No Toss Up Map
+    *   Latest Betting Odds
+    *   RCP Senate Map
+    *   RCP House Map
+    *   RCP Governors Map
+    *   Election Calendar
+    *   Latest Election Polls
 *   Video
 *   Writers
     *   Staff Writers
@@ -83,26 +81,24 @@ Subscribe Sign In
     *   Login
     *   Polls
         *   Latest Polls
-        *   Trump Job Approval
-        *   Trump vs. Biden
-        *   Political Leaders Favorability
-        *   General Election Polls
-        *   Generic Congressional Ballot
-        *   Senate Polls
-        *   Direction of Country
-        *   State of the Union Polls
-        *   All Latest Election Polls
-    *   RCP Election 2020
         *   RCP National Average
-        *   Latest Betting Odds
-        *   Electoral College Map
-        *   President Polls
-        *   Election Calendar
+        *   Top Battlegrounds Average
+        *   Trump Job Approval
+        *   Biden, Trump Favorability
+        *   All Election Polls
+        *   State Polls
         *   Senate Polls
-        *   Governor Polls
         *   Generic Ballot
-        *   Democratic Delegate Count
-        *   Latest Election 2020 Polls
+        *   Direction of Country
+    *   RCP Election 2020
+        *   RCP Electoral Map
+        *   No Toss Up Map
+        *   Latest Betting Odds
+        *   RCP Senate Map
+        *   RCP House Map
+        *   RCP Governors Map
+        *   Election Calendar
+        *   Latest Election Polls
     *   Video
     *   Writers
         
