@@ -35,7 +35,6 @@
             *   SD-WAN
             *   Cloud Peer Connect
             *   Managed Wireless LAN
-            *   Remote VPN
             *   Network Failover
             *   Data Backup
             *   Private Line
@@ -60,22 +59,26 @@
             *   Mobile Device Management
             *   Professional Services
         *   Cloud Services
-    *   Industry Solutions
-        *   Government
-            *   Local/Municipal
-            *   State
-            *   Federal
-            *   Public Safety
-        *   Education
-            *   K-12
-            *   Higher Education
-        *   Retail
-        *   Real Estate
-        *   Construction
-        *   Financial Services
-        *   Healthcare
-        *   Manufacturing
-        *   Call Centers
+    *   Solutions
+        *   Industry Solutions
+            *   Government
+            *   Education
+            *   Retail
+            *   Real Estate
+            *   Construction
+            *   Financial Services
+            *   Healthcare
+            *   Manufacturing
+            *   Call Centers
+        *   Remote Workers
+        *   Connectivity
+        *   Collaboration
+        *   Network Security
+        *   Business Continuity
+        *   Cloud Access
+        *   Productivity
+        *   Physical Security
+        *   Online Marketing
     *   Resources
         *   Network Maps
         *   Business Blog
@@ -176,6 +179,7 @@
         *   Storm &. Disaster Support
         *   Stay Safe Online
         *   Phishing Scams
+        *   Robocalls
         *   Caller ID Spoofing
         *   Call Before You Dig
         *   Coronavirus Updates
@@ -266,16 +270,17 @@ Select Location
         *   Security Services
         *   Managed &. IT Services
         *   Cloud Services
-    *   Industry Solutions
-        *   Government
-        *   Education
-        *   Retail
-        *   Real Estate
-        *   Construction
-        *   Financial Services
-        *   Healthcare
-        *   Manufacturing
-        *   Call Centers
+    *   Solutions
+        *   Industry Solutions
+        *   Remote Workers
+        *   Connectivity
+        *   Collaboration
+        *   Network Security
+        *   Business Continuity
+        *   Cloud Access
+        *   Productivity
+        *   Physical Security
+        *   Online Marketing
     *   Resources
         *   Network Maps
         *   Business Blog
@@ -338,6 +343,7 @@ Select Location
         *   Storm &. Disaster Support
         *   Stay Safe Online
         *   Phishing Scams
+        *   Robocalls
         *   Caller ID Spoofing
         *   Call Before You Dig
         *   Coronavirus Updates
@@ -403,6 +409,7 @@ Support
     *   Storm &. Disaster Support
     *   Stay Safe Online
     *   Phishing Scams
+    *   Robocalls
     *   Caller ID Spoofing
     *   Call Before You Dig
     *   Coronavirus Updates
