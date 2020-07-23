@@ -4,10 +4,10 @@ Free Shipping Over $49  DetailsOur stores are now open  + Try curbside pickup 
 
 Enable Accessibility
 
-*   StoresBeaver Valley MallMore Stores724-728-8140 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -20,10 +20,6 @@ Enable Accessibility
 *   Jewelry
 *   Salon
 *   Sephora Beauty
-
-UP TO 25% OFF adidas and Champion for the familyselect styles | Excluded from coupons.Shop adidasShop ChampionUP TO 40% OFFXersion for the familyselect styles
-
-*   Shop Xersion
 
 UP TO 50% OFF Home SaleSnuggle up to savings on your best bed yet.  
 select styles  
@@ -39,7 +35,11 @@ select styles
 *   Mattresses
     
 
-Shop AllUP TO 40% OFF Kitchen essentials select styles  
+Shop AllUP TO 25% OFF adidas and Champion for the familyselect styles | Excluded from coupons.Shop adidasShop ChampionUP TO 40% OFFXersion for the familyselect styles
+
+*   Shop Xersion
+
+UP TO 40% OFF Kitchen essentials select styles  
 Get a head start on meals for the week!
 
 *   Shop All
@@ -73,16 +73,28 @@ Comfy styles that are first in-class &. made to last.select styles
 
 Beauty (retail) therapyFreshen up your routine with faves fromSalon &. Sephora inside JCPenney.Haircare — go big or go homeStock up on all your value-sized faves.SEPHORA COLLECTION makeup, starting at $9select styles | Excluded from coupons.Shop Now Shop Now Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Liz Claiborne Signature Plush Bath Towel Collection $5.24 - $35.99with code~$12 - $96~542
-*   St. John's Bay Womens Mid Rise 11" Bermuda Short $11.24with code~$32~14
 *   Clarks Womens Brinkley Jazz Flip-Flops
     
     $29.99sale
     
     ~$55~300
-*   IZOD Performance Mesh Boys Short Sleeve Wrinkle Resistant Moisture Wicking Polo Shirt $9.74 - $10.49with code~$22 - $24~16
-*   JCPenney Home Performance Bath Towel Collection $4.49 - $28.49with code~$10 - $76~361
-*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $14.99with code~$6 - $48~548
+*   Liz Claiborne Womens Stretch Pull-On Short $13.87with code~$37~10
+*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $31.49 - $47.24with code~$60 - $90~112
+*   Nike Womens Soft Short
+    
+    $32sale
+    
+    ~$40~
+*   Home Expressions Lisette Rod-Pocket Sheer Panel
+    
+    $4.99 - $27.99sale
+    
+    ~$16 - $40~1241
+*   Nike® Reax Run Womens Running Shoes
+    
+    View Price in Cart
+    
+    59
 
 Shop and Save at JCPenney
 
