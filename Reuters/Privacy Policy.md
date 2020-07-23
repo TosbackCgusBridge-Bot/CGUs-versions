@@ -50,91 +50,100 @@ Thomson Reuters LEGAL
 
 1.  Home
 2.  Products
-3.  Westlaw Edge
-4.  Legal Current Events | Westlaw Practitioner Insights
+3.  Westlaw Today
 
-Legal research
+Premium legal news
 
-**Practitioner Insights**  
-Start your day with up-to-the-minute legal developments in your practice area  
-Free trial Overview
+**Westlaw Today** The stories that matter from the sources you trust Free trial **Stay informed on legal developments**
 
-1.  Overview
-2.  Features
-3.  Plans and pricing
+Westlaw Today, powered by Reuters, provides timely and comprehensive news and exclusive analysis so you can know what happened and why it matters. By bringing together best-in-class legal content and award-winning journalism, you can confidently keep up with the latest developments and reinforce your value to clients.
 
-Comprehensive information and expert analysis
+**Only Westlaw Today provides you with:**
 
-Now there's a single access point you can rely on for comprehensive information and expert analysis to help you stay informed and up to date on what's affecting your practice area.
+*   Exclusive news and analysis from Reuters with 150 years of journalistic expertise
+*   Full access to all areas of coverage monitored by our team of attorneys and legal editors
+*   Editorally-curated alerts to get breaking news, follow your practice area, and track companies
 
-*   A dedicated team of attorney-editors monitors each practice area to ensure you see the most important updates of the day
-*   Get exclusive practice area-focused content and expert analysis, including Westlaw Daily Briefings, Reuters Legal, Wolters Kluwer, CQ Roll Call, and more
-*   Seamlessly access your Alerts on Westlaw to inform you promptly of new developments relevant to your practice area or matching your customized search
-*   Select a Practitioner Insights page to be your Westlaw Start Page so you can start each day "in the know" 
+Useful links
 
-See how **Practitioner Insights** work
+*   Sign in to Westlaw Today
+*   Support and training
 
-1.  **WestSearch:**  Appears at the top of every page and lets you do a global search of all content, or search within the practice area.  
+**Questions?** Call 1-888-728-7677  
+
+**Getting news the way you want it, when you need it**
+
+See the latest news for the day at today.westlaw.com or right from Westlaw. Never miss an update with customizable practice area and company alerts delivered right to your laptop or mobile device.
+
+Westlaw Today home page
+
+**
+
+**News you can use**
+
+**
+
+*   Get breaking news as it happens  
     
-2.  **Top news**: A rotating display of the day's leading legal news stories from Reuters.  
-    
-3.  **Make this my start page:** Just one click turns this page into your Westlaw Start Page.  
-    
-4.  **Browse:** Market-leading content focused on your practice area, including the most comprehensive collection or primary law, exclusive analytical material.  
-    
-5.  **Analysis:** This section includes analysis of the day's leading developments in your practice area from Wolters Kluwer Daily Reporting Suite, CQ Roll Call Washington Briefings, Westlaw Daily Briefings, and more.  
-    
-6.  **My Alerts:** Create and manage all of your alerts on Westlaw. A real-time feed of the most recent alerts is displayed.  
-    
-7.  **Most popular analysis**: Front-and-center access to the top-viewed news and analysis.  
-    
-8.  **Featured legal filings:** Selected by expert attorney-editors and deliver the most relevant, recently filed documents.
+*   Select your practice area from the dropdown
+*   Know what articles others have been reading recently
+*   See thought leadership and analysis from other practicing attorneys
+*   Submit an inquiry to publish your content
+*   Track the companies trending in the news
 
-**Legal practice areas**
+**Analysis with authority**
 
-*   Antitrust
-*   Bankruptcy
-*   Capital Markets
-*   Corporate Counsel
-*   Corporate Governance
-*   Data Privacy
+Westlaw Today provides a matter of fact approach to news with content from a variety of sources, including articles from CCH, CQ Roll Call, Wolters Kluwer, and The Hill. No other provider has the same analysis and expert sources, including:
 
-*   Employment
-*   Energy &. Environment
-*   Finance &. Banking
-*   Health Law
-*   Immigration
-*   Insurance
+*   Reuters with 150 years of award-winning journalistic expertise
+*   Practical Law legal practice area updates
+*   Daily Briefings written by Westlaw attorneys and subject matter experts
+*   Columnists Alison Frankel and Jenna Greene
 
-*   Intellectual Property
-*   Mergers &. Acquisitions
-*   Products Liability
-*   Securities Enforcement &. Litigation
-*   Tax
+Our editorial teams consist of dedicated attorneys and legal editors who monitor each practice area. With this level of insight, you can trust your news is accurate and timely.
 
-**Jurisdictions**
+Customize your news experience with editorially-curated alerts
 
-*   National
+**
 
-**Practitioner Insights and analysis from top legal news sources**
+**Stay up-to-date**
 
-*   Westlaw Daily Briefings – original expert analysis from Thomson Reuters attorney-editors
-*   Reuters News – legal news stories
-*   Select Wolters Kluwer Daily Reports
+**
 
-*   CQ Roll Call Washington Briefings
-*   The Hill and Practitioner Insights commentaries
-*   The largest collection of litigation content
+Be the first to know with customized alerts delivered right to your mobile device or laptop.
 
-**Alerts**
+*   Stay informed and stay ahead with self-selected practice area alerts
+*   Get notified with company alerts to track your client or your client’s peers
+*   Sign up to receive breaking news as it becomes available
+*   Receive a daily newsletter to track the most relevant news of the day
 
-Use your alerts on Westlaw to inform you promptly of new legal developments in your practice area or from your customized search.  
+**Discover the benefits of a fresh news experience** **Proceed with confidence**
 
-If you like alerts on Westlaw, you can even set up daily email summaries. You’re also able to add colleagues to the email list to receive alert summaries.
+Know what happened and why it matters with exclusive news and analysis from trusted sources
 
-Ready to try **Westlaw**?
+**Stay informed**
 
-Take the next step with a Westlaw free trial  
+Notify your clients and ensure you’re not missing updates with customized alerts delivered to your mobile device
+
+**Be aware**
+
+Experience all-inclusive comprehensive coverage and analysis across the most popular areas of coverage
+
+**Complete work faster**
+
+Save time with access to legal news fully integrated on Westlaw
+
+> Reuters brings unparalleled integrity in the newsroom, so the news we deliver is honest and accurate
+
+Leigh Jones  
+
+Editor-in-charge, Legal News, Reuters **Reuters wins 2020 Silver Gavel Award**
+
+This award honors exemplary work in media and the arts that helps to foster the American public’s understanding of law and the legal system
+
+**Experience Westlaw Today**
+
+Analysis with Authority. Not just what happened, but why it matters.
 
 Free trial Search
 
