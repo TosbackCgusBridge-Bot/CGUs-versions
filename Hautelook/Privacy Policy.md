@@ -9,6 +9,26 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Limited-Time Deals Up to 65% Off
+    *   Converse Men
+    *   Converse Women's
+    *   Protect in Style: Masks
+    *   Men's Designer Shoes Up to 70% Off
+    *   Luxe Shoes Up to 65% Off
+    *   J.Crew
+    *   Lush Starting at $20
+    *   Designer Dresses Up to 75% Off
+    *   Diesel Men Up to 65% Off
+    *   Casual Summer Tops Under $25 Incl. Plus
+    *   One-Pieces Up to 70% Off
+    *   Converse Kids
+    *   UMA Planters
+    *   Lucky Brand Shoes &. More Up to 65% Off
+    *   Road Trip Essentials: Men's Styles Up to 75% Off
+    *   Road Trip Essentials for Kids
+    *   Converse Kids &. More
+    *   Catherine Catherine Malandrino Up to 60% Off
+    
     *   Sagebrook Candles
     *   Back to Dorm Life
     *   Anthropologie
@@ -27,49 +47,41 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Best for Baby: Styles Up to 65% Off
     *   Exclusively Ours: Men's Shoes ft. Wallin &. Bros
     *   Crossbodies Under $100 ft. Rebecca Minkoff
-    *   Hobo Handbags
-    
     *   Superga Up to 60% Off
-    *   BLANKNYC Denim Up to 70% Off
-    *   Love...Ady
-    *   Summer Basics: Tanks &. More Under $20 Incl. Plus
-    *   Looks We Love: Jackets Up to 70% Off
-    *   Summer Breeze: Perforated Shoes
-    *   Honeydew Intimates &. Sleep Under $30
-    *   Sterling Forever
+    
     *   Stratton Home Wall Decor
     *   Slim Fit Dress Shirts Up to 70% Off
-    *   Exclusively Ours: Susina, Caslon &. More
     *   Sleep Well: Kids' Pajamas Up to 55% Off
     *   Kids' Basics Starting at $10
     *   BergHOFF
-    *   Tommy Hilfiger Kids' Shoes
     *   Superga Kids Up to 55% Off
-    *   Espadrilles for Every Outfit Up to 70% Off
-    *   Summer Essentials: Swim &. Cover-Ups Under $30
     *   Men's Shoes Up to 80% Off
-    
-    *   Nike
-    *   Nike Men
-    *   Nike Women's Clothing
-    *   Nike Kids
-    *   Nike Men's Clothing
-    *   Nike Kids' Clothing
     *   Pure Enrichment Air Purifiers &. Humidifiers
     *   Tommy Hilfiger Men's Shoes
     *   Gallery 57 Wall Art
     *   Home Organization
-    *   Men's Dress Shoes Up to 70% Off
     *   Circulon Nonstick Cookware
     *   Original Penguin Up to 70% Off
-    *   Summer Basics: Bottoms Under $30 Incl. Plus
+    *   Wall Decor from $20
     *   IT Cosmetics, Urban Decay, NARS &. MAC
-    *   Summer Styles Up to 75% Off Incl. Plus &. Petites
+    *   BLANKNYC Denim Up to 70% Off
+    *   Looks We Love: Jackets Up to 70% Off
     *   Designer Tops Up to 75% Off
-    *   90 Degree by Reflex Under $35
 *   WomenShop Sale Events
     
+    *   Limited-Time Deals Up to 65% Off
+    *   Converse Women's
+    *   Protect in Style: Masks
+    *   Luxe Shoes Up to 65% Off
+    *   J.Crew
+    *   Lush Starting at $20
+    *   Designer Dresses Up to 75% Off
+    *   Casual Summer Tops Under $25 Incl. Plus
+    *   One-Pieces Up to 70% Off
+    *   Lucky Brand Shoes &. More Up to 65% Off
+    *   Catherine Catherine Malandrino Up to 60% Off
     *   Free People Starting at $25
+    
     *   Free People FP Movement Starting at $25
     *   In Bloom: Floral Styles Up to 70% Off Incl. Plus
     *   Naturalizer &. SOUL Naturalizer
@@ -77,59 +89,50 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   All That Glitters: Heels &. Pumps
     *   Go Wild: Animal Print Shoes
     *   Crossbodies Under $100 ft. Rebecca Minkoff
-    *   Hobo Handbags
     *   Superga Up to 60% Off
-    *   BLANKNYC Denim Up to 70% Off
-    *   Love...Ady
-    *   Summer Basics: Tanks &. More Under $20 Incl. Plus
-    *   Looks We Love: Jackets Up to 70% Off
-    
-    *   Summer Breeze: Perforated Shoes
-    *   Honeydew Intimates &. Sleep Under $30
-    *   Sterling Forever
-    *   Exclusively Ours: Susina, Caslon &. More
-    *   Espadrilles for Every Outfit Up to 70% Off
-    *   Summer Essentials: Swim &. Cover-Ups Under $30
-    *   Nike
-    *   Nike Women's Clothing
-    *   Summer Basics: Bottoms Under $30 Incl. Plus
     *   IT Cosmetics, Urban Decay, NARS &. MAC
-    *   Summer Styles Up to 75% Off Incl. Plus &. Petites
+    *   BLANKNYC Denim Up to 70% Off
+    *   Looks We Love: Jackets Up to 70% Off
     *   Designer Tops Up to 75% Off
-    *   90 Degree by Reflex Under $35
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Handbags
-    *   Jewelry
     *   Lingerie &. Shapewear
     *   Accessories
+    *   Jewelry
 *   MenShop Sale Events
     
+    *   Limited-Time Deals Up to 65% Off
+    *   Converse Men
+    *   Men's Designer Shoes Up to 70% Off
+    *   Diesel Men Up to 65% Off
+    *   Road Trip Essentials: Men's Styles Up to 75% Off
     *   Scotch &. Soda
+    
     *   Men's Basic Tees ft. XRAY
     *   Slim Fit Dress Shirts Up to 70% Off
     *   Men's Shoes Up to 80% Off
-    *   Nike Men
-    *   Nike Men's Clothing
     *   Tommy Hilfiger Men's Shoes
-    *   Men's Dress Shoes Up to 70% Off
     *   Original Penguin Up to 70% Off
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Limited-Time Deals Up to 65% Off
+    *   Converse Kids
+    *   Road Trip Essentials for Kids
+    *   Converse Kids &. More
     *   Wave Hello: O'Neill Kids &. More
     *   Best for Baby: Styles Up to 65% Off
     *   Sleep Well: Kids' Pajamas Up to 55% Off
     *   Kids' Basics Starting at $10
     *   Superga Kids Up to 55% Off
-    *   Nike Kids
-    *   Nike Kids' Clothing
     
     Shop By Category
     *   Girls
@@ -139,18 +142,21 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Limited-Time Deals Up to 65% Off
+    *   UMA Planters
     *   Sagebrook Candles
     *   Back to Dorm Life
     *   Anthropologie
     *   Interior Illusion Home Decor
     *   Free Shipping: Storage for Every Room
-    *   Stratton Home Wall Decor
     
+    *   Stratton Home Wall Decor
     *   BergHOFF
     *   Pure Enrichment Air Purifiers &. Humidifiers
     *   Gallery 57 Wall Art
     *   Home Organization
     *   Circulon Nonstick Cookware
+    *   Wall Decor from $20
     
     Shop By Category
     *   Home Decor
@@ -158,18 +164,21 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Kitchen &. Tabletop
     *   Luggage &. Travel
     *   Bath
-    *   Accent Furniture
     *   Bedding
-    *   Electronic &. Tech Accessories
+    *   Accent Furniture
     *   Pet Accessories
+    *   Electronic &. Tech Accessories
+    *   Outdoor Living
     *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Limited-Time Deals Up to 65% Off
     *   IT Cosmetics, Urban Decay, NARS &. MAC
     
     Shop By Category
     *   Makeup
     *   Tools &. Accessories
+    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
