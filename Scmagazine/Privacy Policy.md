@@ -251,23 +251,23 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   5 Ways to Translate Security Data into Actionable Business Insight
-    *   More Chinese tax software found to dish out backdoor malware
-    *   Flaws in SETracker watch app posed danger to dementia patients
-    *   5 Ways to Stay Safe on Tax Day
-    *   Citrix, Juniper and VMware patch array of vulnerabilities
-    
-    *   Patch Tuesday: Adobe eliminates four critical bugs
-    *   U.K. Covid-19 Test and Trace violated GDPR
-    *   DMARC embraced by government, private industry lags
+    *   How to keep political campaigns secure
+    *   Unsealed indictment alleges Kazakh man is behind Fxmsp hacking group
     *   Microsoft phishing domains takedown aimed at familiar criminals refocused on Covid-19
-    *   Trump approved 2018 retaliatory cyberattack on Russia's IRA
+    *   Twitter hack is a reminder of the dangers of unfettered employee access
+    *   Conti ransomware encrypts files quicker, targets SMB network shares
     
+    *   U.S. top in significant cyberattacks on CSIS list
+    *   Unsealed indictment alleges Kazakh man is behind Fxmsp hacking group
+    *   USB a prevalent industrial vector vulnerability for OT systems
+    *   Trump approved 2018 retaliatory cyberattack on Russia's IRA
+    *   Patch Tuesday: Adobe eliminates four critical bugs
+    
+    *   Justice charges Chinese nationals in hacking campaign
+    *   Adobe fixes 12 critical bugs in second round of July patches
+    *   Fast-charging hacks can melt phones, compromise firmware
+    *   Phishing attack hid in Google Cloud Services
     *   Biden will punish foreign election interference, hacking
-    *   U.K. Covid-19 Test and Trace violated GDPR
-    *   Legacy ICS puts critical infrastructure at risk
-    *   Rise in DDoS attacks lost in pandemic
-    *   Leaked videos offer rare behind-the-scenes look at Iranian APT operation
 
 Back to Top
 
@@ -300,4 +300,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
