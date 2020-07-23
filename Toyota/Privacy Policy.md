@@ -306,6 +306,8 @@ Compare Toyota vs. the Competition
     
 *   2020 Toyota Tacoma vs. GMC Canyon  
     
+*   2020 Toyota Tacoma vs. Jeep Gladiator  
+    
 *   2020 Toyota Corolla vs. Nissan Sentra  
     
 *   2020 Toyota Corolla vs. Mazda 3 Sedan  
@@ -1553,6 +1555,7 @@ The use of Olympic Marks, Terminology and Imagery is authorized by the U.S. Olym
 *   59\. EPA-estimated 53 city/52 hwy/52 combined mpg for 2021 Corolla Hybrid LE. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 *   60\. EPA-estimated 22 city/30 hwy/25 combined mpg for 2021 GR Supra 3.0, 3.0 Premium and A91 Edition. EPA estimates for 2021 GR Supra 2.0 not available at time of posting. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 *   61\. EPA-estimated 94 combined MPGe for 2021 RAV4 Prime. MPGe is the EPA-equivalent of gasoline fuel efficiency for electric operation. Manufacturer-estimated 38 combined gas-only mpg. Use for comparison purposes only. Your MPGe/MPG will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
-*   62\. Preliminary 30 city/38 hwy/33 combined mpg estimates for 2021 Corolla Hatchback XSE CVT determined by Toyota. EPA estimates not available at time of posting. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
+*   62\. EPA-estimated 30 city/38 hwy/33 combined mpg for 2021 Corolla Hatchback XSE CVT. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
+*   63\. EPA-estimated 54 city/50 hwy/52 combined mpg for 2021 Prius LE, XLE and Limited. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 
 Cookie ConsentWe use the following categories of cookies on our website:Required Functional CookiesRequired cookies are essential to provide you with core functionality during use of the website. These functions include e.g. Local Specials, Offers, Dealer Locator, etc. We also collect basic site usage analytics to optimize the experience for our visitors.Performance CookiesPerformance cookies collect information about how our website is used (e.g. number of visits, time spent on the site). These cookies allow us to serve more relevant content for an enhanced shopping experience.CancelSave
