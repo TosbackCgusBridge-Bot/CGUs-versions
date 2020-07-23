@@ -30,8 +30,8 @@ Lenovo Explore Close
         *   X1 Extreme Gen 2
         *   Yoga C940
         *   Legion 5
-        *   IdeaPad S940
-        *   Lenovo New Products
+        *   Flex 5
+        *   New Arrivals
         
         Students save now
         
@@ -210,7 +210,7 @@ Lenovo Explore Close
         
         *   By Brand
         *   Legion
-        *   IdeaPad
+        *   Idea Gaming
         *   Roccat Gaming Accessories
         *   Xbox
         *   Turtle Beach
@@ -218,7 +218,6 @@ Lenovo Explore Close
         *   Featured
         *   Gaming PC Deals
         *   Gaming Community
-        *   Shop PC Games
         *   Legion Mice
         
         *   New Products
@@ -316,12 +315,12 @@ Lenovo Explore Close
         *   Coupons
         
         *   Additional Offers
-        *   Work From Home
-        *   Clearance
-        *   Financing Options
+        *   IdeaPad S940 save 47%
+        *   ThinkCentre M90n save 65%
         *   Discount Programs
-        *   Trade In Program
+        *   Trade In
         *   Outlet
+        *   Coupons
         
         Students save now
         
