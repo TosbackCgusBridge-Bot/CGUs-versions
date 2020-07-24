@@ -1,10 +1,11 @@
-Our COVID-19 response  DetailsEXTRA 30% OFF $75+ with code:FRESH8 Details  
-EXTRA 25% OFF under $75 with code: FRESH8 Details  
-Free Shipping Over $49  DetailsOur stores are now open  + Try curbside pickup today! DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75+ with code:FRESH8 Details  
+Our COVID-19 response  DetailsEXTRA 30% OFF $75+ with code: BIGDEAL9 Details  
+EXTRA 25% OFF under $75 with code: BIGDEAL9 Details  
+Free Shipping Over $49  DetailsBlack Friday in July is here! UP TO 60% OFF limited time only Shop All  
+Our COVID-19 response  DetailsEXTRA 30% OFF $75+ with code: BIGDEAL9 Details  
 
 Enable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresQuakerbridge MallMore Stores500 Quaker Bridge Mall, Trenton, NJ, 08648609-799-8100 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
     *   JCP Credit CardCart
@@ -21,7 +22,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-UP TO 50% OFF Home SaleSnuggle up to savings on your best bed yet.  
+Men's Dealsselect stylesWomen's Dealsselect stylesKids' Dealsselect stylesHome Dealsselect stylesUP TO 50% OFF Home SaleSnuggle up to savings on your best bed yet.  
 select styles  
 
 *   Shop All
@@ -39,7 +40,7 @@ Shop AllUP TO 25% OFF adidas and Champion for the familyselect styles | Excluded
 
 *   Shop Xersion
 
-UP TO 40% OFF Kitchen essentials select styles  
+Starting at $12.99Nostalgic styles worthy of a repeatselect stylesShop nine(tees) favesHit rewind...with these old-school styles.Shop camo &. utility styles made for actionOutdoorsy prints...help you gear up for a season of adventure.UP TO 40% OFF Kitchen essentials select styles  
 Get a head start on meals for the week!
 
 *   Shop All
@@ -53,48 +54,39 @@ Get a head start on meals for the week!
 *   Cutlery
     
 
-Shop AllUP TO 40% OFF Must-have summer essentialsPerfect picks that show you’re up for anything.select stylesCasual Looks For HerCasual Looks For HimUP TO 40% OFF A+ looks from tops to bottomsselect styles
-
-*   Shop All
-
-*   Boys
-    
-*   Girls
-    
-*   Young Men
-    
-*   Juniors
-    
-
-UP TO 40% OFF School uniforms  
+Shop All50% OFF School uniforms  
 Comfy styles that are first in-class &. made to last.select styles
 
 *   Shop All
 
 Beauty (retail) therapyFreshen up your routine with faves fromSalon &. Sephora inside JCPenney.Haircare — go big or go homeStock up on all your value-sized faves.SEPHORA COLLECTION makeup, starting at $9select styles | Excluded from coupons.Shop Now Shop Now Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
+*   SEPHORA COLLECTION #Eyestories Eyeshadow Palette
+    
+    $10
+    
+    80
 *   Clarks Womens Brinkley Jazz Flip-Flops
     
     $29.99sale
     
     ~$55~300
-*   Liz Claiborne Womens Stretch Pull-On Short $13.87with code~$37~10
-*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $31.49 - $47.24with code~$60 - $90~112
 *   Nike Womens Soft Short
     
     $32sale
     
     ~$40~
+*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $31.49 - $47.24with code~$60 - $90~114
+*   Playtex 18 Hour® Comfort Strap® Wireless Comfort Full Coverage Bra-4693
+    
+    $19.99sale
+    
+    ~$36~5464
 *   Home Expressions Lisette Rod-Pocket Sheer Panel
     
     $4.99 - $27.99sale
     
     ~$16 - $40~1241
-*   Nike® Reax Run Womens Running Shoes
-    
-    View Price in Cart
-    
-    59
 
 Shop and Save at JCPenney
 
