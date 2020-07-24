@@ -1,14 +1,13 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Shop Limited Time Pricing at our Guest Giveback Event! start saving For the most up-to-date store information check here. Wear now denim styles, at special prices, almost too good to be true. shop now We are currently experiencing issues with online Guest Loyalty Reward Redemption. see details
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Shop Limited Time Pricing at our Guest Giveback Event! start saving For the most up-to-date store information check here. Wear now denim styles, at special prices, almost too good to be true. shop now
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-*   We are currently experiencing issues with online Guest Loyalty Reward Redemption. see details
+*   Wear now denim styles, at special prices, almost too good to be true. shop now
 *   Shop Limited Time Pricing at our Guest Giveback Event! start saving
 *   For the most up-to-date store information check here.
 *   Wear now denim styles, at special prices, almost too good to be true. shop now
-*   We are currently experiencing issues with online Guest Loyalty Reward Redemption. see details
 *   Shop Limited Time Pricing at our Guest Giveback Event! start saving
 
 *   Women
