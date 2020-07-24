@@ -19,7 +19,7 @@ We use our own and third-party cookies to improve your experience and our servic
     *   Game Pass
     *   Free Agency
     *   Ways to Watch
-    *   NFL Films
+    *   En Español
     *   Inspire Change
 
 NFL SHOP Action related nav
