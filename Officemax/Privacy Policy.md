@@ -28,8 +28,8 @@ Skip to main navigation
     *   Tax Information
 *   Contact Us
 
-Latest Quarterly Earnings Q1 May 6, 2020 at 9:00 AM EST Q1 2020 Office Depot Inc Earnings  
-Click here for webcast view more Latest Quarterly Earnings Q1 May 6, 2020 at 9:00 AM EST Q1 2020 Office Depot Inc Earnings  
+Latest Quarterly Earnings Q2 August 5, 2020 at 9:00 AM EST Q2 2020 Office Depot Inc Earnings  
+Click here for webcast view more Latest Quarterly Earnings Q2 August 5, 2020 at 9:00 AM EST Q2 2020 Office Depot Inc Earnings  
 Click here for webcast view more Investor Relations Company Profile
 
 The ODP Corporation (NASDAQ:ODP) is a leading provider of business services, products and digital workplace technology solutions to small, medium and enterprise businesses. ODP, operating through its direct and indirect subsidiaries, maintains a fully integrated B2B distribution platform of approximately 1,300 stores, online presence, and thousands of dedicated sales and technology service professionals, all supported by its world-class supply chain facilities and delivery operations. Through its banner brands Office Depot®, OfficeMax®, CompuCom® and Grand&Toy®, as well as others, the company offers its customers the tools and resources they need to focus on their passion of starting, growing and running their business. For more information, visit news.officedepot.com and follow @officedepot on Facebook, Twitter and Instagram.
@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$23.33
+$23.90
 
 Change
 
-+0.08
++0.57
 
 Percent Change
 
-(+0.34%)
+(+2.44%)
 
 Data Provided by Refinitiv. Minimum 15 minutes delayed.
 
 view details  
-Recent News Jul 22, 2020 The ODP Corporation to Announce Second Quarter 2020 Earnings Results Wednesday, August 5, 2020 view more Recent News Jul 22, 2020 The ODP Corporation to Announce Second Quarter 2020 Earnings Results Wednesday, August 5, 2020 view more Events Aug 5, 2020 at 9:00 AM EDT Q2 2020 Office Depot Inc Earnings Conference Call view more Events Aug 5, 2020 at 9:00 AM EDT Q2 2020 Office Depot Inc Earnings Conference Call view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
+Recent News Jul 23, 2020 Start and ‘Keep School Going’ with Office Depot’s Learn from Anywhere™ Solutions at Low Prices All Back-to-School Season Long view more Recent News Jul 23, 2020 Start and ‘Keep School Going’ with Office Depot’s Learn from Anywhere™ Solutions at Low Prices All Back-to-School Season Long view more Events Aug 5, 2020 at 9:00 AM EDT Q2 2020 Office Depot Inc Earnings Conference Call view more Events Aug 5, 2020 at 9:00 AM EDT Q2 2020 Office Depot Inc Earnings Conference Call view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
 
 *   Home
 *   News &. Events
