@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Complex problems, clever solutions – unique containers and virtualization snaps
 *   Design and Web team summary – 20th July 2020
 *   What can you do with MicroK8s?
-*   Employee spotlight: Alice Cambridge, Inside Sales Representative
