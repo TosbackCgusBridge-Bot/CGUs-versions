@@ -38,6 +38,7 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
+*   🔥 Shorts Deals
 *   Face Coverings
 *   Tiny Tops
 *   Uniform
@@ -66,6 +67,7 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
+*   🔥 Shorts Deals
 *   Face Coverings
 *   New Aero Logo
 *   Uniform
@@ -214,6 +216,7 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
+        *   🔥 Shorts Deals
         *   Face Coverings
         *   Tiny Tops
         *   Uniform
@@ -238,6 +241,7 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
+        *   🔥 Shorts Deals
         *   Face Coverings
         *   New Aero Logo
         *   Uniform
@@ -373,34 +377,21 @@ More Inclusive Future. Learn More
 
 Next
 
-In Stores &. Online
+🔥 Shorts Deals are Back For a Limited TIme!
 
 50-70% Off Everything
 
-Including 100s of new arrivals &. our need-now Aero shorts
+Shop 100s Of Styles Just Dropped &. Our Need Now Aero Shorts!
 
-Shop Girls Shop Guys
-
-In Stores &. Online
+🔥 Shorts Deals are Back For a Limited TIme!
 
 50-70% Off  
 Everything
 
-Including 100s of new arrivals &.  
-our need-now Aero shorts
+Shop 100s Of Styles Just Dropped  
+&. Our Need Now Aero Shorts!
 
-Shop Girls Shop Guys
-
-New! Aero  
-Face Masks
-
-Shop Girls Shop Guys
-
-To help communities impacted  
-by COVID-19, Aero is donating  
-to Direct Relief. Learn More
-
-Previous
+**Girls 🔥 Shorts Deals $11.87 &. Up** **Guys 🔥 Shorts Deals $11.87 &. Up** Shop Girls Shop Guys Shop Girls Shop Guys **Girls 🔥 Shorts Deals $11.87 &. Up** **Guys 🔥 Shorts Deals $11.87 &. Up** Previous
 
 Super High Rise
 
@@ -468,9 +459,12 @@ Mom
 
 Next
 
-**Girls Shorts $11.87 &. Up**
+Shop 🔥 Shorts Deals before they're gone!
 
-**Girls Shorts**
+Shop 🔥 Shorts Deals  
+before they're gone!
+
+**$11.87 &. Up**
 
 $11.87 &. Up
 
@@ -480,7 +474,7 @@ Crave-worthy comfort denim.
 Flawless fits. Curve-accentuating stretch.  
 Crave-worthy comfort denim.
 
-Girls Shorts Previous
+Girls Shorts **Girls 🔥Shorts Deals $11.87 &. Up** Previous
 
 Long Board Chino
 
@@ -520,15 +514,19 @@ Cargo
 
 Next
 
-**Guys Shorts $11.87 &. Up**
+Shop 🔥 Shorts Deals before they're gone!
 
-**GUYS Shorts  
-$11.87 &. Up**
+**Shorts $11.87 &. Up**
+
+Shop 🔥 Shorts Deals  
+before they're gone!
+
+$11.87 &. Up
 
 Everyday comfort. Cool distressed details.  
 Updated with stretch—for freedom that moves you.
 
-Guys Shorts
+Guys Shorts **Guys 🔥Shorts Deals $11.87 &. Up**
 
 Denim For  
 Days.
@@ -651,4 +649,13 @@ Stay Connected
 *   Use Student Discount
 *   Store FAQs
 
-© 2020 Aeropostale. All Rights Reserved. CHAT
+© 2020 Aeropostale. All Rights Reserved.
+
+New! Aero Face Masks
+
+Shop Girls Shop Guys
+
+To help communities impacted by COVID-19,  
+Aero is donating to Direct Relief. Learn More
+
+Close
