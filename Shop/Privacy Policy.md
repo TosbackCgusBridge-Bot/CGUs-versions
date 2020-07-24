@@ -33,7 +33,7 @@ Lenovo Explore Close
         *   Flex 5
         *   New Arrivals
         
-        Students save now
+        Back to School
         
         Start your back to school shopping today + college students save an extra 8% off sitewide
         
@@ -66,7 +66,7 @@ Lenovo Explore Close
         *   M920 SFF
         *   Desktop Deals
         
-        Sale
+        Back to School
         
         Enjoy BIG deals on desktops including a special Nano offer worth $850 in savings!
         
@@ -95,7 +95,7 @@ Lenovo Explore Close
         *   ThinkStation P340 Tiny
         *   ThinkStation P330 Tower
         
-        Sale
+        Back to School
         
         Get the power you need with our wide selection of highly rated workstations. Enjoy savings now!
         
@@ -119,9 +119,9 @@ Lenovo Explore Close
         *   For a Gift
         *   Best Bargain
         
-        Sale
+        Back to School
         
-        Find the perfect tablet or smart device for you and the whole family. Enjoy weekly discounts today!
+        Find the perfect tablet or smart device &. get instant savings today!
         
         Yoga Smart Tab
         
@@ -312,7 +312,7 @@ Lenovo Explore Close
         *   Tablets and Smart Devices
         *   Electronic Deals
         *   Server Deals
-        *   Coupons
+        *   Clearance
         
         *   Additional Offers
         *   IdeaPad S940 save 47%
@@ -629,7 +629,7 @@ Lenovo Explore Close
 1-855-253-6686 option #2
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPRO For Small Business
     *   Learn more
@@ -717,7 +717,13 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
+
+Please add at least 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 Privacy Statement"/>.
 
@@ -1326,4 +1332,4 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacySite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement
+© 2019   Lenovo.All rights reserved Print this PagePrivacyCookie Consent ToolSite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement
