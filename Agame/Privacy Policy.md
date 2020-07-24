@@ -27,17 +27,17 @@ View more results
     *   BFFs Dressing Room
     *   Goldie Princess: Skin Doctor
     *   Dark Chocolate Blackberry Cheesecake: Sara's Cooking Class
-    *   Girls Shopping Fun
     *   Love Tester 3
     *   Cute Room Decoration
-    *   Princess Hard Times
     *   Funny Throat Doctor
     *   Eli Beauty
-    *   Ice Queen Fashion Day
+    *   Princess Hard Times
+    *   Crazy Animal Dentist
     *   Beach Kiss
     *   Bride and Bridesmaids Dress Up
-    *   Crazy Animal Dentist
+    *   Ice Queen Fashion Day
     *   Ice Princess: Dollhouse
+    *   Papa's Cupcakeria
 *   Racing
     
     Top Categories
@@ -58,13 +58,13 @@ View more results
     *   Off-Roader V6
     *   Xcross Madness
     *   Madalin Cars Multiplayer
-    *   Horse Racing
     *   Hill Racing Challenge
-    *   Russian Car Driver
+    *   Horse Racing
     *   Moto X3m 2
-    *   Dead Paradise 3
+    *   Russian Car Driver
     *   Truck Driver Crazy Road
     *   Off-Road Cycle 3D
+    *   Dead Paradise 3
     *   ATV Quad Racing
 *   Puzzle
     
@@ -86,14 +86,14 @@ View more results
     *   Bubble Shooter
     *   Mahjong Connect Classic
     *   Mahjong Link
-    *   Butterfly Kyodai HD
+    *   Dream Pet Link
     *   Word Wipe
+    *   Butterfly Kyodai HD
     *   Farm Connect 2
-    *   Mystic Sea Treasures
     *   1001 Arabian Nights
-    *   Bubble Hit
+    *   Mystic Sea Treasures
     *   Patterns Link
-    *   Mahjong Dimensions: 900 Seconds
+    *   Bubble Hit
 *   Shooting
     
     Top Categories
@@ -120,8 +120,8 @@ View more results
     *   Save the Cowboy
     *   Sniper Code
     *   Stickman Archer 2
-    *   Bowman
     *   Zombie Vacation: Survival Game
+    *   Bowman
 *   Multiplayer
     
     Top Categories
@@ -147,9 +147,9 @@ View more results
     *   Madalin Cars Multiplayer
     *   Slither.io
     *   Hole.io
-    *   Multiplayer Piano
     *   Naruto Online
-    *   Empire: World War 3
+    *   Stickman Fighter: Epic Battle
+    *   Multiplayer Piano
 *   Action
     
     Top Categories
@@ -167,16 +167,16 @@ View more results
     *   Subway Clash 3D
     *   Short Life
     *   Apple Shooter
-    *   Bomb It 6
     *   Deer Hunter
+    *   Bomb It 6
     *   Slither.io
     *   Tank Trouble 2
-    *   Naruto Online
     *   Pixel Gun Apocalypse 3
+    *   Naruto Online
     *   Stickman Fighter: Epic Battle
     *   Age of War
+    *   Hungry Hal
     *   Murder
-    *   Vex 3
     *   Army Force Strike
 *   Adventure
     
@@ -194,17 +194,17 @@ View more results
     All Adventure Best Games
     *   Fireboy and Watergirl 5: Elements
     *   The Last Survivors: 2 Player Zombie Game
-    *   Adam and Eve 3
     *   World Craft 2
+    *   Adam and Eve 3
     *   Bob the Robber 4: Season 2 Russia
     *   Dog Simulator: Puppy Craft
     *   Troll Face Quest: Horror 2
-    *   Chrome Dino
     *   Adam and Eve 2
+    *   Chrome Dino
     *   Rio Rex
-    *   RoBBie
-    *   Adam and Eve 4
     *   Adam and Eve
+    *   Adam and Eve 4
+    *   RoBBie
     *   Fireboy &. Watergirl 4: Crystal Temple
 *   More
     
