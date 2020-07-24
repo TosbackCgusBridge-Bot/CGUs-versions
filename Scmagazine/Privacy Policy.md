@@ -251,23 +251,23 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
+    *   Why we must arm police with facial recognition systems
     *   How to keep political campaigns secure
-    *   Unsealed indictment alleges Kazakh man is behind Fxmsp hacking group
-    *   Microsoft phishing domains takedown aimed at familiar criminals refocused on Covid-19
-    *   Twitter hack is a reminder of the dangers of unfettered employee access
-    *   Conti ransomware encrypts files quicker, targets SMB network shares
+    *   Fast-charging hacks can melt phones, compromise firmware
+    *   Zoom fixing zero-day vulnerability in Windows client
+    *   Biden will punish foreign election interference, hacking
     
-    *   U.S. top in significant cyberattacks on CSIS list
-    *   Unsealed indictment alleges Kazakh man is behind Fxmsp hacking group
-    *   USB a prevalent industrial vector vulnerability for OT systems
-    *   Trump approved 2018 retaliatory cyberattack on Russia's IRA
-    *   Patch Tuesday: Adobe eliminates four critical bugs
+    *   Flaws in SETracker watch app posed danger to dementia patients
+    *   Fake Cisco switches provoked network failures
+    *   DMARC embraced by government, private industry lags
+    *   Trump commutes Roger Stone's sentence stemming from Mueller probe
+    *   Citrix, Juniper and VMware patch array of vulnerabilities
     
+    *   To reduce security errors, employers must relieve stress and fatigue
+    *   New cryptominer botnet spreads payload, less intrusive
+    *   COVID-19 accounts for most 2020 cyberattacks
     *   Justice charges Chinese nationals in hacking campaign
     *   Adobe fixes 12 critical bugs in second round of July patches
-    *   Fast-charging hacks can melt phones, compromise firmware
-    *   Phishing attack hid in Google Cloud Services
-    *   Biden will punish foreign election interference, hacking
 
 Back to Top
 
@@ -300,4 +300,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+
+You can skip this ad in 1 seconds.
