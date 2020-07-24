@@ -5,7 +5,7 @@
     *   TV Schedule
     *   Spotlight on Black Voices &. Black Stories
     *   Black Ink Crew Chicago
-    *   Black Ink Crew New York
+    *   Canada's Drag Race
     *   Love &. Hip Hop Atlanta
     *   Love &. Listings
     *   RuPaul's Drag Race
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleSpotlight on Black Voices &. Black StoriesBlack Ink Crew ChicagoBlack Ink Crew New YorkLove &. Hip Hop AtlantaLove &. ListingsRuPaul's Drag RaceRuPaul’s Drag Race All StarsT.I. &. Tiny: Friends &. Family HustleTo Catch A Beauticiansee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleSpotlight on Black Voices &. Black StoriesBlack Ink Crew ChicagoCanada's Drag RaceLove &. Hip Hop AtlantaLove &. ListingsRuPaul's Drag RaceRuPaul’s Drag Race All StarsT.I. &. Tiny: Friends &. Family HustleTo Catch A Beauticiansee all Shows
 *   App
 *   VH100 PODCAST
 *   Watch Live TV
