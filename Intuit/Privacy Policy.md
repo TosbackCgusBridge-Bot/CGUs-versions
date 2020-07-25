@@ -1,21 +1,23 @@
-Our COVID-19 response  DetailsEXTRA 30% OFF $75+ with code: BIGDEAL9 Details  
+Shop safe! Masks are required for anyone entering the store. Details  
+EXTRA 30% OFF $75+ with code: BIGDEAL9 Details  
 EXTRA 25% OFF under $75 with code: BIGDEAL9 Details  
 Free Shipping Over $49  DetailsBlack Friday in July is here! UP TO 60% OFF limited time only Shop All  
-Our COVID-19 response  DetailsEXTRA 30% OFF $75+ with code: BIGDEAL9 Details  
+Shop safe! Masks are required for anyone entering the store. Details  
+EXTRA 30% OFF $75+ with code: BIGDEAL9 Details  
 
 Enable Accessibility
 
-*   StoresQuakerbridge MallMore Stores500 Quaker Bridge Mall, Trenton, NJ, 08648609-799-8100 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Back to School
 *   Home &. Lifestyle
 *   Women
 *   Men
 *   Juniors
-*   Kids &. Baby
+*   Baby &. Kids
 *   Shoes
 *   Accessories
 *   Jewelry
@@ -36,11 +38,7 @@ select styles
 *   Mattresses
     
 
-Shop AllUP TO 25% OFF adidas and Champion for the familyselect styles | Excluded from coupons.Shop adidasShop ChampionUP TO 40% OFFXersion for the familyselect styles
-
-*   Shop Xersion
-
-Starting at $12.99Nostalgic styles worthy of a repeatselect stylesShop nine(tees) favesHit rewind...with these old-school styles.Shop camo &. utility styles made for actionOutdoorsy prints...help you gear up for a season of adventure.UP TO 40% OFF Kitchen essentials select styles  
+Shop AllUP TO 40% OFF Kitchen essentials select styles  
 Get a head start on meals for the week!
 
 *   Shop All
@@ -54,7 +52,11 @@ Get a head start on meals for the week!
 *   Cutlery
     
 
-Shop All50% OFF School uniforms  
+Shop AllUP TO 25% OFF adidas and Champion for the familyselect styles | Excluded from coupons.Shop adidasShop ChampionUP TO 40% OFFXersion for the familyselect styles
+
+*   Shop Xersion
+
+Starting at $12.99Nostalgic styles worthy of a repeatselect stylesShop nine(tees) favesHit rewind...with these old-school styles.Shop camo &. utility styles made for actionOutdoorsy prints...help you gear up for a season of adventure.50% OFF School uniforms  
 Comfy styles that are first in-class &. made to last.select styles
 
 *   Shop All
@@ -71,22 +73,18 @@ Beauty (retail) therapyFreshen up your routine with faves fromSalon &. Sephora i
     $29.99sale
     
     ~$55~300
-*   Nike Womens Soft Short
-    
-    $32sale
-    
-    ~$40~
-*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $31.49 - $47.24with code~$60 - $90~114
 *   Playtex 18 Hour® Comfort Strap® Wireless Comfort Full Coverage Bra-4693
     
     $19.99sale
     
-    ~$36~5464
-*   Home Expressions Lisette Rod-Pocket Sheer Panel
+    ~$36~5466
+*   Underscore Fashion Plus Comfort Lace Trim Wireless Unlined Full Coverage Bra $11.24with code~$30~425
+*   Nike® Reax Run Womens Running Shoes
     
-    $4.99 - $27.99sale
+    View Price in Cart
     
-    ~$16 - $40~1241
+    60
+*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $31.49 - $47.24with code~$60 - $90~114
 
 Shop and Save at JCPenney
 
