@@ -146,7 +146,7 @@ Privacy Policy
 
   Our commitment to privacy
 
-Fidelity Investments and the Fidelity Funds are committed to maintaining the confidentiality, integrity, and security of personal information about our current and prospective customers. In this policy personal information means “personally identifiable information.”
+Fidelity Investments and the Fidelity Funds are committed to maintaining the confidentiality, integrity, and security of personal information about our current and prospective customers. In this policy personal information means information about an individual that is collected or maintained for business purposes and by which the individual can be identified.
 
 Please note that certain details of this policy may depend on whether you deal with us through an investment professional, directly as an individual investor, or whether Fidelity provides services to your employer or plan sponsor.
 
@@ -164,6 +164,8 @@ Fidelity takes great care to protect personal information about you and when we 
 *   Information from other third-party data services (for example, to verify your identity and to better understand your product and service needs)
 *   You or your representative regarding your preferences (for example, your choice of electronic statement delivery, or the screen layout you specify if you use our Internet sites)
 *   Other sources with your consent or with the consent of your representative (for example, from other institutions if you transfer positions into Fidelity)
+
+Please note that information by which you cannot be identified (for example, anonymous or aggregated information) is not considered personal information and therefore is not subject to this privacy policy.
 
   How we protect information about you
 
@@ -202,7 +204,7 @@ Privacy, security, and service in Fidelity's online operations are just as criti
 
 When you interact with us by using our websites, online services or mobile applications that are owned and controlled by Fidelity Investments ("our digital offerings"), Fidelity manages personal information in accordance with all of the practices and safeguards described previously.
 
-When you use our digital offerings, we may collect technical and navigational information, such as device type, browser type, Internet protocol address, pages visited, and average time spent on our digital offerings. We use this information for a variety of purposes, such as maintaining the security of your session, facilitating site navigation, improving Fidelity website design and functionality, and personalizing your experience. Additionally, the following policies and practices apply when you are online.
+When you use our digital offerings, we may collect technical and navigational and location information, such as device type, browser type, Internet protocol address, pages visited, and average time spent on our digital offerings. We use this information for a variety of purposes, such as maintaining the security of your session, facilitating site navigation, improving Fidelity website design and functionality, and personalizing your experience. Additionally, the following policies and practices apply when you are online.
 
 **Cookies and similar technologies**
 
@@ -226,8 +228,6 @@ Fidelity and these third-party online advertising companies may use the data col
 
 You may opt-out of receiving interest-based advertisements from online advertising companies by clicking on the AdChoices icon (which appears on all Fidelity interest-based ads) and following the opt-out instructions. For more information about interest-based advertising please see http://www.networkadvertising.org/managing/opt\_out.asp.
 
-Non-Fidelity websites and mobile applications (for example, social media platforms) are not subject to Fidelity's Privacy Policy. You may visit the individual sites for additional information on their privacy practices and advertising opt-out instructions.
-
 **Connecting with Fidelity on social media platforms**
 
 Fidelity provides experiences on social media platforms that enable online sharing and collaboration among users who have registered to use them. We may collect information you provide by interacting with us via social media, such as photographs, opinions, or social media account ID. Any content you post, such as pictures, information, opinions, or any personal information that you make available to other participants on these social platforms, is also subject to the terms of use and privacy policies of those platforms. Please refer to them to better understand your rights and obligations with regard to such content.
@@ -235,6 +235,10 @@ Fidelity provides experiences on social media platforms that enable online shari
 **Fidelity's mobile® apps**
 
 Fidelity Mobile® applications ("apps") allow you to access your accounts, trade securities, move money, and access news and research using wireless or mobile devices. Our privacy practices apply to any personal information or other information that we may collect through the apps.
+
+**Third Party websites and applications**
+
+Non-Fidelity websites and mobile applications (for example, social media platforms) are not subject to Fidelity’s privacy policy. You may visit the individual sites for additional information on their privacy practices and advertising opt-out instructions.
 
 **Protecting children's privacy online**
 
@@ -253,14 +257,14 @@ Please view our additional information for California residents. This additional
 The Fidelity Investments privacy policy is provided on behalf of:
 
 *   Fidelity Brokerage Services LLC
-*   Fidelity Distributors Corporation
+*   Fidelity Distributors Company LLC
 *   Fidelity Workplace Services LLC
 *   Fidelity Investments Institutional Operations Company, Inc.
-*   Fidelity Investments Institutional Services Company, Inc.
 *   Fidelity Management Trust Company
 *   Fidelity Personal Trust Company, FSB
 *   Fidelity Personal and Workplace Advisors LLC
 *   Fidelity Stock Plan Services, LLC
+*   Fidelity Institutional Wealth Adviser LLC
 *   Fidelity Investments Life Insurance Company
 *   Empire Fidelity Investments Life Insurance Company
 *   Fidelity Health Insurance Services, LLC
@@ -289,7 +293,7 @@ Please read the Fidelity Funds Privacy Policy in conjunction with the Privacy Po
 The Fidelity Funds Privacy Policy is provided on behalf of the Fidelity Investments family of mutual funds, including those advised by Strategic Advisers LLC.
 
   
-Effective January 1, 2020  
+Effective June 2020  
 ©1998-2020 FMR LLC. All Rights Reserved.  
   
 Questions?
@@ -297,11 +301,11 @@ Questions?
 *   800-343-3548 800-343-3548
 *   Find an Investor Center
 
-2019 Privacy Notice
+2020 Privacy Notice
 
 View the Fidelity Investments and the Fidelity Funds Privacy Notice (PDF)
 
-524812.50.0
+935048.1.0
 
 *   Mutual Funds
 *   ETFs
