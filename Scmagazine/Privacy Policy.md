@@ -239,11 +239,11 @@ For users in the United States, any changes or modifications will be effective i
 
 For users in the EEA, any changes or modifications will be effective upon your express consent as you will be notified of any changes by virtue of a pop-up, banner, or other notification mechanism when you seek to access our services after we issue a change or modification. Upon consent, the revisions on the services shall apply to all use of our services and all acts or omissions occurring after the effective date of the revised Privacy Policy.
 
-Security asset management in the remote work era
+Q&A: Asset management and risk
 
-Customer case study: Fast-growing AppsFlyer automates security policy validation with Axonius
+IT Service Management vs. Cybersecurity Asset Management
 
-Managing data compliance and workflows
+Extreme Engineering Solutions ensures compliance requirements while reducing manual work
 
 *   MOST POPULAR
     
@@ -251,23 +251,23 @@ Managing data compliance and workflows
     *   Emailed
     *   Recent
     
-    *   Why we must arm police with facial recognition systems
-    *   How to keep political campaigns secure
-    *   Fast-charging hacks can melt phones, compromise firmware
-    *   Zoom fixing zero-day vulnerability in Windows client
-    *   Biden will punish foreign election interference, hacking
+    *   Covid-19 vaccines, economies in peril after Russian APT29 attacks
+    *   Chinese-made drone app may be spying on Americans
+    *   Critical SAP flaw puts 40,000 users at risk
+    *   Biden's, Apple's Twitter hacked in cryptocurrency scam
+    *   More Chinese tax software found to dish out backdoor malware
     
+    *   U.S. universities at risk of back-to-school and Covid-19 email fraud
     *   Flaws in SETracker watch app posed danger to dementia patients
+    *   Here are the hurdles that will face Biden’s new CISO
     *   Fake Cisco switches provoked network failures
-    *   DMARC embraced by government, private industry lags
-    *   Trump commutes Roger Stone's sentence stemming from Mueller probe
-    *   Citrix, Juniper and VMware patch array of vulnerabilities
+    *   Biden's, Apple's Twitter hacked in cryptocurrency scam
     
-    *   To reduce security errors, employers must relieve stress and fatigue
-    *   New cryptominer botnet spreads payload, less intrusive
-    *   COVID-19 accounts for most 2020 cyberattacks
-    *   Justice charges Chinese nationals in hacking campaign
-    *   Adobe fixes 12 critical bugs in second round of July patches
+    *   Chinese-made drone app may be spying on Americans
+    *   Instacart customer accounts for sale on dark web
+    *   Apple to send research phones to trusted hackers
+    *   Twitter hackers accessed direct messages for 36 accounts
+    *   Dacls RAT's goals are to steal customer data and spread ransomware
 
 Back to Top
 
@@ -300,6 +300,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
 You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
