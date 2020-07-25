@@ -9,8 +9,29 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Gucci Sunglasses &. More Up to 70% Off
+    *   Skin Care ft. Mario Badescu Starting at $10
+    *   Hair Care We Love ft. Frederic Fekkai
+    *   Sagebrook Outdoor
+    *   John Hardy Up to 50% Off
+    *   Best Bags Up to 70% Off
+    *   Dolce Vita Up to 70% Off
+    *   Ready for Summer: White Denim Up to 70% Off
+    *   Brooks Brothers Men Up to 70% Off
+    *   Velvet Torch
+    *   Crop Tops Starting at $12
+    *   Casual Bottoms Under $35 Incl. Plus
+    *   Mad for Motos: Leather Jackets Up to 70% Off
+    *   Comfort at Home: Men's Shoes Up to 60% Off
+    *   Keep It Comfy: Lounge for Him Up to 65% Off
+    *   Skechers &. More Up to 60% Off
+    *   Designer Belts ft. Moschino Up to 60% Off
+    *   Twirl Worthy: Girls' Dresses Up to 65% Off
+    *   Fun Character Shoes &. More ft. Josmo
+    *   Kids' Roxy, Volcom &. More
+    *   Flats Under $30
+    *   Tech Accessories ft. Bands for Apple Watch
     *   NYDJ Up to 75% Off Incl. Plus &. Petites
+    
     *   Women's Active Shoes ft. New Balance
     *   Now &. Zen: Yogawear ft. Marika
     *   Striped Dresses
@@ -28,51 +49,52 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Comfort Loafers &. More Up to 60% Off
     *   Converse Men
     *   Converse Women's
-    
-    *   Protect in Style: Masks
     *   Men's Designer Shoes Up to 70% Off
-    *   Luxe Shoes Up to 65% Off
+    *   Diesel Men Up to 65% Off
+    *   Converse Kids
+    *   Planters
+    *   Wall Decor from $20
+    
+    *   Road Trip Essentials for Kids
+    *   Converse Kids &. More
+    *   Sagebrook Candles
+    *   Back to Dorm Life
+    *   Gucci Sunglasses &. More Up to 70% Off
     *   J.Crew
     *   Lush Starting at $20
     *   Designer Dresses Up to 75% Off
-    *   Diesel Men Up to 65% Off
     *   Casual Summer Tops Under $25 Incl. Plus
-    *   One-Pieces Up to 70% Off
-    *   Converse Kids
-    *   Planters
-    *   Lucky Brand Shoes &. More Up to 65% Off
-    *   Road Trip Essentials: Men's Styles Up to 75% Off
-    *   Road Trip Essentials for Kids
-    *   Converse Kids &. More
-    *   Catherine Catherine Malandrino Up to 60% Off
-    *   Sagebrook Candles
-    *   Back to Dorm Life
-    *   Anthropologie
-    
-    *   Free People Starting at $25
-    *   Free People FP Movement Starting at $25
-    *   Scotch &. Soda
-    *   Interior Illusion Home Decor
-    *   Free Shipping: Storage for Every Room
-    *   Men's Basic Tees ft. XRAY
-    *   Wave Hello: O'Neill Kids &. More
-    *   Best for Baby: Styles Up to 65% Off
-    *   Exclusively Ours: Men's Shoes ft. Wallin &. Bros
+    *   In Bloom: Floral Styles Up to 70% Off Incl. Plus
     *   Stratton Home Wall Decor
     *   BergHOFF
     *   Pure Enrichment Air Purifiers &. Humidifiers
     *   Gallery 57 Wall Art
-    *   Home Organization
-    *   Circulon Nonstick Cookware
-    *   Wall Decor from $20
+    *   Road Trip Essentials: Men's Styles Up to 75% Off
+    *   Interior Illusion Home Decor
+    *   Free Shipping: Storage for Every Room
     *   IT Cosmetics, Urban Decay, NARS &. MAC
-    *   In Bloom: Floral Styles Up to 70% Off Incl. Plus
+    *   Exclusively Ours: Men's Shoes ft. Wallin &. Bros
+    *   Anthropologie
+    *   Home Organization
 *   WomenShop Sale Events
     
-    *   Gucci Sunglasses &. More Up to 70% Off
+    *   Skin Care ft. Mario Badescu Starting at $10
+    *   Hair Care We Love ft. Frederic Fekkai
+    *   John Hardy Up to 50% Off
+    *   Best Bags Up to 70% Off
+    *   Dolce Vita Up to 70% Off
+    *   Ready for Summer: White Denim Up to 70% Off
+    *   Velvet Torch
+    *   Crop Tops Starting at $12
+    *   Casual Bottoms Under $35 Incl. Plus
+    *   Mad for Motos: Leather Jackets Up to 70% Off
+    *   Skechers &. More Up to 60% Off
+    *   Designer Belts ft. Moschino Up to 60% Off
+    *   Flats Under $30
     *   NYDJ Up to 75% Off Incl. Plus &. Petites
     *   Women's Active Shoes ft. New Balance
     *   Now &. Zen: Yogawear ft. Marika
+    
     *   Striped Dresses
     *   Camis &. More Under $25 Incl. Plus
     *   Adornia
@@ -81,39 +103,35 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Melissa Up to 70% Off
     *   Comfort Loafers &. More Up to 60% Off
     *   Converse Women's
-    *   Protect in Style: Masks
-    
-    *   Luxe Shoes Up to 65% Off
+    *   Gucci Sunglasses &. More Up to 70% Off
     *   J.Crew
     *   Lush Starting at $20
     *   Designer Dresses Up to 75% Off
     *   Casual Summer Tops Under $25 Incl. Plus
-    *   One-Pieces Up to 70% Off
-    *   Lucky Brand Shoes &. More Up to 65% Off
-    *   Catherine Catherine Malandrino Up to 60% Off
-    *   Free People Starting at $25
-    *   Free People FP Movement Starting at $25
-    *   IT Cosmetics, Urban Decay, NARS &. MAC
     *   In Bloom: Floral Styles Up to 70% Off Incl. Plus
+    *   IT Cosmetics, Urban Decay, NARS &. MAC
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Accessories
-    *   Lingerie &. Shapewear
     *   Jewelry
+    *   Accessories
+    *   Handbags
+    *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
-    *   Gucci Sunglasses &. More Up to 70% Off
+    *   Brooks Brothers Men Up to 70% Off
+    *   Comfort at Home: Men's Shoes Up to 60% Off
+    *   Keep It Comfy: Lounge for Him Up to 65% Off
     *   Men's Active Shoes ft. Hoka &. Brooks
     *   Street Ready: On-Trend Styles Up to 65% Off
     *   Champion Men Under $40
+    
     *   Converse Men
     *   Men's Designer Shoes Up to 70% Off
     *   Diesel Men Up to 65% Off
+    *   Gucci Sunglasses &. More Up to 70% Off
     *   Road Trip Essentials: Men's Styles Up to 75% Off
-    *   Scotch &. Soda
-    *   Men's Basic Tees ft. XRAY
     
     Shop By Category
     *   Clothing
@@ -121,13 +139,14 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Twirl Worthy: Girls' Dresses Up to 65% Off
+    *   Fun Character Shoes &. More ft. Josmo
+    *   Kids' Roxy, Volcom &. More
     *   Mini Melissa
     *   Summer Favorites: Kids' Styles, Toys &. More
     *   Converse Kids
     *   Road Trip Essentials for Kids
     *   Converse Kids &. More
-    *   Wave Hello: O'Neill Kids &. More
-    *   Best for Baby: Styles Up to 65% Off
     
     Shop By Category
     *   Girls
@@ -138,39 +157,44 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Toys
 *   HomeShop Sale Events
     
+    *   Sagebrook Outdoor
+    *   Tech Accessories ft. Bands for Apple Watch
     *   Curtains for Every Room
     *   Planters
+    *   Wall Decor from $20
     *   Sagebrook Candles
     *   Back to Dorm Life
-    *   Anthropologie
-    *   Interior Illusion Home Decor
-    *   Free Shipping: Storage for Every Room
-    
     *   Stratton Home Wall Decor
+    
     *   BergHOFF
     *   Pure Enrichment Air Purifiers &. Humidifiers
     *   Gallery 57 Wall Art
+    *   Interior Illusion Home Decor
+    *   Free Shipping: Storage for Every Room
+    *   Anthropologie
     *   Home Organization
-    *   Circulon Nonstick Cookware
-    *   Wall Decor from $20
     
     Shop By Category
     *   Home Decor
     *   Cleaning &. Organization
     *   Kitchen &. Tabletop
+    *   Electronic &. Tech Accessories
     *   Bath
     *   Accent Furniture
+    *   Bedding
     *   Outdoor Living
     *   Pet Accessories
-    *   Bedding
-    *   Electronic &. Tech Accessories
     *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Skin Care ft. Mario Badescu Starting at $10
+    *   Hair Care We Love ft. Frederic Fekkai
     *   IT Cosmetics, Urban Decay, NARS &. MAC
     
     Shop By Category
     *   Makeup
+    *   Hair Care
+    *   Skin Care
     *   Tools &. Accessories
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
