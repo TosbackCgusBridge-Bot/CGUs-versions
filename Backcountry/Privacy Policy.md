@@ -1,6 +1,6 @@
 BACKCOUNTRY PRIVACY POLICY
 
-**Last Updated:** 12/26/2019
+**Last Updated:** 7/27/2020
 
 This Privacy Policy explains how information about you is collected, used and disclosed by Backcountry.com, LLC and its subsidiaries (“**Backcountry**” or “**we**”). This Privacy Policy applies to information we collect when you use our websites, mobile apps and other online products and services (collectively, the “**Services**”), including Backcountry.com, SteepandCheap.com, Competitivecyclist.com, and Motosport.com, or when you otherwise interact with us. This policy does not apply to products or services with separate privacy policies that do not incorporate this Privacy Policy.
 
@@ -116,8 +116,6 @@ This section provides additional details about the personal information we colle
 Subject to certain limitations, the CCPA provides California consumers the right to request to know more details about the categories or specific pieces of personal information we collect, to delete their personal information, to opt out of any “sales” that may be occurring, and to not be discriminated against for exercising these rights.
 
 In the last 12 months, we collected the following categories of personal information: identifiers (such as name and contact information), characteristics of protected classifications (such as age and gender), commercial information (such as products purchased), internet or other electronic network activity information (such as browsing behavior), geolocation data, audio, electronic, visual or similar information (such as profile pictures or customer support call information), and inferences we make (such as preferred activities). For more details about the personal information we collect, including the categories of sources, please see the “Collection of Information” section above. We collect this information for the business and commercial purposes described in the “Use of Information” section above. We share this information with the categories of third parties described in the “Sharing of Information” section above.
-
-Backcountry does not “sell” the personal information we collect (and will not sell it in the future without providing a right to opt out). Please note that we do use third-party cookies for our advertising purposes as further described in the “Advertising and Analytics Services Provided by Others” section above.
 
 California consumers may make a rights request by visiting this portal: Rights Request. In the portal, we will require that you provide additional information in order to verify your request.
 
