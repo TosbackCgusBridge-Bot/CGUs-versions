@@ -52,7 +52,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
     *   What to Watch on FandangoNOW: ‘Guest Artist,’ ‘The Room,’ Comic Book Movies and More Read More
-    *   Your Most Anticipated DC Movies To Make a Big Splash at First-Ever DC FanDome Event Read More
+    *   The Week in Movie News: Dave Franco to Portray Vanilla Ice, Cynthia Erivo Signs Up for a ‘Talent Show’ and More Read More
     
     Explore Content
     *   Movie Reviews
