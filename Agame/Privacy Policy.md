@@ -20,24 +20,24 @@ View more results
     *   Love Games
     *   Kids
     *   Beauty Games
-    *   Fashion Games
     *   Princess
+    *   Dating
     
     All Girls Best Games
     *   BFFs Dressing Room
     *   Goldie Princess: Skin Doctor
     *   Love Tester 3
     *   Dark Chocolate Blackberry Cheesecake: Sara's Cooking Class
-    *   Funny Throat Doctor
     *   Eli Beauty
+    *   Funny Throat Doctor
     *   Princess Hard Times
-    *   Crazy Animal Dentist
-    *   Cute Room Decoration
-    *   Bride and Bridesmaids Dress Up
     *   Beach Kiss
+    *   Crazy Animal Dentist
+    *   Bride and Bridesmaids Dress Up
     *   Papa's Cupcakeria
-    *   Ice Queen Fashion Day
     *   Hair Expert
+    *   Cute Room Decoration
+    *   Sweetland Salon
 *   Racing
     
     Top Categories
@@ -48,8 +48,8 @@ View more results
     *   Offroad Games
     *   Stunt Driving
     *   Motocross
-    *   Uphill Racing
     *   Boat Racing
+    *   Cycling
     
     All Racing Best Games
     *   Maximum Acceleration
@@ -58,12 +58,12 @@ View more results
     *   Off-Roader V6
     *   Xcross Madness
     *   Hill Racing Challenge
-    *   Madalin Cars Multiplayer
-    *   Horse Racing
     *   Moto X3m 2
-    *   Russian Car Driver
+    *   Horse Racing
+    *   Madalin Cars Multiplayer
     *   Truck Driver Crazy Road
     *   Off-Road Cycle 3D
+    *   Russian Car Driver
     *   Moto X3m 3
     *   ATV Quad Racing
 *   Puzzle
@@ -72,8 +72,8 @@ View more results
     
     *   Mobile
     *   Match 3
-    *   Hidden Objects
     *   Mahjong
+    *   Hidden Objects
     *   Bubble Shooter
     *   Brain Games
     *   Jewel Games
@@ -88,21 +88,21 @@ View more results
     *   Word Wipe
     *   Mahjong Link
     *   Farm Connect 2
-    *   Butterfly Kyodai HD
     *   1001 Arabian Nights
     *   Patterns Link
     *   Mystic Sea Treasures
+    *   Butterfly Kyodai HD
     *   Bubble Hit
     *   Mahjong Dimensions: 900 Seconds
 *   Shooting
     
     Top Categories
     
-    *   Sniper Games
     *   Gun
+    *   Sniper Games
     *   First-Person Shooter
-    *   Arrow Games
     *   Aim &. Shoot
+    *   Arrow Games
     *   Hunting Games
     *   Run &. Shoot
     *   Shoot &. Throw
@@ -112,16 +112,16 @@ View more results
     *   Archery World Tour
     *   Apple Shooter
     *   Deer Hunter
-    *   Tank Trouble 2
     *   Pixel Gun Apocalypse 3
-    *   Dead Paradise 3
+    *   Tank Trouble 2
     *   Army Force Strike
     *   CS Portable
+    *   Dead Paradise 3
     *   Save the Cowboy
-    *   Sniper Code
     *   Stickman Archer 2
+    *   Sniper Code
     *   Zombie Vacation: Survival Game
-    *   Toy Defense
+    *   SuperHOT
 *   Multiplayer
     
     Top Categories
@@ -132,8 +132,8 @@ View more results
     *   Qplay Games
     *   Multiplayer War
     *   Multiplayer Action 3D
-    *   Bomb It Games
     *   MMO
+    *   Bomb It Games
     
     All Multiplayer Best Games
     *   Subway Clash 3D
@@ -147,9 +147,9 @@ View more results
     *   Madalin Cars Multiplayer
     *   Stickman Fighter: Epic Battle
     *   Hole.io
-    *   Slither.io
     *   Naruto Online
-    *   Empire: World War 3
+    *   Multiplayer Piano
+    *   Slither.io
 *   Action
     
     Top Categories
@@ -160,35 +160,35 @@ View more results
     *   Fun
     *   Friv
     *   Y8 Games
-    *   Stickman
     *   Fighting
+    *   Stickman
     
     All Action Best Games
     *   Subway Clash 3D
     *   Short Life
     *   Apple Shooter
     *   Deer Hunter
-    *   Bomb It 6
     *   Stickman Fighter: Epic Battle
-    *   Tank Trouble 2
+    *   Bomb It 6
     *   Pixel Gun Apocalypse 3
-    *   Slither.io
     *   Naruto Online
+    *   Tank Trouble 2
+    *   Slither.io
+    *   Army Force Strike
     *   Age of War
     *   Hungry Hal
-    *   Army Force Strike
-    *   Murder
+    *   CS Portable
 *   Adventure
     
     Top Categories
     
     *   Scary Games
-    *   Horror Games
     *   Anime and Manga
+    *   Horror Games
     *   Escaping
     *   Detective Games
-    *   Point &. Click
     *   Trollface Quest Games
+    *   Point &. Click
     *   Platform Games
     
     All Adventure Best Games
@@ -200,10 +200,10 @@ View more results
     *   Dog Simulator: Puppy Craft
     *   Adam and Eve 2
     *   Troll Face Quest: Horror 2
-    *   Chrome Dino
     *   Adam and Eve
-    *   Rio Rex
+    *   Chrome Dino
     *   Adam and Eve 4
+    *   Rio Rex
     *   RoBBie
     *   Fireboy &. Watergirl 4: Crystal Temple
 *   More
