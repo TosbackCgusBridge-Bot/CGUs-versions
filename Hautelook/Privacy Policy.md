@@ -9,9 +9,31 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Skin Care ft. Mario Badescu Starting at $10
-    *   Hair Care We Love ft. Frederic Fekkai
+    *   Movado Watches
+    *   Boho Babe: ARATTA &. More Up to 70% Off
+    *   Summer Plus Styles Up to 70% Off
+    *   Retro Sunglasses &. More Up to 90% Off
+    *   Summer Petite Styles Up to 70% Off
+    *   Abound
+    *   Trendy Sneakers Up to 65% Off
+    *   Via Spiga Up to 70% Off
+    *   Men's Designer Styles Up to 80% Off
+    *   Lounge in Style: Alternative Under $30
+    *   Summer's Best: Intimates &. Sleep
+    *   Sport Coats for Him Under $200
+    *   Fragrances ft. Kim Kardashian &. Paris Hilton
+    *   Wedges Under $40
+    *   Jessica Simpson Handbags
+    *   Fresh Finds: Women's Shoes
+    *   Summer Luggage Under $100
+    *   Ben Sherman Up to 70% Off
+    *   Trending Now: Joe Fresh Kids Starting at $10
     *   Sagebrook Outdoor
+    
+    *   Pool Candy: Floats &. More from $20
+    *   Tech Accessories ft. Bands for Apple Watch
+    *   Hair Care We Love ft. Frederic Fekkai
+    *   Skin Care ft. Mario Badescu Starting at $10
     *   John Hardy Up to 50% Off
     *   Best Bags Up to 70% Off
     *   Dolce Vita Up to 70% Off
@@ -28,58 +50,46 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Twirl Worthy: Girls' Dresses Up to 65% Off
     *   Fun Character Shoes &. More ft. Josmo
     *   Kids' Roxy, Volcom &. More
-    *   Flats Under $30
-    *   Tech Accessories ft. Bands for Apple Watch
-    *   NYDJ Up to 75% Off Incl. Plus &. Petites
     
-    *   Women's Active Shoes ft. New Balance
-    *   Now &. Zen: Yogawear ft. Marika
-    *   Striped Dresses
-    *   Camis &. More Under $25 Incl. Plus
+    *   Flats Under $30
     *   Mini Melissa
     *   Men's Active Shoes ft. Hoka &. Brooks
     *   Curtains for Every Room
-    *   Adornia
-    *   Outfit Makers: Mules Up to 65% Off
-    *   In Bloom by Jonquil Under $30
     *   Street Ready: On-Trend Styles Up to 65% Off
     *   Champion Men Under $40
-    *   Melissa Up to 70% Off
     *   Summer Favorites: Kids' Styles, Toys &. More
-    *   Comfort Loafers &. More Up to 60% Off
-    *   Converse Men
-    *   Converse Women's
     *   Men's Designer Shoes Up to 70% Off
-    *   Diesel Men Up to 65% Off
-    *   Converse Kids
     *   Planters
-    *   Wall Decor from $20
-    
-    *   Road Trip Essentials for Kids
-    *   Converse Kids &. More
     *   Sagebrook Candles
     *   Back to Dorm Life
-    *   Gucci Sunglasses &. More Up to 70% Off
-    *   J.Crew
-    *   Lush Starting at $20
-    *   Designer Dresses Up to 75% Off
-    *   Casual Summer Tops Under $25 Incl. Plus
-    *   In Bloom: Floral Styles Up to 70% Off Incl. Plus
+    *   Anthropologie
+    *   Interior Illusion Home Decor
+    *   IT Cosmetics, Urban Decay, NARS &. MAC
+    *   Wall Decor from $20
+    *   Free Shipping: Storage for Every Room
     *   Stratton Home Wall Decor
     *   BergHOFF
     *   Pure Enrichment Air Purifiers &. Humidifiers
-    *   Gallery 57 Wall Art
-    *   Road Trip Essentials: Men's Styles Up to 75% Off
-    *   Interior Illusion Home Decor
-    *   Free Shipping: Storage for Every Room
-    *   IT Cosmetics, Urban Decay, NARS &. MAC
-    *   Exclusively Ours: Men's Shoes ft. Wallin &. Bros
-    *   Anthropologie
-    *   Home Organization
 *   WomenShop Sale Events
     
-    *   Skin Care ft. Mario Badescu Starting at $10
+    *   Movado Watches
+    *   Boho Babe: ARATTA &. More Up to 70% Off
+    *   Summer Plus Styles Up to 70% Off
+    *   Retro Sunglasses &. More Up to 90% Off
+    *   Summer Petite Styles Up to 70% Off
+    *   Abound
+    *   Trendy Sneakers Up to 65% Off
+    *   Via Spiga Up to 70% Off
+    *   Lounge in Style: Alternative Under $30
+    *   Summer's Best: Intimates &. Sleep
+    *   Fragrances ft. Kim Kardashian &. Paris Hilton
+    *   Wedges Under $40
+    *   Jessica Simpson Handbags
+    *   Fresh Finds: Women's Shoes
+    *   Summer Luggage Under $100
+    
     *   Hair Care We Love ft. Frederic Fekkai
+    *   Skin Care ft. Mario Badescu Starting at $10
     *   John Hardy Up to 50% Off
     *   Best Bags Up to 70% Off
     *   Dolce Vita Up to 70% Off
@@ -91,111 +101,98 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Skechers &. More Up to 60% Off
     *   Designer Belts ft. Moschino Up to 60% Off
     *   Flats Under $30
-    *   NYDJ Up to 75% Off Incl. Plus &. Petites
-    *   Women's Active Shoes ft. New Balance
-    *   Now &. Zen: Yogawear ft. Marika
-    
-    *   Striped Dresses
-    *   Camis &. More Under $25 Incl. Plus
-    *   Adornia
-    *   Outfit Makers: Mules Up to 65% Off
-    *   In Bloom by Jonquil Under $30
-    *   Melissa Up to 70% Off
-    *   Comfort Loafers &. More Up to 60% Off
-    *   Converse Women's
-    *   Gucci Sunglasses &. More Up to 70% Off
-    *   J.Crew
-    *   Lush Starting at $20
-    *   Designer Dresses Up to 75% Off
-    *   Casual Summer Tops Under $25 Incl. Plus
-    *   In Bloom: Floral Styles Up to 70% Off Incl. Plus
     *   IT Cosmetics, Urban Decay, NARS &. MAC
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
-    *   Accessories
-    *   Handbags
     *   Lingerie &. Shapewear
+    *   Handbags
+    *   Accessories
+    *   Jewelry
+    *   Watches
 *   MenShop Sale Events
     
+    *   Movado Watches
+    *   Retro Sunglasses &. More Up to 90% Off
+    *   Men's Designer Styles Up to 80% Off
+    *   Sport Coats for Him Under $200
+    *   Summer Luggage Under $100
+    *   Ben Sherman Up to 70% Off
     *   Brooks Brothers Men Up to 70% Off
+    
     *   Comfort at Home: Men's Shoes Up to 60% Off
     *   Keep It Comfy: Lounge for Him Up to 65% Off
     *   Men's Active Shoes ft. Hoka &. Brooks
     *   Street Ready: On-Trend Styles Up to 65% Off
     *   Champion Men Under $40
-    
-    *   Converse Men
     *   Men's Designer Shoes Up to 70% Off
-    *   Diesel Men Up to 65% Off
-    *   Gucci Sunglasses &. More Up to 70% Off
-    *   Road Trip Essentials: Men's Styles Up to 75% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
+    *   Watches
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Trending Now: Joe Fresh Kids Starting at $10
     *   Twirl Worthy: Girls' Dresses Up to 65% Off
     *   Fun Character Shoes &. More ft. Josmo
     *   Kids' Roxy, Volcom &. More
     *   Mini Melissa
     *   Summer Favorites: Kids' Styles, Toys &. More
-    *   Converse Kids
-    *   Road Trip Essentials for Kids
-    *   Converse Kids &. More
     
     Shop By Category
     *   Girls
     *   Boys
     *   Baby
     *   Girls' Shoes
-    *   Boys' Shoes
     *   Toys
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
     *   Sagebrook Outdoor
+    *   Pool Candy: Floats &. More from $20
     *   Tech Accessories ft. Bands for Apple Watch
     *   Curtains for Every Room
     *   Planters
-    *   Wall Decor from $20
     *   Sagebrook Candles
     *   Back to Dorm Life
-    *   Stratton Home Wall Decor
     
+    *   Anthropologie
+    *   Interior Illusion Home Decor
+    *   Wall Decor from $20
+    *   Free Shipping: Storage for Every Room
+    *   Stratton Home Wall Decor
     *   BergHOFF
     *   Pure Enrichment Air Purifiers &. Humidifiers
-    *   Gallery 57 Wall Art
-    *   Interior Illusion Home Decor
-    *   Free Shipping: Storage for Every Room
-    *   Anthropologie
-    *   Home Organization
     
     Shop By Category
     *   Home Decor
+    *   Electronic &. Tech Accessories
     *   Cleaning &. Organization
     *   Kitchen &. Tabletop
-    *   Electronic &. Tech Accessories
+    *   Luggage &. Travel
     *   Bath
-    *   Accent Furniture
     *   Bedding
     *   Outdoor Living
     *   Pet Accessories
     *   Holiday Decorations
 *   BeautyShop Sale Events
     
-    *   Skin Care ft. Mario Badescu Starting at $10
+    *   Fragrances ft. Kim Kardashian &. Paris Hilton
     *   Hair Care We Love ft. Frederic Fekkai
+    *   Skin Care ft. Mario Badescu Starting at $10
     *   IT Cosmetics, Urban Decay, NARS &. MAC
     
     Shop By Category
+    *   Skin Care
     *   Makeup
     *   Hair Care
-    *   Skin Care
+    *   Bath &. Body
     *   Tools &. Accessories
+    *   Men’s Grooming
+    *   Fragrance
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
