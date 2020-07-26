@@ -123,7 +123,7 @@ See More
 
 We're ready to become the Ghost with this close up look at the Sakai Mask and the #GhostofTsushima Collector's Edition:  https://play.st/2O3Bfm0  pic.twitter.com/3G1Vjk1fZt
 
-5 days ago View Tweet Instagram Post B\_S9EnBlFOY
+6 days ago View Tweet Instagram Post B\_S9EnBlFOY
 
 Ultra-Compact Body
 
