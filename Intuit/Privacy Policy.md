@@ -63,28 +63,12 @@ Comfy styles that are first in-class &. made to last.select styles
 
 Beauty (retail) therapyFreshen up your routine with faves fromSalon &. Sephora inside JCPenney.Haircare — go big or go homeStock up on all your value-sized faves.SEPHORA COLLECTION makeup, starting at $9select styles | Excluded from coupons.Shop Now Shop Now Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   SEPHORA COLLECTION #Eyestories Eyeshadow Palette
-    
-    $10
-    
-    80
-*   Clarks Womens Brinkley Jazz Flip-Flops
-    
-    $29.99sale
-    
-    ~$55~300
-*   Playtex 18 Hour® Comfort Strap® Wireless Comfort Full Coverage Bra-4693
-    
-    $19.99sale
-    
-    ~$36~5466
-*   Underscore Fashion Plus Comfort Lace Trim Wireless Unlined Full Coverage Bra $11.24with code~$30~425
-*   Nike® Reax Run Womens Running Shoes
-    
-    View Price in Cart
-    
-    60
-*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $31.49 - $47.24with code~$60 - $90~114
+*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.74with code~$32~14
+*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $3.74 - $22.49with code~$10 - $72~1708
+*   JCPenney Home Performance Bath Towel Collection $4.49 - $28.49with code~$10 - $76~369
+*   a.n.a Womens V Neck Sleeveless Tank Top $5.24with code~$13~22
+*   a.n.a Womens Short Sleeve T-Shirt $5.24with code~$13~26
+*   Liz Claiborne Womens Split Crew Neck Short Sleeve Henley Shirt $10.12with code~$27~30
 
 Shop and Save at JCPenney
 
