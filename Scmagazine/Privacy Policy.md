@@ -251,23 +251,23 @@ Extreme Engineering Solutions ensures compliance requirements while reducing man
     *   Emailed
     *   Recent
     
-    *   Covid-19 vaccines, economies in peril after Russian APT29 attacks
-    *   Chinese-made drone app may be spying on Americans
-    *   Critical SAP flaw puts 40,000 users at risk
+    *   To reduce security errors, employers must relieve stress and fatigue
+    *   CISOs value peer advice most when researching cyber solutions
     *   Biden's, Apple's Twitter hacked in cryptocurrency scam
-    *   More Chinese tax software found to dish out backdoor malware
-    
-    *   U.S. universities at risk of back-to-school and Covid-19 email fraud
-    *   Flaws in SETracker watch app posed danger to dementia patients
+    *   Twitter hackers accessed direct messages for 36 accounts
     *   Here are the hurdles that will face Biden’s new CISO
-    *   Fake Cisco switches provoked network failures
-    *   Biden's, Apple's Twitter hacked in cryptocurrency scam
     
+    *   Fast-charging hacks can melt phones, compromise firmware
+    *   5 Ways to Stay Safe on Tax Day
+    *   CFAA will harm security researchers, EFF tells SCOTUS
+    *   Revengeful hacker leaks database info after researcher threatens to reveal identities
+    *   Critical SAP flaw puts 40,000 users at risk
+    
+    *   DNA companies vulnerable to phishing, privacy violations after attacks
+    *   Cisco patches severe traversal vulnerability exploited in wild
+    *   Broadened CIA cyberattack powers put businesses on alert
     *   Chinese-made drone app may be spying on Americans
     *   Instacart customer accounts for sale on dark web
-    *   Apple to send research phones to trusted hackers
-    *   Twitter hackers accessed direct messages for 36 accounts
-    *   Dacls RAT's goals are to steal customer data and spread ransomware
 
 Back to Top
 
@@ -300,8 +300,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
 
 You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
