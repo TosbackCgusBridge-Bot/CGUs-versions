@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, July 26, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Monday, July 27, 2020  
 
 DEBKAfile
 
@@ -44,6 +44,22 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Ministers approve controversial covid-19 payout for every Israeli
+    
+    Jul 26, 2020 @ 17:11
+    
+*   Netanyahu and 3 co-defendants to appear in court on Dec. 6
+    
+    Jul 26, 2020 @ 16:50
+    
+*   Gamzu seeks to transfer key testing from Health Ministry to army
+    
+    Jul 26, 2020 @ 12:54
+    
+*   Nine coronavirus deaths overnight
+    
+    Jul 26, 2020 @ 12:37
+    
 *   Heightened alert on Israel’s northern borders
     
     Jul 25, 2020 @ 21:08
@@ -51,39 +67,15 @@ Breaking news
 *   Record increase in global coronavirus cases since April
     
     Jul 25, 2020 @ 15:32
-    
-*   Anti-government demos across the country
-    
-    Jul 25, 2020 @ 15:25
-    
-*   More government restrictions due Sunday as covid-19 cases continue to rise
-    
-    Jul 25, 2020 @ 15:18
-    
-*   IDF confirms helicopter strikes on Syrian military
-    
-    Jul 25, 2020 @ 08:43
-    
-*   Iran slams US fighter jet incident with airliner as “lawless”
-    
-    Jul 24, 2020 @ 17:37
     
 
-*   Anti-government demos across the country
+*   Gamzu seeks to transfer key testing from Health Ministry to army
     
-    Jul 25, 2020 @ 15:25
+    Jul 26, 2020 @ 12:54
     
-*   More government restrictions due Sunday as covid-19 cases continue to rise
+*   Nine coronavirus deaths overnight
     
-    Jul 25, 2020 @ 15:18
-    
-*   IDF confirms helicopter strikes on Syrian military
-    
-    Jul 25, 2020 @ 08:43
-    
-*   Iran slams US fighter jet incident with airliner as “lawless”
-    
-    Jul 24, 2020 @ 17:37
+    Jul 26, 2020 @ 12:37
     
 *   Heightened alert on Israel’s northern borders
     
@@ -93,21 +85,21 @@ Breaking news
     
     Jul 25, 2020 @ 15:32
     
-*   Anti-government demos across the country
+*   Ministers approve controversial covid-19 payout for every Israeli
     
-    Jul 25, 2020 @ 15:25
+    Jul 26, 2020 @ 17:11
     
-*   More government restrictions due Sunday as covid-19 cases continue to rise
+*   Netanyahu and 3 co-defendants to appear in court on Dec. 6
     
-    Jul 25, 2020 @ 15:18
+    Jul 26, 2020 @ 16:50
     
-*   IDF confirms helicopter strikes on Syrian military
+*   Gamzu seeks to transfer key testing from Health Ministry to army
     
-    Jul 25, 2020 @ 08:43
+    Jul 26, 2020 @ 12:54
     
-*   Iran slams US fighter jet incident with airliner as “lawless”
+*   Nine coronavirus deaths overnight
     
-    Jul 24, 2020 @ 17:37
+    Jul 26, 2020 @ 12:37
     
 *   Heightened alert on Israel’s northern borders
     
@@ -117,13 +109,21 @@ Breaking news
     
     Jul 25, 2020 @ 15:32
     
-*   Anti-government demos across the country
+*   Ministers approve controversial covid-19 payout for every Israeli
     
-    Jul 25, 2020 @ 15:25
+    Jul 26, 2020 @ 17:11
     
-*   More government restrictions due Sunday as covid-19 cases continue to rise
+*   Netanyahu and 3 co-defendants to appear in court on Dec. 6
     
-    Jul 25, 2020 @ 15:18
+    Jul 26, 2020 @ 16:50
+    
+*   Gamzu seeks to transfer key testing from Health Ministry to army
+    
+    Jul 26, 2020 @ 12:54
+    
+*   Nine coronavirus deaths overnight
+    
+    Jul 26, 2020 @ 12:37
     
 
 12PrevNext
