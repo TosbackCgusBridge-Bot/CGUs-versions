@@ -30,7 +30,7 @@ Skip to main content
     *   Symptom Checker
     *   WebMD Blogs
     *   Podcasts
-    *   Message Boards
+    *   Newsletters
     *   Questions &. Answers
     *   Insurance Guide
     *   Find a Doctor
@@ -119,7 +119,6 @@ Skip to main content
     
     Experts &. Community
     
-    *   Message Boards
     *   WebMD Blogs
     *   News Center
     
