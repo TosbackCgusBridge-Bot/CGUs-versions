@@ -18,11 +18,11 @@
     *   NOT SURE WHICH PRODUCT IS RIGHT FOR YOU?
     *   Take the Quiz
     
-    Seize your summer
-    
     NEW
     
     Fitbit Charge 4
+    
+    Fitbit Versa 2
     
     Accessories
     
