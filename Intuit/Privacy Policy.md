@@ -10,7 +10,7 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -52,6 +52,19 @@ Get a head start on meals for the week!
 *   Cutlery
     
 
+Shop AllUP TO 25% OFF Nike apparelGo longer, faster, higher
+
+*   Shop All
+
+*   Women
+    
+*   Men
+    
+*   Girls
+    
+*   Boys
+    
+
 Shop AllUP TO 25% OFF adidas and Champion for the familyselect styles | Excluded from coupons.Shop adidasShop ChampionUP TO 40% OFFXersion for the familyselect styles
 
 *   Shop Xersion
@@ -63,12 +76,20 @@ Comfy styles that are first in-class &. made to last.select styles
 
 Beauty (retail) therapyFreshen up your routine with faves fromSalon &. Sephora inside JCPenney.Haircare — go big or go homeStock up on all your value-sized faves.SEPHORA COLLECTION makeup, starting at $9select styles | Excluded from coupons.Shop Now Shop Now Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.74with code~$32~14
-*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $3.74 - $22.49with code~$10 - $72~1708
-*   JCPenney Home Performance Bath Towel Collection $4.49 - $28.49with code~$10 - $76~369
-*   a.n.a Womens V Neck Sleeveless Tank Top $5.24with code~$13~22
-*   a.n.a Womens Short Sleeve T-Shirt $5.24with code~$13~26
-*   Liz Claiborne Womens Split Crew Neck Short Sleeve Henley Shirt $10.12with code~$27~30
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+    
+    $20sale
+    
+    ~$124.98~135
+*   a.n.a Womens V Neck Sleeveless Tank Top $5.24with code~$13~24
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $5.24with code~$13~52
+*   Underscore Cushion Strap Wireless Unlined Full Coverage Bra-2788 $11.24with code~$30~666
+*   St. John's Bay Mid Rise Capris $9.74with code~$32~60
+*   Clarks Womens Brinkley Jazz Flip-Flops
+    
+    $29.99sale
+    
+    ~$55~301
 
 Shop and Save at JCPenney
 
