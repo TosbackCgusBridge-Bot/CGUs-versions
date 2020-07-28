@@ -10,6 +10,7 @@ Accept Decline
     *   Omniscope Evo
     *   Compare
     *   Pricing
+    *   Changelog
 *   Partners
 *   Resources
     *   Help Center
@@ -21,6 +22,7 @@ Accept Decline
     *   Custom Blocks
     *   Demos
     *   Download
+    *   COVID-19
 *   Support
 *   Contact Us
 *   Try now
@@ -31,6 +33,7 @@ Accept Decline
     *   Omniscope Evo
     *   Compare
     *   Pricing
+    *   Changelog
 *   Partners
 *   Resources
     *   Help Center
@@ -42,6 +45,7 @@ Accept Decline
     *   Custom Blocks
     *   Demos
     *   Download
+    *   COVID-19
 *   Support
 *   Contact Us
 *   Try now
