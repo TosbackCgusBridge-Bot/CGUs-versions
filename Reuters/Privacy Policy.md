@@ -16,7 +16,7 @@ Thomson Reuters LEGAL
     
     Featured
     
-    **Introducing Quick Check Quotation Analysis on Westlaw Edge** Gain unparalleled confidence in your work and easily spot errors or omissions in your opponents’ work. Learn more
+    **Westlaw Edge adds another game-changing feature** Quickly uncover weaknesses in your opponent’s argument with Quick Check Judicial on Westlaw Edge. See it first
 *   SolutionsSolutions Solutions
     
     *   Streamline legal research
