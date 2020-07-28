@@ -9,17 +9,19 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
-    *   The Big Ugly (2020)
-    *   The Rental (2020)
-    *   Tijuana Jackson: Purpose Over Prison
+    *   Cut Throat City
+    *   Gordon Lightfoot: If You Could Read My Mind
+    *   The Grizzlies
+    *   Killer Raccoons! 2! Dark Christmas in the Dark
+    *   Save Yourselves! (2020)
+    *   Summerland (2020)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Mulan (2020)
     *   Antebellum
     *   Bill &. Ted Face the Music
-    *   A Quiet Place Part II (2020)
+    *   Tenet
     *   The King's Man
     *   Wonder Woman 1984
     *   Candyman (2020)
