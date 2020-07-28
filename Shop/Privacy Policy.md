@@ -35,7 +35,7 @@ Lenovo Explore Close
         
         Back to School
         
-        Start your back to school shopping today + college students save an extra 8% off sitewide
+        Get excellent savings for school and keep your system protected with warranty discounts starting at 20%!
         
     *   Desktops
         
@@ -68,7 +68,7 @@ Lenovo Explore Close
         
         Back to School
         
-        Enjoy BIG deals on desktops including a special Nano offer worth $850 in savings!
+        Get A+ deals and enjoy savings starting at 20% on all warranties!
         
     *   Workstations
         
@@ -97,7 +97,7 @@ Lenovo Explore Close
         
         Back to School
         
-        Get the power you need with our wide selection of highly rated workstations. Enjoy savings now!
+        Get A+ deals and enjoy savings starting at 20% on all warranties!
         
     *   Tablets
         
@@ -324,7 +324,7 @@ Lenovo Explore Close
         
         Students save now
         
-        Start your back to school shopping today + college students save an extra 8% off sitewide
+        Get excellent savings for school and keep your system protected with warranty discounts starting at 20%!
         
 *   Phones
 *   Data Center
@@ -629,7 +629,7 @@ Lenovo Explore Close
 1-855-253-6686 option #2
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPRO For Small Business
     *   Learn more
@@ -717,7 +717,13 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
+
+Please add at least 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 Privacy Statement"/>.
 
@@ -1254,7 +1260,7 @@ Additional Motorola customer service information, including phone and chat conta
 
 Lenovo’s privacy statements have changed. Please click here to review our previous privacy statements.
 
-STAY CONNECTED Wrong Input × FacebookInstragramYouTubeTwitterFlickrForums Select Country/Region AlgeriaAngolaArgentinaAustraliaAustriaBahrainBangladeshBelarusBelgium - DutchBelgium - FrançaisBelizeBoliviaBotswanaBrazilBulgariaCanada - EnglishCanada - FrançaisChileChinaColombiaCosta RicaCote d'IvoireCroatiaCzech RepublicDenmarkDominican RepublicEcuadorEgypt - EnglishEgypt - العربيةEl SalvadorEstoniaFinlandFranceGermanyGhanaGreeceGuatemalaHondurasHong Kong S.A.R. of China - EnglishHong Kong S.A.R. of China - 繁體中文HungaryIndiaIndonesiaIrelandIsraelItalyJapanJordanKazakhstanKenyaKoreaKuwaitLatviaLebanonLibyan Arab JamahiriyaLithuaniaMacedoniaMalaysiaMexicoMoldovaMoroccoMozambiqueMyanmarNamibiaNetherlandsNew ZealandNicaraguaNigeriaNorwayOmanPakistanPanamaParaguayPeruPhilippinesPolandPortugalQatarRomaniaRussian FederationRwandaSaudi Arabia - EnglishSaudi Arabia - العربيةSerbiaSingaporeSlovakiaSloveniaSouth AfricaSpainSri LankaSwedenSwitzerland - EnglishSwitzerland - FrenchSwitzerland - GermanTaiwan RegionTanzaniaThailandTunisiaTurkeyUgandaUkraineUnited Arab Emirates - EnglishUnited Arab Emirates - العربيةUnited KingdomUnited StatesUruguayVenezuelaViet NamZambiaZimbabwe ABOUT LENOVO
+STAY CONNECTED Wrong Input × FacebookInstragramYouTubeTwitterFlickrForums Select Country/Region AlemaniaAlgeriaAngolaArgentinaAustraliaAustriaBahreinBangladeschBelarusBelgio - DutchBelgio - FrançaisBelizeBolivienBotswanaBrasileBulgariaCanada - EnglishCanada - FrançaisCileCinaColombiaCorea del SudCosta RicaCosta d'AvorioCroaziaDanimarcaEcuadorEgitto - EnglishEgitto - العربيةEl SalvadorEstoniaFilippineFinlandiaFranciaGhanaGiapponeGiordaniaGreciaGuatemalaHondurasHong Kong, regione ad amministrazione speciale (RAS) della Cina - EnglishHong Kong, regione ad amministrazione speciale (RAS) della Cina - 繁體中文IndiaIndonesienIrlandaIsraeleItaliaKasachstanKatarKeniaKuwaitLettlandLibanonLibyenLitauenMalesiaMarokkoMazedonienMessicoMoldawienMosambikMyanmarNamibiaNicaraguaNigeriaNorwegenNuova ZelandaOmanPaesi BassiPakistanPanamáParaguayPerùPolenPortugalRegione di TaiwanRegno UnitoRepubblica CecaRepública DominicanaRuandaRumänienRussische FöderationSambiaSaudi-Arabien - EnglishSaudi-Arabien - العربيةSerbienSimbabweSingaporeSlowakeiSlowenienSpagnaSri LankaStati Uniti d'AmericaSudafricaSueciaSvizzera - EnglishSvizzera - FrenchSvizzera - GermanTansaniaThailandiaTunesienTürkeiUgandaUkraineUngheriaUruguayVenezuelaVereinigte Arabische Emirate - EnglishVereinigte Arabische Emirate - العربيةViet Nam ABOUT LENOVO
 
 *   Our Company
 *   Smarter Technology For All
