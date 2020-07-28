@@ -195,13 +195,15 @@ VII. International Users
 
 The information we collect from users is processed and maintained in the United States, where privacy laws may not be as protective as in your home country. If you are using our Sites or Services from outside of the United States, by providing information to us you are consenting to the transfer of the information to the United States for processing in a manner consistent with this Policy. If you are accessing this website from a European Union member state, you have the right to object to the collection and processing of your personal data as set forth in this Privacy Policy, and if you wish to do so please notify us at privacy@support.netzero.com. Please bear in mind that if you object this may affect our ability to provide you with the Services.  
   
-**Opting Out of Targeted Advertisements**  
+**Opting Out of Targeted Advertisements** _Updated July 15, 2020_  
   
 Please click on the links below to identify those companies that have placed an advertising cookie on your computer, mobile device or other similar device, and to determine how to opt out from receiving targeted advertisements from those companies.  
   
 Digital Advertising Alliance: http://www.aboutads.info/choices  
   
 Network Advertising Initiative: http://www.networkadvertising.org/managing/opt\_out.asp  
+  
+Your Privacy Rights - Do Not Sell My Info: https://www.netzero.net/start/landing.do?page=www/legal/yourprivacyrights  
   
   
   
