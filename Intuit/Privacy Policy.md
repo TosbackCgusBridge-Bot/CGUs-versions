@@ -1,9 +1,8 @@
 Shop safe! Masks are required for anyone entering the store. Details  
-EXTRA 30% OFF $75+ with code: BIGDEAL9 Details  
-EXTRA 25% OFF under $75 with code: BIGDEAL9 Details  
-Free Shipping Over $49  DetailsBlack Friday in July is here! UP TO 60% OFF limited time only Shop All  
-Shop safe! Masks are required for anyone entering the store. Details  
-EXTRA 30% OFF $75+ with code: BIGDEAL9 Details  
+EXTRA 25% OFF $75+ with code: STOCKUP4 Details  
+EXTRA 20% OFF under $75 with code: STOCKUP4 Details  
+Free Shipping Over $49  DetailsShop safe! Masks are required for anyone entering the store. Details  
+EXTRA 25% OFF $75+ with code: STOCKUP4 Details  
 
 Enable Accessibility
 
@@ -24,35 +23,15 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Men's Dealsselect stylesWomen's Dealsselect stylesKids' Dealsselect stylesHome Dealsselect stylesUP TO 50% OFF Home SaleSnuggle up to savings on your best bed yet.  
-select styles  
+Men's St. John's Bay PoloMen's St. John's Bay PantsYoung Men'sArizona UniformsKids' IZOD UniformsWomen's St. John's Bay PoloAlfred DunnerLiz ClaiborneBath TowelKids' Novelty Graphic TeeWomen's BrasMen's UnderwearWomen's SocksKids' BasicsYoung Men's Graphic TeeMen's Haggar PantsMen's Dress PantsBig &. Tall Graphic Tee UP TO 50% OFF SUNNY TIME SOLUTIONSAll the bright moves to showcase your summer style.select styles
 
 *   Shop All
 
-*   Comforters &. Bedding Sets
-    
-*   Sheets
-    
-*   Pillows
-    
-*   Mattresses
-    
-
-Shop AllUP TO 40% OFF Kitchen essentials select styles  
-Get a head start on meals for the week!
+Casual Dresses Shorts TopsTanksEasy-peasy does itUP TO 50% OFFLooks for couch chillin' or backyard grillin'.select styles
 
 *   Shop All
 
-*   Air Fryers
-    
-*   Cookware
-    
-*   Coffee Makers
-    
-*   Cutlery
-    
-
-Shop AllUP TO 25% OFF Nike apparelGo longer, faster, higher
+ShirtsShorts SwimBig &. TallKitchen &. DiningWindowBeddingBathUP TO 25% OFF Nike apparelGo longer, faster, higher
 
 *   Shop All
 
@@ -65,31 +44,40 @@ Shop AllUP TO 25% OFF Nike apparelGo longer, faster, higher
 *   Boys
     
 
-Shop AllUP TO 25% OFF adidas and Champion for the familyselect styles | Excluded from coupons.Shop adidasShop ChampionUP TO 40% OFFXersion for the familyselect styles
+Shop AllWomenShoes for the FamilyMenKidsBeauty on a budgetDouble up the savings with all the essentials.$14.99 Matrix Total Results or Paul Mitchellvalue-size shampoos &. conditioners  
+select styles  
+SEPHORA COLLECTION skincare starting at $8select styles | Excluded from coupons.  Learn More  Shop Now
 
-*   Shop Xersion
+\*\*Buy one item at regular price, get the second item of equal or lesser value for 40% off, 50% off or free, while supplies last. Some items must be same category of merchandise or same gender.
 
-Starting at $12.99Nostalgic styles worthy of a repeatselect stylesShop nine(tees) favesHit rewind...with these old-school styles.Shop camo &. utility styles made for actionOutdoorsy prints...help you gear up for a season of adventure.50% OFF School uniforms  
-Comfy styles that are first in-class &. made to last.select styles
-
-*   Shop All
-
-Beauty (retail) therapyFreshen up your routine with faves fromSalon &. Sephora inside JCPenney.Haircare — go big or go homeStock up on all your value-sized faves.SEPHORA COLLECTION makeup, starting at $9select styles | Excluded from coupons.Shop Now Shop Now Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 14 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Recommended for You
 
 *   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
     $20sale
     
     ~$124.98~135
-*   a.n.a Womens V Neck Sleeveless Tank Top $5.24with code~$13~24
-*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $5.24with code~$13~52
-*   Underscore Cushion Strap Wireless Unlined Full Coverage Bra-2788 $11.24with code~$30~666
-*   St. John's Bay Mid Rise Capris $9.74with code~$32~60
-*   Clarks Womens Brinkley Jazz Flip-Flops
+*   SEPHORA COLLECTION #Eyestories Eyeshadow Palette
     
-    $29.99sale
+    $10
     
-    ~$55~301
+    80
+*   Playtex 18 Hour® Comfort Strap® Wireless Comfort Full Coverage Bra-4693
+    
+    $19.99sale
+    
+    ~$36~5481
+*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+    
+    $20sale
+    
+    ~$124.98~197
+*   Nike® Reax Run Womens Running Shoes
+    
+    View Price in Cart
+    
+    60
+*   Bali Double Support Comfort Wireless Comfort Full Coverage Bra-3820 $15.99with code~$40~1768
 
 Shop and Save at JCPenney
 
