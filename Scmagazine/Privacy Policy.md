@@ -251,17 +251,17 @@ Extreme Engineering Solutions ensures compliance requirements while reducing man
     *   Emailed
     *   Recent
     
-    *   Instacart customer accounts for sale on dark web
-    *   Huawei ban driven by security, trade considerations
-    *   Trump approved 2018 retaliatory cyberattack on Russia's IRA
-    *   Covid-19 vaccines, economies in peril after Russian APT29 attacks
-    *   Docker attackers devise clever technique to avoid detection
+    *   Twitter hack is a reminder of the dangers of unfettered employee access
+    *   Misconfigured S3 exposes Twilio users to Magecart attack
+    *   Apple to send research phones to trusted hackers
+    *   Fake Cisco switches provoked network failures
+    *   Biden's, Apple's Twitter hacked in cryptocurrency scam
     
-    *   CFAA will harm security researchers, EFF tells SCOTUS
-    *   EU court kills Privacy Shield, wreaks havoc on digital economy
-    *   Counterpoint: The hidden threat of facial recognition
-    *   How Do CCPA and GDPR Differ? CCPA Requires More Effective Data Management
-    *   5 Ways to Stay Safe on Tax Day
+    *   Why we must arm police with facial recognition systems
+    *   Trump commutes Roger Stone's sentence stemming from Mueller probe
+    *   DNA companies vulnerable to phishing, privacy violations after attacks
+    *   Adobe fixes 12 critical bugs in second round of July patches
+    *   Here are the hurdles that will face Biden’s new CISO
     
     *   DNA companies vulnerable to phishing, privacy violations after attacks
     *   Cisco patches severe traversal vulnerability exploited in wild
@@ -300,8 +300,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
