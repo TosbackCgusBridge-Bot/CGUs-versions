@@ -188,6 +188,7 @@ Close submenu ( Guys ) Guys
 *   Clearance Tees
 *   Tops
 *   Bottoms
+*   Accessories
 
 Buy 5+ Uniform Styles, Get 15% Off + Free Ship Over $50 Details
 
@@ -339,6 +340,7 @@ Menu Find a Store Aeropostale
         *   Clearance Tees
         *   Tops
         *   Bottoms
+        *   Accessories
 
 *   Select Country
 
