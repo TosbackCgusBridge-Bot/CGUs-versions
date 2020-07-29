@@ -18,7 +18,7 @@
 *   Careers
 *   Contact
 
-MetrixLab MetrixLab We help you make smarter business decisions faster. Stay close to your consumers as we navigate the new normal
+Home MetrixLab We help you make smarter business decisions faster. Stay close to your consumers as we navigate the new normal
 
 Having access to the latest research on consumer behavior and attitudes is more important than ever. Leverage our tracker data following the 12 month impact of COVID-19 to make the best decisions for your brand today.
 
