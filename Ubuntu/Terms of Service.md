@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical at KubeCon Europe Virtual 2020
 *   ﻿Simulate the TurtleBot3
 *   Complex problems, clever solutions – unique containers and virtualization snaps
-*   Design and Web team summary – 20th July 2020
