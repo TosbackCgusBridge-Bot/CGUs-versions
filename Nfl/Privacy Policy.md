@@ -8,7 +8,7 @@ We use our own and third-party cookies to improve your experience and our servic
 *   Players
 *   Stats
 *   Standings
-*   Draft
+*   Training Camp
 *   NFL Network
 *   Fantasy
 *   Tickets
