@@ -123,7 +123,7 @@ By using our resources, we make the world a better place. For example, data has 
 
 Your information helps us not only power your products and services, it helps us communicate service updates and offers. Data allows us to offer you our best products and services.
 
-We've recently updated our privacy policy. Learn more here. _Button Icon_ See the old policy here. _Button Icon_ ×Looking for the old Privacy Policy?
+×Looking for the old Privacy Policy?
 
 You can access our old PDF download here .
 
@@ -133,6 +133,7 @@ You can access our old PDF download here .
 *   We added a description of how we verify your identity before processing your request to access or delete your data.
 *   We added information about sources of data we collect and with whom we may share it.
 *   We describe how you can designate an authorized agent to make your requests.
+*   See the prior version of the Privacy Policy
 
 Looking for the full Privacy Policy?
 
