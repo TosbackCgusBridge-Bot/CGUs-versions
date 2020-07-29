@@ -314,7 +314,7 @@ Sign-Up for E-News Join the million supporters who stand with us in taking actio
 
 Please provide valid email address
 
-Join the million supporters who stand with us in taking action for our planet Sign Up Get text updates from The Nature Conservancy\*
+Join the million supporters who stand with us in taking action for our planet Sign Up Sign Up Sign Up Sign Up Get text updates from The Nature Conservancy\*
 
 Please provide valid mobile number
 
