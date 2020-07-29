@@ -93,7 +93,7 @@ Westlaw Today home page
 
 **Analysis with authority**
 
-Westlaw Today provides a matter of fact approach to news with content from a variety of sources, including articles from CCH, CQ Roll Call, Wolters Kluwer, and The Hill. No other provider has the same analysis and expert sources, including:
+Westlaw Today provides a matter of fact approach to news with content from a variety of sources, including articles from CQ Roll Call, The Hill and more. No other provider has the same analysis and expert sources, including:
 
 *   Reuters with 150 years of award-winning journalistic expertise
 *   Practical Law legal practice area updates
