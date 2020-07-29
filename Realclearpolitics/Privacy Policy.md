@@ -22,6 +22,7 @@ Subscribe Sign In
     *   Top Battlegrounds Average
     *   Trump Job Approval
     *   Biden, Trump Favorability
+    *   Fav/Unfavs vs. 2016
     *   All Election Polls
     *   State Polls
     *   Senate Polls
@@ -30,7 +31,9 @@ Subscribe Sign In
 *   Election 2020
     *   RCP Electoral Map
     *   No Toss Up Map
+    *   Top State Polls vs. 2016
     *   Latest Betting Odds
+    *   National Polls vs. 2016
     *   RCP Senate Map
     *   RCP House Map
     *   RCP Governors Map
@@ -85,6 +88,7 @@ Subscribe Sign In
         *   Top Battlegrounds Average
         *   Trump Job Approval
         *   Biden, Trump Favorability
+        *   Fav/Unfavs vs. 2016
         *   All Election Polls
         *   State Polls
         *   Senate Polls
@@ -93,7 +97,9 @@ Subscribe Sign In
     *   RCP Election 2020
         *   RCP Electoral Map
         *   No Toss Up Map
+        *   Top State Polls vs. 2016
         *   Latest Betting Odds
+        *   National Polls vs. 2016
         *   RCP Senate Map
         *   RCP House Map
         *   RCP Governors Map
