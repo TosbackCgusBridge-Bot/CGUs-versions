@@ -10,9 +10,7 @@ View Jobs Upload/Build Resume
     *   Salary Search
     *   Career Advice
 
-Sign In Sign Up For Employers <div class='bg-grey'>. <div class='container np center red b u'>This site requires JavaScript to work correctly. Please, activate it in the options of your browser.</div>. </div>. Looking for a job during the Coronavirus outbreak? Job Title Commute Time US
-
-Search Jobs What job do you want? Post a Job COVID-19 Job Support Resources For Job Seekers For Employers Find out which companies are hiring! Upload your resume or build one in 3 easy steps. Upload/Build Resume Find out which companies are hiring! Upload your resume or build one in 3 easy steps. Upload/Build Resume don't know where to start? Trending Searches COVID Warehouse Work from home Amazon Remote Accounting Customer Service Human Resources Administrative Assistant Receptionist View more job titles over 100 million jobs Top Hiring Companies View More Top Companies making your job search easy How CareerBuilder can help Salary Tools
+Sign In Sign Up For Employers <div class='bg-grey'>. <div class='container np center red b u'>This site requires JavaScript to work correctly. Please, activate it in the options of your browser.</div>. </div>. Looking for a job during the Coronavirus outbreak? Job Title Commute Time US Search Jobs What job do you want? Post a Job COVID-19 Job Support Resources For Job Seekers For Employers Find out which companies are hiring! Upload your resume or build one in 3 easy steps. Upload/Build Resume Find out which companies are hiring! Upload your resume or build one in 3 easy steps. Upload/Build Resume don't know where to start? Trending Searches COVID Warehouse Work from home Amazon Remote Accounting Customer Service Human Resources Administrative Assistant Receptionist View more job titles over 100 million jobs Top Hiring Companies View More Top Companies making your job search easy How CareerBuilder can help Salary Tools
 
 See how your salary compares to others with the same job title in your area. Not only can you compare your salary, but you can also see what skills you are missing to earn more money.
 
@@ -36,7 +34,7 @@ Instant Notifications
 
 You'll receive push notifications when your resume is viewed, or when new jobs appear in your most recent search. Making it easy for you to jump right back into your job search.
 
-see how you can up your career status Career Development &. Learning Companies hiring now - for 80,000 jobs Read Article Companies hiring this week (July 13) Read Article Job Trends Well-paying jobs that you can get right out of high school Read Article Read More Articles Employers Looking to Post a Job?
+see how you can up your career status Career Development &. Learning Employees can shape diversity and inclusion at work - here's how Read Article How company culture can impact your career Read Article Companies hiring now - for 80,000 jobs Read Article Read More Articles Employers Looking to Post a Job?
 
 We have end-to-end solutions that can keep up with you and your standards.
 
