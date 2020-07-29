@@ -9,16 +9,32 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   BergHOFF Kitchen Blowout
+    *   Duck River Pet-Friendly Covers, Beds &. More
+    *   UGG Shoes &. Accessories Up to 55% Off
+    *   Trending Now: Designer Sunglasses ft. Givenchy
+    *   UGG Kids
+    *   UGG Men Up to 55% Off
+    *   Casual Dresses Under $35
+    *   Linen, Lace &. More Up to 70% Off Incl. Plus
+    *   Shorts &. More Under $40 Incl. Plus
+    *   Knit Tops &. More Under $25 Incl. Plus
+    *   Women's Shoes Under $25
+    *   Lace Up &. Go: Women's Sneakers
+    *   Suit Separates Under $100
+    *   UGG Sleep &. Lounge
+    *   Boys' Active Styles Up to 60% Off
+    *   Men's Lounge ft. UGG
+    *   Girls' Active Styles Up to 60% Off
     *   Vince Up to 70% Off
     *   Vince Shoes Up to 60% Off
+    
     *   Vince Men's Clothing &. Shoes Up to 65% Off
     *   Back to Work: Totes, Shoulder Bags &. More
     *   Casual Shorts, Pants &. More Under $40 Incl. Plus
     *   Summer Steals Up to 70% Off Incl. Plus &. Petites
-    *   One-Piece Wonders: Bodysuits Starting at $15
-    *   Makeup ft. Laura Mercier &. Laura Geller
     *   Onia Men Up to 75% Off
-    *   Free Shipping: Pillows &. Throws
+    *   One-Piece Wonders: Bodysuits Starting at $15
     *   Pelle Moda &. More Up to 70% Off
     *   On-Trend Shoes ft. Chase &. Chloe from $20
     *   TOMS Men Starting at $20
@@ -26,101 +42,58 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Tea Collection Starting at $10
     *   Best of Sets Starting at $10
     *   Hudson Kids Up to 55% Off
-    *   Summer Luggage Under $100
-    *   Casual Summer Basics Under $20 Incl. Plus
+    *   Makeup ft. Laura Mercier &. Laura Geller
+    *   Free Shipping: Pillows &. Throws
     *   Summer Active Styles Up to 70% Off
     *   Women's Shoe Blowout
     *   Men's Sneakers &. More Up to 70% Off
     *   Alexis Bittar Blowout
     
-    *   London Times &. Maggy London
-    *   Summer Tops Up to 70% Off Incl. Plus &. Petites
-    *   Cropped Pants &. More Up to 70% Off Incl. Plus
-    *   Summer Splash: Cover-Ups &. Swim Up to 70% Off
-    *   Sandals Up to 65% Off
-    *   Slip-On Sneakers Under $40
-    *   Hit Snooze: Sleep &. Lounge Faves Up to 70% Off
-    *   Marc Fisher LTD Up to 70% Off
-    *   Citizen Watches ft. Eco-Drive
     *   Men's Tees Starting at $15
     *   Men's Boots Up to 65% Off
     *   Baby Essentials ft. DockATot
     *   Kids' Sneakers ft. Champion
-    *   Boho Babe: ARATTA &. More Up to 70% Off
-    *   Summer Plus Styles Up to 70% Off
-    *   Trendy Sneakers Up to 65% Off
-    *   Via Spiga Up to 70% Off
-    *   Men's Designer Styles Up to 80% Off
-    *   Lounge in Style: Alternative Under $30
-    *   Summer Petite Styles Up to 70% Off
-    *   Abound
-    *   Sport Coats for Him Under $200
     *   Fragrances ft. Kim Kardashian &. Paris Hilton
-    
-    *   Summer's Best: Intimates &. Sleep
     *   Pool Candy: Floats &. More from $20
-    *   Fresh Finds: Women's Shoes
+    *   Summer's Best: Intimates &. Sleep
     *   Ben Sherman Up to 70% Off
-    *   Trending Now: Joe Fresh Kids Starting at $10
-    *   Wedges Under $40
-    *   Jessica Simpson Handbags
     *   Sagebrook Outdoor
     *   Hair Care We Love ft. Frederic Fekkai
-    *   Retro Sunglasses &. More Up to 90% Off
-    *   Tech Accessories ft. Bands for Apple Watch
-    *   Wall Decor from $20
-    *   Comfort at Home: Men's Shoes Up to 60% Off
     *   Skin Care ft. Mario Badescu Starting at $10
     *   Curtains for Every Room
     *   Planters
-    *   Sagebrook Candles
-    *   Back to Dorm Life
-    *   Anthropologie
-    *   Interior Illusion Home Decor
-    *   Free Shipping: Storage for Every Room
+    *   Tech Accessories ft. Bands for Apple Watch
     *   Men's Swim Blowout
     *   Men's Premium Denim Up to 80% Off
+    *   Wall Decor from $20
 *   WomenShop Sale Events
     
+    *   UGG Shoes &. Accessories Up to 55% Off
+    *   Trending Now: Designer Sunglasses ft. Givenchy
+    *   Casual Dresses Under $35
+    *   Linen, Lace &. More Up to 70% Off Incl. Plus
+    *   Shorts &. More Under $40 Incl. Plus
+    *   Knit Tops &. More Under $25 Incl. Plus
+    *   Women's Shoes Under $25
+    *   Lace Up &. Go: Women's Sneakers
+    *   UGG Sleep &. Lounge
     *   Vince Up to 70% Off
     *   Vince Shoes Up to 60% Off
     *   Back to Work: Totes, Shoulder Bags &. More
     *   Casual Shorts, Pants &. More Under $40 Incl. Plus
+    
     *   Summer Steals Up to 70% Off Incl. Plus &. Petites
     *   One-Piece Wonders: Bodysuits Starting at $15
-    *   Makeup ft. Laura Mercier &. Laura Geller
     *   Pelle Moda &. More Up to 70% Off
     *   On-Trend Shoes ft. Chase &. Chloe from $20
     *   Best of Sets Starting at $10
-    *   Summer Luggage Under $100
-    *   Casual Summer Basics Under $20 Incl. Plus
+    *   Makeup ft. Laura Mercier &. Laura Geller
     *   Summer Active Styles Up to 70% Off
     *   Women's Shoe Blowout
     *   Alexis Bittar Blowout
-    *   London Times &. Maggy London
-    *   Summer Tops Up to 70% Off Incl. Plus &. Petites
-    *   Cropped Pants &. More Up to 70% Off Incl. Plus
-    *   Summer Splash: Cover-Ups &. Swim Up to 70% Off
-    *   Sandals Up to 65% Off
-    
-    *   Slip-On Sneakers Under $40
-    *   Hit Snooze: Sleep &. Lounge Faves Up to 70% Off
-    *   Marc Fisher LTD Up to 70% Off
-    *   Citizen Watches ft. Eco-Drive
-    *   Boho Babe: ARATTA &. More Up to 70% Off
-    *   Summer Plus Styles Up to 70% Off
-    *   Trendy Sneakers Up to 65% Off
-    *   Via Spiga Up to 70% Off
-    *   Lounge in Style: Alternative Under $30
-    *   Summer Petite Styles Up to 70% Off
-    *   Abound
     *   Fragrances ft. Kim Kardashian &. Paris Hilton
     *   Summer's Best: Intimates &. Sleep
-    *   Fresh Finds: Women's Shoes
-    *   Wedges Under $40
-    *   Jessica Simpson Handbags
     *   Hair Care We Love ft. Frederic Fekkai
-    *   Retro Sunglasses &. More Up to 90% Off
     *   Skin Care ft. Mario Badescu Starting at $10
     
     Shop By Category
@@ -130,91 +103,83 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Lingerie &. Shapewear
     *   Jewelry
     *   Accessories
-    *   Watches
 *   MenShop Sale Events
     
+    *   Trending Now: Designer Sunglasses ft. Givenchy
+    *   UGG Men Up to 55% Off
+    *   Suit Separates Under $100
+    *   Men's Lounge ft. UGG
     *   Vince Men's Clothing &. Shoes Up to 65% Off
     *   Onia Men Up to 75% Off
     *   TOMS Men Starting at $20
-    *   Summer Luggage Under $100
+    
     *   Men's Sneakers &. More Up to 70% Off
-    *   Citizen Watches ft. Eco-Drive
     *   Men's Tees Starting at $15
     *   Men's Boots Up to 65% Off
-    
-    *   Men's Designer Styles Up to 80% Off
-    *   Sport Coats for Him Under $200
     *   Ben Sherman Up to 70% Off
-    *   Retro Sunglasses &. More Up to 90% Off
-    *   Comfort at Home: Men's Shoes Up to 60% Off
     *   Men's Swim Blowout
     *   Men's Premium Denim Up to 80% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Watches
     *   Accessories
 *   KidsShop Sale Events
     
+    *   UGG Kids
+    *   Boys' Active Styles Up to 60% Off
+    *   Girls' Active Styles Up to 60% Off
     *   TOMS Kids
     *   Tea Collection Starting at $10
     *   Hudson Kids Up to 55% Off
     *   Baby Essentials ft. DockATot
     *   Kids' Sneakers ft. Champion
-    *   Trending Now: Joe Fresh Kids Starting at $10
     
     Shop By Category
     *   Girls
     *   Baby
     *   Girls' Shoes
-    *   Boys' Shoes
     *   Boys
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   BergHOFF Kitchen Blowout
+    *   Duck River Pet-Friendly Covers, Beds &. More
     *   Free Shipping: Pillows &. Throws
     *   Pool Candy: Floats &. More from $20
     *   Sagebrook Outdoor
+    *   Curtains for Every Room
+    *   Planters
     *   Tech Accessories ft. Bands for Apple Watch
     *   Wall Decor from $20
-    *   Curtains for Every Room
-    
-    *   Planters
-    *   Sagebrook Candles
-    *   Back to Dorm Life
-    *   Anthropologie
-    *   Interior Illusion Home Decor
-    *   Free Shipping: Storage for Every Room
     
     Shop By Category
     *   Home Decor
-    *   Luggage &. Travel
     *   Electronic &. Tech Accessories
-    *   Cleaning &. Organization
+    *   Pet Accessories
     *   Kitchen &. Tabletop
     *   Rugs &. Doormats
     *   Outdoor Living
-    *   Bath
-    *   Bedding
-    *   Pet Accessories
-    *   Holiday Decorations
+    *   Cleaning &. Organization
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
-    *   Makeup ft. Laura Mercier &. Laura Geller
     *   Best of Sets Starting at $10
+    *   Makeup ft. Laura Mercier &. Laura Geller
     *   Fragrances ft. Kim Kardashian &. Paris Hilton
     *   Hair Care We Love ft. Frederic Fekkai
     *   Skin Care ft. Mario Badescu Starting at $10
     
     Shop By Category
+    *   Makeup
     *   Skin Care
     *   Fragrance
     *   Hair Care
     *   Bath &. Body
     *   Tools &. Accessories
     *   Men’s Grooming
-    *   Makeup
     *   Nails
+    *   Makeup Bags
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
