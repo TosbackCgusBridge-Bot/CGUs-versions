@@ -2,7 +2,7 @@
 
 *   Seeking Alpha
 
-Sign inProMarketplaceSubscribe
+Sign inPROMARKETPLACESUBSCRIBE
 
 *   Premium
     
