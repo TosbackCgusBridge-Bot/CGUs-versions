@@ -393,7 +393,7 @@ Everything
 Shop 100s Of Styles Just Dropped  
 &. Our Need Now Aero Shorts!
 
-**Girls 🔥 Shorts Deals $11.87 &. Up** **Guys 🔥 Shorts Deals $11.87 &. Up** Shop Girls Shop Guys Shop Girls Shop Guys **Girls 🔥 Shorts Deals $15.87 &. Under** **Guys 🔥 Shorts Deals $19.87 &. Under** Previous
+**Girls 🔥 Shorts Deals $11.87 &. Up** **Guys 🔥 Shorts Deals $11.87 &. Up** Shop Girls Shop Guys Shop Girls Shop Guys **Girls 🔥 Shorts Deals $11.87 &. Up** **Guys 🔥 Shorts Deals $11.87 &. Up** Previous
 
 Super High Rise
 
@@ -466,7 +466,7 @@ Shop 🔥 Shorts Deals before they're gone!
 Shop 🔥 Shorts Deals  
 before they're gone!
 
-**$ 15.87 &. Under**
+**$11.87 &. Up**
 
 $11.87 &. Up
 
@@ -476,7 +476,7 @@ Crave-worthy comfort denim.
 Flawless fits. Curve-accentuating stretch.  
 Crave-worthy comfort denim.
 
-Girls Shorts **Girls 🔥 Shorts Deals $15.87 &. Under** Previous
+Girls Shorts **Girls 🔥Shorts Deals $11.87 &. Up** Previous
 
 Long Board Chino
 
@@ -518,7 +518,7 @@ Next
 
 Shop 🔥 Shorts Deals before they're gone!
 
-**$ 19.87 &. Under**
+**Shorts $11.87 &. Up**
 
 Shop 🔥 Shorts Deals  
 before they're gone!
@@ -528,7 +528,7 @@ $11.87 &. Up
 Everyday comfort. Cool distressed details.  
 Updated with stretch—for freedom that moves you.
 
-Guys Shorts **Guys 🔥 Shorts Deals $19.87 &. Under**
+Guys Shorts **Guys 🔥Shorts Deals $11.87 &. Up**
 
 Denim For  
 Days.
