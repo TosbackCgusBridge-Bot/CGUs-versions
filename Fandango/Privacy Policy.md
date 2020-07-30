@@ -31,7 +31,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     *   Watch Trailers on MovieClips
     *   Top Box Office
     *   New For Streaming
-*   Movie Times + Tickets Where are you located? Here are our top cities
+*   Theaters + Tickets Where are you located? Here are our top cities
     
     *   New York, NY
     *   Los Angeles, CA
