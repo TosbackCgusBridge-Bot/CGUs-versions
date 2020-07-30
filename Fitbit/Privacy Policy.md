@@ -460,4 +460,4 @@ HEALTH SOLUTIONS
 
 ©2020 Fitbit, Inc. All rights reserved
 
-United States <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1505598476417668&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2614274860968&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src=" https://ct.pinterest.com/v3/?tid=2614274860968&amp;event=pagevisit&amp;noscript=1">.
+United States
