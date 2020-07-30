@@ -320,6 +320,6 @@ Please provide valid mobile number
 
 Get text updates from The Nature Conservancy\* GLOBAL SITES Australia Brazil Canada China India Indonesia Mexico Hong Kong: English 中文
 
-The Nature Conservancy is a nonprofit, tax-exempt charitable organization (tax identification number 53-0242652) under Section 501(c)(3) of the Internal Revenue Code. Donations are tax-deductible as allowed by law.
+The Nature Conservancy is a nonprofit, tax-exempt charitable organization (tax identification number 53-0242652) under Section 501(c)(3) of the U.S. Internal Revenue Code. Donations are tax-deductible as allowed by law. Global sites represent either regional branches of The Nature Conservancy or local affiliates of The Nature Conservancy that are separate entities.
 
 © 2020 The Nature Conservancy Terms of Use | Privacy Statement | Charitable Solicitation Disclosures | \*Mobile Terms &. Conditions |
