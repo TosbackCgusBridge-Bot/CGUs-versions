@@ -1,13 +1,13 @@
 Shop safe! Masks are required for anyone entering the store. Details  
 EXTRA 25% OFF $75+ with code: STOCKUP4 Details  
 EXTRA 20% OFF under $75 with code: STOCKUP4 Details  
-Free Shipping Over $49  DetailsFamily Swimwear Flash Sale EXTRA 50% OFF w/ code: ACTNOW24 Details  
+Free Shipping Over $49  DetailsUP TO 50% OFF Sitewide savings galore! Shop All  
 Shop safe! Masks are required for anyone entering the store. Details  
 EXTRA 25% OFF $75+ with code: STOCKUP4 Details  
 
 Enable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Sign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
     *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
@@ -24,15 +24,15 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Women's BrasMen's St. John's Bay PoloYoung Men'sArizona UniformsKids' IZOD UniformsKids' Novelty Graphic TeeAlfred DunnerLiz ClaiborneBath TowelMen's St. John's Bay PantsWomen's St. John's Bay PoloMen's UnderwearKids' BasicsWomen's SocksYoung Men's Graphic TeeBig &. Tall Graphic TeeMen's Haggar PantsMen's Dress Pants UP TO 50% OFF SUNNY TIME SOLUTIONSAll the bright moves to showcase your summer style.select styles
+Women's BrasMen's St. John's Bay PoloYoung Men'sArizona UniformsKids' IZOD UniformsKids' Novelty Graphic TeeAlfred DunnerLiz ClaiborneBath TowelMen's St. John's Bay PantsWomen's St. John's Bay PoloMen's UnderwearKids' BasicsWomen's SocksYoung Men's Graphic TeeBig &. Tall Graphic TeeMen's Haggar PantsMen's Dress PantsBackpacksYoung MenJuniorsKidsDormHomeschooling UP TO 50% OFF All the bright moves to showcase your summer style.select styles
 
 *   Shop All
 
-Casual Dresses Shorts TopsTanksEasy-peasy does itUP TO 50% OFFLooks for couch chillin' or backyard grillin'.select styles
+Casual Dresses Shorts TopsTanksUP TO 50% OFFLooks for couch chillin' or backyard grillin'.select styles
 
 *   Shop All
 
-ShirtsShorts SwimBig &. TallKitchen &. DiningWindowBeddingBathBackpacksYoung MenJuniorsKidsDormHomeschoolingUP TO 25% OFF Nike apparelGo longer, faster, higher
+ShirtsShorts SwimBig &. TallKitchen &. DiningWindowBeddingBathUP TO 25% OFF Nike apparelGo longer, faster, higher
 
 *   Shop All
 
@@ -58,33 +58,27 @@ Recommended for You
     $20sale
     
     ~$124.98~135
-*   Nike® Reax Run Womens Running Shoes
-    
-    View Price in Cart
-    
-    60
 *   Playtex 18 Hour® Comfort Strap® Wireless Comfort Full Coverage Bra-4693
     
     $19.99sale
     
-    ~$36~5481
-*   SEPHORA COLLECTION #Eyestories Eyeshadow Palette
-    
-    $10
-    
-    80
+    ~$36~5488
 *   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $20sale
     
     ~$124.98~197
-*   Liz Claiborne Classics Bath Towel
+*   SEPHORA COLLECTION #Eyestories Eyeshadow Palette
     
-    BUY 1 GET 1 FOR FREE
+    $10
     
-    $10 - $18
+    81
+*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $27.99 - $50.39with code~$50 - $90~226
+*   Home Expressions Lisette Rod-Pocket Sheer Panel
     
-    29
+    $4.99 - $19.99sale
+    
+    ~$16 - $40~1241
 
 Shop and Save at JCPenney
 
@@ -153,4 +147,4 @@ Download Our App
 *   Legal
 *   AdChoices
 
-© JCP Media, Inc. 2020.  All Rights ReservedCoupons
+© JCP Media, Inc. 2020.  All Rights ReservedCoupons Sorry! We’re having a problem playing this video.
