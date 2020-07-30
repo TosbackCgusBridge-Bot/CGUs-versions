@@ -477,6 +477,8 @@ Other Toyota Sites
     
 *   TRD USA  
     
+*   Toyota IP Solutions  
+    
 
 *   **Toyota Owners**  
     **Buy a Toyota**  
@@ -1553,7 +1555,7 @@ The use of Olympic Marks, Terminology and Imagery is authorized by the U.S. Olym
 *   57\. EPA-estimated 67 city/67 hwy/67 combined MPGe for 2020 Mirai. MPGe is the EPA-equivalent of gasoline fuel efficiency for electric-mode operation. EPA-estimated 67 city/67 highway/67 combined miles per kilogram. Use for comparison purposes only. Your MPGe/miles per kilogram will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 *   58\. EPA-estimated 31 city/38 hwy/34 combined mpg for 2021 Corolla XSE. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 *   59\. EPA-estimated 53 city/52 hwy/52 combined mpg for 2021 Corolla Hybrid LE. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
-*   60\. EPA-estimated 22 city/30 hwy/25 combined mpg for 2021 GR Supra 3.0, 3.0 Premium and A91 Edition. EPA estimates for 2021 GR Supra 2.0 not available at time of posting. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
+*   60\. EPA-estimated 22 city/30 hwy/25 combined mpg for 2021 GR Supra 3.0, 3.0 Premium and A91 Edition. EPA-estimated 25 city/32 hwy/28 combined mpg for 2021 GR Supra 2.0. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 *   61\. EPA-estimated 94 combined MPGe for 2021 RAV4 Prime. MPGe is the EPA-equivalent of gasoline fuel efficiency for electric operation. Manufacturer-estimated 38 combined gas-only mpg. Use for comparison purposes only. Your MPGe/MPG will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 *   62\. EPA-estimated 30 city/38 hwy/33 combined mpg for 2021 Corolla Hatchback XSE CVT. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 *   63\. EPA-estimated 54 city/50 hwy/52 combined mpg for 2021 Prius LE, XLE and Limited. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
