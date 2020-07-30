@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Mitigating BootHole – ‘There’s a hole in the boot’ – CVE-2020-10713 and related vulnerabilities
 *   Canonical at KubeCon Europe Virtual 2020
 *   ﻿Simulate the TurtleBot3
-*   Complex problems, clever solutions – unique containers and virtualization snaps
