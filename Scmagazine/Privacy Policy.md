@@ -251,23 +251,23 @@ Extreme Engineering Solutions ensures compliance requirements while reducing man
     *   Emailed
     *   Recent
     
-    *   Misconfigured S3 exposes Twilio users to Magecart attack
-    *   5 Ways to Translate Security Data into Actionable Business Insight
-    *   U.K. Covid-19 Test and Trace violated GDPR
-    *   Broadened CIA cyberattack powers put businesses on alert
-    *   Microsoft sounds alarm to fix wormable bug "SIGRed"
-    
-    *   Winning business: CISOs chime in on the cyber vendor 'dating game'
-    *   Critical VPN vulnerabilities pose danger to OT networks
-    *   Apple to send research phones to trusted hackers
-    *   Critical SAP flaw puts 40,000 users at risk
+    *   Justice charges Chinese nationals in hacking campaign
+    *   Chinese-made drone app may be spying on Americans
     *   Legacy ICS puts critical infrastructure at risk
+    *   Winning business: CISOs chime in on the cyber vendor 'dating game'
+    *   Cisco patches severe traversal vulnerability exploited in wild
     
+    *   Leaked videos offer rare behind-the-scenes look at Iranian APT operation
+    *   Rise in DDoS attacks lost in pandemic
+    *   Winning business: CISOs chime in on the cyber vendor 'dating game'
+    *   Biden will punish foreign election interference, hacking
+    *   DNA companies vulnerable to phishing, privacy violations after attacks
+    
+    *   Nefilim gang leaks files stolen from Dussmann Group subsidiary
+    *   Botnet abuses Docker servers and crypto blockchain to deliver Doki backdoor
     *   ‘Boothole’ threatens billions of Linux, Windows devices
     *   Dating app OKCupid fixed serious security vulnerability after alert
     *   Avon attackers may have exploited unprotected web server
-    *   Hackers could exploit iDRAC flaw to control EMC PowerEdge servers
-    *   Critical VPN vulnerabilities pose danger to OT networks
 
 Back to Top
 
@@ -300,8 +300,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
