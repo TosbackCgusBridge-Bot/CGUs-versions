@@ -10,7 +10,7 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -24,11 +24,13 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Women's BrasMen's St. John's Bay PoloYoung Men'sArizona UniformsKids' IZOD UniformsKids' Novelty Graphic TeeAlfred DunnerLiz ClaiborneBath TowelMen's St. John's Bay PantsWomen's St. John's Bay PoloMen's UnderwearKids' BasicsWomen's SocksYoung Men's Graphic TeeBig &. Tall Graphic TeeMen's Haggar PantsMen's Dress PantsBackpacksYoung MenJuniorsKidsDormHomeschooling UP TO 50% OFF All the bright moves to showcase your summer style.select styles
+$19.99Women's Sandalsselect styles**After coupon $15.99\***$8.99Men's St. John's Bay Poloselect styles**After coupon $7.19\***$12.99 Women's Xersion Tees or Shortsselect styles**After coupon $10.39\***$14.99Guys' Arizona Flat-Front Shortsselect styles**After coupon $11.99\***$5.99Kids' Arizona Graphic Teeselect styles**After coupon $4.79\***$79.99Cooks 4.3-Qt. Stainless SteelAir Fryer**After coupon $71.99\***$19.99JCPenney Home 300TC Ultra-softCotton Twin Sheet Set**After coupon $15.99\***$39.99Black + Decker 4-slice Toaster**After coupon $35.99\*** **\*Coupon required.** Some restrictions and exclusions apply. See coupon for details. Prices shown reflect coupon discount.Women's BrasYoung Men'sArizona UniformsKids' IZOD UniformsKids' Novelty Graphic TeeAlfred DunnerLiz ClaiborneBath TowelMen's St. John's Bay PantsWomen's St. John's Bay PoloMen's UnderwearKids' BasicsWomen's SocksYoung Men's Graphic TeeBig &. Tall Graphic TeeMen's Haggar PantsMen's Dress PantsBackpacksYoung MenJuniorsKidsDormHomeschoolingBright moves to showcaseyour summer style,UP TO 50% OFF  
+select styles
 
 *   Shop All
 
-Casual Dresses Shorts TopsTanksUP TO 50% OFFLooks for couch chillin' or backyard grillin'.select styles
+Casual Dresses Shorts TopsTanksLooks for couch chillin' or backyard grillin', UP TO 50% OFF  
+select styles
 
 *   Shop All
 
@@ -45,40 +47,28 @@ ShirtsShorts SwimBig &. TallKitchen &. DiningWindowBeddingBathUP TO 25% OFF Nik
 *   Boys
     
 
-Shop AllWomenShoes for the FamilyMenKidsBeauty on a budgetDouble up the savings with all the essentials.$14.99 Matrix Total Results or Paul Mitchellvalue-size shampoos &. conditioners  
+Shop AllUP TO 30% OFF Looks that are ALL THATScore great deals on these top picks.Shop '90s Nostalgiaselect stylesShop Camo &. Utilityselect stylesBeauty on a budgetDouble up the savings with all the essentials.$12.99 Matrix Total Resultsvalue-size shampoos &. conditioners  
 select styles  
-SEPHORA COLLECTION skincare starting at $8select styles | Excluded from coupons.  Learn More  Shop Now
+SEPHORA COLLECTION skincare starting at $8select styles | Excluded from coupons.Learn MoreShop Now
 
 \*\*Buy one item at regular price, get the second item of equal or lesser value for 50% off or free, while supplies last. Some items must be same category of merchandise or same gender.
 
-Recommended for You
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 20 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+*   Underscore Fashion Plus Comfort Lace Trim Wireless Unlined Full Coverage Bra $13.59with code~$30~427
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver $15with code~$124.98~135
+*   Clarks Womens Brinkley Jazz Flip-Flops
     
-    $20sale
+    $29.99sale
     
-    ~$124.98~135
-*   Playtex 18 Hour® Comfort Strap® Wireless Comfort Full Coverage Bra-4693
+    ~$55~306
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $6.39with code~$13~60
+*   Nike® Reax Run Womens Running Shoes
     
-    $19.99sale
+    View Price in Cart
     
-    ~$36~5488
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~197
-*   SEPHORA COLLECTION #Eyestories Eyeshadow Palette
-    
-    $10
-    
-    81
-*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $27.99 - $50.39with code~$50 - $90~226
-*   Home Expressions Lisette Rod-Pocket Sheer Panel
-    
-    $4.99 - $19.99sale
-    
-    ~$16 - $40~1241
+    60
+*   St. John's Bay Womens Mid Rise 11" Bermuda Short $10.39with code~$32~14
 
 Shop and Save at JCPenney
 
