@@ -187,6 +187,6 @@ Sitemap
 
 © 2020 AT&T Intellectual Property. All rights reserved.
 
-1 / 1 + Updates to the Privacy Policy for AT&T Inc. Websites
+\+ Updates to the Privacy Policy for AT&T Inc. Websites
 
 We updated our website privacy policy on July 1, 2020. The update allows us to use your web browser’s location to display localized content like outage notifications. Your web browser will ask your permission in a pop-up message before location is used. You can revoke this permission at any time in your browser settings.
