@@ -9,8 +9,24 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Limited-Time Deals Up to 65% Off
+    *   Protective Mask Sets
+    *   Premium Denim Up to 70% Off
+    *   Flowy Tops Under $30 Incl. Plus
+    *   Summer Finds Under $30 Incl. Plus
+    *   Summer Active Essentials Up to 70% Off
+    *   Drybar
+    *   Work in Comfort: Men's Shoes Up to 60% Off
+    *   Robert Graham Up to 65% Off
+    *   Wall Art for Every Room
+    *   Tee Off: Men's Golf Starting at $10
+    *   Keep Cozy Going: Women's Slippers
+    *   Trend Sneakers Up to 65% Off
+    *   Leather Bags ft Robert Graham
+    *   Puddle Jumpers ft. Hunter
+    *   Seychelles Up to 65% Off
+    *   Top Toys Starting at $10
     *   Tie-Dye Active &. More ft. Sage Collective
+    
     *   True Religion Men Up to 70% Off
     *   Summer Tees &. More Under $40 Incl. Plus
     *   Suzy Levian
@@ -27,49 +43,38 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Overstock Wall Art- Christmas in July
     *   BergHOFF Kitchen Blowout
     *   Duck River Pet-Friendly Covers, Beds &. More
-    
     *   UGG Shoes &. Accessories Up to 55% Off
-    *   Trending Now: Designer Sunglasses ft. Givenchy
+    
     *   UGG Kids
     *   UGG Men Up to 55% Off
-    *   Casual Dresses Under $35
-    *   Linen, Lace &. More Up to 70% Off Incl. Plus
-    *   Shorts &. More Under $40 Incl. Plus
-    *   Knit Tops &. More Under $25 Incl. Plus
-    *   Women's Shoes Under $25
-    *   Lace Up &. Go: Women's Sneakers
     *   Suit Separates Under $100
     *   UGG Sleep &. Lounge
     *   Boys' Active Styles Up to 60% Off
     *   Men's Lounge ft. UGG
     *   Girls' Active Styles Up to 60% Off
-    *   Vince Up to 70% Off
-    *   Vince Shoes Up to 60% Off
-    *   Vince Men's Clothing &. Shoes Up to 65% Off
-    
-    *   Onia Men Up to 75% Off
     *   TOMS Men Starting at $20
-    *   TOMS Kids
-    *   Tea Collection Starting at $10
     *   Best of Sets Starting at $10
-    *   Hudson Kids Up to 55% Off
     *   Makeup ft. Laura Mercier &. Laura Geller
     *   Free Shipping: Pillows &. Throws
-    *   Men's Sneakers &. More Up to 70% Off
-    *   Summer's Best: Intimates &. Sleep
-    *   Men's Boots Up to 65% Off
-    *   Fragrances ft. Kim Kardashian &. Paris Hilton
     *   Pool Candy: Floats &. More from $20
     *   Sagebrook Outdoor
-    *   Curtains for Every Room
     *   Tech Accessories ft. Bands for Apple Watch
-    *   Summer Steals Up to 70% Off Incl. Plus &. Petites
-    *   Summer Active Styles Up to 70% Off
+    *   Linen, Lace &. More Up to 70% Off Incl. Plus
 *   WomenShop Sale Events
     
-    *   Limited-Time Deals Up to 65% Off
+    *   Protective Mask Sets
+    *   Premium Denim Up to 70% Off
+    *   Flowy Tops Under $30 Incl. Plus
+    *   Summer Finds Under $30 Incl. Plus
+    *   Summer Active Essentials Up to 70% Off
+    *   Drybar
+    *   Keep Cozy Going: Women's Slippers
+    *   Trend Sneakers Up to 65% Off
+    *   Leather Bags ft Robert Graham
+    *   Seychelles Up to 65% Off
     *   Tie-Dye Active &. More ft. Sage Collective
     *   Summer Tees &. More Under $40 Incl. Plus
+    
     *   Suzy Levian
     *   Utilize These: Trench Coats Up to 70% Off
     *   Woven Tops Under $40 Incl. Plus &. Petites
@@ -77,105 +82,89 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   To the Point: Pointed-Toe Shoes
     *   AllSaints Up to 60% Off
     *   UGG Shoes &. Accessories Up to 55% Off
-    *   Trending Now: Designer Sunglasses ft. Givenchy
-    *   Casual Dresses Under $35
-    *   Linen, Lace &. More Up to 70% Off Incl. Plus
-    
-    *   Shorts &. More Under $40 Incl. Plus
-    *   Knit Tops &. More Under $25 Incl. Plus
-    *   Women's Shoes Under $25
-    *   Lace Up &. Go: Women's Sneakers
     *   UGG Sleep &. Lounge
-    *   Vince Up to 70% Off
-    *   Vince Shoes Up to 60% Off
     *   Best of Sets Starting at $10
     *   Makeup ft. Laura Mercier &. Laura Geller
-    *   Summer's Best: Intimates &. Sleep
-    *   Fragrances ft. Kim Kardashian &. Paris Hilton
-    *   Summer Steals Up to 70% Off Incl. Plus &. Petites
-    *   Summer Active Styles Up to 70% Off
+    *   Linen, Lace &. More Up to 70% Off Incl. Plus
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie &. Shapewear
-    *   Accessories
     *   Jewelry
+    *   Accessories
     *   Handbags
+    *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
-    *   Limited-Time Deals Up to 65% Off
+    *   Protective Mask Sets
+    *   Robert Graham Up to 65% Off
+    *   Tee Off: Men's Golf Starting at $10
+    *   Leather Bags ft Robert Graham
     *   True Religion Men Up to 70% Off
     *   Backyard Fun: Men's Styles Up to 60% Off
-    *   Trending Now: Designer Sunglasses ft. Givenchy
     *   UGG Men Up to 55% Off
     *   Suit Separates Under $100
-    
     *   Men's Lounge ft. UGG
-    *   Vince Men's Clothing &. Shoes Up to 65% Off
-    *   Onia Men Up to 75% Off
     *   TOMS Men Starting at $20
-    *   Men's Sneakers &. More Up to 70% Off
-    *   Men's Boots Up to 65% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
+    *   Accessories
 *   KidsShop Sale Events
     
-    *   Limited-Time Deals Up to 65% Off
+    *   Puddle Jumpers ft. Hunter
+    *   Top Toys Starting at $10
     *   Girls' Dresses Up to 65% Off
     *   Fancy Fun: Kids' Dress Shoes
     *   UGG Kids
     *   Boys' Active Styles Up to 60% Off
     *   Girls' Active Styles Up to 60% Off
-    *   TOMS Kids
-    *   Tea Collection Starting at $10
-    *   Hudson Kids Up to 55% Off
     
     Shop By Category
     *   Girls
-    *   Boys
+    *   Toys
     *   Girls' Shoes
-    *   Baby
+    *   Boys
     *   Boys' Shoes
+    *   Baby
 *   HomeShop Sale Events
     
-    *   Limited-Time Deals Up to 65% Off
+    *   Wall Art for Every Room
     *   Zojirushi Rice Cookers &. More
     *   Flora Bunda Planters
     *   Overstock Wall Art- Christmas in July
     *   BergHOFF Kitchen Blowout
     *   Duck River Pet-Friendly Covers, Beds &. More
-    
     *   Free Shipping: Pillows &. Throws
     *   Pool Candy: Floats &. More from $20
     *   Sagebrook Outdoor
-    *   Curtains for Every Room
     *   Tech Accessories ft. Bands for Apple Watch
     
     Shop By Category
     *   Home Decor
-    *   Electronic &. Tech Accessories
     *   Kitchen &. Tabletop
+    *   Electronic &. Tech Accessories
     *   Pet Accessories
     *   Rugs &. Doormats
     *   Outdoor Living
     *   Luggage &. Travel
     *   Holiday Decorations
+    *   Bath
 *   BeautyShop Sale Events
     
-    *   Limited-Time Deals Up to 65% Off
+    *   Drybar
     *   Best of Sets Starting at $10
     *   Makeup ft. Laura Mercier &. Laura Geller
-    *   Fragrances ft. Kim Kardashian &. Paris Hilton
     
     Shop By Category
     *   Makeup
-    *   Fragrance
     *   Skin Care
+    *   Fragrance
     *   Nails
     *   Men’s Grooming
+    *   Hair Care
+    *   Tools &. Accessories
     *   Makeup Bags
     *   Bath &. Body
 
@@ -331,8 +320,9 @@ Effective Date
 
 This Policy is effective December 31, 2019.
 
-FacebookTwitterPinterestInstagramSnapchatiPhoneiPadAndroid
+Connect With Us:FacebookTwitterPinterestInstagramYouTubeDownload our Apps:iPhoneiPadAndroid
 
+*   Events
 *   All Events
 *   Women
 *   Men
@@ -350,11 +340,13 @@ FacebookTwitterPinterestInstagramSnapchatiPhoneiPadAndroid
 *   Profile
 
 *   About
+*   About Our Brand
 *   Careers
 *   The Nordy Club
 *   Big Brothers Big Sisters
 *   Donate Clothes
 *   Pride Shop
+*   See You Tomorrow: A Resale Shop
 *   Gift Cards
 
 *   Member Care
@@ -366,7 +358,13 @@ FacebookTwitterPinterestInstagramSnapchatiPhoneiPadAndroid
 *   Live Chat
 *   Give Us Feedback
 
-Terms &. ConditionsYour Privacy RightsInterest Based AdsCalifornia Supply Chains ActDo Not Sell My Info© 2020 HauteLook | A Nordstrom CompanyNordstromNordstrom RackHauteLookInvite a Friend, Get $20
+*   Terms &. Conditions
+*   Your Privacy Rights
+*   Interest Based Ads
+*   California Supply Chains Act
+*   Do Not Sell My Info
+
+© 2020 HauteLook | A Nordstrom CompanyNordstromNordstrom RackHauteLookInvite a Friend, Get $20
 
 Get a $20 credit each time a friend you invite makes their first purchase. Limited time only. Terms &. Conditions
 
