@@ -1,6 +1,6 @@
 Privacy Policy
 
-Effective Date: July 23, 2020
+Effective Date: July 31, 2020
 
   
 
@@ -57,7 +57,7 @@ We may combine the information collected from you through the Services with info
   
 Use and Disclosure of Personal Information
 
-We use your personal information to respond to your requests, such as to fulfill your order, contact you with information about your order, send you email alerts, send you newsletters, and to provide you with related customer service. We may also use your information to send marketing communications and administrative information to you, including through the use of push notifications in our apps. Manage subscription services, including order management, billing, improving reorder experiences, communicate with you about your account, and offer other products and services that may be of interest to you.
+We use your personal information to respond to your requests, such as to fulfill your order, contact you with information about your order, send you email alerts, send you newsletters, and to provide you with related customer service. We may also use your information to send marketing communications and administrative information to you, including through the use of push notifications in our apps. Manage subscription services, including order management, billing, improving reorder experiences, communicate with you about your account, and offer other products and services that may be of interest to you. We may also use your photos in communications we send to you, customized product recommendations, and other marketing.
 
   
 
