@@ -196,7 +196,7 @@ We treat the data of everyone who comes to This Website in accordance with this 
 
  California Privacy Notice Addendum
 
-**Effective Date: January 1, 2020**
+**Effective Date: July 31, 2020**
 
 This California Privacy Notice (this “**CA Notice**”) Addendum supplements, and supersedes where in conflict, the polices provided in the general Privacy Notice for Thryv, Inc. (“**Company**,” “**we**,” or “**Thryv**”), above, and applies solely to persons who are residents of the State of California (“you” or “Consumer”). We provide this CA Notice to comply with the requirements of the California Consumer Privacy Act of 2018, as amended (“**CCPA**”) as to rights afforded to California residents by the CCPA, and any other applicable California privacy laws. Any terms defined in the CCPA, including which California residents are included in the definition of “Consumer” and what types of data are considered “Personal Information,” have the same meaning when used in this CA Notice.
 
@@ -311,10 +311,15 @@ To exercise the access, portable data, and deletion rights described above, plea
 
 Your verifiable consumer request must:
 
-*   Provide sufficient identifying information to allow us to reasonably verify you are the person about whom we collected and retained Personal Information, and/or your authority to make such request on behalf of the data subject, and
+*   Provide sufficient identifying information (including full name, postal address, and email address) to allow us to reasonably verify you are the person about whom we collected and retained Personal Information, and/or your authority to make such request on behalf of the data subject, and
 *   Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
 
 Note that we will only use Personal Information provided in a verifiable consumer request to verify the requestor’s identity or authority to make the request or to review and comply with the request.
+
+You may authorize someone to act as your agent and submit a request on your behalf. Due to the sensitivity of such requests, you must verify the agent’s authorization before we will act. Accordingly:
+
+*   You must supply written permission for a specific agent to act on your behalf. and
+*   We will use your email address to connect directly with you to verify agent identity and authority.
 
 We cannot respond to your request or provide you with Personal Information if we cannot verify your identity or authority to make the request and confirm with a level of confidence appropriate to the sensitivity of the information that the Personal Information we have collected and retained in our systems and databases relates to you.
 
@@ -378,7 +383,7 @@ Thryv reserves the right to amend this CA Notice at our discretion and at any ti
 
 **Contact Information**
 
-If you have any questions or comments about this notice, the ways in which Thryv collects and uses your information described in this CA Notice, your choices and rights regarding such use, or wish to exercise your rights under California law, please do not hesitate to contact us at:
+If you have any questions or comments about this notice, the ways in which Thryv collects and uses your information described in this CA Notice, your choices and rights regarding such use, please do not hesitate to contact us at:
 
 **Email:** privacy@thryv.com
 
@@ -388,8 +393,6 @@ Thryv, Inc., Attn.: Privacy/Legal Department
 D/FW Airport, TX 75261-9810
 
 **Phone: 1-877-380-1838**
-
-**Website:** https://corporate.thryv.com/privacy-CCPA
 
 Products
 
@@ -458,4 +461,4 @@ Contact Us
 *   Social Media Disclaimer
 *   Directory Opt-Out
 
-©2020 Thryv, Inc. All rights reserved.
+©2020 Thryv, Inc. All rights reserved. ××
