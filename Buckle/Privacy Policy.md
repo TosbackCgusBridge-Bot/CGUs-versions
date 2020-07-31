@@ -372,6 +372,7 @@ SearchSubmitTerms &. Conditions
 *   Sweepstakes Official Rules
 *   Accessibility Policy
 *   Buckle Gift Card Terms
+*   First Purchase Offer
 
 Services
 
