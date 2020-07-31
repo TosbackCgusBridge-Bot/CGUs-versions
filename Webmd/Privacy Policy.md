@@ -155,7 +155,6 @@ Policies
 
 Important Information &. FAQs
 
-*   Message Board Overview
 *   Site Security
 *   Spam FAQs
 *   How to Change Your Profile Settings
