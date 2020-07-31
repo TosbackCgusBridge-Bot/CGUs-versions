@@ -379,13 +379,15 @@ More Inclusive Future. Learn More
 
 Next
 
-🔥 Shorts Deals are Back For a Limited TIme!
+🔥 Shorts Deals Extended!
 
 50-70% Off Everything
 
 Shop 100s Of Styles Just Dropped &. Our Need Now Aero Shorts!
 
-🔥 Shorts Deals are Back For a Limited TIme!
+\*Exclusions Apply
+
+🔥 Shorts Deals Extended!
 
 50-70% Off  
 Everything
@@ -393,7 +395,59 @@ Everything
 Shop 100s Of Styles Just Dropped  
 &. Our Need Now Aero Shorts!
 
-**Girls 🔥 Shorts Deals $11.87 &. Up** **Guys 🔥 Shorts Deals $11.87 &. Up** Shop Girls Shop Guys Shop Girls Shop Guys **Girls 🔥 Shorts Deals $11.87 &. Up** **Guys 🔥 Shorts Deals $11.87 &. Up** Previous
+\*Exclusions Apply
+
+**Girls 🔥 Shorts Deals $11.87 &. Up** **Guys 🔥 Shorts Deals $11.87 &. Up** Shop Girls Shop Guys Shop Girls Shop Guys **Girls 🔥 Shorts Deals $15.87 &. Under** **Guys 🔥 Shorts Deals $19.87 &. Under**
+
+Aero Best  
+Sellers
+
+Your favorite Aero styles are  
+back by popular demand!
+
+Shop Girls Best Sellers Shop Guys Best Sellers
+
+Aero Best Sellers
+
+Your favorite Aero styles are  
+back by popular demand!
+
+LOVE THESE SHORTS
+
+"I am obsessed, they fit  
+perfect :)" -Katie
+
+LOVE THESE SHORTS
+
+“It’s the softest material, and  
+is soo adorable” – E.M.
+
+LOVE THESE SHORTS
+
+“Loveee. The fit is so nice and  
+the length is perfect” – Kay
+
+LOVE THESE SHORTS
+
+“So cute! It fits perfectly and has  
+a very soft fabric” - Nelly
+
+LOVE THESE SHORTS
+
+“Would 10/10 recommend  
+to a friend” – John
+
+LOVE THESE SHORTS
+
+“I have finally found the perfect  
+pair of cargo shorts”
+
+LOVE THESE SHORTS
+
+“The only thing I hear are  
+compliments”
+
+Shop Girls Best Sellers Shop Guys Best Sellers Previous
 
 Super High Rise
 
@@ -466,7 +520,7 @@ Shop 🔥 Shorts Deals before they're gone!
 Shop 🔥 Shorts Deals  
 before they're gone!
 
-**$11.87 &. Up**
+**$ 15.87 &. Under**
 
 $11.87 &. Up
 
@@ -476,7 +530,7 @@ Crave-worthy comfort denim.
 Flawless fits. Curve-accentuating stretch.  
 Crave-worthy comfort denim.
 
-Girls Shorts **Girls 🔥Shorts Deals $11.87 &. Up** Previous
+Girls Shorts **Girls 🔥 Shorts Deals $15.87 &. Under** Previous
 
 Long Board Chino
 
@@ -518,7 +572,7 @@ Next
 
 Shop 🔥 Shorts Deals before they're gone!
 
-**Shorts $11.87 &. Up**
+**$ 19.87 &. Under**
 
 Shop 🔥 Shorts Deals  
 before they're gone!
@@ -528,7 +582,7 @@ $11.87 &. Up
 Everyday comfort. Cool distressed details.  
 Updated with stretch—for freedom that moves you.
 
-Guys Shorts **Guys 🔥Shorts Deals $11.87 &. Up**
+Guys Shorts **Guys 🔥 Shorts Deals $19.87 &. Under**
 
 Denim For  
 Days.
