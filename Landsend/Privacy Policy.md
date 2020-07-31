@@ -30,7 +30,7 @@ Lands' End let's get comfy™ Sign In menu
 
 Receive up to 60% off your order!
 
-code: RAIN pin: PROMOTION DETAILS
+code: DIVE pin: PROMOTION DETAILS
 
 Customer Service Menu
 
