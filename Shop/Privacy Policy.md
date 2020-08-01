@@ -629,7 +629,7 @@ Lenovo Explore Close
 1-855-253-6686 option #2
 
 *   Search
-*   icon-compare0 Compare Compare (0)
+
 *   LenovoPro
     *   Sign In To LenovoPRO For Small Business
     *   Learn more
@@ -717,13 +717,7 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
-
-Please add at least 2 products for compare
-
-Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
-
-Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
 Privacy Statement"/>.
 
@@ -1260,7 +1254,7 @@ Additional Motorola customer service information, including phone and chat conta
 
 Lenovo’s privacy statements have changed. Please click here to review our previous privacy statements.
 
-STAY CONNECTED Wrong Input × FacebookInstragramYouTubeTwitterFlickrForums Select Country/Region AlemaniaAlgeriaAngolaArgentinaAustraliaAustriaBahreinBangladeschBelarusBelgio - DutchBelgio - FrançaisBelizeBolivienBotswanaBrasileBulgariaCanada - EnglishCanada - FrançaisCileCinaColombiaCorea del SudCosta RicaCosta d'AvorioCroaziaDanimarcaEcuadorEgitto - EnglishEgitto - العربيةEl SalvadorEstoniaFilippineFinlandiaFranciaGhanaGiapponeGiordaniaGreciaGuatemalaHondurasHong Kong, regione ad amministrazione speciale (RAS) della Cina - EnglishHong Kong, regione ad amministrazione speciale (RAS) della Cina - 繁體中文IndiaIndonesienIrlandaIsraeleItaliaKasachstanKatarKeniaKuwaitLettlandLibanonLibyenLitauenMalesiaMarokkoMazedonienMessicoMoldawienMosambikMyanmarNamibiaNicaraguaNigeriaNorwegenNuova ZelandaOmanPaesi BassiPakistanPanamáParaguayPerùPolenPortugalRegione di TaiwanRepubblica CecaRepública DominicanaRuandaRumänienRussische FöderationSambiaSaudi-Arabien - EnglishSaudi-Arabien - العربيةSerbienSimbabweSingaporeSlowakeiSlowenienSpagnaSri LankaStati Uniti d'AmericaSudafricaSueciaSvizzera - EnglishSvizzera - FrenchSvizzera - GermanTansaniaThailandiaTunesienTürkeiUgandaUkraineUngheriaUnited KingdomUruguayVenezuelaVereinigte Arabische Emirate - EnglishVereinigte Arabische Emirate - العربيةViet Nam ABOUT LENOVO
+STAY CONNECTED Wrong Input × FacebookInstragramYouTubeTwitterFlickrForums Select Country/Region AlemaniaAlgeriaAngolaArgentinaAustraliaAustriaBahreinBangladeschBelarusBelgio - DutchBelgio - FrançaisBelizeBolivienBotswanaBrasileBulgariaCanada - EnglishCanada - FrançaisCileCinaColombiaCorea del SudCosta RicaCosta d'AvorioCroaziaDanimarcaEcuadorEgitto - EnglishEgitto - العربيةEl SalvadorEstoniaFilippineFinlandiaFranciaGhanaGiordaniaGreciaGuatemalaHondurasHong Kong, regione ad amministrazione speciale (RAS) della Cina - EnglishHong Kong, regione ad amministrazione speciale (RAS) della Cina - 繁體中文IndiaIndonesienIrlandaIsraeleItaliaJapanKasachstanKatarKeniaKuwaitLettlandLibanonLibyenLitauenMalesiaMarokkoMazedonienMessicoMoldawienMosambikMyanmarNamibiaNicaraguaNigeriaNorwegenNuova ZelandaOmanPaesi BassiPakistanPanamáParaguayPerùPolenPortugalRegione di TaiwanRepubblica CecaRepública DominicanaRuandaRumänienRussische FöderationSambiaSaudi-Arabien - EnglishSaudi-Arabien - العربيةSerbienSimbabweSingaporeSlowakeiSlowenienSpagnaSri LankaStati Uniti d'AmericaSudafricaSueciaSvizzera - EnglishSvizzera - FrenchSvizzera - GermanTansaniaThailandiaTunesienTürkeiUgandaUkraineUngheriaUnited KingdomUruguayVenezuelaVereinigte Arabische Emirate - EnglishVereinigte Arabische Emirate - العربيةViet Nam ABOUT LENOVO
 
 *   Our Company
 *   Smarter Technology For All
