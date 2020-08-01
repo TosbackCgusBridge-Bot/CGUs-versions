@@ -9,8 +9,23 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Rails Up to 60% Off
+    *   Theory Up to 70% Off
+    *   New On HauteLook: Journee Collection
+    *   Theory Men Up to 65% Off
+    *   Step into Comfort: Shoes from $40
+    *   LeSportsac Under $100
+    *   Staycation Styles Under $25 Incl. Plus
+    *   Socialite
+    *   Sterling Silver Jewelry ft. Suzy Levian
+    *   Home Organization starting at $15
+    *   Booties Up to 70% Off
+    *   Cool Looks for Kids ft. O'Neill
+    *   Keep it Casual: Men's Sneakers Under $30
+    *   Summer Solutions: Bralettes Starting at $12
     *   Protective Mask Sets
     *   Premium Denim Up to 70% Off
+    
     *   Flowy Tops Under $30 Incl. Plus
     *   Summer Finds Under $30 Incl. Plus
     *   Summer Active Essentials Up to 70% Off
@@ -25,87 +40,73 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Puddle Jumpers ft. Hunter
     *   Seychelles Up to 65% Off
     *   Top Toys Starting at $10
-    *   Tie-Dye Active &. More ft. Sage Collective
-    
     *   True Religion Men Up to 70% Off
-    *   Summer Tees &. More Under $40 Incl. Plus
     *   Suzy Levian
-    *   Utilize These: Trench Coats Up to 70% Off
-    *   Woven Tops Under $40 Incl. Plus &. Petites
-    *   Casual Bottoms Under $35 Incl. Plus
+    
     *   Zojirushi Rice Cookers &. More
     *   Flora Bunda Planters
-    *   To the Point: Pointed-Toe Shoes
-    *   AllSaints Up to 60% Off
     *   Backyard Fun: Men's Styles Up to 60% Off
     *   Girls' Dresses Up to 65% Off
     *   Fancy Fun: Kids' Dress Shoes
     *   Overstock Wall Art- Christmas in July
     *   BergHOFF Kitchen Blowout
     *   Duck River Pet-Friendly Covers, Beds &. More
-    *   UGG Shoes &. Accessories Up to 55% Off
-    
-    *   UGG Kids
-    *   UGG Men Up to 55% Off
-    *   Suit Separates Under $100
-    *   UGG Sleep &. Lounge
-    *   Boys' Active Styles Up to 60% Off
-    *   Men's Lounge ft. UGG
-    *   Girls' Active Styles Up to 60% Off
-    *   TOMS Men Starting at $20
     *   Best of Sets Starting at $10
     *   Makeup ft. Laura Mercier &. Laura Geller
     *   Free Shipping: Pillows &. Throws
     *   Pool Candy: Floats &. More from $20
-    *   Sagebrook Outdoor
-    *   Tech Accessories ft. Bands for Apple Watch
+    *   Tie-Dye Active &. More ft. Sage Collective
+    *   Summer Tees &. More Under $40 Incl. Plus
+    *   Casual Bottoms Under $35 Incl. Plus
     *   Linen, Lace &. More Up to 70% Off Incl. Plus
 *   WomenShop Sale Events
     
+    *   Rails Up to 60% Off
+    *   Theory Up to 70% Off
+    *   New On HauteLook: Journee Collection
+    *   Step into Comfort: Shoes from $40
+    *   LeSportsac Under $100
+    *   Staycation Styles Under $25 Incl. Plus
+    *   Socialite
+    *   Sterling Silver Jewelry ft. Suzy Levian
+    *   Booties Up to 70% Off
+    *   Summer Solutions: Bralettes Starting at $12
     *   Protective Mask Sets
     *   Premium Denim Up to 70% Off
     *   Flowy Tops Under $30 Incl. Plus
     *   Summer Finds Under $30 Incl. Plus
+    
     *   Summer Active Essentials Up to 70% Off
     *   Drybar
     *   Keep Cozy Going: Women's Slippers
     *   Trend Sneakers Up to 65% Off
     *   Leather Bags ft Robert Graham
     *   Seychelles Up to 65% Off
-    *   Tie-Dye Active &. More ft. Sage Collective
-    *   Summer Tees &. More Under $40 Incl. Plus
-    
     *   Suzy Levian
-    *   Utilize These: Trench Coats Up to 70% Off
-    *   Woven Tops Under $40 Incl. Plus &. Petites
-    *   Casual Bottoms Under $35 Incl. Plus
-    *   To the Point: Pointed-Toe Shoes
-    *   AllSaints Up to 60% Off
-    *   UGG Shoes &. Accessories Up to 55% Off
-    *   UGG Sleep &. Lounge
     *   Best of Sets Starting at $10
     *   Makeup ft. Laura Mercier &. Laura Geller
+    *   Tie-Dye Active &. More ft. Sage Collective
+    *   Summer Tees &. More Under $40 Incl. Plus
+    *   Casual Bottoms Under $35 Incl. Plus
     *   Linen, Lace &. More Up to 70% Off Incl. Plus
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
+    *   Lingerie &. Shapewear
     *   Accessories
     *   Handbags
-    *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
+    *   Theory Men Up to 65% Off
+    *   Keep it Casual: Men's Sneakers Under $30
     *   Protective Mask Sets
     *   Robert Graham Up to 65% Off
     *   Tee Off: Men's Golf Starting at $10
     *   Leather Bags ft Robert Graham
     *   True Religion Men Up to 70% Off
     *   Backyard Fun: Men's Styles Up to 60% Off
-    *   UGG Men Up to 55% Off
-    *   Suit Separates Under $100
-    *   Men's Lounge ft. UGG
-    *   TOMS Men Starting at $20
     
     Shop By Category
     *   Clothing
@@ -113,23 +114,22 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Cool Looks for Kids ft. O'Neill
     *   Puddle Jumpers ft. Hunter
     *   Top Toys Starting at $10
     *   Girls' Dresses Up to 65% Off
     *   Fancy Fun: Kids' Dress Shoes
-    *   UGG Kids
-    *   Boys' Active Styles Up to 60% Off
-    *   Girls' Active Styles Up to 60% Off
     
     Shop By Category
     *   Girls
     *   Toys
     *   Girls' Shoes
-    *   Boys
     *   Boys' Shoes
+    *   Boys
     *   Baby
 *   HomeShop Sale Events
     
+    *   Home Organization starting at $15
     *   Wall Art for Every Room
     *   Zojirushi Rice Cookers &. More
     *   Flora Bunda Planters
@@ -138,19 +138,18 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Duck River Pet-Friendly Covers, Beds &. More
     *   Free Shipping: Pillows &. Throws
     *   Pool Candy: Floats &. More from $20
-    *   Sagebrook Outdoor
-    *   Tech Accessories ft. Bands for Apple Watch
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Electronic &. Tech Accessories
     *   Pet Accessories
+    *   Luggage &. Travel
     *   Rugs &. Doormats
     *   Outdoor Living
-    *   Luggage &. Travel
     *   Holiday Decorations
     *   Bath
+    *   Cleaning &. Organization
+    *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
     *   Drybar
