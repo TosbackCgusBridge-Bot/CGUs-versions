@@ -128,7 +128,7 @@ Autodesk logo
 
 Keyboard **ALT + g** to toggle grid overlay
 
-Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products) Promo Data: July 21-31 2020
+Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products) Promo Data: July 21-31 2020 LAST DAY
 
 Autodesk industry collections
 
