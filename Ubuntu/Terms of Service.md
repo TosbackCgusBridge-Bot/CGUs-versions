@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Charmed OSM Release EIGHT available from Canonical
 *   Mitigating BootHole – ‘There’s a hole in the boot’ – CVE-2020-10713 and related vulnerabilities
 *   Canonical at KubeCon Europe Virtual 2020
-*   ﻿Simulate the TurtleBot3
