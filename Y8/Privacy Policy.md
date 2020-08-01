@@ -1,37 +1,37 @@
-<div><img src="https://mc.yandex.ru/watch/45364173" style="position:absolute. left:-9999px;" alt="" /></div>. games videos New Games Next in  03:22
+<div><img src="https://mc.yandex.ru/watch/45364173" style="position:absolute. left:-9999px;" alt="" /></div>. games videos New Games Next in  00:00
 
-*   Newest Games Next addition in 03:22
+*   Newest Games Next addition in 00:00
 
 *   Best New Games Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 03:22
-*   Best of new games 1391 games
-*   Most Popular Games 21437 games
+*   New Games Next in 00:00
+*   Best of new games 1389 games
+*   Most Popular Games 21439 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,251 games
+*   For Girls 24,255 games
 *   Driving &. Racing 6,436 games
 *   Strategy &. RPG 3,643 games
 *   Management &. Sim 4,291 games
-*   Thinking 12,851 games
-*   Action &. Adventure 14,816 games
-*   Sports 3,367 games
+*   Thinking 12,855 games
+*   Action &. Adventure 14,818 games
+*   Sports 3,369 games
 *   Shooting 9,154 games
 *   Fighting 2,086 games
-*   Skill 11,552 games
-*   Arcade &. Classic 9,606 games
+*   Skill 11,555 games
+*   Arcade &. Classic 9,611 games
 *   Fun &. Crazy 5,004 games
 
 Play with friends  
-Powered by Y8 Account 147 Y8 Multiplayer Games 2,234 Y8 High Score Games 1,279 Y8 Achievements Games 910 Y8 Screenshots Games 1,733 Y8 Online Save Games 3,442 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 147 Y8 Multiplayer Games 2,233 Y8 High Score Games 1,278 Y8 Achievements Games 910 Y8 Screenshots Games 1,732 Y8 Online Save Games 3,441 All Y8 Games Games Last Highscore:
 
-**905** points on Ball Fall 3D by oleg
+**4,717** points on Superfighters by cuminhcf2006
 
 Help us improve Bad translation? Social
 
