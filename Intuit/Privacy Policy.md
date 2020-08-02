@@ -1,7 +1,7 @@
 Shop safe! Masks are required for anyone entering the store. Details  
 EXTRA 25% OFF $75+ with code: STOCKUP4 Details  
 EXTRA 20% OFF under $75 with code: STOCKUP4 Details  
-Free Shipping Over $49  DetailsUP TO 50% OFF Sitewide savings galore! Shop All  
+Free Shipping Over $75  DetailsUP TO 50% OFF Sitewide savings galore! Shop All  
 Shop safe! Masks are required for anyone entering the store. Details  
 EXTRA 25% OFF $75+ with code: STOCKUP4 Details  
 
@@ -55,24 +55,26 @@ SEPHORA COLLECTION skincare starting at $8select styles | Excluded from coupons.
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 20 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver $15with code~$124.98~135
-*   Clarks Womens Brinkley Jazz Flip-Flops
+*   Home Expressions Solid or Stripe Bath Towel Collection $2.39 - $15.99with code~$6 - $48~562
+*   JCPenney Home™ 300tc 100% Cotton Ultra Soft Solid and Print Sheet Sets $15.99 - $50.39with code424
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $5.59 - $6.39with code~$13~16
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
-    $29.99sale
+    $20sale
     
-    ~$55~306
+    ~$124.98~136
 *   Playtex 18 Hour® Comfort Strap® Wireless Comfort Full Coverage Bra-4693
     
     $19.99sale
     
-    ~$36~5492
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver $15with code~$124.98~197
-*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $27.99 - $50.39with code~$50 - $90~227
-*   Home Expressions Lisette Rod-Pocket Sheer Panel
+    ~$36~5494
+*   Liz Claiborne Signature Plush Bath Towel Collection
     
-    $4.99 - $19.99sale
+    BUY 1 GET 1 FOR FREE
     
-    ~$16 - $40~1241
+    $12 - $96
+    
+    553
 
 Shop and Save at JCPenney
 
