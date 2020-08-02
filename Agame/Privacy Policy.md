@@ -28,16 +28,16 @@ View more results
     *   Princess Hard Times
     *   BFFs Dressing Room
     *   Bad Teeth Makeover
+    *   My New Room 2
     *   How To Become Popular at School with Princess
     *   Goldie: Lip Injections
-    *   My New Room 2
     *   Goldie Princess: Skin Doctor
-    *   Cake Design
     *   Tattoo Salon
+    *   Cake Design
     *   Floral Real Life Manicure
-    *   Cute Puppy Care
     *   Car Salon
-    *   Ice Queen: Back Treatment
+    *   Cute Puppy Care
+    *   Strawberry Delicious Boutique
 *   Racing
     
     Top Categories
@@ -48,8 +48,8 @@ View more results
     *   Offroad Games
     *   Stunt Driving
     *   Motocross
-    *   Boat Racing
     *   Cycling
+    *   Boat Racing
     
     All Racing Best Games
     *   Maximum Acceleration
@@ -64,16 +64,16 @@ View more results
     *   Cars 3D
     *   Off-Roader V6
     *   Moto X3M 6: Spooky Land
-    *   Speedboat Racing
     *   Formula X Speed 3D: Car Racing Game
+    *   Speedboat Racing
 *   Puzzle
     
     Top Categories
     
     *   Mobile
     *   Match 3
-    *   Mahjong
     *   Hidden Objects
+    *   Mahjong
     *   Bubble Shooter
     *   Brain Games
     *   Jewel Games
@@ -82,16 +82,16 @@ View more results
     All Puzzle Best Games
     *   MahJongCon
     *   Bubble Shooter Classic
-    *   1001 Arabian Nights
     *   Mahjong Link
+    *   1001 Arabian Nights
     *   Block Wood Puzzle
-    *   Word Wipe
-    *   Jewel Shuffle
     *   Bubble Shooter
-    *   Butterfly Kyodai
+    *   Word Wipe
     *   Word Search Pictures
-    *   Treasures of the Mystic Sea
+    *   Butterfly Kyodai
+    *   Jewel Shuffle
     *   Mahjong Connect Classic
+    *   Treasures of the Mystic Sea
     *   Jewelry Match
     *   Mystic Sea Treasures
 *   Shooting
@@ -101,8 +101,8 @@ View more results
     *   Gun
     *   Sniper Games
     *   First-Person Shooter
-    *   Aim &. Shoot
     *   Arrow Games
+    *   Aim &. Shoot
     *   Hunting Games
     *   Run &. Shoot
     *   Shoot &. Throw
@@ -110,18 +110,18 @@ View more results
     Best Games
     *   Subway Clash 3D
     *   Archery World Tour
-    *   Stickman Archer 2
     *   Combat Strike 2
+    *   Stickman Archer 2
     *   Super Rocket Buddy
     *   Miami Crime Simulator 3D
     *   Shot Trigger
     *   Apple Shooter
     *   Deer Hunter
     *   Gun Blood
-    *   Dino Survival: Shooter Game
-    *   Pixel Gun Apocalypse 3
     *   Army Force Strike
-    *   Mr. Bullet
+    *   Pixel Gun Apocalypse 3
+    *   Dino Survival: Shooter Game
+    *   Sniper Reloaded
 *   Multiplayer
     
     Top Categories
@@ -139,8 +139,8 @@ View more results
     *   Ono Card Game
     *   Subway Clash 3D
     *   Fireboy and Watergirl 5: Elements
-    *   Fireboy &. Watergirl 2: The Light Temple
     *   Stickman Fighter: Epic Battle
+    *   Fireboy &. Watergirl 2: The Light Temple
     *   Hole.io
     *   Fireboy &. Watergirl 3: The Ice Temple
     *   KOGAMA: Adopt a Son or Daughter and Form Your Family
@@ -149,16 +149,16 @@ View more results
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Pool Clash: 8 Ball Billiards Snooker
     *   Fireboy and Watergirl: The Forest Temple
-    *   Master Chess Multiplayer
+    *   Gartic.io
 *   Action
     
     Top Categories
     
     *   Boy Games
     *   Flash Games
+    *   Friv
     *   One player
     *   Fun
-    *   Friv
     *   Y8 Games
     *   Fighting
     *   Stickman
@@ -166,8 +166,8 @@ View more results
     All Action Best Games
     *   Subway Clash 3D
     *   Stickman Fighter: Epic Battle
-    *   Stickman Archer 2
     *   Combat Strike 2
+    *   Stickman Archer 2
     *   Miami Crime Simulator 3D
     *   Shot Trigger
     *   Super Buddy Kick
@@ -176,7 +176,7 @@ View more results
     *   Deer Hunter
     *   Bomb It 6
     *   Gun Blood
-    *   Dino Survival: Shooter Game
+    *   Army Force Strike
     *   Pixel Gun Apocalypse 3
 *   Adventure
     
@@ -185,27 +185,27 @@ View more results
     *   Scary Games
     *   Anime and Manga
     *   Horror Games
-    *   Escaping
     *   Detective Games
+    *   Escaping
     *   Trollface Quest Games
     *   Point &. Click
-    *   Platform Games
+    *   Kogama Games
     
     All Adventure Best Games
     *   World Craft 2
     *   Fireboy and Watergirl 5: Elements
-    *   Adam and Eve: GO
     *   Square Bird
+    *   Adam and Eve: GO
+    *   World Crafts
     *   The Last Survivors: 2 Player Zombie Game
     *   Bob the Robber 4: Season 2 Russia
-    *   World Crafts
     *   Adam and Eve 3
     *   Dog Simulator: Puppy Craft
-    *   Adam and Eve 2
     *   Troll Face Quest: Horror 2
+    *   Adam and Eve 2
     *   Pixel Craft
     *   Adam and Eve 4
-    *   KOGAMA: Adopt a Son or Daughter and Form Your Family
+    *   Adam and Eve
 *   More
     
     *   Girls
