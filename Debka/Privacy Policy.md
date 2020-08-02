@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, August 1, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, August 2, 2020  
 
 DEBKAfile
 
@@ -44,78 +44,78 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
-*   Police detain 16 in rowdy anti-government protest in Jerusalem
+*   Gamzu says the worst of covid-9 will be behind us in two months
     
-    Jul 31, 2020 @ 07:35
+    Aug 01, 2020 @ 20:40
     
-*    Trump floats - then rescinds - proposal to postpone election
+*   Thousands protest in Germany against government lockdown
     
-    Jul 30, 2020 @ 19:55
+    Aug 01, 2020 @ 19:54
     
-*    Unique intel trove from Hamas operative caught swimming to Israel
+*   Trump bans Chinese Tik Tok in US
     
-    Jul 30, 2020 @ 19:43
+    Aug 01, 2020 @ 10:53
     
-*   Israel saw 1,960 new coronavirus cases on Wednesday
+*   Iraqi PM announces early elections next June
     
-    Jul 30, 2020 @ 11:48
+    Aug 01, 2020 @ 10:40
     
-*    NASA’s Perseverance probe to Mars will search for alien life
+*   Florida charges 17-year old as mastermind of Twitter hack of the famous
     
-    Jul 30, 2020 @ 11:39
+    Aug 01, 2020 @ 10:07
     
 
-*    Trump floats - then rescinds - proposal to postpone election
+*   Thousands protest in Germany against government lockdown
     
-    Jul 30, 2020 @ 19:55
+    Aug 01, 2020 @ 19:54
     
-*    Unique intel trove from Hamas operative caught swimming to Israel
+*   Trump bans Chinese Tik Tok in US
     
-    Jul 30, 2020 @ 19:43
+    Aug 01, 2020 @ 10:53
     
-*   Israel saw 1,960 new coronavirus cases on Wednesday
+*   Iraqi PM announces early elections next June
     
-    Jul 30, 2020 @ 11:48
+    Aug 01, 2020 @ 10:40
     
-*    NASA’s Perseverance probe to Mars will search for alien life
+*   Florida charges 17-year old as mastermind of Twitter hack of the famous
     
-    Jul 30, 2020 @ 11:39
+    Aug 01, 2020 @ 10:07
     
-*   Police detain 16 in rowdy anti-government protest in Jerusalem
+*   Gamzu says the worst of covid-9 will be behind us in two months
     
-    Jul 31, 2020 @ 07:35
+    Aug 01, 2020 @ 20:40
     
-*    Trump floats - then rescinds - proposal to postpone election
+*   Thousands protest in Germany against government lockdown
     
-    Jul 30, 2020 @ 19:55
+    Aug 01, 2020 @ 19:54
     
-*    Unique intel trove from Hamas operative caught swimming to Israel
+*   Trump bans Chinese Tik Tok in US
     
-    Jul 30, 2020 @ 19:43
+    Aug 01, 2020 @ 10:53
     
-*   Israel saw 1,960 new coronavirus cases on Wednesday
+*   Iraqi PM announces early elections next June
     
-    Jul 30, 2020 @ 11:48
+    Aug 01, 2020 @ 10:40
     
-*    NASA’s Perseverance probe to Mars will search for alien life
+*   Florida charges 17-year old as mastermind of Twitter hack of the famous
     
-    Jul 30, 2020 @ 11:39
+    Aug 01, 2020 @ 10:07
     
-*   Police detain 16 in rowdy anti-government protest in Jerusalem
+*   Gamzu says the worst of covid-9 will be behind us in two months
     
-    Jul 31, 2020 @ 07:35
+    Aug 01, 2020 @ 20:40
     
-*    Trump floats - then rescinds - proposal to postpone election
+*   Thousands protest in Germany against government lockdown
     
-    Jul 30, 2020 @ 19:55
+    Aug 01, 2020 @ 19:54
     
-*    Unique intel trove from Hamas operative caught swimming to Israel
+*   Trump bans Chinese Tik Tok in US
     
-    Jul 30, 2020 @ 19:43
+    Aug 01, 2020 @ 10:53
     
-*   Israel saw 1,960 new coronavirus cases on Wednesday
+*   Iraqi PM announces early elections next June
     
-    Jul 30, 2020 @ 11:48
+    Aug 01, 2020 @ 10:40
     
 
 12PrevNext
