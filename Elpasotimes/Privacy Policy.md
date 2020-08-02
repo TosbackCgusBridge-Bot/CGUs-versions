@@ -58,9 +58,7 @@ SUBSCRIBE NOW99¢ per month. Save 90%.
     
     Create One
 
-Get the news
-
-The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowEl Paso owners victorious in big race at Sunland ParkSportsUTEP women fall to UNT in regular-season finaleCollegeHave you seen El Paso's most wanted fugitives?CrimeUTEP men beat Rice to run winning streak to fourCollegeTwo men rob convenience store at gunpointCrimeLocomotive open with road point against OCSoccerPolice: Pedestrian killed on Dyer StreetNewsTroopers, Lions fall in boys basketball playoffsHigh-school10-year-old wins 2020 El Paso Spelling BeeEducationEl Paso Police seek info on puppies left in trashNewsHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
+The page you're looking for isn't here.Either someone gave you a bad link or there's something funky going on. Either way, we're truly sorry for the inconvenience.Stories Trending NowTrauma surgeons recall Aug. 3 shootingLocalEl Paso teacher seeks Ms. Health &. Fitness coverThings-to-doDistricts seek waivers for 8 weeks of virtual learningEducationEl Paso's most wanted fugitives for Aug. 2, 2020LocalBishop: Commission will honor victims of shootingLocalSuspect sought in Central El Paso shootingCrimeEl Paso man arrested in armed robberiesCrimeYsleta ISD video shows school day, goes viralEducationSemitruck crash closes I-10 west of El PasoTrafficVirginia man killed in I-10 West accidentCrimeHere are the top things users search for:Account HelpContact UsObituariesClassifiedsDealsGamesWeatherSubscriptionsArchivesJobsDining
 
 *   About Us
 *   Contact Us
@@ -129,8 +127,8 @@ Our Partners
 *   Legal &. Public Notices
 *   Niche Publications
 *   Classifieds
-*   Cars.com El Paso
-*   The Job Network
+*   Cars
+*   Jobs
 *   Thanksgiving.com
 *   Grateful
 
@@ -201,7 +199,7 @@ Our Partners
 *   Legal &. Public Notices
 *   Niche Publications
 *   Classifieds
-*   Cars.com El Paso
-*   The Job Network
+*   Cars
+*   Jobs
 *   Thanksgiving.com
 *   Grateful
