@@ -9,6 +9,24 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Urban Decay Products You Can't Live Without
+    *   New Brand Alert: Under $40 ft. Ralph Lauren
+    *   Caslon &. Halogen Up to 75% Off Incl. Plus
+    *   Midi Dresses Up to 75% Off
+    *   Floral Dresses, Tops &. More Up to 70% Off Incl. Plus
+    *   Men's Watches Up to 70% Off
+    *   Knit Tops Up to 70% Off Incl. Plus
+    *   Season's Best Shapewear Under $40
+    *   Kitten Heels Up to 65% Off
+    *   Car Organization &. Tech from $15
+    *   Men's Dress Shoes Up to 70% Off ft. Kenneth Cole
+    *   Fragrances We Love
+    *   Fresh Finds Under $50
+    *   Dress Shirts Under $35 ft Kenneth Cole Reaction
+    *   Kenneth Cole Up to 70% Off
+    
+    *   Hair Accessories to Finish Your Look
+    *   Best in Class: Kids' Styles Up to 65% Off
     *   Rails Up to 60% Off
     *   Theory Up to 70% Off
     *   New On HauteLook: Journee Collection
@@ -22,44 +40,35 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Booties Up to 70% Off
     *   Cool Looks for Kids ft. O'Neill
     *   Keep it Casual: Men's Sneakers Under $30
-    *   Summer Solutions: Bralettes Starting at $12
-    *   Protective Mask Sets
-    *   Premium Denim Up to 70% Off
     
-    *   Flowy Tops Under $30 Incl. Plus
-    *   Summer Finds Under $30 Incl. Plus
-    *   Summer Active Essentials Up to 70% Off
+    *   Summer Solutions: Bralettes Starting at $12
     *   Drybar
     *   Work in Comfort: Men's Shoes Up to 60% Off
     *   Robert Graham Up to 65% Off
     *   Wall Art for Every Room
     *   Tee Off: Men's Golf Starting at $10
-    *   Keep Cozy Going: Women's Slippers
-    *   Trend Sneakers Up to 65% Off
-    *   Leather Bags ft Robert Graham
     *   Puddle Jumpers ft. Hunter
-    *   Seychelles Up to 65% Off
     *   Top Toys Starting at $10
-    *   True Religion Men Up to 70% Off
-    *   Suzy Levian
-    
     *   Zojirushi Rice Cookers &. More
     *   Flora Bunda Planters
-    *   Backyard Fun: Men's Styles Up to 60% Off
-    *   Girls' Dresses Up to 65% Off
-    *   Fancy Fun: Kids' Dress Shoes
     *   Overstock Wall Art- Christmas in July
     *   BergHOFF Kitchen Blowout
     *   Duck River Pet-Friendly Covers, Beds &. More
-    *   Best of Sets Starting at $10
-    *   Makeup ft. Laura Mercier &. Laura Geller
     *   Free Shipping: Pillows &. Throws
-    *   Pool Candy: Floats &. More from $20
-    *   Tie-Dye Active &. More ft. Sage Collective
-    *   Summer Tees &. More Under $40 Incl. Plus
-    *   Casual Bottoms Under $35 Incl. Plus
-    *   Linen, Lace &. More Up to 70% Off Incl. Plus
 *   WomenShop Sale Events
+    
+    *   Urban Decay Products You Can't Live Without
+    *   New Brand Alert: Under $40 ft. Ralph Lauren
+    *   Caslon &. Halogen Up to 75% Off Incl. Plus
+    *   Midi Dresses Up to 75% Off
+    *   Floral Dresses, Tops &. More Up to 70% Off Incl. Plus
+    *   Knit Tops Up to 70% Off Incl. Plus
+    *   Season's Best Shapewear Under $40
+    *   Kitten Heels Up to 65% Off
+    *   Fragrances We Love
+    *   Fresh Finds Under $50
+    *   Kenneth Cole Up to 70% Off
+    *   Hair Accessories to Finish Your Look
     
     *   Rails Up to 60% Off
     *   Theory Up to 70% Off
@@ -71,64 +80,49 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Sterling Silver Jewelry ft. Suzy Levian
     *   Booties Up to 70% Off
     *   Summer Solutions: Bralettes Starting at $12
-    *   Protective Mask Sets
-    *   Premium Denim Up to 70% Off
-    *   Flowy Tops Under $30 Incl. Plus
-    *   Summer Finds Under $30 Incl. Plus
-    
-    *   Summer Active Essentials Up to 70% Off
     *   Drybar
-    *   Keep Cozy Going: Women's Slippers
-    *   Trend Sneakers Up to 65% Off
-    *   Leather Bags ft Robert Graham
-    *   Seychelles Up to 65% Off
-    *   Suzy Levian
-    *   Best of Sets Starting at $10
-    *   Makeup ft. Laura Mercier &. Laura Geller
-    *   Tie-Dye Active &. More ft. Sage Collective
-    *   Summer Tees &. More Under $40 Incl. Plus
-    *   Casual Bottoms Under $35 Incl. Plus
-    *   Linen, Lace &. More Up to 70% Off Incl. Plus
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Lingerie &. Shapewear
+    *   Jewelry
     *   Accessories
     *   Handbags
+    *   Watches
 *   MenShop Sale Events
     
+    *   New Brand Alert: Under $40 ft. Ralph Lauren
+    *   Men's Watches Up to 70% Off
+    *   Men's Dress Shoes Up to 70% Off ft. Kenneth Cole
+    *   Dress Shirts Under $35 ft Kenneth Cole Reaction
     *   Theory Men Up to 65% Off
     *   Keep it Casual: Men's Sneakers Under $30
-    *   Protective Mask Sets
     *   Robert Graham Up to 65% Off
     *   Tee Off: Men's Golf Starting at $10
-    *   Leather Bags ft Robert Graham
-    *   True Religion Men Up to 70% Off
-    *   Backyard Fun: Men's Styles Up to 60% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Best in Class: Kids' Styles Up to 65% Off
     *   Cool Looks for Kids ft. O'Neill
     *   Puddle Jumpers ft. Hunter
     *   Top Toys Starting at $10
-    *   Girls' Dresses Up to 65% Off
-    *   Fancy Fun: Kids' Dress Shoes
     
     Shop By Category
     *   Girls
     *   Toys
+    *   Boys
     *   Girls' Shoes
     *   Boys' Shoes
-    *   Boys
     *   Baby
 *   HomeShop Sale Events
     
+    *   Car Organization &. Tech from $15
     *   Home Organization starting at $15
     *   Wall Art for Every Room
     *   Zojirushi Rice Cookers &. More
@@ -137,35 +131,28 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   BergHOFF Kitchen Blowout
     *   Duck River Pet-Friendly Covers, Beds &. More
     *   Free Shipping: Pillows &. Throws
-    *   Pool Candy: Floats &. More from $20
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Pet Accessories
-    *   Luggage &. Travel
+    *   Cleaning &. Organization
     *   Rugs &. Doormats
-    *   Outdoor Living
     *   Holiday Decorations
     *   Bath
-    *   Cleaning &. Organization
-    *   Electronic &. Tech Accessories
+    *   Outdoor Living
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Urban Decay Products You Can't Live Without
+    *   Fragrances We Love
+    *   Hair Accessories to Finish Your Look
     *   Drybar
-    *   Best of Sets Starting at $10
-    *   Makeup ft. Laura Mercier &. Laura Geller
     
     Shop By Category
     *   Makeup
-    *   Skin Care
-    *   Fragrance
-    *   Nails
-    *   Men’s Grooming
-    *   Hair Care
     *   Tools &. Accessories
-    *   Makeup Bags
-    *   Bath &. Body
+    *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
