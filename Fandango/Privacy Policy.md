@@ -523,7 +523,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   July Celebrity Birthdays
+*   August Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Follow Us
