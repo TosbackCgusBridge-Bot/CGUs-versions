@@ -251,23 +251,23 @@ Extreme Engineering Solutions ensures compliance requirements while reducing man
     *   Emailed
     *   Recent
     
-    *   Phishing attack hid in Google Cloud Services
-    *   Apple to send research phones to trusted hackers
-    *   Legacy ICS puts critical infrastructure at risk
-    *   To reduce security errors, employers must relieve stress and fatigue
-    *   Adobe mends critical code execution flaws in Magento
-    
-    *   Botnet abuses Docker servers and crypto blockchain to deliver Doki backdoor
     *   COVID-19 accounts for most 2020 cyberattacks
-    *   Rise in DDoS attacks lost in pandemic
-    *   Biden will punish foreign election interference, hacking
+    *   ‘Boothole’ threatens billions of Linux, Windows devices
+    *   Twitter hackers accessed direct messages for 36 accounts
+    *   The Picus Security Validation Platform 3113
     *   Dave ShinyHunters hack exposes 7.5 million user records
     
-    *   New York, Siemens to develop cyber Center of Excellence for utilities
-    *   Nefilim gang leaks files stolen from Dussmann Group subsidiary
-    *   Botnet abuses Docker servers and crypto blockchain to deliver Doki backdoor
+    *   Adobe fixes 12 critical bugs in second round of July patches
     *   ‘Boothole’ threatens billions of Linux, Windows devices
-    *   Dating app OKCupid fixed serious security vulnerability after alert
+    *   Twitter hackers duped employees with phone spear phishing scam
+    *   Dave ShinyHunters hack exposes 7.5 million user records
+    *   Counterpoint: The hidden threat of facial recognition
+    
+    *   Feds arrest teen Twitter hack leader, accomplices
+    *   Spotlight on CMS security after fake news actors compromise media websites
+    *   Adobe mends critical code execution flaws in Magento
+    *   Twitter hackers duped employees with phone spear phishing scam
+    *   New York, Siemens to develop cyber Center of Excellence for utilities
 
 Back to Top
 
@@ -300,6 +300,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
 You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
