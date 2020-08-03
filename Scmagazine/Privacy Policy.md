@@ -251,17 +251,17 @@ Extreme Engineering Solutions ensures compliance requirements while reducing man
     *   Emailed
     *   Recent
     
-    *   COVID-19 accounts for most 2020 cyberattacks
-    *   ‘Boothole’ threatens billions of Linux, Windows devices
-    *   Twitter hackers accessed direct messages for 36 accounts
+    *   Broadened CIA cyberattack powers put businesses on alert
+    *   Garmin expects delays after WastedLocker ransomware attack
+    *   Phishing attack hid in Google Cloud Services
     *   The Picus Security Validation Platform 3113
-    *   Dave ShinyHunters hack exposes 7.5 million user records
+    *   Spotlight on CMS security after fake news actors compromise media websites
     
-    *   Adobe fixes 12 critical bugs in second round of July patches
-    *   ‘Boothole’ threatens billions of Linux, Windows devices
+    *   XM Cyber 1.35
+    *   Fast-charging hacks can melt phones, compromise firmware
+    *   SEI Investments customer data exposed in ransomware attack on vendor
     *   Twitter hackers duped employees with phone spear phishing scam
-    *   Dave ShinyHunters hack exposes 7.5 million user records
-    *   Counterpoint: The hidden threat of facial recognition
+    *   Dacls RAT's goals are to steal customer data and spread ransomware
     
     *   Feds arrest teen Twitter hack leader, accomplices
     *   Spotlight on CMS security after fake news actors compromise media websites
@@ -300,8 +300,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
