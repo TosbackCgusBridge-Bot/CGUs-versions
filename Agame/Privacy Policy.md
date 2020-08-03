@@ -25,19 +25,19 @@ View more results
     
     All Girls Best Games
     *   Funny Throat Doctor
-    *   Princess Hard Times
     *   BFFs Dressing Room
     *   Bad Teeth Makeover
+    *   Princess Hard Times
     *   My New Room 2
+    *   Tattoo Salon
     *   How To Become Popular at School with Princess
+    *   Cake Design
+    *   Cool Boys Makeover: Hair Salon Game
     *   Goldie: Lip Injections
     *   Goldie Princess: Skin Doctor
-    *   Tattoo Salon
-    *   Cake Design
+    *   Cute Puppy Care
     *   Floral Real Life Manicure
     *   Car Salon
-    *   Cute Puppy Care
-    *   Strawberry Delicious Boutique
 *   Racing
     
     Top Categories
@@ -53,19 +53,19 @@ View more results
     
     All Racing Best Games
     *   Maximum Acceleration
-    *   Madalin Stunt Cars 2
     *   Xcross Madness
+    *   Madalin Stunt Cars 2
     *   Hill Racing Challenge
     *   Moto X3m 2
     *   Moto X3m 3
+    *   Two Punk Racing
     *   City Car Stunts 2
     *   Real Dog Racing Simulator
-    *   Two Punk Racing
+    *   Formula X Speed 3D: Car Racing Game
     *   Cars 3D
     *   Off-Roader V6
-    *   Moto X3M 6: Spooky Land
-    *   Formula X Speed 3D: Car Racing Game
     *   Speedboat Racing
+    *   Moto X3M 6: Spooky Land
 *   Puzzle
     
     Top Categories
@@ -86,14 +86,14 @@ View more results
     *   1001 Arabian Nights
     *   Block Wood Puzzle
     *   Bubble Shooter
-    *   Word Wipe
     *   Word Search Pictures
     *   Butterfly Kyodai
+    *   Word Wipe
     *   Jewel Shuffle
     *   Mahjong Connect Classic
     *   Treasures of the Mystic Sea
+    *   Blossom Garden Crush Match 3
     *   Jewelry Match
-    *   Mystic Sea Treasures
 *   Shooting
     
     Top Categories
@@ -109,18 +109,18 @@ View more results
     
     Best Games
     *   Subway Clash 3D
-    *   Archery World Tour
     *   Combat Strike 2
+    *   Archery World Tour
     *   Stickman Archer 2
     *   Super Rocket Buddy
     *   Miami Crime Simulator 3D
     *   Shot Trigger
     *   Apple Shooter
+    *   Army Force Strike
     *   Deer Hunter
     *   Gun Blood
-    *   Army Force Strike
-    *   Pixel Gun Apocalypse 3
     *   Dino Survival: Shooter Game
+    *   Mr. Bullet
     *   Sniper Reloaded
 *   Multiplayer
     
@@ -138,18 +138,18 @@ View more results
     All Multiplayer Best Games
     *   Ono Card Game
     *   Subway Clash 3D
-    *   Fireboy and Watergirl 5: Elements
     *   Stickman Fighter: Epic Battle
+    *   Fireboy and Watergirl 5: Elements
     *   Fireboy &. Watergirl 2: The Light Temple
     *   Hole.io
-    *   Fireboy &. Watergirl 3: The Ice Temple
     *   KOGAMA: Adopt a Son or Daughter and Form Your Family
+    *   Fireboy &. Watergirl 3: The Ice Temple
     *   Worms.Zone
-    *   Crowd City
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Pool Clash: 8 Ball Billiards Snooker
+    *   Crowd City
     *   Fireboy and Watergirl: The Forest Temple
-    *   Gartic.io
+    *   Master Chess Multiplayer
 *   Action
     
     Top Categories
@@ -173,11 +173,11 @@ View more results
     *   Super Buddy Kick
     *   Stickman Warriors
     *   Apple Shooter
-    *   Deer Hunter
     *   Bomb It 6
-    *   Gun Blood
+    *   Age of War
     *   Army Force Strike
-    *   Pixel Gun Apocalypse 3
+    *   Deer Hunter
+    *   Gun Blood
 *   Adventure
     
     Top Categories
@@ -200,12 +200,12 @@ View more results
     *   The Last Survivors: 2 Player Zombie Game
     *   Bob the Robber 4: Season 2 Russia
     *   Adam and Eve 3
-    *   Dog Simulator: Puppy Craft
     *   Troll Face Quest: Horror 2
-    *   Adam and Eve 2
+    *   Dog Simulator: Puppy Craft
     *   Pixel Craft
+    *   Adam and Eve 2
+    *   KOGAMA: Adopt a Son or Daughter and Form Your Family
     *   Adam and Eve 4
-    *   Adam and Eve
 *   More
     
     *   Girls
