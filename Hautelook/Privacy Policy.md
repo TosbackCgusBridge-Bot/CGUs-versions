@@ -9,22 +9,38 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Last Call: Women's Styles Up to 75% Off
+    *   Women's Sandals Under $30
+    *   Men's Boat Shoes &. More Under $40
+    *   Summer Swim Faves Up to 70% Off
+    *   Summer Style Blowout
+    *   kate spade new york Shoes Up to 65% Off
+    *   Ramy Brook &. More Up to 75% Off
+    *   PUMA Active Starting at $15
+    *   Summer Basics Under $25 Incl. Plus
+    *   Midi &. Maxi Dresses Under $40 Incl. Plus
+    *   Hickey Freeman Up to 70% Off
+    *   Car Organization &. Tech from $15
+    *   Fragrances We Love
+    *   Mad for Motos: Leather Jackets Up to 70% Off
+    *   Booties for Every Season Under $50
+    *   Fresh Kicks: Men's Sneakers Up to 60% Off
+    *   Baby Essentials Starting at $10
+    *   Fun for Bedtime: Kids' Sleepwear ft. Leveret
+    *   Stride Rite
     *   Urban Decay Products You Can't Live Without
+    
     *   New Brand Alert: Under $40 ft. Ralph Lauren
     *   Caslon &. Halogen Up to 75% Off Incl. Plus
     *   Midi Dresses Up to 75% Off
     *   Floral Dresses, Tops &. More Up to 70% Off Incl. Plus
-    *   Men's Watches Up to 70% Off
     *   Knit Tops Up to 70% Off Incl. Plus
     *   Season's Best Shapewear Under $40
     *   Kitten Heels Up to 65% Off
-    *   Car Organization &. Tech from $15
     *   Men's Dress Shoes Up to 70% Off ft. Kenneth Cole
-    *   Fragrances We Love
     *   Fresh Finds Under $50
     *   Dress Shirts Under $35 ft Kenneth Cole Reaction
     *   Kenneth Cole Up to 70% Off
-    
     *   Hair Accessories to Finish Your Look
     *   Best in Class: Kids' Styles Up to 65% Off
     *   Rails Up to 60% Off
@@ -34,42 +50,52 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Step into Comfort: Shoes from $40
     *   LeSportsac Under $100
     *   Staycation Styles Under $25 Incl. Plus
+    
     *   Socialite
     *   Sterling Silver Jewelry ft. Suzy Levian
     *   Home Organization starting at $15
     *   Booties Up to 70% Off
     *   Cool Looks for Kids ft. O'Neill
     *   Keep it Casual: Men's Sneakers Under $30
-    
     *   Summer Solutions: Bralettes Starting at $12
     *   Drybar
     *   Work in Comfort: Men's Shoes Up to 60% Off
-    *   Robert Graham Up to 65% Off
     *   Wall Art for Every Room
-    *   Tee Off: Men's Golf Starting at $10
     *   Puddle Jumpers ft. Hunter
     *   Top Toys Starting at $10
     *   Zojirushi Rice Cookers &. More
     *   Flora Bunda Planters
+    *   Men's Watches Up to 70% Off
     *   Overstock Wall Art- Christmas in July
     *   BergHOFF Kitchen Blowout
     *   Duck River Pet-Friendly Covers, Beds &. More
     *   Free Shipping: Pillows &. Throws
+    *   L.O.L. Surprise!\_22631809\_Standard
 *   WomenShop Sale Events
     
+    *   Last Call: Women's Styles Up to 75% Off
+    *   Women's Sandals Under $30
+    *   Summer Swim Faves Up to 70% Off
+    *   kate spade new york Shoes Up to 65% Off
+    *   Ramy Brook &. More Up to 75% Off
+    *   PUMA Active Starting at $15
+    *   Summer Basics Under $25 Incl. Plus
+    *   Midi &. Maxi Dresses Under $40 Incl. Plus
+    *   Fragrances We Love
+    *   Mad for Motos: Leather Jackets Up to 70% Off
+    *   Booties for Every Season Under $50
     *   Urban Decay Products You Can't Live Without
     *   New Brand Alert: Under $40 ft. Ralph Lauren
     *   Caslon &. Halogen Up to 75% Off Incl. Plus
     *   Midi Dresses Up to 75% Off
     *   Floral Dresses, Tops &. More Up to 70% Off Incl. Plus
     *   Knit Tops Up to 70% Off Incl. Plus
+    
     *   Season's Best Shapewear Under $40
     *   Kitten Heels Up to 65% Off
-    *   Fragrances We Love
     *   Fresh Finds Under $50
     *   Kenneth Cole Up to 70% Off
     *   Hair Accessories to Finish Your Look
-    
     *   Rails Up to 60% Off
     *   Theory Up to 70% Off
     *   New On HauteLook: Journee Collection
@@ -86,28 +112,32 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Clothing
     *   Shoes
     *   Lingerie &. Shapewear
-    *   Jewelry
     *   Accessories
+    *   Jewelry
     *   Handbags
     *   Watches
 *   MenShop Sale Events
     
+    *   Men's Boat Shoes &. More Under $40
+    *   Summer Style Blowout
+    *   Hickey Freeman Up to 70% Off
+    *   Fresh Kicks: Men's Sneakers Up to 60% Off
     *   New Brand Alert: Under $40 ft. Ralph Lauren
-    *   Men's Watches Up to 70% Off
     *   Men's Dress Shoes Up to 70% Off ft. Kenneth Cole
     *   Dress Shirts Under $35 ft Kenneth Cole Reaction
     *   Theory Men Up to 65% Off
     *   Keep it Casual: Men's Sneakers Under $30
-    *   Robert Graham Up to 65% Off
-    *   Tee Off: Men's Golf Starting at $10
+    *   Men's Watches Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Accessories
     *   Watches
 *   KidsShop Sale Events
     
+    *   Baby Essentials Starting at $10
+    *   Fun for Bedtime: Kids' Sleepwear ft. Leveret
+    *   Stride Rite
     *   Best in Class: Kids' Styles Up to 65% Off
     *   Cool Looks for Kids ft. O'Neill
     *   Puddle Jumpers ft. Hunter
@@ -115,11 +145,11 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     
     Shop By Category
     *   Girls
-    *   Toys
     *   Boys
+    *   Toys
+    *   Baby
     *   Girls' Shoes
     *   Boys' Shoes
-    *   Baby
 *   HomeShop Sale Events
     
     *   Car Organization &. Tech from $15
@@ -138,19 +168,19 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Pet Accessories
     *   Cleaning &. Organization
     *   Rugs &. Doormats
+    *   Luggage &. Travel
     *   Holiday Decorations
     *   Bath
-    *   Outdoor Living
-    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
-    *   Urban Decay Products You Can't Live Without
     *   Fragrances We Love
+    *   Urban Decay Products You Can't Live Without
     *   Hair Accessories to Finish Your Look
     *   Drybar
     
     Shop By Category
     *   Makeup
+    *   Fragrance
     *   Tools &. Accessories
     *   Hair Care
 
