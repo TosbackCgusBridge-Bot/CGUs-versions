@@ -139,7 +139,7 @@ Menu
     *   ESG investors
     *   Investor FAQs
     *   Investor contacts
-    *   Investor information in Chinese - 投資者中文資訊 (opens in new window)Interim results 2020 Get the webcast and conference call details Close Navigation
+    *   Investor information in Chinese - 投資者中文資訊 (opens in new window)Interim results 2020 Find the documents and webcast details Close Navigation
 *   Media Skip to Careers Media
     
     Find the latest media releases, key speeches by executives, and details of recent awards.
