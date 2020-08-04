@@ -1,3 +1,7 @@
+The Times and your Data
+
+Main Menu Privacy F.A.Q.Privacy PolicyCookie Policy
+
 The Times and Your Data
 
 Privacy Policy
@@ -457,8 +461,4 @@ Back to top
 
 ©2020 The New York Times Company
 
-Privacy F.A.Q.Privacy PolicyCookie PolicyCalifornia NoticeTerms of Service
-
-The Times and your Data
-
-Main Menu Privacy F.A.Q.Privacy PolicyCookie Policy <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P528B3&gtm\_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm\_preview=env-130&gtm\_cookies\_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+Privacy F.A.Q.Privacy PolicyCookie PolicyCalifornia NoticeTerms of Service <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P528B3&gtm\_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm\_preview=env-130&gtm\_cookies\_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
