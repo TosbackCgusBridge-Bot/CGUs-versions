@@ -9,17 +9,16 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
-    *   Cut Throat City
-    *   Gordon Lightfoot: If You Could Read My Mind
-    *   The Grizzlies
-    *   Killer Raccoons! 2! Dark Christmas in the Dark
-    *   Save Yourselves! (2020)
-    *   Summerland (2020)
+    *   Black Water: Abyss
+    *   Creem: America's Only Rock 'n' Roll Magazine
+    *   SamSam
+    *   The Tax Collector (2020)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Antebellum
+    *   Unhinged (2020)
+    *   Honest Thief (2020)
     *   Bill &. Ted Face the Music
     *   Tenet
     *   The King's Man
