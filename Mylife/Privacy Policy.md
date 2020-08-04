@@ -66,4 +66,4 @@ People Search | Contact Us User Agreement | Privacy Policy Copyright ©2020 MyLi
 
 \* The other websites referenced on this site are owned and operated by their respective companies, and the associated trademarks and logos are the property of those companies. Links are provided for reference only and MyLife.com® does not imply any connection or relationship between MyLife.com® and these companies.
 
-<img src="//pixel.quantserve.com/pixel/p-Je7HEss8EuAcv.gif?labels=\_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>.
+<img src="//pixel.quantserve.com/pixel/p-Je7HEss8EuAcv.gif?labels=\_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>. <img height="1" width="1" style="display:none" src="https://q.quora.com/\_/ad/7d564468cd6c4e3c9ba417fe1f9bea15/pixel?tag=ViewContent&amp;noscript=1">.
