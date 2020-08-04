@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Monday, August 3, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Tuesday, August 4, 2020  
 
 DEBKAfile
 
@@ -44,78 +44,78 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
-*   Iron Drone intercepts rocket fired from Gaza. No injuries
+*   Israel strikes Syrian military positions after thwarting Golan explosions
     
-    Aug 02, 2020 @ 22:48
+    Aug 04, 2020 @ 07:35
     
-*   Child benefits paid out to 1.25m families, 40,000 businesses
+*   Lebanese FM resigns saying country nearing a failed state
     
-    Aug 02, 2020 @ 19:43
+    Aug 03, 2020 @ 21:07
     
-*   Police arrest 12 in anti-government Jerusalem protest
+*   PM Netanyahu: A biennial budget would delay economic recovery
     
-    Aug 02, 2020 @ 10:17
+    Aug 03, 2020 @ 19:42
     
-*   Gamzu says the worst of covid-9 will be behind us in two months
+*   Massive US AN-225 plane lands in Israel to pick up Iron Domes
     
-    Aug 01, 2020 @ 20:40
+    Aug 03, 2020 @ 19:29
     
-*   Thousands protest in Germany against government lockdown
+*   Gamzu: Lift the weekend coronavirus closures
     
-    Aug 01, 2020 @ 19:54
+    Aug 03, 2020 @ 19:18
     
 
-*   Child benefits paid out to 1.25m families, 40,000 businesses
+*   Lebanese FM resigns saying country nearing a failed state
     
-    Aug 02, 2020 @ 19:43
+    Aug 03, 2020 @ 21:07
     
-*   Police arrest 12 in anti-government Jerusalem protest
+*   PM Netanyahu: A biennial budget would delay economic recovery
     
-    Aug 02, 2020 @ 10:17
+    Aug 03, 2020 @ 19:42
     
-*   Gamzu says the worst of covid-9 will be behind us in two months
+*   Massive US AN-225 plane lands in Israel to pick up Iron Domes
     
-    Aug 01, 2020 @ 20:40
+    Aug 03, 2020 @ 19:29
     
-*   Thousands protest in Germany against government lockdown
+*   Gamzu: Lift the weekend coronavirus closures
     
-    Aug 01, 2020 @ 19:54
+    Aug 03, 2020 @ 19:18
     
-*   Iron Drone intercepts rocket fired from Gaza. No injuries
+*   Israel strikes Syrian military positions after thwarting Golan explosions
     
-    Aug 02, 2020 @ 22:48
+    Aug 04, 2020 @ 07:35
     
-*   Child benefits paid out to 1.25m families, 40,000 businesses
+*   Lebanese FM resigns saying country nearing a failed state
     
-    Aug 02, 2020 @ 19:43
+    Aug 03, 2020 @ 21:07
     
-*   Police arrest 12 in anti-government Jerusalem protest
+*   PM Netanyahu: A biennial budget would delay economic recovery
     
-    Aug 02, 2020 @ 10:17
+    Aug 03, 2020 @ 19:42
     
-*   Gamzu says the worst of covid-9 will be behind us in two months
+*   Massive US AN-225 plane lands in Israel to pick up Iron Domes
     
-    Aug 01, 2020 @ 20:40
+    Aug 03, 2020 @ 19:29
     
-*   Thousands protest in Germany against government lockdown
+*   Gamzu: Lift the weekend coronavirus closures
     
-    Aug 01, 2020 @ 19:54
+    Aug 03, 2020 @ 19:18
     
-*   Iron Drone intercepts rocket fired from Gaza. No injuries
+*   Israel strikes Syrian military positions after thwarting Golan explosions
     
-    Aug 02, 2020 @ 22:48
+    Aug 04, 2020 @ 07:35
     
-*   Child benefits paid out to 1.25m families, 40,000 businesses
+*   Lebanese FM resigns saying country nearing a failed state
     
-    Aug 02, 2020 @ 19:43
+    Aug 03, 2020 @ 21:07
     
-*   Police arrest 12 in anti-government Jerusalem protest
+*   PM Netanyahu: A biennial budget would delay economic recovery
     
-    Aug 02, 2020 @ 10:17
+    Aug 03, 2020 @ 19:42
     
-*   Gamzu says the worst of covid-9 will be behind us in two months
+*   Massive US AN-225 plane lands in Israel to pick up Iron Domes
     
-    Aug 01, 2020 @ 20:40
+    Aug 03, 2020 @ 19:29
     
 
 12PrevNext
