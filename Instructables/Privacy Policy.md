@@ -6,6 +6,8 @@ Change country/language X
 
 Autodesk logo
 
+*   0
+
 *   Sign In
     
     Autodesk Account
@@ -425,6 +427,7 @@ Buying
 
 Support &. Learning
 
+*   COVID-19 Resource Center
 *   Product support
 *   Software installation, registration &. licensing
 *   Updates &. service packs
@@ -483,6 +486,7 @@ Buying
 
 Support &. Learning
 
+*   COVID-19 Resource Center
 *   Product support
 *   Software installation, registration &. licensing
 *   Updates &. service packs
@@ -541,6 +545,7 @@ Buying
 
 Support &. Learning
 
+*   COVID-19 Resource Center
 *   Product support
 *   Software installation, registration &. licensing
 *   Updates &. service packs
