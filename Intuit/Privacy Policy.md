@@ -10,7 +10,7 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -24,34 +24,38 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-$19.99Women's Sandalsselect styles**After coupon $15.99\***$8.99Men's St. John's Bay Poloselect styles**After coupon $7.19\***$12.99 Women's Xersion Tees or Shortsselect styles**After coupon $10.39\***$14.99Guys' Arizona Flat-Front Shortsselect styles**After coupon $11.99\***$5.99Kids' Arizona Graphic Teeselect styles**After coupon $4.79\***$79.99Cooks 4.3-Qt. Stainless SteelAir Fryer**After coupon $71.99\***$19.99JCPenney Home 300TC Ultra-softCotton Twin Sheet Set**After coupon $15.99\***$39.99Black + Decker 4-slice Toaster**After coupon $35.99\*** **\*Coupon required.** Some restrictions and exclusions apply. See coupon for details. Prices shown reflect coupon discount.BackpacksYoung MenJuniorsKidsDormHomeschoolingBright moves to showcaseyour summer style,UP TO 50% OFF  
+Women's BrasYoung Men'sArizona UniformsKids' IZOD UniformsKids' Novelty Graphic TeeLiz ClaiborneBath TowelWomen's St. John's Bay PoloMen's UnderwearKids' BasicsWomen's SocksYoung Men's Graphic TeeBig &. Tall Graphic TeeJuniorsYoung MenKidsDormBackpacksHomeschooling   NikeadidasFilaSkechersComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationUP TO 50% OFF Home Saleselect styles
+
+*   Shop All
+
+*   Bedding
+    
+*   Bath
+    
+*   Window
+    
+*   Kitchen &. Dining
+    
+
+Shop AllIntroducingBig &. TallPuma activewear!  
+Excluded from coupons.  
+
+*   Shop Now
+
+ Bright moves to showcase your summer style,UP TO 50% OFF select styles
+
+*   Shop All
+
+Casual Dresses Shorts TopsTanks**Looks for couch chillin' ** **or backyard grillin',** **UP TO 50% OFF**  
 select styles
 
 *   Shop All
 
-Casual Dresses Shorts TopsTanksLooks for couch chillin' or backyard grillin', UP TO 50% OFF  
-select styles
+ShirtsShorts SwimBig &. TallBoysGirlsJuniorsYoung MenUP TO 15% OFF hair &. nail goodiesselect stylesShop trendy faves from Sephora inside JCPenneyExcluded from coupons.WomenMenBaby &. KidsShoes
 
-*   Shop All
+\*\*Buy one item at regular price, get the second item of equal or lesser value for either 40% off, 50% off or free, as advertised in the specific offer.
 
-ShirtsShorts SwimBig &. TallWomen's BrasYoung Men'sArizona UniformsKids' IZOD UniformsKids' Novelty Graphic TeeAlfred DunnerLiz ClaiborneBath TowelMen's St. John's Bay PantsWomen's St. John's Bay PoloMen's UnderwearKids' BasicsWomen's SocksYoung Men's Graphic TeeBig &. Tall Graphic TeeMen's Haggar PantsMen's Dress PantsKitchen &. DiningWindowBeddingBathUP TO 25% OFF Nike apparelGo longer, faster, higher
-
-*   Shop All
-
-*   Women
-    
-*   Men
-    
-*   Girls
-    
-*   Boys
-    
-
-Shop AllUP TO 30% OFF Looks that are ALL THATScore great deals on these top picks.Shop '90s Nostalgiaselect stylesShop Camo &. Utilityselect stylesBeauty on a budgetDouble up the savings with all the essentials.$12.99 Matrix Total Resultsvalue-size shampoos &. conditioners  
-select styles  
-SEPHORA COLLECTION skincare starting at $8select styles | Excluded from coupons.WomenMenBaby &. KidsShoes
-
-\*\*Buy one item at regular price, get the second item of equal or lesser value for 50% off or free, while supplies last. Some items must be same category of merchandise or same gender.
+Some items must be same category of merchandise or same gender. See store associate or jcp.com for details.
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 20 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
@@ -65,18 +69,18 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 20 total items loaded
     $20sale
     
     ~$124.98~197
-*   Playtex 18 Hour® Comfort Strap® Wireless Comfort Full Coverage Bra-4693 $15.99with code~$36~5494
+*   Playtex 18 Hour® Comfort Strap® Wireless Comfort Full Coverage Bra-4693 $15.99with code~$36~5501
 *   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
     
     $29.99sale
     
     ~$85~2
+*   Bali Double Support Comfort Wireless Comfort Full Coverage Bra-3820 $15.99with code~$40~1774
 *   Home Expressions Lisette Rod-Pocket Sheer Panel
     
-    $4.99 - $19.99sale
+    $4.99 - $23.99sale
     
     ~$16 - $40~1242
-*   Bali Double Support Comfort Wireless Comfort Full Coverage Bra-3820 $15.99with code~$40~1771
 
 Shop and Save at JCPenney
 
