@@ -130,20 +130,14 @@ Keyboard **ALT + g** to toggle grid overlay
 
 Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products)
 
-Autodesk industry collections
-
-COVID-19 support
+Visit the COVID-19 Resource Center
 
 Ready to make anything
 
 We've combined our most powerful software and services to create one simple package, for one great price—Autodesk industry collections.
 
 learn more   _BLOX is tackling the hospital shortage with modular construction._  
-_Read story_ We’re in this together. We’re here to help.
-
-As COVID-19 impacts the world, Autodesk is committed to giving our customers and our communities the support and resources they need—for staying connected, collaborating effectively, and maintaining business continuity—during this challenging time.
-
-VISIT THE COVID-19 RESOURCE CENTER
+_Read story_
 
 PRODUCT DESIGN &  
 MANUFACTURING COLLECTION
@@ -191,7 +185,7 @@ Free trial
 
 Subscribe
 
-$2,425/year
+—/year
 
 Cost-effective 2D CAD
 
@@ -263,6 +257,7 @@ Buying
 
 Support &. Learning
 
+*   COVID-19 Resource Center
 *   Product support
 *   Software installation, registration &. licensing
 *   Updates &. service packs
