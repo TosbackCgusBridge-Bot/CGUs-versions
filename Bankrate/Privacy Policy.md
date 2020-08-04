@@ -242,7 +242,7 @@ Get started Main Menu Investing Investing overview
 
 *   Get advice
 *   What is the long-term capital gains tax?
-*   Passive income: What it is and 5 ideas for 2019
+*   Passive income ideas to help you make money
 *   How to buy stocks
 
 Elevate your Bankrate experience
@@ -271,6 +271,7 @@ Get started Main Menu BR Home equity Home equity overview
 *   All home equity calculators
 
 *   Knowledge base
+*   Home equity loans
 *   What is a home equity loan?
 *   How to borrow from home equity
 *   HELOC vs. Home equity loan
