@@ -396,7 +396,7 @@ Shop 100s Of Styles Just Dropped
 **Girls 🔥 Shorts Deals $11.87 &. Up** **Guys 🔥 Shorts Deals $11.87 &. Up** Shop Girls Shop Guys Shop Girls Shop Guys **Girls 🔥 Shorts Deals $15.87 &. Under** **Guys 🔥 Shorts Deals $19.87 &. Under**
 
 Aero Best  
-Seller
+Sellers
 
 Your favorite Aero styles are  
 back by popular demand!
