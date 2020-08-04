@@ -1,14 +1,14 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Shop Limited Time Pricing at our Guest Giveback Event! start saving For the most up-to-date store information check here. Wear now denim styles, at special prices, almost too good to be true. shop now
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Hurry! Our Guest Giveback Event is over soon! shop limited time pricing now For the most up-to-date store information check here. Moving Forward with your best style of the year. embrace fall
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-*   Wear now denim styles, at special prices, almost too good to be true. shop now
-*   Shop Limited Time Pricing at our Guest Giveback Event! start saving
+*   Moving Forward with your best style of the year. embrace fall
+*   Hurry! Our Guest Giveback Event is over soon! shop limited time pricing now
 *   For the most up-to-date store information check here.
-*   Wear now denim styles, at special prices, almost too good to be true. shop now
-*   Shop Limited Time Pricing at our Guest Giveback Event! start saving
+*   Moving Forward with your best style of the year. embrace fall
+*   Hurry! Our Guest Giveback Event is over soon! shop limited time pricing now
 
 *   Women
 *   Men
