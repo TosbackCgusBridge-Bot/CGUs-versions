@@ -64,7 +64,7 @@ Lenovo Explore Close
         *   A540 27 inch AIO
         *   M720e SFF
         *   M920 SFF
-        *   Desktop Deals
+        *   New Arrivals
         
         Back to School
         
@@ -221,10 +221,10 @@ Lenovo Explore Close
         *   Legion Mice
         
         *   New Products
+        *   Legion Tower 5i
         *   Legion 5 Series
         *   Legion 7 Series
         *   IdeaPad Gaming 3i
-        *   IdeaPad Gaming Backpack
         *   HTC Vive VR Gaming
     *   Business
         
@@ -1137,12 +1137,6 @@ Where available, Hello You and Motorola Notifications provide tips for using you
 If you choose to use **Hello You**, you must log in to the app with your Google account information. To function, Hello You collects your Motorola device identifiers, Google account information, IP address, user interactions with app content, and certain related device and app usage data while using Hello You. We use the information described to measure the use of our app. to improve the content of our app. and to provide tailored content for each user, which may include targeted advertisements. We may also use your device IP address to collect information about your general location through your device IP address. For Hello You to provide tailored content, you must provide your interests in areas such as entertainment, sports, politics, business and technology. In order to deliver this experience, Motorola may share this information with its content and marketing partners, such as news services, marketing agencies and advertising partners. and with data hosting and processing service partners. You may choose to disable the Hello You app at any time and you may also modify your selected areas of interest by accessing the preferences in your account settings page.
 
 **Motorola Notifications** allows you to receive product related information and offers from Motorola and select partners that are relevant to you, including notifications on software updates, tips &. tricks, information about new products and services, and invitations to participate in studies or surveys to help improve Motorola’s products and services. If you opt-in to receive marketing communications via Motorola Notifications, Motorola will send these communications as “push” notifications on your device and Motorola will collect your name, contact information, Motorola device identifiers, and non-personally identifiable device and application metrics and instrumentation data. The information collected may be shared with data hosting and processing service providers, marketing agencies and advertising partners, and survey research partners of Motorola so that they can support activities for Motorola Notifications. You may opt out of receiving push notifications at any time by clicking on the unsubscribe button in the app or by using the unsubscribe option that is presented when you click on the notifications you receive.
-
-Motorola Notifications (“Hello U”):
-
-Where available, Motorola Notifications allows you to choose to receive product related information and offers from Motorola and select partners that are relevant to you, including notifications on software updates, tips &. tricks, information about new products and services, and invitations to participate in studies or surveys to help improve Motorola’s products and services. If you opt-in, Motorola will send these communications as “push” notifications on your device.
-
-If you opt-in to Motorola Notifications, Motorola will collect your name, contact information, Motorola device identifiers, and non-personally identifiable device and application metrics and instrumentation data. The information collected may be shared with data hosting and processing service providers, marketing agencies, and survey research partners of Motorola so that they can support activities under Motorola Notifications. You may opt out of receiving push notifications at any time by clicking on the unsubscribe button in this app or using the unsubscribe option that is presented when you click on the notifications you receive.
 
 Moto 360 and Moto Body:
 
