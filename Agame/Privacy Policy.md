@@ -28,12 +28,12 @@ View more results
     *   BFFs Dressing Room
     *   Bad Teeth Makeover
     *   Princess Hard Times
-    *   My New Room 2
     *   Tattoo Salon
-    *   How To Become Popular at School with Princess
+    *   My New Room 2
     *   Cake Design
-    *   Cool Boys Makeover: Hair Salon Game
+    *   How To Become Popular at School with Princess
     *   Goldie: Lip Injections
+    *   Cool Boys Makeover: Hair Salon Game
     *   Goldie Princess: Skin Doctor
     *   Cute Puppy Care
     *   Floral Real Life Manicure
@@ -53,19 +53,19 @@ View more results
     
     All Racing Best Games
     *   Maximum Acceleration
-    *   Xcross Madness
     *   Madalin Stunt Cars 2
+    *   Xcross Madness
     *   Hill Racing Challenge
     *   Moto X3m 2
-    *   Moto X3m 3
     *   Two Punk Racing
     *   City Car Stunts 2
+    *   Moto X3m 3
     *   Real Dog Racing Simulator
-    *   Formula X Speed 3D: Car Racing Game
     *   Cars 3D
+    *   Formula X Speed 3D: Car Racing Game
     *   Off-Roader V6
+    *   Scrap Metal 3: Infernal Trap - Driving Game 3D
     *   Speedboat Racing
-    *   Moto X3M 6: Spooky Land
 *   Puzzle
     
     Top Categories
@@ -86,14 +86,14 @@ View more results
     *   1001 Arabian Nights
     *   Block Wood Puzzle
     *   Bubble Shooter
-    *   Word Search Pictures
     *   Butterfly Kyodai
+    *   Word Search Pictures
     *   Word Wipe
     *   Jewel Shuffle
     *   Mahjong Connect Classic
     *   Treasures of the Mystic Sea
+    *   Mystic Sea Treasures
     *   Blossom Garden Crush Match 3
-    *   Jewelry Match
 *   Shooting
     
     Top Categories
@@ -118,10 +118,10 @@ View more results
     *   Apple Shooter
     *   Army Force Strike
     *   Deer Hunter
-    *   Gun Blood
-    *   Dino Survival: Shooter Game
-    *   Mr. Bullet
     *   Sniper Reloaded
+    *   Gun Blood
+    *   Mr. Bullet
+    *   Dino Survival: Shooter Game
 *   Multiplayer
     
     Top Categories
@@ -144,8 +144,8 @@ View more results
     *   Hole.io
     *   KOGAMA: Adopt a Son or Daughter and Form Your Family
     *   Fireboy &. Watergirl 3: The Ice Temple
-    *   Worms.Zone
     *   Fireboy &. Watergirl 4: Crystal Temple
+    *   Worms.Zone
     *   Pool Clash: 8 Ball Billiards Snooker
     *   Crowd City
     *   Fireboy and Watergirl: The Forest Temple
@@ -174,10 +174,10 @@ View more results
     *   Stickman Warriors
     *   Apple Shooter
     *   Bomb It 6
-    *   Age of War
     *   Army Force Strike
+    *   Age of War
     *   Deer Hunter
-    *   Gun Blood
+    *   Sniper Reloaded
 *   Adventure
     
     Top Categories
@@ -201,11 +201,11 @@ View more results
     *   Bob the Robber 4: Season 2 Russia
     *   Adam and Eve 3
     *   Troll Face Quest: Horror 2
+    *   Subway Surf
     *   Dog Simulator: Puppy Craft
     *   Pixel Craft
     *   Adam and Eve 2
     *   KOGAMA: Adopt a Son or Daughter and Form Your Family
-    *   Adam and Eve 4
 *   More
     
     *   Girls
