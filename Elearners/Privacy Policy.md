@@ -447,8 +447,10 @@ By entering my email address and clicking "Subscribe" I agree to be contacted by
 
 Copyright eLearners.com 1999 - 2020
 
-EducationDynamics maintains business relationships with the schools it features
+EducationDynamics receives compensation for the featured schools on our websites (see “Sponsored Schools” or “Sponsored Listings” or “Sponsored Results”). So what does this mean for you?
 
-This is an offer for educational opportunities that may lead to employment and not an offer for nor a guarantee of employment. Students should consult with a representative from the school they select to learn more about career opportunities in that field. Program outcomes vary according to each institution’s specific program curriculum.
+Compensation may impact where the Sponsored Schools appear on our websites, including whether they appear as a match through our education matching services tool, the order in which they appear in a listing, and/or their ranking. Our websites do not provide, nor are they intended to provide, a comprehensive list of all schools (a) in the United States (b) located in a specific geographic area or (c) that offer a particular program of study. By providing information or agreeing to be contacted by a Sponsored School, you are in no way obligated to apply to or enroll with the school.
+
+This is an offer for educational opportunities that may lead to employment and not an offer for nor a guarantee of employment. Students should consult with a representative from the school they select to learn more about career opportunities in that field. Program outcomes vary according to each institution’s specific program curriculum. Financial aid may be available to those who qualify. The information on this page is for informational and research purposes only and is not an assurance of financial aid.
 
 Find Schools
