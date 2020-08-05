@@ -52,8 +52,8 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
-    *   What to Watch on FandangoNOW: ‘Yes, God, Yes,’ ‘Deep Blue Sea 3,’ 2020 Emmy Nominees and More Read More
-    *   The Week in Movie News: Pixar’s Italian Sea Monster Movie, Jordan Peele and Issa Rae Dig a ‘Sinkhole’ and More Read More
+    *   What to Watch on FandangoNOW: ‘The Secret: Dare to Dream,’ ’The Secret Garden,’ ‘She Dies Tomorrow’ and More Read More
+    *   The Week in Movie News: Dave Franco to Portray Vanilla Ice, Cynthia Erivo Signs Up for a ‘Talent Show’ and More Read More
     
     Explore Content
     *   Movie Reviews
