@@ -9,128 +9,120 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Sorbus Home Organization
+    *   Birkenstock
+    *   Reiss Men Up to 65% Off
+    *   Makeup Tools
+    *   Shorts, Rompers &. Jumpsuits Up to 70% Off
+    *   cupcakes and cashmere
+    *   Get Fit: Fresh Activewear Up to 70% Off
+    *   All in the Details:Tops Under $30 Incl. Plus
+    *   Intimates We Love Up to 65% Off
+    *   Slim Fit Denim For Him
+    *   Men's Loafers Under $40
+    *   Love Loafers Under $40
+    *   Camera Ready: Kids' Styles Starting at $10
+    *   Trina Turk Jewelry
+    *   Kids' Sandals &. Water Shoes from $15
+    *   Last Call: Women's Styles Up to 75% Off
     *   Sam Edelman Up to 60% Off
     *   Designer Sun Up to 75% Off
     *   Wrap Dresses Up to 70% Off Incl. Plus
+    
     *   Sam Edelman Clothing
-    *   Tanks &. Tees Under $30 Incl. Plus
     *   Valentino by Mario Valentino
     *   Cozy Comfort: Sleep Styles We Love
     *   Knee High Boots Up to 60% Off
     *   Back to Basics: Kids' Styles Up to 60% Off
     *   Leather Sandals &. More Up to 70% Off
-    *   Car Organization &. Tech from $15
     *   Men's Work Essential Boots Up to 70% Off
-    *   Last Call: Women's Styles Up to 75% Off
     *   Women's Sandals Under $30
     *   Men's Boat Shoes &. More Under $40
     *   Summer Swim Faves Up to 70% Off
     *   Summer Style Blowout
-    *   kate spade new york Shoes Up to 65% Off
-    *   Ramy Brook &. More Up to 75% Off
-    *   PUMA Active Starting at $15
-    
-    *   Summer Basics Under $25 Incl. Plus
-    *   Midi &. Maxi Dresses Under $40 Incl. Plus
     *   Hickey Freeman Up to 70% Off
-    *   Mad for Motos: Leather Jackets Up to 70% Off
-    *   Booties for Every Season Under $50
     *   Fresh Kicks: Men's Sneakers Up to 60% Off
     *   Baby Essentials Starting at $10
     *   Fun for Bedtime: Kids' Sleepwear ft. Leveret
     *   Stride Rite
-    *   New Brand Alert: Under $40 ft. Ralph Lauren
-    *   Caslon &. Halogen Up to 75% Off Incl. Plus
-    *   Midi Dresses Up to 75% Off
     *   Floral Dresses, Tops &. More Up to 70% Off Incl. Plus
     *   Knit Tops Up to 70% Off Incl. Plus
-    *   Season's Best Shapewear Under $40
-    *   Kitten Heels Up to 65% Off
-    *   Men's Dress Shoes Up to 70% Off ft. Kenneth Cole
-    *   Fresh Finds Under $50
-    *   Dress Shirts Under $35 ft Kenneth Cole Reaction
-    *   Kenneth Cole Up to 70% Off
-    
-    *   Hair Accessories to Finish Your Look
-    *   Best in Class: Kids' Styles Up to 65% Off
-    *   Theory Up to 70% Off
-    *   Home Organization starting at $15
-    *   Keep it Casual: Men's Sneakers Under $30
-    *   Drybar
     *   Wall Art for Every Room
+    
     *   Zojirushi Rice Cookers &. More
     *   Flora Bunda Planters
     *   Overstock Wall Art- Christmas in July
     *   Men's Watches Up to 70% Off
     *   Urban Decay Products You Can't Live Without
-    *   Fragrances We Love
-    *   BergHOFF Kitchen Blowout
-    *   Duck River Pet-Friendly Covers, Beds &. More
     *   Report Collection Under $35
     *   Fall Finds Up to 70% Off
-    *   W Shoes Marc Jacobs OWNED
+    *   Car Organization &. Tech from $15
+    *   Tanks &. Tees Under $30 Incl. Plus
+    *   Fragrances We Love
+    *   Ramy Brook &. More Up to 75% Off
+    *   PUMA Active Starting at $15
+    *   Summer Basics Under $25 Incl. Plus
     *   L.O.L. Surprise!\_22631809\_Standard
+    *   Caslon &. Halogen Up to 75% Off Incl. Plus
+    *   Men's Dress Shoes Up to 70% Off ft. Kenneth Cole
+    *   Home Organization starting at $15
 *   WomenShop Sale Events
     
+    *   Birkenstock
+    *   Makeup Tools
+    *   Shorts, Rompers &. Jumpsuits Up to 70% Off
+    *   cupcakes and cashmere
+    *   Get Fit: Fresh Activewear Up to 70% Off
+    *   All in the Details:Tops Under $30 Incl. Plus
+    *   Intimates We Love Up to 65% Off
+    *   Love Loafers Under $40
+    *   Trina Turk Jewelry
+    *   Last Call: Women's Styles Up to 75% Off
     *   Sam Edelman Up to 60% Off
     *   Designer Sun Up to 75% Off
     *   Wrap Dresses Up to 70% Off Incl. Plus
     *   Sam Edelman Clothing
-    *   Tanks &. Tees Under $30 Incl. Plus
     *   Valentino by Mario Valentino
+    
     *   Cozy Comfort: Sleep Styles We Love
     *   Knee High Boots Up to 60% Off
     *   Leather Sandals &. More Up to 70% Off
-    *   Last Call: Women's Styles Up to 75% Off
     *   Women's Sandals Under $30
     *   Summer Swim Faves Up to 70% Off
-    *   kate spade new york Shoes Up to 65% Off
+    *   Floral Dresses, Tops &. More Up to 70% Off Incl. Plus
+    *   Knit Tops Up to 70% Off Incl. Plus
+    *   Urban Decay Products You Can't Live Without
+    *   Tanks &. Tees Under $30 Incl. Plus
+    *   Fragrances We Love
     *   Ramy Brook &. More Up to 75% Off
     *   PUMA Active Starting at $15
     *   Summer Basics Under $25 Incl. Plus
-    *   Midi &. Maxi Dresses Under $40 Incl. Plus
-    
-    *   Mad for Motos: Leather Jackets Up to 70% Off
-    *   Booties for Every Season Under $50
-    *   New Brand Alert: Under $40 ft. Ralph Lauren
     *   Caslon &. Halogen Up to 75% Off Incl. Plus
-    *   Midi Dresses Up to 75% Off
-    *   Floral Dresses, Tops &. More Up to 70% Off Incl. Plus
-    *   Knit Tops Up to 70% Off Incl. Plus
-    *   Season's Best Shapewear Under $40
-    *   Kitten Heels Up to 65% Off
-    *   Fresh Finds Under $50
-    *   Kenneth Cole Up to 70% Off
-    *   Hair Accessories to Finish Your Look
-    *   Theory Up to 70% Off
-    *   Drybar
-    *   Urban Decay Products You Can't Live Without
-    *   Fragrances We Love
-    *   W Shoes Marc Jacobs OWNED
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Accessories
     *   Lingerie &. Shapewear
+    *   Accessories
     *   Handbags
+    *   Jewelry
     *   Watches
 *   MenShop Sale Events
     
+    *   Reiss Men Up to 65% Off
+    *   Slim Fit Denim For Him
+    *   Men's Loafers Under $40
     *   Designer Sun Up to 75% Off
     *   Men's Work Essential Boots Up to 70% Off
     *   Men's Boat Shoes &. More Under $40
     *   Summer Style Blowout
+    
     *   Hickey Freeman Up to 70% Off
     *   Fresh Kicks: Men's Sneakers Up to 60% Off
-    *   New Brand Alert: Under $40 ft. Ralph Lauren
-    
-    *   Men's Dress Shoes Up to 70% Off ft. Kenneth Cole
-    *   Dress Shirts Under $35 ft Kenneth Cole Reaction
-    *   Keep it Casual: Men's Sneakers Under $30
     *   Men's Watches Up to 70% Off
     *   Report Collection Under $35
     *   Fall Finds Up to 70% Off
+    *   Men's Dress Shoes Up to 70% Off ft. Kenneth Cole
     
     Shop By Category
     *   Clothing
@@ -139,50 +131,49 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Camera Ready: Kids' Styles Starting at $10
+    *   Kids' Sandals &. Water Shoes from $15
     *   Back to Basics: Kids' Styles Up to 60% Off
     *   Baby Essentials Starting at $10
     *   Fun for Bedtime: Kids' Sleepwear ft. Leveret
     *   Stride Rite
-    *   Best in Class: Kids' Styles Up to 65% Off
     
     Shop By Category
     *   Girls
-    *   Baby
     *   Boys
-    *   Boys' Shoes
+    *   Baby
     *   Girls' Shoes
+    *   Boys' Shoes
     *   Toys
 *   HomeShop Sale Events
     
-    *   Car Organization &. Tech from $15
-    *   Home Organization starting at $15
+    *   Sorbus Home Organization
     *   Wall Art for Every Room
     *   Zojirushi Rice Cookers &. More
     *   Flora Bunda Planters
     *   Overstock Wall Art- Christmas in July
-    *   BergHOFF Kitchen Blowout
-    *   Duck River Pet-Friendly Covers, Beds &. More
+    *   Car Organization &. Tech from $15
+    *   Home Organization starting at $15
     
     Shop By Category
     *   Home Decor
-    *   Kitchen &. Tabletop
-    *   Pet Accessories
     *   Cleaning &. Organization
+    *   Kitchen &. Tabletop
     *   Holiday Decorations
     *   Luggage &. Travel
     *   Bath
 *   BeautyShop Sale Events
     
-    *   Hair Accessories to Finish Your Look
-    *   Drybar
+    *   Makeup Tools
     *   Urban Decay Products You Can't Live Without
     *   Fragrances We Love
     
     Shop By Category
     *   Makeup
     *   Fragrance
+    *   Makeup Bags
     *   Tools &. Accessories
-    *   Hair Care
+    *   Skin Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
