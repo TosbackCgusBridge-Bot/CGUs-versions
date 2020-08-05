@@ -92,6 +92,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   High Rise Jeans
 *   Low Rise Jeans
 *   Curvy Jeans
+*   Cheeky Jeans
 *   Ankle Jeggings
 *   Bootcut Jeans
 *   Skinny Jeans
@@ -259,6 +260,7 @@ Menu Find a Store Aeropostale
         *   High Rise Jeans
         *   Low Rise Jeans
         *   Curvy Jeans
+        *   Cheeky Jeans
         *   Ankle Jeggings
         *   Bootcut Jeans
         *   Skinny Jeans
@@ -393,7 +395,7 @@ Shop 100s Of Styles Just Dropped
 
 \*Exclusions Apply
 
-**Girls 🔥 Shorts Deals $11.87 &. Up** **Guys 🔥 Shorts Deals $11.87 &. Up** Shop Girls Shop Guys Shop Girls Shop Guys **Girls 🔥 Shorts Deals $15.87 &. Under** **Guys 🔥 Shorts Deals $19.87 &. Under**
+**Girls 🔥 Shorts Deals $11.87 &. Up** **Guys 🔥 Shorts Deals $11.87 &. Up** Shop Girls Shop Guys Shop Girls Shop Guys **Girls 🔥 Shorts Deals $11.87 &. Up** **Guys 🔥 Shorts Deals $11.87 &. Up**
 
 Aero Best  
 Sellers
@@ -516,7 +518,7 @@ Shop 🔥 Shorts Deals before they're gone!
 Shop 🔥 Shorts Deals  
 before they're gone!
 
-**$ 15.87 &. Under**
+**$11.87 &. Up**
 
 $11.87 &. Up
 
@@ -526,7 +528,7 @@ Crave-worthy comfort denim.
 Flawless fits. Curve-accentuating stretch.  
 Crave-worthy comfort denim.
 
-Girls Shorts **Girls 🔥 Shorts Deals $15.87 &. Under** Previous
+Girls Shorts **Girls 🔥Shorts Deals $11.87 &. Up** Previous
 
 Long Board Chino
 
@@ -568,7 +570,7 @@ Next
 
 Shop 🔥 Shorts Deals before they're gone!
 
-**$ 19.87 &. Under**
+**Shorts $11.87 &. Up**
 
 Shop 🔥 Shorts Deals  
 before they're gone!
@@ -578,7 +580,7 @@ $11.87 &. Up
 Everyday comfort. Cool distressed details.  
 Updated with stretch—for freedom that moves you.
 
-Guys Shorts **Guys 🔥 Shorts Deals $19.87 &. Under**
+Guys Shorts **Guys 🔥Shorts Deals $11.87 &. Up**
 
 Denim For  
 Days.
@@ -707,7 +709,7 @@ New! Aero Face Masks
 
 Shop Girls Shop Guys
 
-To help communities impacted by COVID-19,  
-Aero is donating to Direct Relief. Learn More
+Your safety is important to us. Face coverings  
+are required in ALL Aero stores. Learn More
 
 Close
