@@ -24,7 +24,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Women's BrasYoung Men'sArizona UniformsKids' IZOD UniformsKids' Novelty Graphic TeeLiz ClaiborneBath TowelWomen's St. John's Bay PoloMen's UnderwearKids' BasicsWomen's SocksYoung Men's Graphic TeeBig &. Tall Graphic TeeJuniorsYoung MenKidsDormBackpacksHomeschooling   NikeadidasFilaSkechersComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationUP TO 50% OFF Home Saleselect styles
+Young Men'sArizona UniformsKids' IZOD UniformsKids' Novelty Graphic TeeLiz ClaiborneBath TowelWomen's St. John's Bay PoloWomen's BrasMen's UnderwearKids' BasicsWomen's SocksYoung Men's Graphic TeeBig &. Tall Graphic TeeJuniorsYoung MenKidsDormBackpacksHomeschooling   NikeadidasFilaSkechersComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationUP TO 50% OFF Home Saleselect styles
 
 *   Shop All
 
@@ -37,7 +37,7 @@ Women's BrasYoung Men'sArizona UniformsKids' IZOD UniformsKids' Novelty Graphic 
 *   Kitchen &. Dining
     
 
-Shop AllIntroducingBig &. TallPuma activewear!  
+Shop All $23.99Boys' Levi's® jeans$49.99Women's Levi's® 711 skinny jeans $49.99Men's 511™ stretch slim fit jeansIntroducingBig &. TallPuma activewear!  
 Excluded from coupons.  
 
 *   Shop Now
@@ -59,28 +59,28 @@ Some items must be same category of merchandise or same gender. See store associ
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 20 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+*   Clarks Womens Brinkley Jazz Flip-Flops
     
-    $20sale
+    $34.99sale
     
-    ~$124.98~136
+    ~$55~309
 *   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $20sale
     
-    ~$124.98~197
-*   Playtex 18 Hour® Comfort Strap® Wireless Comfort Full Coverage Bra-4693 $15.99with code~$36~5501
-*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
+    ~$124.98~198
+*   JCPenney Home Performance Bath Towel Collection $4.79 - $30.39with code~$10 - $76~380
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
-    $29.99sale
+    $20sale
     
-    ~$85~2
-*   Bali Double Support Comfort Wireless Comfort Full Coverage Bra-3820 $15.99with code~$40~1774
-*   Home Expressions Lisette Rod-Pocket Sheer Panel
+    ~$124.98~138
+*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $8 - $57.60with code1731
+*   Nike® Reax Run Womens Running Shoes
     
-    $4.99 - $23.99sale
+    View Price in Cart
     
-    ~$16 - $40~1242
+    61
 
 Shop and Save at JCPenney
 
