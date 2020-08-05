@@ -1,4 +1,4 @@
-Skip Main Navigation Menu Marriott Bonvoy
+Best Rate Guarantee Travel with confidence during COVID-19. Travel with confidence during COVID-19:   Best Rate Guarantee   Flexible Cancellation   Commitment to Clean   Contactless Services Skip Main Navigation Menu Marriott Bonvoy
 
 *   *   English
 *   Help
@@ -13,7 +13,7 @@ Back
     
     Loading...
     
-    CLOSE
+            CLOSE
 *   Deals &. Packages
     
     Loading...
@@ -550,7 +550,6 @@ Top Destinations
 For Guests
 
 *   Best Rate Guarantee
-*   Room Key
 *   Marriott Bonvoy Moments
 *   Activities
 *   Marriott Insiders
@@ -580,4 +579,4 @@ Loading...
 
 Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
     
-prod10,E139D3BA-B8F6-54EE-915E-7A10167CE480
+prod8,5E5CBC25-3062-5C95-A446-C88D1F464D18
