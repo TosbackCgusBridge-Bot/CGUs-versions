@@ -46,7 +46,7 @@ Mature Content
 
 When we discuss _mature content_ we are specifically referring to deviations which contain images, subject matter, or other themes which some viewers may find offensive, distasteful, or otherwise undesirable to view or to read. The most common 'undesired' viewing material may include, but is not limited to, images containing artistic nudity (see details below), large amounts of simulated blood and gore, or generally violent themes.
 
-DeviantART **strictly prohibits** the submission of materials classified as pornographic or obscene. There is no exception to this prohibition.
+DeviantArt **strictly prohibits** the submission of materials classified as pornographic or obscene. There is no exception to this prohibition.
 
 Certain content may be deemed _obscene_ by the administration and as such the staff reserves the right to remove such content immediately upon discovery. The administration reserves the sole right to review and classify questionable material as obscene or not obscene.
 
