@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$20.91
+$20.29
 
 Change
 
-\-0.37
+\-0.62
 
 Percent Change
 
-(-1.74%)
+(-2.97%)
 
 Data Provided by Refinitiv. Minimum 15 minutes delayed.
 
 view details  
-Recent News Jul 27, 2020 The ODP Corporation Appoints Wendy Schoppert to Company’s Board of Directors view more Recent News Jul 27, 2020 The ODP Corporation Appoints Wendy Schoppert to Company’s Board of Directors view more Events Aug 5, 2020 at 9:00 AM EDT Q2 2020 Office Depot Inc Earnings Conference Call view more Events Aug 5, 2020 at 9:00 AM EDT Q2 2020 Office Depot Inc Earnings Conference Call view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more Presentations Jun 04, 2020 Office Depot’s Presentation - Baird’s Global Consumer, Technology &. Services Conference view more
+Recent News Aug 05, 2020 The ODP Corporation Announces Second Quarter 2020 Results view more Recent News Aug 05, 2020 The ODP Corporation Announces Second Quarter 2020 Results view more Events Aug 5, 2020 at 9:00 AM EDT Q2 2020 Office Depot Inc Earnings Conference Call view more Events Aug 5, 2020 at 9:00 AM EDT Q2 2020 Office Depot Inc Earnings Conference Call view more Presentations Aug 05, 2020 Office Depot Second Quarter 2020 Earnings Webcast Presentation view more Presentations Aug 05, 2020 Office Depot Second Quarter 2020 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
