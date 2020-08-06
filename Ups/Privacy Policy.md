@@ -1,5 +1,9 @@
-1 of 1
+Previous1 of 2Next
 
+*   UPS is open for business: Service impacts related to Coronavirus...More
+*   Service Impacted by Hurricane Isaias...More
+*   UPS is open for business: Service impacts related to Coronavirus...More
+*   Service Impacted by Hurricane Isaias...More
 *   UPS is open for business: Service impacts related to Coronavirus...More
 
 Close Skip To Main Content
@@ -146,9 +150,3 @@ Legal
   
 
 Copyright ©1994- 2020 United Parcel Service of America, Inc. All rights reserved.
-
-Close This website uses cookies
-
-We do this to better understand how visitors use our site and to offer you a more personal experience. Please see our Privacy Notice for more information. You can manage your preferences by selecting Cookie Settings.
-
-Play IconFeedback
