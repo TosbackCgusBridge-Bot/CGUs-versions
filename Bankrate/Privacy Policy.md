@@ -638,7 +638,7 @@ Government entities, law enforcement, lawyers, auditors, consultants and other p
 
 None
 
-July 6, 2020 4:16:49 PM EDT Bankrate About
+August 5, 2020 6:21:50 PM EDT Bankrate About
 
 *   About us
 *   Press room
