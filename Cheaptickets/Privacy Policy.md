@@ -87,7 +87,7 @@ Need an account? Sign Up Page not found
 We apologize, but we cannot find the page you’re looking for.  
 Please start your search from CheapTickets’s homepage.
 
-*   Privacy PolicyOpens in a new window.
+*   PrivacyOpens in a new window.
 *   Terms of UseOpens in a new window.
 *   Do Not Sell My Personal InformationOpens in a new window.
 *   © 2020, Trip Network, Inc, (d/b/a CheapTickets), An Expedia Group Company. All rights reserved.
