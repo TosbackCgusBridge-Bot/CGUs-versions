@@ -251,23 +251,23 @@ Extreme Engineering Solutions ensures compliance requirements while reducing man
     *   Emailed
     *   Recent
     
-    *   Broadened CIA cyberattack powers put businesses on alert
-    *   Why we must arm police with facial recognition systems
-    *   Botnet abuses Docker servers and crypto blockchain to deliver Doki backdoor
-    *   Chinese-made drone app may be spying on Americans
-    *   XM Cyber 1.35
-    
-    *   Adobe fixes 12 critical bugs in second round of July patches
-    *   To reduce security errors, employers must relieve stress and fatigue
     *   Critical VPN vulnerabilities pose danger to OT networks
-    *   COVID-19 accounts for most 2020 cyberattacks
-    *   First Look: Hyperproof Compliance Operations Platform
+    *   New cryptominer botnet spreads payload, less intrusive
+    *   SafeBreach Platform
+    *   Dating app OKCupid fixed serious security vulnerability after alert
+    *   Protecting data in the work-from-home age
     
-    *   Operation North Star attackers appear to be Hidden Cobra
-    *   Pandemic accelerating security at financial institutions
+    *   SEI Investments customer data exposed in ransomware attack on vendor
+    *   Twitter hackers duped employees with phone spear phishing scam
+    *   Garmin expects delays after WastedLocker ransomware attack
+    *   AttackIQ Platform v2.17
+    *   Rise in remote access leaves networks vulnerable to new Chinese malware attacks
+    
+    *   Misconfigured servers contributed to more than 200 cloud breaches
+    *   Tech workforce in defense and aerospace targeted in latest phishing attack
+    *   Financial institutions likely to doubledown on security spending
     *   Feds arrest teen Twitter hack leader, accomplices
     *   Media companies need to lock down content systems as fake news invades
-    *   Adobe mends critical code execution flaws in Magento
 
 Back to Top
 
@@ -300,6 +300,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
 You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
