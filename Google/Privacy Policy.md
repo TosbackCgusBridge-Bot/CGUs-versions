@@ -314,7 +314,7 @@ Wanneer we formele schriftelijke klachten ontvangen, reageren we door contact op
 
 Europese vereisten
 
-Indien de gegevensbeschermingswetgeving van de Europese Unie (EU) of het Verenigd Koninkrijk van toepassing is op uw gegevens, bieden we de in dit beleid beschreven opties, zodat u gebruik kunt maken van het recht op inzage om uw gegevens te updaten, te wissen en de verwerking ervan te beperken. U heeft ook het recht om bezwaar te maken tegen de verwerking van uw gegevens of om de gegevens te exporteren naar een andere service.
+Indien de gegevensbeschermingswetgeving van de Europese Unie (EU) of het Verenigd Koninkrijk (VK) van toepassing is op uw gegevens, bieden we de in dit beleid beschreven opties, zodat u gebruik kunt maken van het recht op inzage om uw gegevens te updaten, te wissen en de verwerking ervan te beperken. U heeft ook het recht om bezwaar te maken tegen de verwerking van uw gegevens of om de gegevens te exporteren naar een andere service.
 
 Voor gebruikers woonachtig in de Europese Economische Ruimte of Zwitserland is Google Ireland Limited de verwerkingsverantwoordelijke voor uw informatie, tenzij anderszins aangegeven in een servicespecifieke privacymededeling. Met andere woorden, Google Ireland Limited is de aangesloten Google-entiteit die verantwoordelijk is voor de verwerking van uw informatie en de naleving van de toepasselijke privacywetgeving.
 
@@ -333,7 +333,7 @@ We verwerken uw gegevens voor onze gerechtvaardigde belangen en die van derden w
 *   Inzicht krijgen in de manier waarop mensen onze services gebruiken om de prestaties van onze services te waarborgen en verbeteren.
 *   Aanpassing van onze services om u een betere gebruikerservaring te bieden.
 *   Marketing om gebruikers te informeren over onze services.
-*   Advertenties bieden, zodat we veel van onze services gratis beschikbaar te maken (en als advertenties worden gepersonaliseerd, vragen we om je toestemming)
+*   Advertenties bieden, waardoor veel van onze services gratis blijven (en als advertenties worden gepersonaliseerd, vragen we om je toestemming)
 *   Het detecteren, voorkomen of anderszins aanpakken van fraude, misbruik, beveiligings- of technische problemen met onze services.
 *   Bescherming van de rechten, het eigendom of de veiligheid van Google, onze gebruikers of het publiek, zoals vereist of toegestaan volgens de wet, waaronder gegevens vrijgeven aan overheidsinstanties
 *   Uitvoering van onderzoek waarmee onze services worden verbeterd voor onze gebruikers en die het publiek tot voordeel strekken.
