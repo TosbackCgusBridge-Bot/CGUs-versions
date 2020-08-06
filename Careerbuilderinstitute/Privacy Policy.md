@@ -36,7 +36,7 @@ Instant Notifications
 
 You'll receive push notifications when your resume is viewed, or when new jobs appear in your most recent search. Making it easy for you to jump right back into your job search.
 
-see how you can up your career status Career Development &. Learning What on-the-job collaboration looks like Read Article Employees can shape diversity and inclusion at work - here's how Read Article How company culture can impact your career Read Article Read More Articles Employers Looking to Post a Job?
+see how you can up your career status Career Development &. Learning What on-the-job collaboration looks like Read Article Compassion Is key: why empathy is so important as a nursing assistant Read Article Work directly with patients as a dental assistant Read Article Read More Articles Employers Looking to Post a Job?
 
 We have end-to-end solutions that can keep up with you and your standards.
 
