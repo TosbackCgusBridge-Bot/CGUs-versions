@@ -333,7 +333,7 @@ Nous traitons vos informations conformément à nos intérêts légitimes, ainsi
 *   Comprendre la façon dont nos services sont utilisés afin d'en assurer et d'en améliorer les performances.
 *   Personnaliser nos services afin d'offrir une meilleure expérience utilisateur.
 *   Mener des actions de marketing en vue de faire connaître nos services auprès des utilisateurs.
-*   Avoir recours à la publicité, ce qui permet de maintenir la gratuité de bon nombre de nos services (et lorsque les annonces sont personnalisées, nous vous demandons votre autorisation)
+*   Avoir recours à la publicité, ce qui permet de maintenir un accès sans frais à bon nombre de nos services (et lorsque les annonces sont personnalisées, nous vous demandons votre autorisation)
 *   Déceler, éviter ou traiter des activités frauduleuses, des abus, des atteintes à la sécurité ou tout problème d'ordre technique rencontré par nos services.
 *   Nous nous prémunissons contre toute atteinte aux droits, aux biens ou à la sécurité de Google, ainsi qu'à ceux de nos utilisateurs ou du public, en application et dans le respect de la loi. Nous pouvons par exemple divulguer des informations aux organismes gouvernementaux.
 *   Effectuer des recherches qui améliorent nos services pour nos utilisateurs et profitent au public.
