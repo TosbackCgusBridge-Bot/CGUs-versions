@@ -86,9 +86,9 @@ Skip Navigation
     *   View on the web
     *   Download the English PDF
     *   Download the Spanish PDF
-*   English Español Français
+*   English Español Français Portuguese
 
- A person is swiping through content on their smartphone as a wireless signal transmits from the phone to a radio tower. Our Privacy Approach
+  Our Privacy Approach
 
 You count on us to deliver the best entertainment and communication experiences in the world. You also count on us to protect your personal information. Privacy is fundamental to our business and we’re committed to:
 
@@ -107,19 +107,19 @@ Tom Moore
 
 Chief Privacy Officer
 
- A computer, email, and phone icon take turns appearing and connecting to a green check mark. Data helps us create better, more reliable products, services and experiences.
+  Data helps us create better, more reliable products, services and experiences.
 
 Data helps us mobilize your world by creating dependable services and experiences. For example, data helps us with the planning and optimization of our smart network. It also helps us prevent bad customer experiences like dropped calls.
 
- A floating shield featuring a lock emblem moves up and down on screen and pulses outward. Data helps improve security and prevent fraud.
+  Data helps improve security and prevent fraud.
 
 Data helps us and our third-party service partners strengthen network and device security and detect fraud, identity theft, and other ways that the bad guys try to hurt you and us.
 
- A series of data lines grow from the outside of a heart icon while a city animates inside of it. Data helps improve programs for social good.
+  Data helps improve programs for social good.
 
 By using our resources, we make the world a better place. For example, data has helped us raise awareness of the risks of texting while driving. And data can help us make cities smarter by reducing traffic, pollution, and much more.
 
- A spinning wheel slows down and lands on a section which grows from the center, revealing a media icon. Data helps us customize offers for our products and services that may interest you.
+  Data helps us customize offers for our products and services that may interest you.
 
 Your information helps us not only power your products and services, it helps us communicate service updates and offers. Data allows us to offer you our best products and services.
 
