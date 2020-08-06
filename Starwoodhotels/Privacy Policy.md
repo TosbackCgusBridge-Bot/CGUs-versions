@@ -1,4 +1,4 @@
-Best Rate Guarantee Travel with confidence during COVID-19. Travel with confidence during COVID-19:   Best Rate Guarantee   Flexible Cancellation   Commitment to Clean   Contactless Services Skip Main Navigation Menu Marriott Bonvoy
+Commitment to Clean Travel with confidence during COVID-19. Travel with confidence during COVID-19:   Best Rate Guarantee   Flexible Cancellation   Commitment to Clean   Contactless Services Skip Main Navigation Menu Marriott Bonvoy
 
 *   *   English
 *   Help
@@ -577,6 +577,6 @@ Loading...
 
 © 1996 – 2020 Marriott International, Inc. All rights reserved. Marriott Proprietary Information
 
-Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
+Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
     
-prod8,5E5CBC25-3062-5C95-A446-C88D1F464D18
+prod9,A4289E53-DB42-516A-9514-3EF56FD6EF1B
