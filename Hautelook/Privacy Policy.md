@@ -9,134 +9,128 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Sorbus Home Organization
+    *   Limited-Time Price Drops Up to 70% Off
+    *   Equipment &. More Up to 75% Off
+    *   Cropped Styles Up to 80% Off Incl. Plus
+    *   Summer Styles Under $20 Incl. Plus
+    *   In Bloom by Jonquil &. More
+    *   Exclusively Ours - NPG Brands
+    *   Dress Shoes Up to 60% Off
+    *   Scotch &. Soda Up to 60% Off
+    *   Men's Suede Shoes Up to 70% Off
+    *   Men's Dress Shoes &. More Up to 80% Off
+    *   Road Trip Essentials for Kids
+    *   Sandals Up to 70% Off
+    *   TOMS Kids Starting at $15
+    *   Last Call: Women's Styles Up to 75% Off
     *   Birkenstock
+    *   Ramy Brook &. More Up to 75% Off
     *   Reiss Men Up to 65% Off
-    *   Makeup Tools
+    
     *   Shorts, Rompers &. Jumpsuits Up to 70% Off
     *   cupcakes and cashmere
     *   Get Fit: Fresh Activewear Up to 70% Off
     *   All in the Details:Tops Under $30 Incl. Plus
     *   Intimates We Love Up to 65% Off
-    *   Slim Fit Denim For Him
     *   Men's Loafers Under $40
     *   Love Loafers Under $40
     *   Camera Ready: Kids' Styles Starting at $10
     *   Trina Turk Jewelry
     *   Kids' Sandals &. Water Shoes from $15
-    *   Last Call: Women's Styles Up to 75% Off
+    *   Makeup Tools ft PMD and Caboodles
     *   Sam Edelman Up to 60% Off
-    *   Designer Sun Up to 75% Off
-    *   Wrap Dresses Up to 70% Off Incl. Plus
-    
-    *   Sam Edelman Clothing
-    *   Valentino by Mario Valentino
-    *   Cozy Comfort: Sleep Styles We Love
-    *   Knee High Boots Up to 60% Off
     *   Back to Basics: Kids' Styles Up to 60% Off
-    *   Leather Sandals &. More Up to 70% Off
     *   Men's Work Essential Boots Up to 70% Off
-    *   Women's Sandals Under $30
     *   Men's Boat Shoes &. More Under $40
-    *   Summer Swim Faves Up to 70% Off
-    *   Summer Style Blowout
-    *   Hickey Freeman Up to 70% Off
-    *   Fresh Kicks: Men's Sneakers Up to 60% Off
-    *   Baby Essentials Starting at $10
-    *   Fun for Bedtime: Kids' Sleepwear ft. Leveret
-    *   Stride Rite
-    *   Floral Dresses, Tops &. More Up to 70% Off Incl. Plus
-    *   Knit Tops Up to 70% Off Incl. Plus
-    *   Wall Art for Every Room
-    
-    *   Zojirushi Rice Cookers &. More
-    *   Flora Bunda Planters
-    *   Overstock Wall Art- Christmas in July
-    *   Men's Watches Up to 70% Off
-    *   Urban Decay Products You Can't Live Without
     *   Report Collection Under $35
     *   Fall Finds Up to 70% Off
+    
     *   Car Organization &. Tech from $15
     *   Tanks &. Tees Under $30 Incl. Plus
-    *   Fragrances We Love
-    *   Ramy Brook &. More Up to 75% Off
+    *   Sorbus Home Organization
+    *   Slim Fit Denim For Him
+    *   Wrap Dresses Up to 70% Off Incl. Plus
+    *   Sam Edelman Clothing
+    *   Cozy Comfort: Sleep Styles We Love
     *   PUMA Active Starting at $15
     *   Summer Basics Under $25 Incl. Plus
-    *   L.O.L. Surprise!\_22631809\_Standard
+    *   Floral Dresses, Tops &. More Up to 70% Off Incl. Plus
+    *   Fresh Kicks: Men's Sneakers Up to 60% Off
+    *   Urban Decay Products You Can't Live Without
     *   Caslon &. Halogen Up to 75% Off Incl. Plus
-    *   Men's Dress Shoes Up to 70% Off ft. Kenneth Cole
+    *   Knit Tops Up to 70% Off Incl. Plus
+    *   Fragrances We Love
     *   Home Organization starting at $15
+    *   Wall Art for Every Room
 *   WomenShop Sale Events
     
+    *   Limited-Time Price Drops Up to 70% Off
+    *   Equipment &. More Up to 75% Off
+    *   Cropped Styles Up to 80% Off Incl. Plus
+    *   Summer Styles Under $20 Incl. Plus
+    *   In Bloom by Jonquil &. More
+    *   Exclusively Ours - NPG Brands
+    *   Dress Shoes Up to 60% Off
+    *   Sandals Up to 70% Off
+    *   Last Call: Women's Styles Up to 75% Off
     *   Birkenstock
-    *   Makeup Tools
+    *   Ramy Brook &. More Up to 75% Off
     *   Shorts, Rompers &. Jumpsuits Up to 70% Off
     *   cupcakes and cashmere
     *   Get Fit: Fresh Activewear Up to 70% Off
     *   All in the Details:Tops Under $30 Incl. Plus
     *   Intimates We Love Up to 65% Off
+    
     *   Love Loafers Under $40
     *   Trina Turk Jewelry
-    *   Last Call: Women's Styles Up to 75% Off
+    *   Makeup Tools ft PMD and Caboodles
     *   Sam Edelman Up to 60% Off
-    *   Designer Sun Up to 75% Off
+    *   Tanks &. Tees Under $30 Incl. Plus
     *   Wrap Dresses Up to 70% Off Incl. Plus
     *   Sam Edelman Clothing
-    *   Valentino by Mario Valentino
-    
     *   Cozy Comfort: Sleep Styles We Love
-    *   Knee High Boots Up to 60% Off
-    *   Leather Sandals &. More Up to 70% Off
-    *   Women's Sandals Under $30
-    *   Summer Swim Faves Up to 70% Off
-    *   Floral Dresses, Tops &. More Up to 70% Off Incl. Plus
-    *   Knit Tops Up to 70% Off Incl. Plus
-    *   Urban Decay Products You Can't Live Without
-    *   Tanks &. Tees Under $30 Incl. Plus
-    *   Fragrances We Love
-    *   Ramy Brook &. More Up to 75% Off
     *   PUMA Active Starting at $15
     *   Summer Basics Under $25 Incl. Plus
+    *   Floral Dresses, Tops &. More Up to 70% Off Incl. Plus
+    *   Urban Decay Products You Can't Live Without
     *   Caslon &. Halogen Up to 75% Off Incl. Plus
+    *   Knit Tops Up to 70% Off Incl. Plus
+    *   Fragrances We Love
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Lingerie &. Shapewear
-    *   Accessories
     *   Handbags
     *   Jewelry
-    *   Watches
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Limited-Time Price Drops Up to 70% Off
+    *   Scotch &. Soda Up to 60% Off
+    *   Men's Suede Shoes Up to 70% Off
+    *   Men's Dress Shoes &. More Up to 80% Off
     *   Reiss Men Up to 65% Off
-    *   Slim Fit Denim For Him
     *   Men's Loafers Under $40
-    *   Designer Sun Up to 75% Off
+    
     *   Men's Work Essential Boots Up to 70% Off
     *   Men's Boat Shoes &. More Under $40
-    *   Summer Style Blowout
-    
-    *   Hickey Freeman Up to 70% Off
-    *   Fresh Kicks: Men's Sneakers Up to 60% Off
-    *   Men's Watches Up to 70% Off
     *   Report Collection Under $35
     *   Fall Finds Up to 70% Off
-    *   Men's Dress Shoes Up to 70% Off ft. Kenneth Cole
+    *   Slim Fit Denim For Him
+    *   Fresh Kicks: Men's Sneakers Up to 60% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Watches
-    *   Accessories
 *   KidsShop Sale Events
     
+    *   Limited-Time Price Drops Up to 70% Off
+    *   Road Trip Essentials for Kids
+    *   TOMS Kids Starting at $15
     *   Camera Ready: Kids' Styles Starting at $10
     *   Kids' Sandals &. Water Shoes from $15
     *   Back to Basics: Kids' Styles Up to 60% Off
-    *   Baby Essentials Starting at $10
-    *   Fun for Bedtime: Kids' Sleepwear ft. Leveret
-    *   Stride Rite
     
     Shop By Category
     *   Girls
@@ -144,27 +138,26 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Baby
     *   Girls' Shoes
     *   Boys' Shoes
-    *   Toys
 *   HomeShop Sale Events
     
-    *   Sorbus Home Organization
-    *   Wall Art for Every Room
-    *   Zojirushi Rice Cookers &. More
-    *   Flora Bunda Planters
-    *   Overstock Wall Art- Christmas in July
+    *   Limited-Time Price Drops Up to 70% Off
     *   Car Organization &. Tech from $15
+    *   Sorbus Home Organization
     *   Home Organization starting at $15
+    *   Wall Art for Every Room
     
     Shop By Category
-    *   Home Decor
     *   Cleaning &. Organization
-    *   Kitchen &. Tabletop
-    *   Holiday Decorations
+    *   Home Decor
     *   Luggage &. Travel
+    *   Kitchen &. Tabletop
+    *   Rugs &. Doormats
     *   Bath
+    *   Bedding
 *   BeautyShop Sale Events
     
-    *   Makeup Tools
+    *   Limited-Time Price Drops Up to 70% Off
+    *   Makeup Tools ft PMD and Caboodles
     *   Urban Decay Products You Can't Live Without
     *   Fragrances We Love
     
