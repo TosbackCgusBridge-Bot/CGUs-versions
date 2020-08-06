@@ -187,7 +187,6 @@ Some of the Partners that may use cookies and similar technologies on the Servic
 *   SourcePoint
 *   SailThru and Carnival.io
 *   Taboola
-*   TicketNetwork
 
 Some of these Partners participate in programs intended to provide users with choices about whether and how to receive targeted advertising. You can learn more about these programs at the Network Advertising Initiative and Digital Advertising Alliance websites. Information about how Google collects and processes data is available from Google at http://www.google.com/policies/privacy/partners. Information about Google Analytics’ currently available opt-outs is available from Google at https://tools.google.com/dlpage/gaoptout/. And, if you are a European Resident, you can learn more about your choices at the European Interactive Digital Advertising Alliance website. These websites are provided by third parties, not Patch. Patch does not control or operate these websites or the choices that our Partners, advertisers and others may provide through the tools offered on these websites.
 
