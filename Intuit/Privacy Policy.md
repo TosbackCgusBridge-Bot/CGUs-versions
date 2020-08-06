@@ -10,7 +10,7 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -37,12 +37,7 @@ Young Men'sArizona UniformsKids' IZOD UniformsKids' Novelty Graphic TeeLiz Claib
 *   Kitchen &. Dining
     
 
-Shop All $23.99Boys' Levi's® jeans$49.99Women's Levi's® 711 skinny jeans $49.99Men's 511™ stretch slim fit jeansIntroducingBig &. TallPuma activewear!  
-Excluded from coupons.  
-
-*   Shop Now
-
- Bright moves to showcase your summer style,UP TO 50% OFF select styles
+Shop All Bright moves to showcase your summer style,UP TO 50% OFF select styles
 
 *   Shop All
 
@@ -51,7 +46,12 @@ select styles
 
 *   Shop All
 
-ShirtsShorts SwimBig &. TallBoysGirlsJuniorsYoung MenUP TO 15% OFF hair &. nail goodiesselect stylesShop trendy faves from Sephora inside JCPenneyExcluded from coupons.WomenMenBaby &. KidsShoes
+ShirtsShorts SwimBig &. TallIntroducingBig &. TallPuma activewear!  
+Excluded from coupons.  
+
+*   Shop Now
+
+ $23.99Boys' Levi's® jeans$49.99Women's Levi's® 711 skinny jeans $49.99Men's 511™ stretch slim fit jeansBoysGirlsJuniorsYoung MenUP TO 15% OFF hair &. nail goodiesselect stylesShop trendy faves from Sephora inside JCPenneyExcluded from coupons.WomenMenBaby &. KidsShoes
 
 \*\*Buy one item at regular price, get the second item of equal or lesser value for either 40% off, 50% off or free, as advertised in the specific offer.
 
@@ -59,28 +59,28 @@ Some items must be same category of merchandise or same gender. See store associ
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 20 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Clarks Womens Brinkley Jazz Flip-Flops
-    
-    $34.99sale
-    
-    ~$55~309
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~198
-*   JCPenney Home Performance Bath Towel Collection $4.79 - $30.39with code~$10 - $76~380
 *   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
     $20sale
     
     ~$124.98~138
-*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $8 - $57.60with code1731
-*   Nike® Reax Run Womens Running Shoes
+*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
-    View Price in Cart
+    $20sale
     
-    61
+    ~$124.98~198
+*   Playtex 18 Hour® Comfort Strap® Wireless Comfort Full Coverage Bra-4693 $15.99with code~$36~5512
+*   Bali Double Support Comfort Wireless Comfort Full Coverage Bra-3820 $15.99with code~$40~1776
+*   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
+    
+    $10sale
+    
+    ~$49.98~236
+*   Home Expressions Lisette Rod-Pocket Sheer Panel
+    
+    $4.99 - $23.99sale
+    
+    ~$16 - $40~1243
 
 Shop and Save at JCPenney
 
