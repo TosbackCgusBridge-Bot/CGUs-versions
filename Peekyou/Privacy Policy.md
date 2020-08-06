@@ -58,7 +58,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT.
 
-What is PeekScore? Public Records &. Background Checks 2% 
+What is PeekScore? Public Records &. Background Checks 3% 
 
 Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-10%  2% 
+6%  3% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-10%  Arrest Records &. Driving Infractions
+6%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -159,7 +159,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 2% 
+Facebook 3% 
 
 *   Prıvacy PoIicy (emha wollen paradies) - Pr&.
     
@@ -213,53 +213,53 @@ Facebook 2% 
     
 *   Show Less ...
 
-Twitter 2% 
+Twitter 3% 
 
-*   CDC - CDCgov
-    
-*   CDC\_eHealth - CDC\_eHealth
-    
 *   Free Privacy Policy - FreePrivacy1
     
-*   Dr. Robert R. Redfield - CDCDirector
-    
-*   Show More ...
-
-*   CDC Division For Heart Disease &. Stroke Prevention - CDCHeart\_Stroke
-    
-*   FOIAPost - FOIAPost
-    
-*   U.S. FDA Recalls - FDArecalls
+*   US Attorney Nick Hanna - USAttyHanna
     
 *   Jolynn Dellinger - MindingPrivacy
     
-*   NIH - NIH
+*   FOIAPost - FOIAPost
+    
+*   Show More ...
+
+*   CDC - CDCgov
+    
+*   U.S. FDA - US\_FDA
+    
+*   Secretary Alex Azar - SecAzar
+    
+*   Francis S. Collins - NIHDirector
+    
+*   HHS.gov - HHSGov
+    
+*   U.S. FDA Recalls - FDArecalls
     
 *   Mental Health NIMH - NIMHgov
     
 *   USAID Policy - USAIDPolicy
     
-*   HealthCare.gov - HealthCareGov
-    
-*   U.S. FDA - US\_FDA
-    
-*   ARL Public Policy - ARLpolicy
-    
-*   Seattle Privacy - SeattlePrivacy
+*   Dr. Robert R. Redfield - CDCDirector
     
 *   Federal Reserve - federalreserve
     
-*   HHS.gov - HHSGov
+*   ARL Public Policy - ARLpolicy
     
-*   Mabuhay Miles - PALMabuhayMiles
+*   NIH - NIH
     
 *   Justice Department - TheJusticeDept
+    
+*   Seattle Privacy - SeattlePrivacy
+    
+*   Mabuhay Miles - PALMabuhayMiles
     
 *   Cristiano Ronaldo - Cristiano
     
 *   Show Less ...
 
-Instagram 2% 
+Instagram 3% 
 
 *   Privacy Policy - insta\_privacy\_policy
     
@@ -305,7 +305,7 @@ Instagram 2% 
     
 *   Show Less ...
 
-Myspace 2% 
+Myspace 3% 
 
 *   Privacy Policy - 49086242
     
@@ -329,16 +329,16 @@ Myspace 2% 
     
 *   Show Less ...
 
-Social Profiles 10%  Pinterest 2% 
+Social Profiles 6%  Pinterest 3% 
 
-*   Privacy Policy - privacypolicyvino
-    
 *   Privacy Policy - privacypoli0213
+    
+*   privacy policy - privacypolicy0142
     
 *   Learn about instant apps Google Play Instant Apps are Play Store apps you can open before requiring - girlfriendnomore1
     
 
-Wikipedia 2% 
+Wikipedia 3% 
 
 *   Privacy policy
     
@@ -370,7 +370,7 @@ Wikipedia 2% 
     
 *   Show Less ...
 
-Music 10%  Photo Albums 2% 
+Music 6%  Photo Albums 2% 
 
 *   Help
     
@@ -418,7 +418,7 @@ Music 10%  Photo Albums 2% 
     
 *   Show Less ...
 
-Web Search 10%  Images 2% 
+Web Search 5%  Images 2% 
 
 16
 
@@ -426,7 +426,7 @@ Web Search 10%  Images 2% 
 
 20
 
-5
+9
 
 facebookx
 
