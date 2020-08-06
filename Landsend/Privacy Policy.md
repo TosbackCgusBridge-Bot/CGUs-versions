@@ -30,6 +30,8 @@ Lands' End let's get comfy™ Sign In menu
 
 Receive up to 60% off your order!
 
+Only 0 HR 02 MIN 50 SEC Left!
+
 code: DIVE pin: PROMOTION DETAILS
 
 Customer Service Menu
