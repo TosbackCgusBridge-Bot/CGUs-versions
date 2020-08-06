@@ -28,16 +28,16 @@ View more results
     *   BFFs Dressing Room
     *   Bad Teeth Makeover
     *   Princess Hard Times
-    *   Cake Design
     *   Goldie: Lip Injections
+    *   Cake Design
     *   How To Become Popular at School with Princess
-    *   Tattoo Salon
-    *   Cool Boys Makeover: Hair Salon Game
     *   Goldie Princess: Skin Doctor
-    *   My New Room 2
+    *   Cool Boys Makeover: Hair Salon Game
+    *   Tattoo Salon
     *   Floral Real Life Manicure
     *   Cute Puppy Care
     *   Car Salon
+    *   My New Room 2
 *   Racing
     
     Top Categories
@@ -57,8 +57,8 @@ View more results
     *   Xcross Madness
     *   Hill Racing Challenge
     *   Moto X3m 2
-    *   Two Punk Racing
     *   City Car Stunts 2
+    *   Two Punk Racing
     *   Real Dog Racing Simulator
     *   Cars 3D
     *   Formula X Speed 3D: Car Racing Game
@@ -89,8 +89,8 @@ View more results
     *   Butterfly Kyodai
     *   Word Search Pictures
     *   Word Wipe
-    *   Jewel Shuffle
     *   Mahjong Connect Classic
+    *   Jewel Shuffle
     *   Treasures of the Mystic Sea
     *   Mystic Sea Treasures
     *   Mahjongg Alchemy
@@ -115,9 +115,9 @@ View more results
     *   Super Rocket Buddy
     *   Miami Crime Simulator 3D
     *   Shot Trigger
+    *   Pixel Gun Apocalypse 3
     *   Army Force Strike
     *   Apple Shooter
-    *   Pixel Gun Apocalypse 3
     *   Deer Hunter
     *   Sniper Reloaded
     *   Mr. Bullet
@@ -149,7 +149,7 @@ View more results
     *   Crowd City
     *   Fireboy and Watergirl: The Forest Temple
     *   Worms.Zone
-    *   Master Chess Multiplayer
+    *   Gartic.io
 *   Action
     
     Top Categories
@@ -172,11 +172,11 @@ View more results
     *   Shot Trigger
     *   Super Buddy Kick
     *   Stickman Warriors
+    *   Pixel Gun Apocalypse 3
     *   Army Force Strike
     *   Bomb It 6
     *   Age of War
     *   Apple Shooter
-    *   Pixel Gun Apocalypse 3
     *   Deer Hunter
 *   Adventure
     
@@ -193,19 +193,19 @@ View more results
     
     All Adventure Best Games
     *   World Craft 2
-    *   Fireboy and Watergirl 5: Elements
     *   Square Bird
+    *   Fireboy and Watergirl 5: Elements
     *   Adam and Eve: GO
     *   The Last Survivors: 2 Player Zombie Game
     *   World Crafts
     *   Bob the Robber 4: Season 2 Russia
     *   Troll Face Quest: Horror 2
-    *   Subway Surf
-    *   Adam and Eve 3
     *   Dog Simulator: Puppy Craft
     *   Pixel Craft
-    *   Adam and Eve 2
+    *   Adam and Eve 3
     *   KOGAMA: Adopt a Son or Daughter and Form Your Family
+    *   Subway Surf
+    *   Adam and Eve 2
 *   More
     
     *   Girls
