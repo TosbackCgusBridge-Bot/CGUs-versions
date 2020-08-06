@@ -322,7 +322,7 @@ Wir verarbeiten Ihre Daten zu den in dieser Datenschutzerklärung beschriebenen 
 
 Mit Ihrer Einwilligung
 
-Wir ersuchen Sie um Ihre Einwilligung zur Verarbeitung Ihrer Daten für bestimmte Zwecke und Sie haben das Recht, Ihre Einwilligung jederzeit zu widerrufen. Beispielsweise holen wir Ihre Einwilligung ein, um Ihnen personalisierte Dienste anbieten zu können, wie z. B. Werbung auf Grundlage Ihrer Interessen. Auch für die Erhebung Ihrer Sprach- und Audioaktivitäten zur Spracherkennung ist Ihre Einwilligung erforderlich. Diese Einstellungen können Sie in Ihrem Google-Konto verwalten.
+Wir bitten Sie um Ihre Einwilligung zur Verarbeitung Ihrer Daten für bestimmte Zwecke und Sie haben das Recht, Ihre Einwilligung jederzeit zu widerrufen. Beispielsweise holen wir Ihre Einwilligung ein, um Ihnen personalisierte Dienste anbieten zu können, wie z. B. Werbung auf Grundlage Ihrer Interessen. Auch für die Erhebung Ihrer Sprach- und Audioaktivitäten zur Spracherkennung ist Ihre Einwilligung erforderlich. Diese Einstellungen können Sie in Ihrem Google-Konto verwalten.
 
 Aus berechtigten Interessen
 
@@ -336,7 +336,7 @@ Wir verarbeiten Ihre Daten, soweit wir oder Dritte ein berechtigtes Interessen d
 *   Werbung, um viele unserer Dienste kostenlos zur Verfügung stellen zu können (bei personalisierter Werbung holen wir Ihre Einwilligung ein)
 *   Aufdecken, Verhindern oder anderweitiges Bekämpfen von Betrug, Sicherheitsmängeln oder technischen Problemen
 *   Schutz der Rechte, des Eigentums oder der Sicherheit von Google, unserer Nutzer oder der Öffentlichkeit vor Schaden, soweit dies gesetzlich zulässig oder erforderlich ist, einschließlich der Offenlegung von Informationen gegenüber Behörden
-*   Durchführen von Recherchen, mit der unsere Dienste für unsere Nutzer verbessert werden können und die für die Öffentlichkeit von Vorteil sind
+*   Durchführen von Recherchen, mit der unsere Dienste für unsere Nutzer verbessert werden und die für die Öffentlichkeit von Vorteil sind
 *   Einhalten von Verpflichtungen gegenüber unseren Partnern wie Entwicklern und Rechteinhabern
 *   Durchsetzen rechtlicher Forderungen, einschließlich der Untersuchung möglicher Verletzungen anwendbarer Nutzungsbedingungen
 
@@ -346,7 +346,7 @@ Wir verarbeiten Ihre Daten, um Ihnen einen Dienst bereitzustellen, den Sie im Ra
 
 Bei der Erfüllung rechtlicher Verpflichtungen
 
-Wir verarbeiten Ihre Daten, wenn wir dazu eine rechtliche Verpflichtung haben, z. B. infolge eines gerichtlichen Verfahrens oder eines vollstreckbaren behördlichen Ersuchens.
+Wir verarbeiten Ihre Daten, wenn wir dazu eine rechtliche Verpflichtung haben, z. B. im Rahmen eines gerichtlichen Verfahrens oder eines vollstreckbaren behördlichen Ersuchens.
 
 Wenn Sie Fragen haben, können Sie sich mit Google und unserer Datenschutzabteilung in Verbindung setzen. Zusätzlich können Sie Ihre lokale Datenschutzaufsichtsbehörde kontaktieren, wenn Sie Bedenken bezüglich Ihrer Rechte gemäß dem örtlich geltenden Recht haben.
 
