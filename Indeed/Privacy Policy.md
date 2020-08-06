@@ -609,7 +609,7 @@ We will not discriminate against you for exercising any of your rights under the
 
 **Cookie Policy**
 
-Last Updated: August 4, 2020
+Last Updated: August 5, 2020
 
 By using or accessing Indeed’s websites (“Site”), you agree to Indeed’s use of Cookies as outlined below. All references to Job Seeker and Employer are defined as provided for in the Indeed Terms of Service Introduction.
 
