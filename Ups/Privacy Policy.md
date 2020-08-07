@@ -150,3 +150,9 @@ Legal
   
 
 Copyright ©1994- 2020 United Parcel Service of America, Inc. All rights reserved.
+
+Close This website uses cookies
+
+We do this to better understand how visitors use our site and to offer you a more personal experience. Please see our Privacy Notice for more information. You can manage your preferences by selecting Cookie Settings.
+
+Play IconFeedback
