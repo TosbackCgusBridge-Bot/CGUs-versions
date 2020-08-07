@@ -125,17 +125,17 @@ Play video: Discover What’s New About the Latest Alpha Camera Close video: Dis
 
 First details on compatible accessories and peripherals for PlayStation 5:  https://play.st/3i3s5TG  pic.twitter.com/kAaHTY4vyB
 
-2 days ago View Tweet Instagram Post CDWe7JMjPYO
+3 days ago View Tweet Instagram Post CDWe7JMjPYO
 
-A Portable Case
+New Wireless Headphones
 
-For on the Go
+Learn More
 
-*   Share on Facebook: A Portable Case
-*   Share on Twitter: A Portable Case
-*   Copy URL to Share: A Portable Case
+*   Share on Facebook: New Wireless Headphones
+*   Share on Twitter: New Wireless Headphones
+*   Copy URL to Share: New Wireless Headphones
 
-<img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-5:image:electronics:WFSP800NHeadphones-August-03-2020:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="A Portable Case WF-SP800N-Headphones" data-img1x="/content/dam/sony/homepage/2020-august/8-3/WF-SP800N\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-august/8-3/WF-SP800N\_600x600.jpg" src="/content/dam/sony/homepage/2020-august/8-3/WF-SP800N\_600x600.jpg" alt="A Portable Case"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-5:image:electronics:WFSP800NHeadphones-August-03-2020:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="A Portable Case WF-SP800N-Headphones" data-img1x="/content/dam/sony/homepage/2020-august/8-3/WF-SP800N\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-august/8-3/WF-SP800N\_600x600.jpg" src="/content/dam/sony/homepage/2020-august/8-3/WF-SP800N\_600x600.jpg" alt="A Portable Case Mobile"/>. Survey×Which PlayStation®5 console would you want?
+<img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-5:image:electronics:Wh1000xm4Headphones-August-03-2020:gwt:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="New Wireless Headphones Wh-1000xm4-Headphones" data-img1x="/content/dam/sony/homepage/2020-august/8-3/WH-1000XM4\_600x600-2.jpg" data-img2x="/content/dam/sony/homepage/2020-august/8-3/WH-1000XM4\_600x600-2.jpg" src="/content/dam/sony/homepage/2020-august/8-3/WH-1000XM4\_600x600-2.jpg" alt="New Wireless Headphones"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-5:image:electronics:Wh1000xm4Headphones-August-03-2020:gwt:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="New Wireless Headphones Wh-1000xm4-Headphones" data-img1x="/content/dam/sony/homepage/2020-august/8-3/WH-1000XM4\_600x600-2.jpg" data-img2x="/content/dam/sony/homepage/2020-august/8-3/WH-1000XM4\_600x600-2.jpg" src="/content/dam/sony/homepage/2020-august/8-3/WH-1000XM4\_600x600-2.jpg" alt="New Wireless Headphones Mobile"/>. Survey×Which PlayStation®5 console would you want?
 
 *   PlayStation®5 Digital Edition
 *   PlayStation®5 with an Ultra HD Blu-ray disc drive
