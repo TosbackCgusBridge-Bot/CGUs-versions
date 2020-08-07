@@ -108,9 +108,9 @@ Privacy Policy
 
 Versions:
 
-July 7, 2020 (current)November 20, 2019September 26, 2019January 2, 2019April 11, 2018September 12, 2016April 7, 2016July 8, 2015January 1, 2015December 10, 2014October 29, 2013February 5, 2013March 28, 2012June 27, 2011SurveyMonkey Apply-FluidReview Privacy Policy (archived)TechValidate Privacy Policy (archived)Wufoo Privacy Statement (archived)
+August 6, 2020 (current)July 7, 2020November 20, 2019September 26, 2019January 2, 2019April 11, 2018September 12, 2016April 7, 2016July 8, 2015January 1, 2015December 10, 2014October 29, 2013February 5, 2013March 28, 2012June 27, 2011SurveyMonkey Apply-FluidReview Privacy Policy (archived)TechValidate Privacy Policy (archived)Wufoo Privacy Statement (archived)
 
-LAST UPDATED: JULY 7, 2020
+LAST UPDATED: AUGUST 6, 2020
 
 Highlighted text represents any recent changes to our privacy policy.
 
@@ -564,19 +564,17 @@ Our services are not intended for and may not be used by minors. “Minors” ar
 
 10\. Data Transfers and Privacy Shield Certification
 
-Your information and data may be processed in and transferred or disclosed in the United States and countries in which our affiliates are located and in which our service providers are located or have servers. You can view where our affiliates are located on the Office Locations page.
+Your information and data may be processed in and transferred or disclosed in the United States and countries in which our affiliates are located and in which our service providers are located or have servers. You can view where our affiliates are located on the Office Locations page. We ensure that the recipient of your Personal Data offers an adequate level of protection, for instance by entering into the appropriate back-to-back agreements and, if required, we offer our Data Processing Agreement with standard contractual clauses for the transfer of data as approved by the European Commission.
 
 EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.
-
-SurveyMonkey Europe UC has entered into contractual terms to include standard contractual clauses with SurveyMonkey Inc. for the transfer of data to SurveyMonkey Inc. as part of the delivery of service. SurveyMonkey Inc. is located in the United States and accordingly, data (to include Respondent data) will be transferred to the United States.
 
 SurveyMonkey Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield. SurveyMonkey is committed to subjecting all personal information received from the European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. https://www.privacyshield.gov/.
 
 SurveyMonkey also complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-When SurveyMonkey receives personal information under the Privacy Shield and then transfers it to a third-party service provider acting as agent on SurveyMonkey’s behalf, SurveyMonkey has certain liability under the Privacy Shield if both (i) the agent processes the information in a manner inconsistent with the Privacy Shield and (ii) SurveyMonkey is responsible for the event giving rise to the damage. With respect to personal data received or transferred pursuant to the Privacy Shield Framework, SurveyMonkey is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain situations, SurveyMonkey may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+When SurveyMonkey receives personal information under the Privacy Shield and then transfers it to a third-party service provider acting as agent on SurveyMonkey’s behalf, SurveyMonkey has certain liability under the Privacy Shield if both (i) the agent processes the information in a manner inconsistent with the Privacy Shield and (ii) SurveyMonkey is responsible for the event giving rise to the damage. In certain situations, SurveyMonkey may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Please contact SurveyMonkey as described in Section 14 below if you have any concerns or complaints of any nature. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider, (free of charge) at https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim.
+SurveyMonkey is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. Please contact SurveyMonkey as described in Section 14 below if you have any concerns or complaints of any nature. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider, (free of charge) at https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim.
 
 Under certain conditions, more fully described on the Privacy Shield website https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
