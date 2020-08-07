@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Infographic: Ubuntu from 2004 to 20.04 LTS
+*   Set up Collabora Online on the Nextcloud Ubuntu Appliance
 *   Design and Web team summary – 4th August 2020
-*   Advantech releases EPC-C301 for machine vision applications with Ubuntu 18.04 LTS
-*   Charmed OSM Release EIGHT available from Canonical
