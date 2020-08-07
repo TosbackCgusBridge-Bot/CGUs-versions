@@ -1,9 +1,7 @@
 Shop safe! Masks are required for anyone entering the store. Details  
-EXTRA 25% OFF $75+ with code: STOCKUP4 Details  
-EXTRA 20% OFF under $75 with code: STOCKUP4 Details  
-Free Shipping Over $49  DetailsUP TO 50% OFF Sitewide savings galore! Shop All  
-Shop safe! Masks are required for anyone entering the store. Details  
-EXTRA 25% OFF $75+ with code: STOCKUP4 Details  
+EXTRA 30% OFF online only! with code: WINNER30 Details  
+Free Shipping Over $49  DetailsShop safe! Masks are required for anyone entering the store. Details  
+EXTRA 30% OFF online only! with code: WINNER30 Details  
 
 Enable Accessibility
 
@@ -24,7 +22,18 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Young Men'sArizona UniformsKids' IZOD UniformsKids' Novelty Graphic TeeLiz ClaiborneBath TowelWomen's St. John's Bay PoloWomen's BrasMen's UnderwearKids' BasicsWomen's SocksYoung Men's Graphic TeeBig &. Tall Graphic TeeJuniorsYoung MenKidsDormBackpacksHomeschooling   NikeadidasFilaSkechersComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationUP TO 50% OFF Home Saleselect styles
+JuniorsYoung MenKidsDormBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. Organization   NikeadidasFilaSkechersUP TO 50% OFFArizona  
+So many styles, whatever the classroom!  
+select styles
+
+*   Shop Now
+
+JuniorsYoung MenBoysGirls $23.99Boys' Levi's® jeans$49.99Women's Levi's® 711 skinny jeans $49.99Men's 511™ stretch slim fit jeansIntroducingBig &. TallPuma activewear!  
+Excluded from coupons.  
+
+*   Shop Now
+
+For HerFor HimBoysGirlsUP TO 50% OFF Home Saleselect styles
 
 *   Shop All
 
@@ -37,50 +46,22 @@ Young Men'sArizona UniformsKids' IZOD UniformsKids' Novelty Graphic TeeLiz Claib
 *   Kitchen &. Dining
     
 
-Shop All Bright moves to showcase your summer style,UP TO 50% OFF select styles
+Shop AllStock Smart!More basics means more time between loads!select stylesBUY 1 GET 1 FREE\*Women's bras20% OFFMen's underwearBUY 1 GET 1 50% OFF\*Kids' basics$9 EA.Face masks for the familyUP TO 15% OFF hair &. nail goodiesselect stylesShop trendy faves from Sephora inside JCPenneyExcluded from coupons.WomenMenBaby &. KidsShoes
 
-*   Shop All
-
-Casual Dresses Shorts TopsTanks**Looks for couch chillin' ** **or backyard grillin',** **UP TO 50% OFF**  
-select styles
-
-*   Shop All
-
-ShirtsShorts SwimBig &. TallIntroducingBig &. TallPuma activewear!  
-Excluded from coupons.  
-
-*   Shop Now
-
- $23.99Boys' Levi's® jeans$49.99Women's Levi's® 711 skinny jeans $49.99Men's 511™ stretch slim fit jeansBoysGirlsJuniorsYoung MenUP TO 15% OFF hair &. nail goodiesselect stylesShop trendy faves from Sephora inside JCPenneyExcluded from coupons.WomenMenBaby &. KidsShoes
-
-\*\*Buy one item at regular price, get the second item of equal or lesser value for either 40% off, 50% off or free, as advertised in the specific offer.
-
-Some items must be same category of merchandise or same gender. See store associate or jcp.com for details.
+\*Buy one item at regular price, get the second item of equal or lesser value for 50% off or free, while supplies last. Some items must be same category of merchandise or same gender. See store associate or jcp.com for details.
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 20 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
+*   Underscore Cushion Strap Wireless Unlined Full Coverage Bra-2788 $10.49with code~$30~666
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $5.59with code~$13~67
 *   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
     $20sale
     
     ~$124.98~138
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~198
-*   Playtex 18 Hour® Comfort Strap® Wireless Comfort Full Coverage Bra-4693 $15.99with code~$36~5512
-*   Bali Double Support Comfort Wireless Comfort Full Coverage Bra-3820 $15.99with code~$40~1776
-*   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
-    
-    $10sale
-    
-    ~$49.98~236
-*   Home Expressions Lisette Rod-Pocket Sheer Panel
-    
-    $4.99 - $23.99sale
-    
-    ~$16 - $40~1243
+*   Bali Double Support Comfort Wireless Comfort Full Coverage Bra-3820 $24.49with code~$40~1776
+*   Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel $5.59 - $38.49with code~$16 - $124~159
+*   Playtex 18 Hour® Comfort Strap® Wireless Comfort Full Coverage Bra-4693 $13.99with code~$36~5514
 
 Shop and Save at JCPenney
 
