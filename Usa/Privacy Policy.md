@@ -6,8 +6,6 @@ Change country/language X
 
 Autodesk logo
 
-*   0
-
 *   Sign In
     
     Autodesk Account
@@ -175,7 +173,7 @@ Free trial
 
 Subscribe
 
-$1,690/year
+—/year
 
 Software for Building Information Modeling
 
