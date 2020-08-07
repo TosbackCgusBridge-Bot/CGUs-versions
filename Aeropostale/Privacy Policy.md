@@ -38,7 +38,9 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
-*   🔥 Shorts Deals
+*   Lounge Life
+*   Seamless
+*   Destroyed Denim
 *   Face Coverings
 *   Tiny Tops
 *   Uniform
@@ -67,7 +69,6 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
-*   🔥 Shorts Deals
 *   Face Coverings
 *   New Aero Logo
 *   Uniform
@@ -86,7 +87,6 @@ Close submenu ( Jeans ) Jeans
 Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
-*   $17.87 Jeans
 *   Destroyed Denim
 *   Jeggings
 *   High Rise Jeans
@@ -105,12 +105,12 @@ Close submenu ( Girls Jeans ) Girls Jeans
 Close submenu ( Guys Jeans ) Guys Jeans
 
 *   View All
-*   $17.87 Jeans
 *   Destroyed Denim
 *   Skinny Jeans
 *   Slim Jeans
 *   Straight Jeans
 *   Slim Bootcut Jeans
+*   Athletic Skinny Jeans
 *   Loose Jeans
 *   Flex Effects
 *   Max Stretch
@@ -217,7 +217,9 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
-        *   🔥 Shorts Deals
+        *   Lounge Life
+        *   Seamless
+        *   Destroyed Denim
         *   Face Coverings
         *   Tiny Tops
         *   Uniform
@@ -242,7 +244,6 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
-        *   🔥 Shorts Deals
         *   Face Coverings
         *   New Aero Logo
         *   Uniform
@@ -255,7 +256,6 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls Jeans
         *   View All
-        *   $17.87 Jeans
         *   Destroyed Denim
         *   Jeggings
         *   High Rise Jeans
@@ -273,12 +273,12 @@ Menu Find a Store Aeropostale
     
     *   Guys Jeans
         *   View All
-        *   $17.87 Jeans
         *   Destroyed Denim
         *   Skinny Jeans
         *   Slim Jeans
         *   Straight Jeans
         *   Slim Bootcut Jeans
+        *   Athletic Skinny Jeans
         *   Loose Jeans
         *   Flex Effects
         *   Max Stretch
@@ -379,25 +379,29 @@ More Inclusive Future. Learn More
 
 Next
 
-🔥 Shorts Deals Extended!
-
-50-70% Off Everything
-
-Shop 100s Of Styles Just Dropped &. Our Need Now Aero Shorts!
-
-\*Exclusions Apply
-
-🔥 Shorts Deals Extended!
+In Stores &. Online
 
 50-70% Off  
 Everything
 
-Shop 100s Of Styles Just Dropped  
-&. Our Need Now Aero Shorts!
+**Including Just Dropped Aero Denim**
 
-\*Exclusions Apply
+Brand New Fits. Can't Beat Comfort.
 
-**Girls 🔥 Shorts Deals $11.87 &. Up** **Guys 🔥 Shorts Deals $11.87 &. Up** Shop Girls Shop Guys Shop Girls Shop Guys **Girls 🔥 Shorts Deals $11.87 &. Up** **Guys 🔥 Shorts Deals $11.87 &. Up**
+Shop Girls Shop Guys Shop Girls Jeans Shop Guys Jeans
+
+In Stores &. Online
+
+50-70% Off  
+Everything
+
+**Including Just Dropped  
+Aero Denim**
+
+Brand New Fits.  
+Can't Beat Comfort.
+
+Shop Girls Shop Guys Shop Girls Jeans Shop Guys Jeans
 
 Aero Best  
 Sellers
@@ -515,22 +519,19 @@ Mom
 
 Next
 
-Shop 🔥 Shorts Deals before they're gone!
+**Girls Shorts $11.87 &. Up**
 
-Shop 🔥 Shorts Deals  
-before they're gone!
+**Girls Shorts**
 
 **$11.87 &. Up**
 
-$11.87 &. Up
-
 Flawless fits. Curve-accentuating stretch.  
 Crave-worthy comfort denim.
 
 Flawless fits. Curve-accentuating stretch.  
 Crave-worthy comfort denim.
 
-Girls Shorts **Girls 🔥Shorts Deals $11.87 &. Up** Previous
+Girls Shorts Previous
 
 Long Board Chino
 
@@ -570,39 +571,29 @@ Cargo
 
 Next
 
-Shop 🔥 Shorts Deals before they're gone!
+**Guys Shorts $11.87 &. Up**
 
-**Shorts $11.87 &. Up**
-
-Shop 🔥 Shorts Deals  
-before they're gone!
+Guys Shorts
 
 $11.87 &. Up
 
 Everyday comfort. Cool distressed details.  
 Updated with stretch—for freedom that moves you.
 
-Guys Shorts **Guys 🔥Shorts Deals $11.87 &. Up**
+Guys Shorts
 
-Denim For  
-Days.
+Lounge  
+Life
 
-Styles With Stretch Denim  
-With Personality.
+Lounge Life
 
-**Aero Jeans  
-$17.87 &. Up**
+The leggings of your dreams.  
+Amazingly soft, slimming, and stretchy.  
+For your new #OOTD everyday.
 
-Shop Girls Jeans Shop Guys Jeans
+**$10 &. Up**
 
-Denim For Days.
-
-Styles With Stretch Denim With Personality.
-
-**Aero Jeans  
-$17.87 &. Up**
-
-Shop Girls Jeans Shop Guys Jeans
+Shop Leggings Shop Lounge Life
 
 **Order from our site and  
 pick up your purchase  
@@ -709,7 +700,7 @@ Stay Connected
 
 New! Aero Face Masks
 
-Shop Girls Shop Guys
+Shop Face Coverings
 
 Your safety is important to us. Face coverings  
 are required in ALL Aero stores. Learn More
