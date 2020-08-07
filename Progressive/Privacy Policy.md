@@ -146,8 +146,6 @@ Or, quote another product
 *   Selected, Flood
 *   Selected, Golf Cart
 *   Selected, Health
-*   Selected, Home Financing
-*   Selected, Home Refinancing
 *   Selected, Home Security
 *   Selected, Home Warranty
 *   Selected, Homeowners
@@ -168,15 +166,13 @@ Or, quote another product
 *   Selected, Vision
 *   Selected, Wedding &. Event
 
-Back Select type of insurance Enter ZIP Code
+Back Enter ZIP Code
 
 Loading
 
-Select type of insurance
-
 Loading
 
-Or, see all products Disclosures Back to quote Close Site Navigation
+Or, see all products Or, learn more Disclosures Back to quote Close Site Navigation
 
 *   Explore Products
 *   Claims
@@ -217,8 +213,6 @@ Bundling
 Finance
 
 *   Car Shopping Service
-*   Home Financing
-*   Home Refinancing
 *   Personal Loans
 
 Commercial
