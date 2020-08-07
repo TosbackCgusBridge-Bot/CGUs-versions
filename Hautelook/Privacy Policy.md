@@ -9,62 +9,58 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Limited-Time Price Drops Up to 70% Off
+    *   Ray-Ban
+    *   Herschel
+    *   FRNCH
+    *   Protective Mask Sets
+    *   Alternative Under $35
+    *   High Waisted Styles Up to 80% Off Incl. Plus
+    *   Minis: Dresses &. Skirts Up to 70% Off
+    *   Signature by Lifestride
+    *   Personalized Jewelry: Up to 70% Off
+    *   Men's Shoes Up to 80% Off
+    *   Men's Leather Shoes Up to 80% Off
+    *   Top Toys ft. Mattel &. Fisher-Price
+    *   Stock Up: Fall Sweatshirts Starting at $20
+    
+    *   Must Have Mules Up to 80% Off
     *   Equipment &. More Up to 75% Off
     *   Cropped Styles Up to 80% Off Incl. Plus
     *   Summer Styles Under $20 Incl. Plus
     *   In Bloom by Jonquil &. More
     *   Exclusively Ours - NPG Brands
     *   Dress Shoes Up to 60% Off
-    *   Scotch &. Soda Up to 60% Off
     *   Men's Suede Shoes Up to 70% Off
     *   Men's Dress Shoes &. More Up to 80% Off
     *   Road Trip Essentials for Kids
     *   Sandals Up to 70% Off
     *   TOMS Kids Starting at $15
-    *   Last Call: Women's Styles Up to 75% Off
     *   Birkenstock
-    *   Ramy Brook &. More Up to 75% Off
+    
     *   Reiss Men Up to 65% Off
-    
-    *   Shorts, Rompers &. Jumpsuits Up to 70% Off
-    *   cupcakes and cashmere
-    *   Get Fit: Fresh Activewear Up to 70% Off
-    *   All in the Details:Tops Under $30 Incl. Plus
-    *   Intimates We Love Up to 65% Off
     *   Men's Loafers Under $40
-    *   Love Loafers Under $40
-    *   Camera Ready: Kids' Styles Starting at $10
-    *   Trina Turk Jewelry
-    *   Kids' Sandals &. Water Shoes from $15
-    *   Makeup Tools ft PMD and Caboodles
-    *   Sam Edelman Up to 60% Off
-    *   Back to Basics: Kids' Styles Up to 60% Off
-    *   Men's Work Essential Boots Up to 70% Off
-    *   Men's Boat Shoes &. More Under $40
-    *   Report Collection Under $35
-    *   Fall Finds Up to 70% Off
-    
-    *   Car Organization &. Tech from $15
-    *   Tanks &. Tees Under $30 Incl. Plus
     *   Sorbus Home Organization
     *   Slim Fit Denim For Him
-    *   Wrap Dresses Up to 70% Off Incl. Plus
-    *   Sam Edelman Clothing
-    *   Cozy Comfort: Sleep Styles We Love
-    *   PUMA Active Starting at $15
-    *   Summer Basics Under $25 Incl. Plus
-    *   Floral Dresses, Tops &. More Up to 70% Off Incl. Plus
-    *   Fresh Kicks: Men's Sneakers Up to 60% Off
-    *   Urban Decay Products You Can't Live Without
-    *   Caslon &. Halogen Up to 75% Off Incl. Plus
-    *   Knit Tops Up to 70% Off Incl. Plus
-    *   Fragrances We Love
+    *   Scotch &. Soda Up to 60% Off
+    *   Camera Ready: Kids' Styles Starting at $10
+    *   Kids' Sandals &. Water Shoes from $15
+    *   Car Organization &. Tech from $15
+    *   Makeup Tools ft PMD and Caboodles
+    *   Men's Work Essential Boots Up to 70% Off
     *   Home Organization starting at $15
-    *   Wall Art for Every Room
 *   WomenShop Sale Events
     
-    *   Limited-Time Price Drops Up to 70% Off
+    *   Ray-Ban
+    *   Herschel
+    *   FRNCH
+    *   Protective Mask Sets
+    *   Alternative Under $35
+    *   High Waisted Styles Up to 80% Off Incl. Plus
+    *   Minis: Dresses &. Skirts Up to 70% Off
+    *   Signature by Lifestride
+    *   Personalized Jewelry: Up to 70% Off
+    *   Must Have Mules Up to 80% Off
+    
     *   Equipment &. More Up to 75% Off
     *   Cropped Styles Up to 80% Off Incl. Plus
     *   Summer Styles Under $20 Incl. Plus
@@ -72,98 +68,69 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Exclusively Ours - NPG Brands
     *   Dress Shoes Up to 60% Off
     *   Sandals Up to 70% Off
-    *   Last Call: Women's Styles Up to 75% Off
     *   Birkenstock
-    *   Ramy Brook &. More Up to 75% Off
-    *   Shorts, Rompers &. Jumpsuits Up to 70% Off
-    *   cupcakes and cashmere
-    *   Get Fit: Fresh Activewear Up to 70% Off
-    *   All in the Details:Tops Under $30 Incl. Plus
-    *   Intimates We Love Up to 65% Off
-    
-    *   Love Loafers Under $40
-    *   Trina Turk Jewelry
     *   Makeup Tools ft PMD and Caboodles
-    *   Sam Edelman Up to 60% Off
-    *   Tanks &. Tees Under $30 Incl. Plus
-    *   Wrap Dresses Up to 70% Off Incl. Plus
-    *   Sam Edelman Clothing
-    *   Cozy Comfort: Sleep Styles We Love
-    *   PUMA Active Starting at $15
-    *   Summer Basics Under $25 Incl. Plus
-    *   Floral Dresses, Tops &. More Up to 70% Off Incl. Plus
-    *   Urban Decay Products You Can't Live Without
-    *   Caslon &. Halogen Up to 75% Off Incl. Plus
-    *   Knit Tops Up to 70% Off Incl. Plus
-    *   Fragrances We Love
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie &. Shapewear
-    *   Handbags
-    *   Jewelry
     *   Accessories
+    *   Handbags
+    *   Lingerie &. Shapewear
+    *   Jewelry
 *   MenShop Sale Events
     
-    *   Limited-Time Price Drops Up to 70% Off
-    *   Scotch &. Soda Up to 60% Off
+    *   Ray-Ban
+    *   Herschel
+    *   Protective Mask Sets
+    *   Men's Shoes Up to 80% Off
+    *   Men's Leather Shoes Up to 80% Off
+    *   Stock Up: Fall Sweatshirts Starting at $20
     *   Men's Suede Shoes Up to 70% Off
+    
     *   Men's Dress Shoes &. More Up to 80% Off
     *   Reiss Men Up to 65% Off
     *   Men's Loafers Under $40
-    
-    *   Men's Work Essential Boots Up to 70% Off
-    *   Men's Boat Shoes &. More Under $40
-    *   Report Collection Under $35
-    *   Fall Finds Up to 70% Off
     *   Slim Fit Denim For Him
-    *   Fresh Kicks: Men's Sneakers Up to 60% Off
+    *   Scotch &. Soda Up to 60% Off
+    *   Men's Work Essential Boots Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
+    *   Accessories
 *   KidsShop Sale Events
     
-    *   Limited-Time Price Drops Up to 70% Off
+    *   Top Toys ft. Mattel &. Fisher-Price
     *   Road Trip Essentials for Kids
     *   TOMS Kids Starting at $15
     *   Camera Ready: Kids' Styles Starting at $10
     *   Kids' Sandals &. Water Shoes from $15
-    *   Back to Basics: Kids' Styles Up to 60% Off
     
     Shop By Category
     *   Girls
     *   Boys
     *   Baby
+    *   Toys
     *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Limited-Time Price Drops Up to 70% Off
-    *   Car Organization &. Tech from $15
     *   Sorbus Home Organization
+    *   Car Organization &. Tech from $15
     *   Home Organization starting at $15
-    *   Wall Art for Every Room
     
     Shop By Category
     *   Cleaning &. Organization
-    *   Home Decor
     *   Luggage &. Travel
+    *   Home Decor
     *   Kitchen &. Tabletop
-    *   Rugs &. Doormats
     *   Bath
-    *   Bedding
 *   BeautyShop Sale Events
     
-    *   Limited-Time Price Drops Up to 70% Off
     *   Makeup Tools ft PMD and Caboodles
-    *   Urban Decay Products You Can't Live Without
-    *   Fragrances We Love
     
     Shop By Category
-    *   Makeup
-    *   Fragrance
     *   Makeup Bags
     *   Tools &. Accessories
     *   Skin Care
