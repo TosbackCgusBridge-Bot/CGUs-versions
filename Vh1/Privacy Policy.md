@@ -8,8 +8,8 @@
     *   Canada's Drag Race
     *   Love &. Hip Hop Atlanta
     *   Love &. Listings
-    *   RuPaul's Drag Race
     *   RuPaul’s Drag Race All Stars
+    *   RuPaul's Drag Race: Vegas Revue
     *   T.I. &. Tiny: Friends &. Family Hustle
     *   To Catch A BeauticianSee all Shows
 *   App
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleSpotlight on Black Voices &. Black StoriesBlack Ink Crew ChicagoCanada's Drag RaceLove &. Hip Hop AtlantaLove &. ListingsRuPaul's Drag RaceRuPaul’s Drag Race All StarsT.I. &. Tiny: Friends &. Family HustleTo Catch A Beauticiansee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleSpotlight on Black Voices &. Black StoriesBlack Ink Crew ChicagoCanada's Drag RaceLove &. Hip Hop AtlantaLove &. ListingsRuPaul’s Drag Race All StarsRuPaul's Drag Race: Vegas RevueT.I. &. Tiny: Friends &. Family HustleTo Catch A Beauticiansee all Shows
 *   App
 *   VH100 PODCAST
 *   Watch Live TV
