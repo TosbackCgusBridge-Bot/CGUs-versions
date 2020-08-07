@@ -84,22 +84,22 @@ Up to
 
 Impreza Sport 5-door shown
 
-Crosstrek $22,145\* starting price 2020 Crosstrek
+Crosstrek $22,245\* starting price 2021 Crosstrek
 
 Starting at
 
-$22,145 MSRP
+$22,245 MSRP
 
 Up to
 
-33/27 MPG Hwy/City
+34/27 MPG Hwy/City
 
 *   Overview
 *   Photos &. Videos
 *   Compare
 *   Build &. Price
 
-Crosstrek Limited shown
+Crosstrek Sport Shown
 
 Legacy $22,745\* starting price 2020 Legacy
 
