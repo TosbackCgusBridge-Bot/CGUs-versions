@@ -8,7 +8,7 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -22,7 +22,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-JuniorsYoung MenKidsDormBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. Organization   NikeadidasFilaSkechersUP TO 50% OFFArizona  
+JuniorsYoung MenKidsDormBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. Organization   NikeadidasFilaSkechersFor HerFor HimBoysGirlsUP TO 50% OFFArizona  
 So many styles, whatever the classroom!  
 select styles
 
@@ -33,7 +33,7 @@ Excluded from coupons.
 
 *   Shop Now
 
-For HerFor HimBoysGirlsUP TO 50% OFF Home Saleselect styles
+UP TO 50% OFF Home Saleselect styles
 
 *   Shop All
 
@@ -52,16 +52,24 @@ Shop AllStock Smart!More basics means more time between loads!select stylesBUY 1
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 20 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Underscore Cushion Strap Wireless Unlined Full Coverage Bra-2788 $10.49with code~$30~666
-*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $5.59with code~$13~67
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+*   Home Expressions Lisette Rod-Pocket Sheer Panel
     
-    $20sale
+    $4.99 - $23.99sale
     
-    ~$124.98~138
-*   Bali Double Support Comfort Wireless Comfort Full Coverage Bra-3820 $24.49with code~$40~1776
-*   Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel $5.59 - $38.49with code~$16 - $124~159
-*   Playtex 18 Hour® Comfort Strap® Wireless Comfort Full Coverage Bra-4693 $13.99with code~$36~5514
+    ~$16 - $40~1245
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $5.59with code~$13~68
+*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $7 - $50.40with code1739
+*   Clarks Womens Brinkley Jazz Flip-Flops
+    
+    $34.99sale
+    
+    ~$55~312
+*   Playtex 18 Hour® Comfort Strap® Wireless Comfort Full Coverage Bra-4693 $20.29with code~$36~5524
+*   Nike Air Max Motion 2 Womens Running Shoes
+    
+    View Price in Cart
+    
+    22
 
 Shop and Save at JCPenney
 
