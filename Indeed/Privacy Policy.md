@@ -1,4 +1,4 @@
-HR Tech Privacy Back to Indeed
+HR Tech Privacy
 
 *   Home
 *   Our Sites
@@ -609,7 +609,7 @@ We will not discriminate against you for exercising any of your rights under the
 
 **Cookie Policy**
 
-Last Updated: August 6, 2020
+Last Updated: August 7, 2020
 
 By using or accessing Indeed’s websites (“Site”), you agree to Indeed’s use of Cookies as outlined below. All references to Job Seeker and Employer are defined as provided for in the Indeed Terms of Service Introduction.
 
@@ -650,12 +650,12 @@ To opt out of the collection and use of information for ad targeting please feel
 
 **4\. Cookies**
 
-The following table lists a selection of cookies used on Indeed to facilitate services offered by third-parties. Although we may update this list periodically, please be advised that the names of cookies, pixels and other technologies are subject to change. You may opt-out of these cookies by following each of the links listed below. Please note, Indeed does not operate or control the third-party websites or opt-out mechanisms linked to below, and makes no representations about their completeness, effectiveness, or compliance with applicable laws. For more information about our use of links to third-party websites, please see Section 8 of our Privacy Policy. Please note, if you changed the settings in your web browser to block third-party cookies, that setting will not apply to the following cookies if they are hosted by Indeed.
+Visitors to Indeed Ireland or Indeed UK can view a full list of the cookies placed by our site by visiting:
 
-To view a full list of cookies placed by the Site, visit the links below.
+*   Indeed Ireland for users in Ireland
+*   Indeed UK for users in the United Kingdom
 
-*   Indeed Ireland
-*   Indeed United Kingdom
+For all other visitors to our Site, the following table lists a selection of cookies used on Indeed to facilitate services offered by third-parties. Although we may update this list periodically, please be advised that the names of cookies, pixels and other technologies are subject to change. You may opt-out of these cookies by following each of the links listed below. Please note, Indeed does not operate or control the opt-out mechanisms associated with these links or represent their effectiveness. For more information about our use of links to third-party websites, please see Section 8 of our Privacy Policy. Please note, if you changed the settings in your web browser to block third-party cookies, that setting will not apply to the following cookies if they are hosted by Indeed.
 
 **Hosting Domain** **Cookie Name** **Description** **Expiration** **Opt-out**IndeedoptimizelyBucketsUsed by Optimizely to store page variants assigned to user for A/B performance testing (ensures user gets a consistent experience)10 yearsOptimizely opt-outIndeedoptimizelyEndUserIDUsed by Optimizely for A/B performance testing. it is a unique user identifier10 yearsOptimizely opt-outIndeed\_gaUsed by Google Analytics to track user activity over different browsing sessions. You will know if this information is being shared because it will be explicitly called out in the application process.2 yearsGoogle Analytics opt-outIndeed\_galiUsed by Google Analytics to record what item on the previous page the user interacted with to get to the current pageimmediatelyGoogle Analytics opt-outIndeed\_utmaUsed by Google Analytics to store information on number of visits, first visit, and most recent visit2 yearsGoogle Analytics opt-outIndeed\_utmbUsed by Google Analytics to record the timestamp of the moment the user enters the site1 monthGoogle Analytics opt-outIndeed\_utmcUsed by Google Analytics to track when users leave the site1 yearGoogle Analytics opt-outIndeed\_utmzUsed by Google Analytics to track where a visitor came from1 yearGoogle Analytics opt-outThird partyintercom-session-pn6o23fvUsed by Intercom.io to allow users to ask customer service questions in real time1 weekIntercom.io opt-outThird partyUIDRUsed by Scorecardresearch.com to measure user volume2 yearsScorecardresearch.com opt-outThird partymkto.trkUsed by Marketo to measure ad campaign effectiveness by linking visitor behavior to an email recipient2 yearsMarketo opt-outThird partyhjClosedSurveyInvitesThis cookie is set once a visitor interacts with a Survey invitation modal pop-up. It is used to ensure that the same invite does not reappear if it has already been shown.1 yearHotJar opt-outThird partybitoUsed by Beeswax to display targeted advertising based on your activities on this Site and others.10 yearsBeeswax opt-outThird partyIDEUsed by Google to support real time bidding and advertising exchange.390 daysGoogle Ads SettingsIBA Opt-Out extension for Chrome and FirefoxThird partyeyeblaster, u2, ActivityInfo2Used by Sizmek to provide multi-platform targeted advertising services.90 daysSizmek opt-outThird partyspUsed by Symphony Talent to measure user volume. 390 daysSymphony Talent out-out **5. Changes To Our Cookie Policy**
 
