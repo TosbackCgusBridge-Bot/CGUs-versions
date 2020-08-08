@@ -9,6 +9,31 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   GREATS Up to 65% Off
+    *   GREATS Men Up to 60% Off
+    *   LAGOS
+    *   rag &. bone Up to 70% Off
+    *   rag &. bone Handbags &. Sun Up to 50% Off
+    *   rag &. bone Men Up to 65% Off
+    *   Basic to Bold: Tops Under $20 Incl. Plus
+    *   rag &. bone Shoes Up to 65% Off
+    *   Sun &. Sand: Swim Favorites Up to 75% Off
+    *   Utilize These: Trench Coats, Rain Jackets &. More
+    *   Casual Bottoms Under $30 Incl. Plus
+    *   Kitchen Must-Haves
+    *   Men's Boots Up to 60% Off
+    *   Girls' Dresses Up to 65% Off
+    *   Best On The Block: Sandals Up to 65% Off
+    *   Buttoned Up: Men's Shirts Under $30 ft Original Penguin
+    
+    *   Dress Up or Down: Men's Lace-Ups from $25
+    *   Sovereign Code &. More Up to 65% Off
+    *   Fancy &. Fun: Girls' Flats and More
+    *   KERASTASE Haircare &. Treatment
+    *   Equipment &. More Up to 75% Off
+    *   Cropped Styles Up to 80% Off Incl. Plus
+    *   Summer Styles Under $20 Incl. Plus
+    *   In Bloom by Jonquil &. More
     *   Ray-Ban
     *   Herschel
     *   FRNCH
@@ -16,40 +41,41 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Alternative Under $35
     *   High Waisted Styles Up to 80% Off Incl. Plus
     *   Minis: Dresses &. Skirts Up to 70% Off
-    *   Signature by Lifestride
-    *   Personalized Jewelry: Up to 70% Off
+    *   LifeStride Up to 60% Off
+    
     *   Men's Shoes Up to 80% Off
     *   Men's Leather Shoes Up to 80% Off
     *   Top Toys ft. Mattel &. Fisher-Price
-    *   Stock Up: Fall Sweatshirts Starting at $20
-    
     *   Must Have Mules Up to 80% Off
-    *   Equipment &. More Up to 75% Off
-    *   Cropped Styles Up to 80% Off Incl. Plus
-    *   Summer Styles Under $20 Incl. Plus
-    *   In Bloom by Jonquil &. More
-    *   Exclusively Ours - NPG Brands
-    *   Dress Shoes Up to 60% Off
     *   Men's Suede Shoes Up to 70% Off
     *   Men's Dress Shoes &. More Up to 80% Off
     *   Road Trip Essentials for Kids
-    *   Sandals Up to 70% Off
     *   TOMS Kids Starting at $15
-    *   Birkenstock
-    
-    *   Reiss Men Up to 65% Off
-    *   Men's Loafers Under $40
-    *   Sorbus Home Organization
-    *   Slim Fit Denim For Him
-    *   Scotch &. Soda Up to 60% Off
-    *   Camera Ready: Kids' Styles Starting at $10
-    *   Kids' Sandals &. Water Shoes from $15
     *   Car Organization &. Tech from $15
+    *   Sorbus Home Organization
+    *   Stock Up: Fall Sweatshirts Starting at $20
+    *   Scotch &. Soda Up to 60% Off
+    *   Men's Loafers Under $40
     *   Makeup Tools ft PMD and Caboodles
-    *   Men's Work Essential Boots Up to 70% Off
-    *   Home Organization starting at $15
+    *   Personalized Jewelry: Up to 70% Off
 *   WomenShop Sale Events
     
+    *   GREATS Up to 65% Off
+    *   LAGOS
+    *   rag &. bone Up to 70% Off
+    *   rag &. bone Handbags &. Sun Up to 50% Off
+    *   Basic to Bold: Tops Under $20 Incl. Plus
+    *   rag &. bone Shoes Up to 65% Off
+    *   Sun &. Sand: Swim Favorites Up to 75% Off
+    *   Utilize These: Trench Coats, Rain Jackets &. More
+    *   Casual Bottoms Under $30 Incl. Plus
+    *   Best On The Block: Sandals Up to 65% Off
+    *   KERASTASE Haircare &. Treatment
+    *   Equipment &. More Up to 75% Off
+    *   Cropped Styles Up to 80% Off Incl. Plus
+    
+    *   Summer Styles Under $20 Incl. Plus
+    *   In Bloom by Jonquil &. More
     *   Ray-Ban
     *   Herschel
     *   FRNCH
@@ -57,81 +83,77 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Alternative Under $35
     *   High Waisted Styles Up to 80% Off Incl. Plus
     *   Minis: Dresses &. Skirts Up to 70% Off
-    *   Signature by Lifestride
-    *   Personalized Jewelry: Up to 70% Off
+    *   LifeStride Up to 60% Off
     *   Must Have Mules Up to 80% Off
-    
-    *   Equipment &. More Up to 75% Off
-    *   Cropped Styles Up to 80% Off Incl. Plus
-    *   Summer Styles Under $20 Incl. Plus
-    *   In Bloom by Jonquil &. More
-    *   Exclusively Ours - NPG Brands
-    *   Dress Shoes Up to 60% Off
-    *   Sandals Up to 70% Off
-    *   Birkenstock
     *   Makeup Tools ft PMD and Caboodles
+    *   Personalized Jewelry: Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
+    *   Jewelry
     *   Accessories
     *   Handbags
     *   Lingerie &. Shapewear
-    *   Jewelry
 *   MenShop Sale Events
     
+    *   GREATS Men Up to 60% Off
+    *   rag &. bone Men Up to 65% Off
+    *   Men's Boots Up to 60% Off
+    *   Buttoned Up: Men's Shirts Under $30 ft Original Penguin
+    *   Dress Up or Down: Men's Lace-Ups from $25
     *   Ray-Ban
     *   Herschel
     *   Protective Mask Sets
+    
     *   Men's Shoes Up to 80% Off
     *   Men's Leather Shoes Up to 80% Off
-    *   Stock Up: Fall Sweatshirts Starting at $20
     *   Men's Suede Shoes Up to 70% Off
-    
     *   Men's Dress Shoes &. More Up to 80% Off
-    *   Reiss Men Up to 65% Off
-    *   Men's Loafers Under $40
-    *   Slim Fit Denim For Him
+    *   Stock Up: Fall Sweatshirts Starting at $20
     *   Scotch &. Soda Up to 60% Off
-    *   Men's Work Essential Boots Up to 70% Off
+    *   Men's Loafers Under $40
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Girls' Dresses Up to 65% Off
+    *   Sovereign Code &. More Up to 65% Off
+    *   Fancy &. Fun: Girls' Flats and More
     *   Top Toys ft. Mattel &. Fisher-Price
     *   Road Trip Essentials for Kids
     *   TOMS Kids Starting at $15
-    *   Camera Ready: Kids' Styles Starting at $10
-    *   Kids' Sandals &. Water Shoes from $15
     
     Shop By Category
     *   Girls
     *   Boys
-    *   Baby
     *   Toys
+    *   Baby
     *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Sorbus Home Organization
+    *   Kitchen Must-Haves
     *   Car Organization &. Tech from $15
-    *   Home Organization starting at $15
+    *   Sorbus Home Organization
     
     Shop By Category
     *   Cleaning &. Organization
-    *   Luggage &. Travel
-    *   Home Decor
     *   Kitchen &. Tabletop
-    *   Bath
+    *   Home Decor
+    *   Luggage &. Travel
+    *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   KERASTASE Haircare &. Treatment
     *   Makeup Tools ft PMD and Caboodles
     
     Shop By Category
     *   Makeup Bags
+    *   Hair Care
     *   Tools &. Accessories
     *   Skin Care
 
