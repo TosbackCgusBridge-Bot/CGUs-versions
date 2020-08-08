@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Next WSLConf date set, CFP now open through 15th August
+*   The State of Robotics – July 2020
 *   Infographic: Ubuntu from 2004 to 20.04 LTS
-*   Set up Collabora Online on the Nextcloud Ubuntu Appliance
-*   Design and Web team summary – 4th August 2020
