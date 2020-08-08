@@ -53,7 +53,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
     *   What to Watch on FandangoNOW: ‘The Secret: Dare to Dream,’ ’The Secret Garden,’ ‘She Dies Tomorrow’ and More Read More
-    *   The Week in Movie News: Dave Franco to Portray Vanilla Ice, Cynthia Erivo Signs Up for a ‘Talent Show’ and More Read More
+    *   The Week in Movie News: Nia DaCosta Directing ‘Captain Marvel 2,’ ‘John Wick 5’ in the Works and More Read More
     
     Explore Content
     *   Movie Reviews
