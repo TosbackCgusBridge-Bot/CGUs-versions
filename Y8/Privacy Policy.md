@@ -7,31 +7,31 @@
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1385 games
-*   Most Popular Games 21492 games
+*   Best of new games 1381 games
+*   Most Popular Games 21495 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,259 games
+*   For Girls 24,262 games
 *   Driving &. Racing 6,444 games
-*   Strategy &. RPG 3,646 games
-*   Management &. Sim 4,293 games
-*   Thinking 12,877 games
-*   Action &. Adventure 14,831 games
+*   Strategy &. RPG 3,647 games
+*   Management &. Sim 4,294 games
+*   Thinking 12,882 games
+*   Action &. Adventure 14,833 games
 *   Sports 3,376 games
 *   Shooting 9,161 games
 *   Fighting 2,087 games
-*   Skill 11,596 games
-*   Arcade &. Classic 9,633 games
+*   Skill 11,601 games
+*   Arcade &. Classic 9,635 games
 *   Fun &. Crazy 5,005 games
 
 Play with friends  
-Powered by Y8 Account 147 Y8 Multiplayer Games 2,233 Y8 High Score Games 1,278 Y8 Achievements Games 910 Y8 Screenshots Games 1,732 Y8 Online Save Games 3,441 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 146 Y8 Multiplayer Games 2,233 Y8 High Score Games 1,278 Y8 Achievements Games 910 Y8 Screenshots Games 1,732 Y8 Online Save Games 3,441 All Y8 Games Games Last Highscore:
 
-**4,957** points on Hide Online by Ayman
+**6** points on Slope Y8 by Hallie8
 
 Help us improve Bad translation? Social
 
