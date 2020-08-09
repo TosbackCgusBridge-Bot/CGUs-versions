@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, August 8, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, August 9, 2020  
 
 DEBKAfile
 
@@ -44,6 +44,10 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Iran directed thwarted Golan bombing. IDF stays on high alert vs Hizballah
+    
+    Aug 08, 2020 @ 09:35
+    
 *   Nasrallah denies a Hizballah arms depot caused Beirut port explosion
     
     Aug 07, 2020 @ 18:22
@@ -59,12 +63,12 @@ Breaking news
 *   Israeli scientists have coronavirus vaccine ready for human trials
     
     Aug 06, 2020 @ 17:10
-    
-*   Israel urges Lebanon to set aside animosity and accept life-saving aid
-    
-    Aug 06, 2020 @ 11:34
     
 
+*   Nasrallah denies a Hizballah arms depot caused Beirut port explosion
+    
+    Aug 07, 2020 @ 18:22
+    
 *   US disaster aid begins arriving in Lebanon
     
     Aug 07, 2020 @ 17:45
@@ -77,9 +81,9 @@ Breaking news
     
     Aug 06, 2020 @ 17:10
     
-*   Israel urges Lebanon to set aside animosity and accept life-saving aid
+*   Iran directed thwarted Golan bombing. IDF stays on high alert vs Hizballah
     
-    Aug 06, 2020 @ 11:34
+    Aug 08, 2020 @ 09:35
     
 *   Nasrallah denies a Hizballah arms depot caused Beirut port explosion
     
@@ -97,9 +101,9 @@ Breaking news
     
     Aug 06, 2020 @ 17:10
     
-*   Israel urges Lebanon to set aside animosity and accept life-saving aid
+*   Iran directed thwarted Golan bombing. IDF stays on high alert vs Hizballah
     
-    Aug 06, 2020 @ 11:34
+    Aug 08, 2020 @ 09:35
     
 *   Nasrallah denies a Hizballah arms depot caused Beirut port explosion
     
@@ -112,10 +116,6 @@ Breaking news
 *   Israeli air force targets Hamas Gaza base after Palestinian balloons set fires
     
     Aug 07, 2020 @ 08:59
-    
-*   Israeli scientists have coronavirus vaccine ready for human trials
-    
-    Aug 06, 2020 @ 17:10
     
 
 12PrevNext
