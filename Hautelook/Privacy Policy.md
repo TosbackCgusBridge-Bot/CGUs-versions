@@ -9,8 +9,25 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Levi's Starting at $40 Incl. Plus
+    *   Go Couture Up to 75% Off
+    *   Levi's Men Starting at $15
+    *   Sandals &. More Under $25
+    *   French Connection
+    *   Woven Tops Under $25 Incl. Plus
+    *   Feminine Flair: Ruffle Styles Up to 75% Off Incl. Plus
+    *   Trending Now: Back to School Basics
+    *   Pretty in Pearls: Starting at $10
+    *   X by Gottex Under $30
+    *   Women's Sneakers Up to 80% Off
+    *   Men's Comfort Sneakers Up to 60% Off
+    *   Fresh Finds: Men's Shoes Up to 60% Off
+    *   Fresh Finds: Flats &. More Up to 60% Off
+    *   Graphic Tees Starting at $15
+    *   Fresh Finds: Kids' Shoes Up to 60% Off
+    *   Equipment &. More Up to 75% Off
+    
     *   GREATS Up to 65% Off
-    *   GREATS Men Up to 60% Off
     *   LAGOS
     *   rag &. bone Up to 70% Off
     *   rag &. bone Handbags &. Sun Up to 50% Off
@@ -25,44 +42,42 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Girls' Dresses Up to 65% Off
     *   Best On The Block: Sandals Up to 65% Off
     *   Buttoned Up: Men's Shirts Under $30 ft Original Penguin
-    
     *   Dress Up or Down: Men's Lace-Ups from $25
     *   Sovereign Code &. More Up to 65% Off
-    *   Fancy &. Fun: Girls' Flats and More
-    *   KERASTASE Haircare &. Treatment
-    *   Equipment &. More Up to 75% Off
-    *   Cropped Styles Up to 80% Off Incl. Plus
-    *   Summer Styles Under $20 Incl. Plus
-    *   In Bloom by Jonquil &. More
-    *   Ray-Ban
-    *   Herschel
-    *   FRNCH
-    *   Protective Mask Sets
-    *   Alternative Under $35
-    *   High Waisted Styles Up to 80% Off Incl. Plus
-    *   Minis: Dresses &. Skirts Up to 70% Off
-    *   LifeStride Up to 60% Off
     
+    *   Fancy &. Fun: Girls' Flats and More
+    *   Herschel
     *   Men's Shoes Up to 80% Off
     *   Men's Leather Shoes Up to 80% Off
     *   Top Toys ft. Mattel &. Fisher-Price
-    *   Must Have Mules Up to 80% Off
-    *   Men's Suede Shoes Up to 70% Off
-    *   Men's Dress Shoes &. More Up to 80% Off
-    *   Road Trip Essentials for Kids
-    *   TOMS Kids Starting at $15
-    *   Car Organization &. Tech from $15
     *   Sorbus Home Organization
+    *   Men's Suede Shoes Up to 70% Off
+    *   GREATS Men Up to 60% Off
+    *   KERASTASE Haircare &. Treatment
     *   Stock Up: Fall Sweatshirts Starting at $20
-    *   Scotch &. Soda Up to 60% Off
-    *   Men's Loafers Under $40
-    *   Makeup Tools ft PMD and Caboodles
+    *   Men's Dress Shoes &. More Up to 80% Off
+    *   Ray-Ban
     *   Personalized Jewelry: Up to 70% Off
+    *   Makeup Tools ft PMD and Caboodles
+    *   FRNCH
+    *   High Waisted Styles Up to 80% Off Incl. Plus
 *   WomenShop Sale Events
     
+    *   Levi's Starting at $40 Incl. Plus
+    *   Go Couture Up to 75% Off
+    *   Sandals &. More Under $25
+    *   French Connection
+    *   Woven Tops Under $25 Incl. Plus
+    *   Feminine Flair: Ruffle Styles Up to 75% Off Incl. Plus
+    *   Pretty in Pearls: Starting at $10
+    *   X by Gottex Under $30
+    *   Women's Sneakers Up to 80% Off
+    *   Fresh Finds: Flats &. More Up to 60% Off
+    *   Equipment &. More Up to 75% Off
     *   GREATS Up to 65% Off
     *   LAGOS
     *   rag &. bone Up to 70% Off
+    
     *   rag &. bone Handbags &. Sun Up to 50% Off
     *   Basic to Bold: Tops Under $20 Incl. Plus
     *   rag &. bone Shoes Up to 65% Off
@@ -70,23 +85,13 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Utilize These: Trench Coats, Rain Jackets &. More
     *   Casual Bottoms Under $30 Incl. Plus
     *   Best On The Block: Sandals Up to 65% Off
-    *   KERASTASE Haircare &. Treatment
-    *   Equipment &. More Up to 75% Off
-    *   Cropped Styles Up to 80% Off Incl. Plus
-    
-    *   Summer Styles Under $20 Incl. Plus
-    *   In Bloom by Jonquil &. More
-    *   Ray-Ban
     *   Herschel
-    *   FRNCH
-    *   Protective Mask Sets
-    *   Alternative Under $35
-    *   High Waisted Styles Up to 80% Off Incl. Plus
-    *   Minis: Dresses &. Skirts Up to 70% Off
-    *   LifeStride Up to 60% Off
-    *   Must Have Mules Up to 80% Off
-    *   Makeup Tools ft PMD and Caboodles
+    *   KERASTASE Haircare &. Treatment
+    *   Ray-Ban
     *   Personalized Jewelry: Up to 70% Off
+    *   Makeup Tools ft PMD and Caboodles
+    *   FRNCH
+    *   High Waisted Styles Up to 80% Off Incl. Plus
     
     Shop By Category
     *   Clothing
@@ -97,22 +102,23 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
-    *   GREATS Men Up to 60% Off
+    *   Levi's Men Starting at $15
+    *   Men's Comfort Sneakers Up to 60% Off
+    *   Fresh Finds: Men's Shoes Up to 60% Off
+    *   Graphic Tees Starting at $15
     *   rag &. bone Men Up to 65% Off
     *   Men's Boots Up to 60% Off
     *   Buttoned Up: Men's Shirts Under $30 ft Original Penguin
     *   Dress Up or Down: Men's Lace-Ups from $25
-    *   Ray-Ban
-    *   Herschel
-    *   Protective Mask Sets
     
+    *   Herschel
     *   Men's Shoes Up to 80% Off
     *   Men's Leather Shoes Up to 80% Off
     *   Men's Suede Shoes Up to 70% Off
-    *   Men's Dress Shoes &. More Up to 80% Off
+    *   GREATS Men Up to 60% Off
     *   Stock Up: Fall Sweatshirts Starting at $20
-    *   Scotch &. Soda Up to 60% Off
-    *   Men's Loafers Under $40
+    *   Men's Dress Shoes &. More Up to 80% Off
+    *   Ray-Ban
     
     Shop By Category
     *   Shoes
@@ -120,24 +126,23 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Trending Now: Back to School Basics
+    *   Fresh Finds: Kids' Shoes Up to 60% Off
     *   Girls' Dresses Up to 65% Off
     *   Sovereign Code &. More Up to 65% Off
     *   Fancy &. Fun: Girls' Flats and More
     *   Top Toys ft. Mattel &. Fisher-Price
-    *   Road Trip Essentials for Kids
-    *   TOMS Kids Starting at $15
     
     Shop By Category
     *   Girls
-    *   Boys
-    *   Toys
-    *   Baby
     *   Girls' Shoes
+    *   Toys
+    *   Boys
+    *   Baby
     *   Boys' Shoes
 *   HomeShop Sale Events
     
     *   Kitchen Must-Haves
-    *   Car Organization &. Tech from $15
     *   Sorbus Home Organization
     
     Shop By Category
