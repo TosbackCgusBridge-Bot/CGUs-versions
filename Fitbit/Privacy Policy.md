@@ -18,11 +18,13 @@
     *   NOT SURE WHICH PRODUCT IS RIGHT FOR YOU?
     *   Take the Quiz
     
-    NEW
+    SALE
     
-    Fitbit Charge 4
+    Run the school year
     
-    Fitbit Versa 2
+    SALE
+    
+    Crush it in college
     
     Accessories
     
