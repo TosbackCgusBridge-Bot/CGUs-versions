@@ -20,8 +20,8 @@ View more results
     *   Love Games
     *   Kids
     *   Beauty Games
-    *   Princess
     *   Dating
+    *   Princess
     
     All Girls Best Games
     *   Funny Throat Doctor
@@ -30,11 +30,11 @@ View more results
     *   Princess Hard Times
     *   Goldie: Lip Injections
     *   Cool Boys Makeover: Hair Salon Game
+    *   Beach Kiss
     *   Goldie Princess: Skin Doctor
     *   How To Become Popular at School with Princess
-    *   Beach Kiss
-    *   Cake Design
     *   Floral Real Life Manicure
+    *   Cake Design
     *   Car Salon
     *   Tattoo Salon
     *   Cute Puppy Care
@@ -54,17 +54,17 @@ View more results
     All Racing Best Games
     *   Maximum Acceleration
     *   Madalin Stunt Cars 2
-    *   Xcross Madness
     *   Hill Racing Challenge
+    *   Xcross Madness
     *   Real Dog Racing Simulator
     *   City Car Stunts 2
-    *   Moto X3m 2
     *   Cars 3D
     *   Formula X Speed 3D: Car Racing Game
-    *   Two Punk Racing
     *   Off-Roader V6
-    *   Moto X3m 3
+    *   Two Punk Racing
+    *   Moto X3m 2
     *   Scrap Metal 3: Infernal Trap - Driving Game 3D
+    *   Moto X3m 3
     *   Drift Cars
 *   Puzzle
     
@@ -90,8 +90,8 @@ View more results
     *   Word Search Pictures
     *   Mahjong Connect Classic
     *   Word Wipe
-    *   Jewel Shuffle
     *   Mahjongg Alchemy
+    *   Jewel Shuffle
     *   Mystic Sea Treasures
     *   Treasures of the Mystic Sea
 *   Shooting
@@ -112,8 +112,8 @@ View more results
     *   Combat Strike 2
     *   Archery World Tour
     *   Stickman Archer 2
-    *   Super Rocket Buddy
     *   Miami Crime Simulator 3D
+    *   Super Rocket Buddy
     *   Shot Trigger
     *   Pixel Gun Apocalypse 3
     *   Army Force Strike
@@ -149,7 +149,7 @@ View more results
     *   Fireboy and Watergirl: The Forest Temple
     *   Crowd City
     *   Worms.Zone
-    *   Gartic.io
+    *   Master Chess Multiplayer
 *   Action
     
     Top Categories
@@ -157,8 +157,8 @@ View more results
     *   Boy Games
     *   Flash Games
     *   Friv
-    *   One player
     *   Fun
+    *   One player
     *   Y8 Games
     *   Fighting
     *   Stickman
@@ -174,8 +174,8 @@ View more results
     *   Stickman Warriors
     *   Pixel Gun Apocalypse 3
     *   Army Force Strike
-    *   Bomb It 6
     *   Apple Shooter
+    *   Bomb It 6
     *   Age of War
     *   Sniper Reloaded
 *   Adventure
@@ -187,8 +187,8 @@ View more results
     *   Horror Games
     *   Detective Games
     *   Escaping
-    *   Trollface Quest Games
     *   Point &. Click
+    *   Trollface Quest Games
     *   Kogama Games
     
     All Adventure Best Games
@@ -198,12 +198,12 @@ View more results
     *   Adam and Eve: GO
     *   The Last Survivors: 2 Player Zombie Game
     *   Troll Face Quest: Horror 2
-    *   World Crafts
     *   Bob the Robber 4: Season 2 Russia
+    *   World Crafts
     *   Dog Simulator: Puppy Craft
-    *   Pixel Craft
     *   Adam and Eve 3
     *   KOGAMA: Adopt a Son or Daughter and Form Your Family
+    *   Pixel Craft
     *   Adam and Eve 2
     *   Monkey Go Happy: Witchcraft
 *   More
