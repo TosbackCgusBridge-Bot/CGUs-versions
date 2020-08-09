@@ -1,9 +1,5 @@
-Previous1 of 2Next
+1 of 1
 
-*   UPS is open for business: Service impacts related to Coronavirus...More
-*   Service Impacted by Hurricane Isaias...More
-*   UPS is open for business: Service impacts related to Coronavirus...More
-*   Service Impacted by Hurricane Isaias...More
 *   UPS is open for business: Service impacts related to Coronavirus...More
 
 Close Skip To Main Content
