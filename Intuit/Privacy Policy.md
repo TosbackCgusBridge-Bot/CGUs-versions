@@ -1,11 +1,11 @@
 Shop safe! Masks are required for anyone entering the store. Details  
-EXTRA 30% OFF online only! with code: WINNER30 Details  
+Last day—EXTRA 30% OFF online! with code: WINNER30 Details  
 Free Shipping Over $49  DetailsShop safe! Masks are required for anyone entering the store. Details  
-EXTRA 30% OFF online only! with code: WINNER30 Details  
+Last day—EXTRA 30% OFF online! with code: WINNER30 Details  
 
 Enable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresFind A StoreSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
     *   JCP Credit CardCart
@@ -22,18 +22,18 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-JuniorsYoung MenKidsDormBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. Organization   NikeadidasFilaSkechersFor HerFor HimBoysGirlsUP TO 50% OFFArizona  
+JuniorsYoung MenKidsDormBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationUP TO 50% OFFArizona  
 So many styles, whatever the classroom!  
 select styles
 
 *   Shop Now
 
-JuniorsYoung MenBoysGirls $23.99Boys' Levi's® jeans$49.99Women's Levi's® 711 skinny jeans $49.99Men's 511™ stretch slim fit jeansIntroducingBig &. TallPuma activewear!  
+JuniorsYoung MenGirlsBoys $23.99Boys' Levi's® jeans$49.99Women's Levi's® 711 skinny jeans $49.99Men's 511™ stretch slim fit jeansMenWomenGirlsBoysIntroducingBig &. TallPuma activewear!  
 Excluded from coupons.  
 
 *   Shop Now
 
-UP TO 50% OFF Home Saleselect styles
+For HerFor HimBoysGirlsUP TO 50% OFF Home Saleselect styles
 
 *   Shop All
 
@@ -46,34 +46,26 @@ UP TO 50% OFF Home Saleselect styles
 *   Kitchen &. Dining
     
 
-Shop AllStock smart!More basics means more time between loads!select stylesBUY 1 GET 1 FREE\*Women's bras20% OFFMen's underwearBUY 1 GET 1 50% OFF\*Kids' basics$9 EA.Face masks for the familyUP TO 15% OFF hair &. nail goodiesselect stylesShop trendy faves from Sephora inside JCPenneyExcluded from coupons.WomenMenBaby &. KidsShoes
+Shop AllStock smart!More basics means more time between loads!select stylesBUY 1 GET 1 FREE\*Women's bras20% OFFMen's underwearBUY 1 GET 1 50% OFF\*Kids' basics$9 EA.Face masksUP TO 15% OFF hair &. nail goodiesselect stylesShop trendy faves from Sephora inside JCPenneyExcluded from coupons.WomenMenBaby &. KidsShoes
 
 \*Buy one item at regular price, get the second item of equal or lesser value for 50% off or free, while supplies last. Some items must be same category of merchandise or same gender. See store associate or jcp.com for details.
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 20 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~139
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~204
-*   Nike Mens Ring Leader Basketball Shoes
-    
-    $48.75sale
-    
-    ~$65~16
-*   Liz Claiborne Dots Tankini Swimsuit Top $13.29with code~$49~2
+*   a.n.a Womens V Neck Sleeveless Tank Top $4.89with code~$13~60
 *   Home Expressions Lisette Rod-Pocket Sheer Panel
     
-    $4.99 - $23.99sale
+    $9.99 - $23.99sale
     
-    ~$16 - $40~1246
-*   Bali Double Support Comfort Wireless Comfort Full Coverage Bra-3820 $24.49with code~$40~1777
+    ~$20 - $40~1246
+*   St. John's Bay Mid Rise Capris $12.59with code~$32~94
+*   Nike Air Max Motion 2 Womens Running Shoes
+    
+    $85 - $90
+    
+    22
+*   a.n.a Womens Short Sleeve T-Shirt $5.59with code~$13~54
+*   JCPenney Home Performance Bath Towel Collection $4.19 - $26.59with code~$10 - $76~395
 
 Shop and Save at JCPenney
 
