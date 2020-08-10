@@ -125,7 +125,7 @@ Play video: Discover What’s New About the Latest Alpha Camera Close video: Dis
 
 First details on compatible accessories and peripherals for PlayStation 5:  https://play.st/3i3s5TG  pic.twitter.com/kAaHTY4vyB
 
-5 days ago View Tweet Instagram Post CDWe7JMjPYO
+6 days ago View Tweet Instagram Post CDWe7JMjPYO
 
 New Wireless Headphones
 
