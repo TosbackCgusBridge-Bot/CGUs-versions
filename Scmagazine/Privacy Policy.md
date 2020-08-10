@@ -251,17 +251,17 @@ Extreme Engineering Solutions ensures compliance requirements while reducing man
     *   Emailed
     *   Recent
     
-    *   AttackIQ Platform v2.17
-    *   Spirent Communications CyberFlood Data Breach Assessment v2.02
-    *   SafeBreach Platform
-    *   XM Cyber 1.35
-    *   Broadened CIA cyberattack powers put businesses on alert
+    *   Counter IR, island hopping on the rise
+    *   Twitter hackers duped employees with phone spear phishing scam
+    *   Give employees the right tools to defend against phishing attacks
+    *   Feds arrest teen Twitter hack leader, accomplices
+    *   Sophos Phish Threat
     
+    *   Avon attackers may have exploited unprotected web server
+    *   Cymulate Breach and Attack Simulation Platform 3.30.16
+    *   XM Cyber 1.35
     *   Botnet abuses Docker servers and crypto blockchain to deliver Doki backdoor
-    *   SafeBreach Platform
-    *   Misconfigured servers contributed to more than 200 cloud breaches
-    *   Get ready for the next DDoS attack
-    *   DNA companies vulnerable to phishing, privacy violations after attacks
+    *   Nefilim gang leaks files stolen from Dussmann Group subsidiary
     
     *   US expands Clean Network to protect COVID-19 vaccine research from China
     *   Counter IR, island hopping on the rise
@@ -300,6 +300,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
 
-You can skip this ad in 1 seconds.
+You can skip this ad in 2 seconds.
