@@ -1,14 +1,13 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Hurry! Our Guest Giveback Event is over soon! shop limited time pricing now For the most up-to-date store information check here. Moving Forward with your best style of the year. embrace fall
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content For the most up-to-date store information check here. Moving Forward with your best style of the year. embrace fall
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
 *   Moving Forward with your best style of the year. embrace fall
-*   Hurry! Our Guest Giveback Event is over soon! shop limited time pricing now
 *   For the most up-to-date store information check here.
 *   Moving Forward with your best style of the year. embrace fall
-*   Hurry! Our Guest Giveback Event is over soon! shop limited time pricing now
+*   For the most up-to-date store information check here.
 
 *   Women
 *   Men
@@ -587,4 +586,4 @@ Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
