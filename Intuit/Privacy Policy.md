@@ -1,11 +1,12 @@
 Shop safe! Masks are required for anyone entering the store. Details  
-Last day—EXTRA 30% OFF online! with code: WINNER30 Details  
+EXTRA 30% OFF $75+ with code: STYLE21 Details  
+EXTRA 25% OFF under $75 with code: STYLE21 Details  
 Free Shipping Over $49  DetailsShop safe! Masks are required for anyone entering the store. Details  
-Last day—EXTRA 30% OFF online! with code: WINNER30 Details  
+EXTRA 30% OFF $75+ with code: STYLE21 Details  
 
 Enable Accessibility
 
-*   StoresFind A StoreSign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
     *   JCP Credit CardCart
@@ -22,50 +23,48 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-JuniorsYoung MenKidsDormBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationUP TO 50% OFFArizona  
-So many styles, whatever the classroom!  
-select styles
-
-*   Shop Now
-
-JuniorsYoung MenGirlsBoys $23.99Boys' Levi's® jeans$49.99Women's Levi's® 711 skinny jeans $49.99Men's 511™ stretch slim fit jeansMenWomenGirlsBoysIntroducingBig &. TallPuma activewear!  
-Excluded from coupons.  
-
-*   Shop Now
-
-For HerFor HimBoysGirlsUP TO 50% OFF Home Saleselect styles
+JuniorsYoung MenKidsDormBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationMenWomenGirlsBoysMoving &. groovingBig savings on athletic styles? Winning!25% OFF Champion apparelselect styles | Excluded from coupons.UP TO 40% OFF Xersion apparelselect styles UP TO 40% OFF Easy, breezy styles Update your summer highlight reel with cool looks from head to toe.select stylesCasual Apparel for HimCasual Apparel for HerUP TO 50% OFF ArizonaMust-have pieces to wear anywhere and everywhere. select styles
 
 *   Shop All
 
-*   Bedding
+*   Young Men
     
-*   Bath
+*   Juniors
     
-*   Window
+*   Boys
     
-*   Kitchen &. Dining
+*   Girls
     
 
-Shop AllStock smart!More basics means more time between loads!select stylesBUY 1 GET 1 FREE\*Women's bras20% OFFMen's underwearBUY 1 GET 1 50% OFF\*Kids' basics$9 EA.Face masksUP TO 15% OFF hair &. nail goodiesselect stylesShop trendy faves from Sephora inside JCPenneyExcluded from coupons.WomenMenBaby &. KidsShoes
+Shop AllStock smart!More basics means more time between loads!select stylesBUY 1 GET 1 FREE\*Women's bras20% OFFMen's underwearBUY 1 GET 1 50% OFF\*Kids' basics$9 EA.Face masksGet 'em while they're hauteThe best names in beauty have everything you need to look and feel your best.  UP TO 15% OFF Salon haircareselect stylesBeauty Trending Right NowExcluded from coupons.UP TO 50% OFFBedroom essentials that take you from A to Zzzzzs.select styles
+
+*   Shop All
+
+*   Mattresses
+    
+*   Sheets
+    
+*   Mattress Pads
+    
+*   Pillows
+    
+
+Shop AllWomenMenBaby &. KidsShoes
 
 \*Buy one item at regular price, get the second item of equal or lesser value for 50% off or free, while supplies last. Some items must be same category of merchandise or same gender. See store associate or jcp.com for details.
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 20 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   a.n.a Womens V Neck Sleeveless Tank Top $4.89with code~$13~60
+*   Home Expressions Solid or Stripe Bath Towel Collection $1.49 - $13.49with code~$6 - $48~577
+*   Liz Claiborne Signature Plush Bath Towel Collection $5.24 - $35.99with code~$12 - $96~564
+*   JCPenney Home Performance Bath Towel Collection $4.49 - $28.49with code~$10 - $76~395
 *   Home Expressions Lisette Rod-Pocket Sheer Panel
     
-    $9.99 - $23.99sale
+    $9.99 - $27.99sale
     
     ~$20 - $40~1246
-*   St. John's Bay Mid Rise Capris $12.59with code~$32~94
-*   Nike Air Max Motion 2 Womens Running Shoes
-    
-    $85 - $90
-    
-    22
-*   a.n.a Womens Short Sleeve T-Shirt $5.59with code~$13~54
-*   JCPenney Home Performance Bath Towel Collection $4.19 - $26.59with code~$10 - $76~395
+*   JCPenney Home™ Quick Dri Textured Solid Bath Towels $7.50 - $54with code1749
+*   Underscore Cushion Strap Wireless Unlined Full Coverage Bra-2788 $14.99with code~$30~666
 
 Shop and Save at JCPenney
 
