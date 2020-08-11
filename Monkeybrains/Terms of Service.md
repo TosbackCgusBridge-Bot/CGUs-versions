@@ -27,6 +27,11 @@ Monkeybrains.net San Francisco-based ISP since 1998
 
 NOTABLE PRESS MENTIONS &. REVIEWS  
 
+_August 9, 2020_  
+By Gregory Thomas  
+Can San Francisco realize the dream of public internet?  
+Read more >>.
+
 _April 15th, 2020_  
 By Brian X Chen  
 The Virus Revealed Our Essential Tech (and Weeded Out the Excess)  
