@@ -48,7 +48,7 @@ fraud events fasterTogether, we can
 identify and resolve  
 fraud events fasterTrending topic
 
-See why you should never cash a check for a stranger
+Take these four steps now to help avoid identity theft
 
 Read more about this topicYour security is our top priorityKnow fraud when you see it
 
