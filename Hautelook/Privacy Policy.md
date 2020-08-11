@@ -9,6 +9,27 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   BOSS Men Up to 60% Off
+    *   Vince Camuto Up to 75% Off Incl. Plus
+    *   Vince Camuto Shoes Up to 60% Off
+    *   BOSS Women's Clothing Up to 70% Off
+    *   Boss Men's Shoes Up to 60% Off
+    *   Murad Skincare
+    *   BOSS
+    *   Fall Fashion: Go Wild
+    *   Women's Styles at $20 Incl. Plus
+    *   Women's Styles at $30 Incl. Plus
+    *   Vince Camuto Men Up to 75% Off
+    *   Gallery57 \_
+    *   JOE'S Jeans Up to 85% Off
+    *   Vince Camuto Luggage Up to 75% Off
+    *   Men's Boots &. More Up to 60% Off
+    *   Step into Fall: Comfort Boots &. Booties
+    *   Vince Camuto Accessories
+    *   Mini Melissa
+    *   7 For All Mankind Kids &. More
+    
+    *   Graphic Tees Starting at $15
     *   Sunday Steals Up to 85% Off Incl. Plus
     *   Men's Luxe Shoe Blowout
     *   Women's Luxe Shoe Blowout
@@ -22,7 +43,6 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Men's Leather Bags Up to 70% Off
     *   Kids' Sleepwear Starting at $12
     *   Oh, Baby: Little Me &. More
-    *   Graphic Tees Starting at $15
     *   Go Couture Up to 75% Off
     *   Sandals &. More Under $25
     *   French Connection
@@ -33,48 +53,40 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Fresh Finds: Kids' Shoes Up to 60% Off
     *   Women's Sneakers Up to 80% Off
     *   Men's Comfort Sneakers Up to 60% Off
-    *   Fresh Finds: Men's Shoes Up to 60% Off
-    *   Fresh Finds: Flats &. More Up to 60% Off
+    *   Levi's Men Starting at $15
+    *   Pretty in Pearls: Starting at $10
     *   Levi's Starting at $40 Incl. Plus
-    *   GREATS Up to 65% Off
-    *   LAGOS
-    *   rag &. bone Up to 70% Off
-    *   rag &. bone Handbags &. Sun Up to 50% Off
-    *   rag &. bone Men Up to 65% Off
-    *   Basic to Bold: Tops Under $20 Incl. Plus
-    *   rag &. bone Shoes Up to 65% Off
-    *   GREATS Men Up to 60% Off
-    *   Utilize These: Trench Coats, Rain Jackets &. More
-    *   Casual Bottoms Under $30 Incl. Plus
     *   Kitchen Must-Haves
     *   Men's Boots Up to 60% Off
-    
-    *   Girls' Dresses Up to 65% Off
-    *   Best On The Block: Sandals Up to 65% Off
-    *   Buttoned Up: Men's Shirts Under $30 ft Original Penguin
-    *   Levi's Men Starting at $15
-    *   Sovereign Code &. More Up to 65% Off
-    *   Pretty in Pearls: Starting at $10
-    *   X by Gottex Under $30
-    *   Men's Shoes Up to 80% Off
-    *   Men's Leather Shoes Up to 80% Off
-    *   Top Toys ft. Mattel &. Fisher-Price
+    *   Dress Up or Down: Men's Lace-Ups from $25
     *   Bugatchi Men's Clothing 70% Off
     *   Philosophy &. More
     *   Layered Jewelry: Stack Rings and More
-    *   Sun &. Sand: Swim Favorites Up to 75% Off
+    *   X by Gottex Under $30
+    *   Fresh Finds: Men's Shoes Up to 60% Off
+    *   Fresh Finds: Flats &. More Up to 60% Off
     *   KERASTASE Haircare &. Treatment
-    *   Dress Up or Down: Men's Lace-Ups from $25
-    *   Fancy &. Fun: Girls' Flats and More
     *   Sorbus Home Organization
 *   WomenShop Sale Events
     
+    *   Vince Camuto Up to 75% Off Incl. Plus
+    *   Vince Camuto Shoes Up to 60% Off
+    *   BOSS Women's Clothing Up to 70% Off
+    *   BOSS
+    *   Fall Fashion: Go Wild
+    *   Women's Styles at $20 Incl. Plus
+    *   Women's Styles at $30 Incl. Plus
+    *   JOE'S Jeans Up to 85% Off
+    *   Vince Camuto Luggage Up to 75% Off
+    *   Step into Fall: Comfort Boots &. Booties
+    *   Vince Camuto Accessories
     *   Sunday Steals Up to 85% Off Incl. Plus
     *   Women's Luxe Shoe Blowout
     *   Summer Active Steals Up to 70% Off
     *   Joie &. More Up to 75% Off
     *   Natori Sleep &. Lingerie Up to 70% Off
     *   Dresses &. Jumpsuits Under $30 Incl. Plus
+    
     *   Summer Pants &. More Under $35 Incl. Plus
     *   Donald Pliner &. More Up to 70% Off
     *   Men's Leather Bags Up to 70% Off
@@ -84,23 +96,12 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Woven Tops Under $25 Incl. Plus
     *   Feminine Flair: Ruffle Styles Up to 75% Off Incl. Plus
     *   Women's Sneakers Up to 80% Off
-    *   Fresh Finds: Flats &. More Up to 60% Off
-    
-    *   Levi's Starting at $40 Incl. Plus
-    *   GREATS Up to 65% Off
-    *   LAGOS
-    *   rag &. bone Up to 70% Off
-    *   rag &. bone Handbags &. Sun Up to 50% Off
-    *   Basic to Bold: Tops Under $20 Incl. Plus
-    *   rag &. bone Shoes Up to 65% Off
-    *   Utilize These: Trench Coats, Rain Jackets &. More
-    *   Casual Bottoms Under $30 Incl. Plus
-    *   Best On The Block: Sandals Up to 65% Off
     *   Pretty in Pearls: Starting at $10
-    *   X by Gottex Under $30
+    *   Levi's Starting at $40 Incl. Plus
     *   Philosophy &. More
     *   Layered Jewelry: Stack Rings and More
-    *   Sun &. Sand: Swim Favorites Up to 75% Off
+    *   X by Gottex Under $30
+    *   Fresh Finds: Flats &. More Up to 60% Off
     *   KERASTASE Haircare &. Treatment
     
     Shop By Category
@@ -108,68 +109,68 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Shoes
     *   Jewelry
     *   Lingerie &. Shapewear
-    *   Accessories
     *   Handbags
 *   MenShop Sale Events
     
+    *   BOSS Men Up to 60% Off
+    *   Boss Men's Shoes Up to 60% Off
+    *   BOSS
+    *   Vince Camuto Men Up to 75% Off
+    *   Vince Camuto Luggage Up to 75% Off
+    *   Men's Boots &. More Up to 60% Off
+    *   Graphic Tees Starting at $15
     *   Men's Luxe Shoe Blowout
+    
     *   Donald Pliner Men's Shoes Up to 75% Off
     *   Men's Leather Bags Up to 70% Off
-    *   Graphic Tees Starting at $15
     *   Men's Comfort Sneakers Up to 60% Off
-    *   Fresh Finds: Men's Shoes Up to 60% Off
-    *   rag &. bone Men Up to 65% Off
-    *   GREATS Men Up to 60% Off
-    
-    *   Men's Boots Up to 60% Off
-    *   Buttoned Up: Men's Shirts Under $30 ft Original Penguin
     *   Levi's Men Starting at $15
-    *   Men's Shoes Up to 80% Off
-    *   Men's Leather Shoes Up to 80% Off
-    *   Bugatchi Men's Clothing 70% Off
+    *   Men's Boots Up to 60% Off
     *   Dress Up or Down: Men's Lace-Ups from $25
+    *   Bugatchi Men's Clothing 70% Off
+    *   Fresh Finds: Men's Shoes Up to 60% Off
     
     Shop By Category
     *   Shoes
     *   Clothing
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Mini Melissa
+    *   7 For All Mankind Kids &. More
     *   Kids' Sleepwear Starting at $12
     *   Oh, Baby: Little Me &. More
     *   Trending Now: Back to School Basics
     *   Fresh Finds: Kids' Shoes Up to 60% Off
-    *   Girls' Dresses Up to 65% Off
-    *   Sovereign Code &. More Up to 65% Off
-    *   Top Toys ft. Mattel &. Fisher-Price
-    *   Fancy &. Fun: Girls' Flats and More
     
     Shop By Category
     *   Girls
-    *   Girls' Shoes
     *   Baby
     *   Boys
-    *   Toys
+    *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Gallery57 \_
     *   Kitchen Must-Haves
     *   Sorbus Home Organization
     
     Shop By Category
-    *   Cleaning &. Organization
-    *   Kitchen &. Tabletop
     *   Home Decor
-    *   Outdoor Living
+    *   Luggage &. Travel
+    *   Kitchen &. Tabletop
+    *   Cleaning &. Organization
 *   BeautyShop Sale Events
     
+    *   Murad Skincare
     *   Philosophy &. More
     *   KERASTASE Haircare &. Treatment
     
     Shop By Category
-    *   Hair Care
     *   Skin Care
-    *   Fragrance
+    *   Hair Care
+    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
