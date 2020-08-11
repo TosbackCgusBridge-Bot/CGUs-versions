@@ -36,13 +36,14 @@
         
         *   Clothing
         
+        *   Activewear
         *   Bodysuits
         *   Bottoms
         *   Bralettes &. Bramis
         *   Coats &. Jackets
         *   Dresses
         *   Jeans
-        *   Pants
+        *   Loungewear
         *   Rompers &. Jumpsuits
         *   Shirts &. Blouses
         *   Shorts
@@ -110,9 +111,11 @@
         
         *   Clothing
         
+        *   Activewear
         *   Bottoms
         *   Coats &. Jackets
         *   Jeans
+        *   Loungewear
         *   Shorts
         *   Sweaters
         *   Sweatshirts
