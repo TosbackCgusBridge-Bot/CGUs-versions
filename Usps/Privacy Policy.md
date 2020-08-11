@@ -9,12 +9,16 @@ Search Submit
 
 Close submenu (Who we are)Who we are
 
-*   Postal profile
+*   Open submenu (Postal profile)Postal profile
 *   Open submenu (Leadership)Leadership
 *   Government Relations
 *   Open submenu (Law Department)Law Department
 *   Open submenu (Judicial Officer)Judicial Officer
 *   Stamp committee
+
+Close submenu (Postal profile)Postal profile
+
+*   Our history
 
 Close submenu (Leadership)Leadership
 
@@ -29,6 +33,7 @@ Close submenu (Law Department)Law Department
 *   FOIA
 *   No FEAR Act
 *   REDRESS
+*   USPS &. Section 508
 
 Close submenu (Judicial Officer)Judicial Officer
 
@@ -38,21 +43,32 @@ Close submenu (Judicial Officer)Judicial Officer
 
 Close submenu (What we do)What we do
 
-*   Our transformation
+*   Open submenu (Our transformation)Our transformation
 *   Open submenu (Business services)Business services
-*   Government services
+*   Open submenu (Government services)Government services
 *   Open submenu (Social responsibility)Social responsibility
 *   Open submenu (Performance)Performance
 *   Financials
 
+Close submenu (Our transformation)Our transformation
+
+*   Strategic planning
+
 Close submenu (Business services)Business services
 
+*   Licensing
+*   Rights and permissions
+*   Open submenu (Suppliers)Suppliers
 *   Open submenu (Information technology)Information technology
 *   Open submenu (Mailer resources)Mailer resources
-*   Rights and permissions
-*   Licensing
-*   Suppliers
 *   Auctions
+
+Close submenu (Suppliers)Suppliers
+
+*   Become a USPS supplier
+*   General information
+*   Diversity program
+*   FAQs
 
 Close submenu (Information technology)Information technology
 
@@ -65,10 +81,17 @@ Close submenu (Mailer resources)Mailer resources
 *   Postal Explorer
 *   Business Customer Gateway
 
+Close submenu (Government services)Government services
+
+*   Apply for a passport
+*   Election mail
+*   Election information for voters
+*   Political mail
+
 Close submenu (Social responsibility)Social responsibility
 
 *   Open submenu (Community activities)Community activities
-*   Securing the mail
+*   Open submenu (Securing the mail)Securing the mail
 *   Sustainability
 
 Close submenu (Community activities)Community activities
@@ -79,6 +102,11 @@ Close submenu (Community activities)Community activities
 *   NALC food drive
 *   Finding missing children
 
+Close submenu (Securing the mail)Securing the mail
+
+*   Mail center security
+*   Avaition mail security &. hazardous materials
+
 Close submenu (Performance)Performance
 
 *   Household diary
@@ -88,7 +116,7 @@ Close submenu (Performance)Performance
 Close submenu (Newsroom)Newsroom
 
 *   Open submenu (News)News
-*   Service Alerts
+*   Open submenu (Service Alerts)Service Alerts
 *   Holidays &. events
 *   Digital Media
 
@@ -98,6 +126,12 @@ Close submenu (News)News
 *   Local news
 *   Statements
 *   Testimony &. speeches
+
+Close submenu (Service Alerts)Service Alerts
+
+*   Residential issues
+*   Business issues
+*   International issues
 
 Close submenu (Resources)Resources
 
@@ -129,6 +163,7 @@ See how USPS is delivering for customers and employees Jump to page content
 
 *   Who we are
     *   Postal profile
+        *   Our history
     *   Leadership
         *   Board of Governors
         *   Executive Leadership Team
@@ -140,6 +175,7 @@ See how USPS is delivering for customers and employees Jump to page content
         *   FOIA
         *   No FEAR Act
         *   REDRESS
+        *   USPS &. Section 508
     *   Judicial Officer
         *   Administrative decisions
         *   Board of Contract Appeals decisions
@@ -147,7 +183,15 @@ See how USPS is delivering for customers and employees Jump to page content
     *   Stamp committee
 *   What we do
     *   Our transformation
+        *   Strategic planning
     *   Business services
+        *   Licensing
+        *   Rights and permissions
+        *   Suppliers
+            *   Become a USPS supplier
+            *   General information
+            *   Diversity program
+            *   FAQs
         *   Information technology
             *   Public Key Infrastructure
         *   Mailer resources
@@ -155,11 +199,12 @@ See how USPS is delivering for customers and employees Jump to page content
             *   PostalPro
             *   Postal Explorer
             *   Business Customer Gateway
-        *   Rights and permissions
-        *   Licensing
-        *   Suppliers
         *   Auctions
     *   Government services
+        *   Apply for a passport
+        *   Election mail
+        *   Election information for voters
+        *   Political mail
     *   Social responsibility
         *   Community activities
             *   Semipostal stamps
@@ -168,6 +213,8 @@ See how USPS is delivering for customers and employees Jump to page content
             *   NALC food drive
             *   Finding missing children
         *   Securing the mail
+            *   Mail center security
+            *   Avaition mail security &. hazardous materials
         *   Sustainability
     *   Performance
         *   Household diary
@@ -182,6 +229,9 @@ See how USPS is delivering for customers and employees Jump to page content
         *   Statements
         *   Testimony &. speeches
     *   Service Alerts
+        *   Residential issues
+        *   Business issues
+        *   International issues
     *   Holidays &. events
     *   Digital Media
 *   Resources
