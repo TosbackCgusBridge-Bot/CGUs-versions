@@ -9,19 +9,18 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
-    *   Black Water: Abyss
-    *   Creem: America's Only Rock 'n' Roll Magazine
-    *   SamSam
-    *   The Tax Collector (2020)
+    *   The Bay of Silence (2020)
+    *   In the Life of Music
+    *   Spree (2020)
     *   See All Opening This Week
     
     Coming Soon
     
     *   Unhinged (2020)
-    *   Honest Thief (2020)
     *   Bill &. Ted Face the Music
     *   Tenet
     *   The King's Man
+    *   Honest Thief (2020)
     *   Wonder Woman 1984
     *   Candyman (2020)
     *   See All Coming Soon
