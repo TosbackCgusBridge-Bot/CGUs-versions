@@ -99,7 +99,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 2%  Twitter 2%  Instagram 2%  Myspace 2%  Social Profiles 2%  Pinterest 2%  Wikipedia 2%  Music 2%  Photo Albums 2%  Web Search 2%  Images 2% 
+Facebook 3%  Twitter 3%  Instagram 3%  Myspace 3%  Social Profiles 3%  Pinterest 3%  Wikipedia 3%  Music 3%  Photo Albums 3%  Web Search 3%  Images 3% 
 
 *   About PeekYou
 *   Privacy Policy
