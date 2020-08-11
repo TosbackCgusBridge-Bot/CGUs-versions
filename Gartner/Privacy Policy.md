@@ -58,12 +58,15 @@ Search
     Featured Insights
     
     *   Benchmarking
-    *   Coronavirus (COVID-19)
     *   Cost Optimization
-    *   Diversity, Equity and Inclusion Resource Center
-    *   Executive Guidance
     *   Strategic Planning
     *   Top Insights
+    
+    Resource Centers
+    
+    *   COVID-19
+    *   Diversity, Equity and Inclusion
+    *   Reset Your Business Strategy Amid COVID-19
     
     What We Do
     
@@ -82,7 +85,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 702 8320
+    1 800 213 4848
     
 
 *   Solutions By Function
@@ -126,13 +129,16 @@ Search
     *   Supply Chain
     
     Featured Insights
+    
     *   Benchmarking
-    *   Coronavirus (COVID-19)
     *   Cost Optimization
-    *   Diversity, Equity and Inclusion Resource Center
-    *   Executive Guidance
     *   Strategic Planning
     *   Top Insights
+    
+    Resource Centers
+    *   COVID-19
+    *   Diversity, Equity and Inclusion
+    *   Reset Your Business Strategy Amid COVID-19
 *   What We Do
     *   Research &. Advisory
     *   Conferences
@@ -151,7 +157,7 @@ Search
 
 *   Become a Client
     
-    1 855 702 8320
+    1 800 213 4848
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
@@ -600,29 +606,17 @@ About Careers Contact Gartner Glossary Newsroom Smarter With Gartner About Caree
     *   Manufacturing
     *   Retail
     *   High Tech &. Telecom
-*   Insights By Function
+*   Insights Featured Insights
     
-    *   Audit &. Risk
-    *   Communications
-    *   Customer Service &. Support
-    *   Finance
-    *   Human Resources
-    *   Information Technology
-    *   Innovation &. Strategy
-    *   Legal &. Compliance
-    *   Marketing
-    *   Product
-    *   Sales
-    *   Supply Chain
-    
-    Featured Insights
     *   Benchmarking
-    *   Coronavirus (COVID-19)
     *   Cost Optimization
-    *   Diversity, Equity and Inclusion Resource Center
-    *   Executive Guidance
     *   Strategic Planning
     *   Top Insights
+    
+    Resource Centers
+    *   COVID-19
+    *   Diversity, Equity and Inclusion
+    *   Reset Your Business Strategy Amid COVID-19
 *   What We Do
     *   Research &. Advisory
     *   Conferences
@@ -656,30 +650,18 @@ By Industry
 *   Retail
 *   High Tech &. Telecom
 
-Insights By Function
-
-*   Audit &. Risk
-*   Communications
-*   Customer Service &. Support
-*   Finance
-*   Human Resources
-*   Information Technology
-*   Innovation &. Strategy
-*   Legal &. Compliance
-*   Marketing
-*   Product
-*   Sales
-*   Supply Chain
-
-Featured Insights
+Insights Featured Insights
 
 *   Benchmarking
-*   Coronavirus (COVID-19)
 *   Cost Optimization
-*   Diversity, Equity and Inclusion Resource Center
-*   Executive Guidance
 *   Strategic Planning
 *   Top Insights
+
+Resource Centers
+
+*   COVID-19
+*   Diversity, Equity and Inclusion
+*   Reset Your Business Strategy Amid COVID-19
 
 What We Do
 
