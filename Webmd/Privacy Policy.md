@@ -3,6 +3,7 @@ Skip to main content
 *   Check Your Symptoms
 *   Find A Doctor
 *   Find A Dentist
+*   Connect to Care
 *   Find Lowest Drug Prices
 
 *   Health  
@@ -111,11 +112,11 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Get the Latest Coronavirus News Here
+    *   Get Daily Coronavirus News Updates Here
     *   COVID-19: Check Your Symptoms Now
-    *   Watch Daily Interviews With Leading Experts
+    *   Coronavirus in Context: Interviews With Experts
     *   How Long Does Coronavirus Live On Surfaces?
-    *   Tracking COVID-19: See Our Interactive Map
+    *   COVID-19 Vaccines: Updates You Need to Know
     
     Experts &. Community
     
