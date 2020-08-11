@@ -100,21 +100,21 @@ Check out the Benefits
         
     *   Firefox Reality
         
-        Experience augmented and virtual reality with Firefox.
+        Explore the immersive web on your virtual reality headset.
         
     
-    *   Web of Things (IoT)
+    *   Machine Learning
         
-        Make devices connected to the internet safe, secure and interoperable.
+        Help make deep learning algorithms available to the open source world.
         
     *   Hubs
         
-        Meet people in experimental Mixed Reality chatrooms with Firefox.
+        Get together in virtual reality with this online social space.
         
     
-    <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/nav/cards/firefox-reality.7c9245a63776.png" alt="">. Mozilla WebVR
+    <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/nav/cards/mixed-reality.03ee15387f42.png" alt="">. Mozilla Mixed Reality
     
-    Mozilla brings Firefox to augmented and virtual reality.
+    Mozilla brings virtual and augmented reality to the open web.
     
 *   Developers Close Developers menu
     
