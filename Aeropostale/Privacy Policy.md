@@ -96,6 +96,8 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Ankle Jeggings
 *   Bootcut Jeans
 *   Skinny Jeans
+*   Wide Leg Jeans
+*   Skater Jeans
 *   Boyfriend Jeans
 *   Real Denim
 *   Flex Effects
@@ -265,6 +267,8 @@ Menu Find a Store Aeropostale
         *   Ankle Jeggings
         *   Bootcut Jeans
         *   Skinny Jeans
+        *   Wide Leg Jeans
+        *   Skater Jeans
         *   Boyfriend Jeans
         *   Real Denim
         *   Flex Effects
