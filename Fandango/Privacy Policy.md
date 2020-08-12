@@ -51,7 +51,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
-    *   What to Watch on FandangoNOW: ‘The Secret: Dare to Dream,’ ’The Secret Garden,’ ‘She Dies Tomorrow’ and More Read More
+    *   What to Watch on FandangoNOW: ‘Max Reload and the Nether Blasters,’ Great Video Game Movies and More Read More
     *   The Week in Movie News: Nia DaCosta Directing ‘Captain Marvel 2,’ ‘John Wick 5’ in the Works and More Read More
     
     Explore Content
@@ -84,24 +84,30 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Already a Fandango VIP? Sign In
 
-Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Gift Card Terms Cookies and Tracking FandangoNOW and Vudu Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyGift Card TermsCookies and TrackingFandangoNOW and Vudu PolicyVIP+ Program Terms en Español | en Français | auf Deutsch
+Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Promo Code Policy Gift Card Terms Cookies and Tracking FandangoNOW and Vudu Policy VIP+ Program Terms Privacy PolicyTerms and PoliciesTerms of UseTicket PolicyPromo Code PolicyGift Card TermsCookies and TrackingFandangoNOW and Vudu PolicyVIP+ Program Terms Download Translations
 
-**Last updated: July 13, 2020**
+*   en Español
+*   en Français
+*   auf Deutsch
+
+Last updated: August 11, 2020
 
 This Privacy Policy explains how Fandango Media, LLC and its subsidiary companies, including the businesses operating under the Fandango, FandangoNOW, Vudu, Rotten Tomatoes, Flixster, Movieclips, Movies.com, Activaterewards.com, MovieTickets.com, or M-GO brands ("Fandango", "we", "our" or "us"), collect, use, and share information from or about you when you use our websites, downloadable applications, interactive TV applications, voice-activated skills, other digital services, connected devices, and off-line services that link to this policy, or if you generate ratings/reviews/public comments/content on our properties or engage in business with us (the “Services”). Note that this Privacy Policy does not apply to our movie ticketing business that operates in Latin America, as that business has a separate privacy policy.
 
-**Our Owners**
+Our Owners
 
 When the Services receive or collect information, that information is being received and collected, and will be owned, by Fandango and each of "Fandango's Owners" (i.e., each company that has an ownership interest in Fandango). While Fandango's use, handling, disclosure and practices with respect to that information will be governed by this Privacy Policy, each Fandango’s Owners’ use, handling, disclosure and practices with respect to that information will be governed by that Fandango’s Owners’ privacy policy. Fandango's Owners are currently NBCUniversal and Warner Bros. If you want to learn more about the privacy practices of NBCUniversal and Warner Bros., we encourage you to review their policies (linked below):
 
 *   NBCUniversal Privacy Policy
 *   Warner Bros. Privacy Policy
 
-**Your Rights to Dispute**
+Your Rights to Dispute
 
 **Your use of our websites and our other services are subject to binding individual arbitration of any disputes which may arise, as provided in the Terms and Policies. Please read the arbitration provisions of the Terms and Policies carefully and do not use the Services if you are unwilling to arbitrate any disputes you may have with us as provided in our Terms and Policies.**
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY TO UNDERSTAND HOW WE HANDLE YOUR INFORMATION. BY USING THE SERVICES, YOU ACKNOWLEDGE YOU HAVE READ AND UNDERSTAND THIS PRIVACY POLICY AND THAT WE WILL COLLECT, USE AND SHARE YOUR INFORMATION AS SET FORTH BELOW.
+
+Table of Contents
 
 1.  Personal Information We Collect and Purposes
 2.  When We Share Your Information
@@ -118,9 +124,7 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY TO UNDERSTAND HOW WE HANDLE YOUR INFOR
 
 The tables below explain the categories of information we collect and the purposes for which we use them. Please note that we may use any or all of this information to comply with the law, detect or prevent fraud, and to defend our legal rights. Further detail about each of the purposes is set out in the “Additional information on purposes of use” table below.
 
-Categories of personal information we collect Purposes of use Information you provide to us:
-
-**Contact information and account registration**
+Information you provide to us: Categories of personal information we collect Purposes of use Contact information and account registration
 
 For example: name, email, postal address, telephone number, account user name and password, business contact information, and any information you may provide to us at an event or in person.
 
@@ -132,7 +136,7 @@ For example: name, email, postal address, telephone number, account user name an
 *   Build and manage business-to-business relationships
 *   Market and advertise for third parties
 
-**Identification and demographics**
+Identification and demographics
 
 For example: date of birth, gender, nationality, ethnicity, interests, lifestyle information, photos, social media credentials, including identification information about friends, contacts or referrals you provide.
 
@@ -143,7 +147,7 @@ For example: date of birth, gender, nationality, ethnicity, interests, lifestyle
 *   Protect our users, Services and properties
 *   Market and advertise for third parties
 
-**Saved Preferences**
+Saved Preferences
 
 For example: when you save on the Services your favorite theaters, favorite movies or genres, or city or zip code theater preferences.
 
@@ -154,7 +158,7 @@ For example: when you save on the Services your favorite theaters, favorite movi
 *   Protect our users, Services and properties
 *   Market and advertise for third parties
 
-**Transactional**
+Transactional
 
 For example: credit/debit card details, other payment details (e.g., PayPal, Venmo), purchase history, delivery address, membership information, reservations, loyalty program memberships or subscriptions for companies or services other than Fandango, and the personal details of any of your guests.
 
@@ -165,7 +169,7 @@ For example: credit/debit card details, other payment details (e.g., PayPal, Ven
 *   Protect our users, Services and properties
 *   Market and advertise for third parties
 
-**User-generated content**
+User-generated content
 
 For example: photos, videos, audio, and other information you may submit to us, such as ratings/reviews or comments on our forums.
 
@@ -176,7 +180,7 @@ For example: photos, videos, audio, and other information you may submit to us, 
 *   Protect our users, Services and properties
 *   Market and advertise for third parties
 
-**Research and feedback**
+Research and feedback
 
 For example: comments that you send us through online forms and social media platforms, by email, over the phone, by mail, or in surveys.
 
@@ -187,7 +191,7 @@ For example: comments that you send us through online forms and social media pla
 *   Protect our users, Services and properties
 *   Market and advertise for third parties
 
-**Biometric identifiers**
+Biometric identifiers
 
 For example: facial scans or fingerprints.
 
@@ -196,7 +200,7 @@ For example: facial scans or fingerprints.
 *   Provide seamless experience across platforms and devices
 *   Protect our users, Services and properties
 
-**Audio and video**
+Audio and video
 
 For example: audio recordings of a customer service call or security video footage if you visit one of our properties.
 
@@ -204,9 +208,7 @@ For example: audio recordings of a customer service call or security video foota
 *   Personalize your experience
 *   Protect our users, Services and properties
 
-Categories of personal information we collect Purposes of use Information we collect automatically from you and/or your device:
-
-**Device information and identifiers**
+Information we collect automatically from you and/or your device: Categories of personal information we collect Purposes of use Device information and identifiers
 
 For example: IP address, cookie IDs, browser type and language, operating system, platform type, device type, and advertising and app identifiers.
 
@@ -217,7 +219,7 @@ For example: IP address, cookie IDs, browser type and language, operating system
 *   Protect our users, Services and properties
 *   Market and advertise for third parties
 
-**Connection and Usage**
+Connection and Usage
 
 For example: domain names, browsing activity, scrolling and keystroke activity, theaters searched, locations searched, movies searched, shows viewed, movie trailers or other advertisements viewed, forms or fields you complete or partially complete, search terms, whether you open an email, content you view and duration, quality of the service and interaction with the content, logs, and other similar information. If these events occur while you are offline, they may be logged and uploaded to us when you next connect.
 
@@ -228,7 +230,7 @@ For example: domain names, browsing activity, scrolling and keystroke activity, 
 *   Protect our users, Services and properties
 *   Market and advertise for third parties
 
-**Geolocation**
+Geolocation
 
 For example: city, state and ZIP code associated with your IP address or derived through Wi-Fi triangulation.
 
@@ -241,9 +243,7 @@ We will ask for your permission before using your precise location from GPS-base
 *   Protect our users, Services and properties
 *   Market and advertise for third parties
 
-Categories of personal information we collect Purposes of use Sources of information Information we collect from third parties:
-
-**Information from public and commercial sources**
+Information we collect from third parties: Categories of personal information we collect Purposes of use Sources of information Information from public and commercial sources
 
 For example: demographic and contact information, information about other members of your household, inferences about your preferences, loyalty program memberships or subscriptions for companies or services other than Fandango, and purchasing data.
 
@@ -261,7 +261,7 @@ For example: demographic and contact information, information about other member
 *   Consumer data resellers
 *   Public records databases
 
-**Social Media Information**
+Social Media Information
 
 For example: if you interact with us through a social media service or log in using social media credentials, depending on your social media settings, we may have access to your information from that social network such as your name, email address, friend list, photo, age, gender, location, birthday, social networking ID, current city, your comments about the Services, and the people/sites you follow.
 
@@ -279,9 +279,7 @@ For example: if you interact with us through a social media service or log in us
 *   Partners (such as for sweepstakes partners)
 *   Consumer data resellers
 
-Categories of personal information we collect Purposes of use Sources of information Additional information that we collect for business relationships only:
-
-**Business contact information**
+Additional information that we collect for business relationships only: Categories of personal information we collect Purposes of use Sources of information Business contact information
 
 For example: company name, your name, email address, and job.
 
@@ -293,7 +291,7 @@ For example: company name, your name, email address, and job.
 *   Social media
 *   Business data resellers
 
-**Due diligence information**
+Due diligence information
 
 For example: contact information, nationality, job title, age, date of birth, gender, country of residence, employment and education information, public, religious, political or trade union roles, personal and professional affiliations, connections to criminal activities or offenses related to money laundering.
 
@@ -304,57 +302,42 @@ For example: contact information, nationality, job title, age, date of birth, ge
 
 Additional information on purposes of use
 
-**Provide the Services, for example:**
-
-*   responding to your requests or inquiries, including technical support
-*   sending you service-related communications
-*   providing ticketing, payment services, mapping guidance, and offers
-*   displaying content you generate, such as video and comments
-*   carrying out research and analytics for uses including improving the Services and developing new ones
-*   processing your information for promotional campaigns such as sweepstakes and contests, and for surveys, online and offline panels and focus groups
-
-**Personalize the experience, for example:**
-
-*   providing you with customized product experience, including personalized newsletters, viewing and other content recommendations from our partners and other organizations.
-*   providing you with advertising based on your activities and interests including at a household level
-*   creating and updating profiles and audience segments that can be used for analytics, interest-based advertising and marketing on the Services, television, third party services and platforms, mobile apps and/or websites, connected devices and offline
-*   using inferences about your preferences and interests for any and all of the above purposes
-
-**Send marketing communications (with consent if required), for example:**
-
-*   sending you newsletters, surveys and information about products, services and promotions
-
-**Provide a seamless experience across platforms and devices, for example:**
-
-*   identifying you when you log into the Services on multiple devices or web browsers to provide continuity and to match your interests across devices for the purposes of analytics, advertising, reporting and to improve the Services
-*   identifying you if your devices have attributes suggesting that they may be used by the same individual or household for purposes of analytics, advertising, reporting and to improve the Services
-
-**Build and manage business relationships, for example:**
-
-*   pursuing potential business opportunities, including identifying and contacting the correct person within the company
-*   sending communications for business purposes
-*   sending event invitations, marketing emails and campaigns, and tracking the effectiveness of such communications
-*   providing business contacts with access to our systems, and managing that access
-
-**Market and advertise for third parties, for example:**
-
-*   send you newsletters, promotional emails, surveys and information about products, services and promotions offered by our partners and other organizations with which we work
-*   customize content that our third-party partners deliver on the Services (e.g., personalized third-party advertising)
-*   create and update inferences about you and audience segments that can be used for interest-based advertising and marketing on the Services, third party services and platforms, and mobile apps
-*   create profiles about you, including adding and combining information we obtain from third parties and matching your interests across devices, which may be used for third-party marketing and advertising on the Services, television, third party services and platforms, mobile apps and/or websites, connected devices and offline
-
-**Compliance and risk management activities for business relationships, for example:**
-
-*   compliance with laws and regulations
-*   managing third party and other risks to our business
-*   protecting the reputation of our businesses
-*   following the principles of ethical business conduct set out in our Code of Conduct
-
-**Protect our users, Services and properties, for example:**
-
-*   protecting the safety and security of users and visitors to the Services
-*   protecting our digital and physical properties
-*   detecting and preventing other activities that may be illegal or in violation of our terms of service
+*   Provide the Services, for example:
+    *   responding to your requests or inquiries, including technical support
+    *   sending you service-related communications
+    *   providing ticketing, payment services, mapping guidance, and offers
+    *   displaying content you generate, such as video and comments
+    *   carrying out research and analytics for uses including improving the Services and developing new ones
+    *   processing your information for promotional campaigns such as sweepstakes and contests, and for surveys, online and offline panels and focus groups
+*   Personalize the experience, for example:
+    *   providing you with customized product experience, including personalized newsletters, viewing and other content recommendations from our partners and other organizations.
+    *   providing you with advertising based on your activities and interests including at a household level
+    *   creating and updating profiles and audience segments that can be used for analytics, interest-based advertising and marketing on the Services, television, third party services and platforms, mobile apps and/or websites, connected devices and offline
+    *   using inferences about your preferences and interests for any and all of the above purposes
+*   Send marketing communications (with consent if required), for example:
+    *   sending you newsletters, surveys and information about products, services and promotions
+*   Provide a seamless experience across platforms and devices, for example:
+    *   identifying you when you log into the Services on multiple devices or web browsers to provide continuity and to match your interests across devices for the purposes of analytics, advertising, reporting and to improve the Services
+    *   identifying you if your devices have attributes suggesting that they may be used by the same individual or household for purposes of analytics, advertising, reporting and to improve the Services
+*   Build and manage business relationships, for example:
+    *   pursuing potential business opportunities, including identifying and contacting the correct person within the company
+    *   sending communications for business purposes
+    *   sending event invitations, marketing emails and campaigns, and tracking the effectiveness of such communications
+    *   providing business contacts with access to our systems, and managing that access
+*   Market and advertise for third parties, for example:
+    *   send you newsletters, promotional emails, surveys and information about products, services and promotions offered by our partners and other organizations with which we work
+    *   customize content that our third-party partners deliver on the Services (e.g., personalized third-party advertising)
+    *   create and update inferences about you and audience segments that can be used for interest-based advertising and marketing on the Services, third party services and platforms, and mobile apps
+    *   create profiles about you, including adding and combining information we obtain from third parties and matching your interests across devices, which may be used for third-party marketing and advertising on the Services, television, third party services and platforms, mobile apps and/or websites, connected devices and offline
+*   Compliance and risk management activities for business relationships, for example:
+    *   compliance with laws and regulations
+    *   managing third party and other risks to our business
+    *   protecting the reputation of our businesses
+    *   following the principles of ethical business conduct set out in our Code of Conduct
+*   Protect our users, Services and properties, for example:
+    *   protecting the safety and security of users and visitors to the Services
+    *   protecting our digital and physical properties
+    *   detecting and preventing other activities that may be illegal or in violation of our terms of service
 
 We may combine all the information we collect from or receive about you for the outlined purposes. We may aggregate or deidentify your information and may use, share, rent or sell aggregated or deidentified information for any purpose, and such information is not subject to this Privacy Policy.
 
