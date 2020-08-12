@@ -1,457 +1,452 @@
-Linkedin
+Slideshare uses cookies to improve functionality and performance, and to provide you with relevant advertising. If you continue browsing the site, you agree to the use of cookies on this website. See our User Agreement and Privacy Policy.
 
-*   Sign In
-*   Join Now
+Slideshare uses cookies to improve functionality and performance, and to provide you with relevant advertising. If you continue browsing the site, you agree to the use of cookies on this website. See our Privacy Policy and User Agreement for details.
 
-Main content starts below.
+Submit Search
 
-*   User Agreement
-*   Privacy Policy
-*   Cookie Policy
-*   Copyright Policy
-*   California Privacy Disclosure
+*   Home
+*   Explore
+*   Search
+*   You
 
-Privacy PolicyTo learn more about Privacy at LinkedIn please visit our Privacy Hub.
+*   Upload
+*   Login
+*   Signup
 
-_Effective January 6, 2020_
+*   **Home**
+*   **Explore**
 
-Our Privacy Policy has been updated.
+Scribd will begin operating the SlideShare business on September 24, 2020 As of this date, Scribd will manage your SlideShare account and any content you may have on SlideShare, and Scribd's General Terms of Use and Privacy Policy will apply. If you wish to opt out, please close your SlideShare account. Learn more.
 
-Your Privacy Matters
+× × × × × × Privacy Policy  
 
-LinkedIn’s mission is to connect the world’s professionals to allow them to be more productive and successful. Central to this mission is our commitment to be transparent about the data we collect about you, how it is used and with whom it is shared.
+**California residents:** please refer to the **California Privacy Notice.**
 
-This Privacy Policy applies when you use our Services (described below). We offer our users choices about the data we collect, use and share as described in this Privacy Policy, Cookie Policy, SettingsSettings are available to Members of LinkedIn, Settings for Slideshare Registered Users can be accessed by logging in and going to Account Settings, and Visitors are provided controls. Learn More and our Help Center.
+  
+1.0 Overview  
+1.1 Purpose  
 
-View our Privacy Policy videoTable of Contents:
+Scribd and its operating divisions, subsidiaries, affiliates and branches (collectively, “Scribd,” the “Company,” “we” or “us”) are sensitive to privacy issues, and it is important to us to protect the information provided to us.  Accordingly, Scribd provides this privacy and information practices policy to inform you about our online information practices, the kinds of information we may collect, how we intend to use and share that information, and how you can correct or change such information (“Privacy Policy”).  By using the Scribd.com or the Scribd mobile app, you expressly consent to the information handling practices described in this notice.
 
-*   Introduction
-*   Data We Collect
-*   How We Use Your Data
-*   How We Share Information
-*   Your Choices &. Obligations
-*   Other Important Information
+  
+1.2 Scope  
 
-Introduction
-
-We are a social network and online platform for professionals. People use our Services to find and be found for business opportunities, to connect with others and find information. Our Privacy Policy applies to any Member or Visitor to our Services
-
-Our registered users (“**Members**”) share their professional identities, engage with their network, exchange knowledge and professional insights, post and view relevant content, learn and develop skills, and find business and career opportunities. Content and data on some of our Services is viewable to non-members (“**Visitors**”).
-
-We use the term “**Designated Countries**” to refer to countries in the European Union (EU), European Economic Area (EEA), and Switzerland.
-
-Services
-
-This Privacy Policy, including our Cookie Policy applies to your use of our Services.
-
-This Privacy Policy applies to LinkedIn.com, LinkedIn-branded apps, LinkedIn Learning and other LinkedIn-related sites, apps, communications and services (“**Services**”), including off-site Services, such as our ad services and the “Apply with LinkedIn” and “Share with LinkedIn” plugins, but excluding services that state that they are offered under a different privacy policy. For California residents, additional disclosures required by California law may be found in our California Privacy Disclosure.
-
-Data Controllers and Contracting Parties
-
-If you are in the “Designated Countries”, LinkedIn Ireland Unlimited Company (“LinkedIn Ireland”) will be the controller of your personal data provided to, or collected by or for, or processed in connection with our Services.
-
-If you are outside of the Designated Countries, LinkedIn Corporation will be the controller of your personal data provided to, or collected by or for, or processed in connection with, our Services.
-
-As a Visitor or Member of our Services, the collection, use and sharing of your personal data is subject to this Privacy Policy and other documents referenced in this Privacy Policy, as well as updates.
-
-Change
-
-Changes to the Privacy Policy apply to your use of our Services after the “effective date.”
-
-LinkedIn (“we” or “us”) can modify this Privacy Policy, and if we make material changes to it, we will provide notice through our Services, or by other means, to provide you the opportunity to review the changes before they become effective. If you object to any changes, you may close your account.
-
-You acknowledge that your continued use of our Services after we publish or send a notice about our changes to this Privacy Policy means that the collection, use and sharing of your personal data is subject to the updated Privacy Policy, as of its effective date.
-
-1\. Data We Collect1.1 Data You Provide To Us
-
-You provide data to create an account with us.
-
-Registration
-
-To create an account you need to provide data including your name, email address and/or mobile number, and a password. If you register for a premium Service, you will need to provide payment (e.g., credit card) and billing information.
-
-You create your LinkedIn profile (a complete profile helps you get the most from our Services).
-
-Profile
-
-You have choices about the information on your profile, such as your education, work experience, skills, photo, city or area and endorsements. Some Members may choose to complete a separate ProFinder profile. You don’t have to provide additional information on your profile. however, profile information helps you to get more from our Services, including helping recruiters and business opportunities find you. It’s your choice whether to include sensitive informationWe do **_not_** require Members to include sensitive data (e.g., race, ethnicity, political opinions, religious or philosophical beliefs, trade union membership, physical or mental health, sexual orientation or criminal record) in their LinkedIn profile. If you choose to post any such data, it is visible to others like the rest of the profile information you provide. on your profile and to make that sensitive information public. Please do not post or add personal data to your profile that you would not want to be publicly available.
-
-You give other data to us, such as by syncing your address book or calendar.
-
-Posting and Uploading
-
-We collect personal data from you when you provide, post or upload it to our Services, such as when you fill out a form, (e.g., with demographic data or salary), respond to a survey, or submit a resume or fill out a job application on our Services. If you opt to import your address book, we receive your contacts (including contact information your service provider(s) or app automatically added to your address book when you communicated with addresses or numbers not already in your list).
-
-If you sync your contacts or calendars with our Services, we will collect your address book and calendar meeting information to keep growing your network by suggesting connections for you and others, and by providing information about events, e.g. times, places, attendees and contacts.
-
-You don’t have to post or upload personal data. though if you don’t, it may limit your ability to grow and engage with your network over our Services.
-
-1.2 Data From Others
-
-Others may post or write about you.
-
-Content and News
-
-You and others may post content that includes information about you (as part of articles, posts, comments, videos) on our Services. Unless you opt-out, we collect public information about you, such as professional-related news and accomplishments (e.g., patents granted, professional recognition, conference speakers, projects, etc.) and make it available as part of our Services (e.g. suggestions for your profile, or notifications to others of mentions in the news).
-
-Others may sync their contacts or calendar with our Services.
-
-Contact and Calendar Information
-
-We receive personal data (including contact information) about you when others import or sync their contacts or calendar with our Services, associate their contacts with Member profiles, scan and upload business cards, or send messages using our Services (including invites or connection requests). If you or others opt-in to sync email accounts with our Services, we will also collect “email header” information that we can associate with Member profiles.
-
-Customers and partners may provide data to us.
-
-Partners
-
-We receive personal data (e.g., your job title and work email address) about you when you use the services of our customers and partners, such as employers or prospective employers and applicant tracking systems providing us job application data.
-
-Related Companies and Other Services
-
-We receive data about you when you use some of the other services provided by us or our affiliatesAffiliates are companies controlling, controlled by or under common control with us, including, for example, LinkedIn Ireland, LinkedIn Corporation, LinkedIn Singapore and Microsoft Corporation., including Microsoft. For example, you may choose to send us information about your contacts in Microsoft apps and services, such as Outlook, for improved professional networking activities on our Services.
-
-1.3 Service Use
-
-We log your visits and use of our Services, including mobile apps.
-
-We log usage data when you visit or otherwise use our Services, including our sites, app and platform technology, such as when you view or click on content (e.g., learning video) or ads (on or off our sites and apps), perform a search, install or update one of our mobile apps, share articles or apply for jobs. We use log-ins, cookies, device information and internet protocol (“IP”) addresses to identify you and log your use.
-
-1.4 Cookies and Similar Technologies
-
-We collect data through cookies and similar technologies.
-
-As further described in our Cookie PolicyThe Cookie Policy describes the use of cookies and similar technologies., we use cookies and similar technologies (e.g., pixels and ad tags) to collect data (e.g., device IDs) to recognize you and your device(s) on, off and across different services and devices where you have engaged with our Services. We also allow some others to use cookies as described in our Cookie Policy. If you are outside the Designated Countries, we also collect (or rely on others who collect) information about your device where you have not engaged with our Services (e.g., ad ID, IP address, operating system and browser information) so we can provide our Members with relevant ads and better understand their effectiveness. Learn more. You can opt out from our use of data from cookies and similar technologies that track your behavior on the sites of others for ad targeting and other ad-related purposes. For Visitors, the controls are here.
-
-1.5 Your Device and Location
-
-We receive data from your devices and networks, including location data.
-
-When you visit or leave our Services (including some plugins and our cookies or similar technology on the sites of others), we receive the URL of both the site you came from and the one you go to and the time of your visit. We also get information about your network and device (e.g., IP address, proxy server, operating system, web browser and add-ons, device identifier and features, cookie IDs and/or ISP, or your mobile carrier). If you use our Services from a mobile device, that device will send us data about your location based on your phone settings. We will ask you to opt-in before we use GPS or other toolse.g. bluetooth to identify your precise location.
-
-1.6 Messages
-
-If you communicate through our Services, we learn about that.
-
-We collect information about you when you send, receive, or engage with messages in connection with our Services. For example, if you get a LinkedIn connection request, we track whether you have acted on it and will send you reminders. We also use automatic scanning technology on messages to support and protect our site. For example, we use this technology to suggest possible responses to messages and to manage or block content that violates our User Agreement or Professional Community Policies from our Services.
-
-1.7 Workplace and School Provided Information
-
-When your organization (e.g., employer or school) buys a premium Service for you to use, they give us data about you.
-
-Others buying our Services for your use, such as your employer or your school, provide us with personal data about you and your eligibility to use the Services that they purchase for use by their workers, students or alumni. For example, we will get contact information for “Company Page” administrators and for authorizing users of our premium Services, such as our recruiting, sales or learning products.
-
-1.8 Sites and Services of Others
-
-We get data when you visit sites that include our ads, cookies or some of our plugins or when you log-in to others’ services with your LinkedIn account.
-
-We receive information about your visits and interaction with services provided by others when you log-in with LinkedIn or visit others’ services that include some of our plugins (such as “Apply with LinkedIn”) or our ads, cookies or similar technologies
-
-1.9 Other
-
-We are improving our Services, which means we get new data and create new ways to use data.
-
-Our Services are dynamic, and we often introduce new features, which may require the collection of new information. If we collect materially different personal data or materially change how we collect, use or share your data, we will notify you and may also modify this Privacy Policy.
-
-2\. How We Use Your Data
-
-We use your data to provide, support, personalize and develop our Services.
-
-How we use your personal data will depend on which Services you use, how you use those Services and the choices you make in your settings. We use the data that we have about you to provide and personalize our Services, including with the help of automated systems and inferences we make, so that our Services (including ads) can be more relevant and useful to you and others.
-
-2.1 Services
-
-Our Services help you connect with others, find and be found for work and business opportunities, stay informed, get training and be more productive.
-
-We use your data to authorize access to our Services and honor your settings.
-
-Stay Connected
-
-Our Services allow you to stay in touch and up to date with colleagues, partners, clients, and other professional contacts. To do so, you can “connect” with the professionals who you choose, and who also wish to “connect” with you. Subject to your and their settings, when you connect with other Members, you will be able to search each others’ connections in order to exchange professional opportunities.
-
-We use data about you (such as your profile, profiles you have viewed or data provided through address book uploads or partner integrations) to help others find your profile, suggest connections for you and others (e.g. Members who share your contacts or job experiences) and enable you to invite others to become a Member and connect with you. You can also opt-in to allow us to use your precise location or proximity to others for certain tasks (e.g. to suggest other nearby Members for you to connect with, calculate the commute to a new job, or notify your connections that you are at a professional event).
-
-It is your choice whether to invite someone to our Services, send a connection request, or allow another Member to become your connection. When you invite someone to connect with you, your invitation will include your network and basic profile information (e.g., name, profile photo, job title, region). We will send invitation reminders to the person you invited. You can choose whether or not to share your own list of connections with your connections.
-
-Visitors have choices about how we use their data.
-
-Stay Informed
-
-Our Services allow you to stay informed about news, events and ideas regarding professional topics you care about, and from professionals you respect. Our Services also allow you to improve your professional skills, or learn new ones. We use the data we have about you (e.g., data you provide, data we collect from your engagement with our Services and inferences we make from the data we have about you), to personalize our Services for you, such as by recommending or ranking relevant content and conversations on our Services. We also use the data we have about you to suggest skills you could add to your profile and skills that you might need to pursue your next opportunity. So, if you let us know that you are interested in a new skill (e.g., by watching a learning video), we will use this information to personalize content in your feed, suggest that you follow certain members on our site, or suggest related learning content to help you towards that new skill. We use your content, activity and other data, including your name and photo, to provide notices to your network and others. For example, subject to your settings, we may notify others that you have updated your profile, posted content, took a social actione.g. like, comment, follow, share, used a feature, made new connections or were mentioned in the news.
-
-Career
-
-Our Services allow you to explore careers, evaluate educational opportunities, and seek out, and be found for, career opportunities. Your profile can be found by those looking to hire (for a job or a specific task) or be hired by you. We will use your data to recommend jobs or mentees, show you and others relevant professional contacts (e.g., who work at a company, in an industry, function or location or have certain skills and connections). You can signal that you are interested in changing jobs and share information with recruiters. We will use your data to recommend jobs to you and you to recruiters. We may use automated systems to provide content and recommendations to help make our Services more relevant to our Members, Visitors and customers. Keeping your profile accurate and up-to-date may help you better connect to others and to opportunities through our Services.
-
-Productivity
-
-Our Services allow you to collaborate with colleagues, search for potential clients, customers, partners and others to do business with. Our Services allow you to communicate with other Members and schedule and prepare meetings with them. If your settings allow, we scan messages to provide “bots” or similar tools that facilitate tasks such as scheduling meetings, drafting responses, summarizing messages or recommending next steps. Learn more.
-
-2.2 Premium Services
-
-Our premium Services help paying users to search for and contact Members through our Services, such as searching for and contacting job candidates, sales leads and co-workers, manage talent and promote content through social media.
-
-We sell premium Services that provide our customers and subscribers with customized-search functionality and tools (including messaging and activity alerts) as part of our talent, marketing and sales solutions. Customers can export limited information from your profile, such as name, headline, current company, current title, and general location (e.g., Dublin), such as to manage sales leads or talent, unless you opt-out. We do not provide contact information to customers as part of these premium Services without your consent. Premium Services customers can store information they have about you in our premium Services, such as a resume or contact information or sales history. The data stored about you by these customers is subject to the policies of those customers. Other enterprise Services and features that use your data include TeamLink and Elevate (social promotion of content).
-
-2.3 Communications
-
-We contact you and enable communications between Members. We offer settings to control what messages you receive and how often you receive some types of messages.
-
-We will contact you through email, mobile phone, notices posted on our websites or apps, messages to your LinkedIn inbox, and other ways through our Services, including text messages and push notifications. We will send you messages about the availability of our Services, security, or other service-related issues. We also send messages about how to use our Services, network updates, reminders, job suggestions and promotional messages from us and our partners. You may change your communication preferences at any time. Please be aware that you cannot opt out of receiving service messages from us, including security and legal notices.
-
-We also enable communications between you and others through our Services, including for example invitations, InMail, groups and messages between connections.
-
-2.4 Advertising
-
-We serve you tailored ads both on and off our Services. We offer you choices regarding personalized ads, but you cannot opt-out of seeing other ads.
-
-We target (and measure the performance of) ads to Members, Visitors and others both on and off our Services directly or through a variety of partnersPartners include ad networks, exchanges and others, using the following data, whether separately or combined:
-
-*   Data from advertising technologies on and off our Services, pixels, ad tags, cookies, and device identifiers;
-*   Member-provided information (e.g., profile, contact information, title and industry);
-*   Data from your use of our Services (e.g., search history, feed, content you read, who you follow or is following you, connections, groups participation, page visits, videos you watch, clicking on an ad, etc.), including as described in Section 1.3;
-*   Information from advertising partners, vendors and publishers . and
-*   Information inferred from data described above (e.g., using job titles from a profile to infer industry, seniority, and compensation bracket. using graduation dates to infer age or using first names or pronoun usage to infer gender. using your feed activity to infer your interests. or using device data to recognize you as a Member).
-
-We will show you ads called sponsored content which look similar to non-sponsored content, except that they are labeled as advertising (e.g., as “ad” or “sponsored”). If you take a social action (such as like, comment or share) on these ads, your action is associated with your name and viewable by others, including the advertiser. Subject to your settings, if you take a social action on the LinkedIn Services, that actionFor example, when you like a company, we may include your name and photo when their sponsored content is shown to your connections. may be mentioned with related ads.
-
-Ad Choices
-
-We adhere to self-regulatory principles for interest-based advertising and participate in industry opt-outs from such ads. This does not opt you out of receiving advertising. you will continue to get other ads by advertisers not listed with these self regulatory tools. You can also opt-out specifically from our uses of certain categories of data to show you more relevant ads. For Visitors, the setting is here.
-
-Info to Ad Providers
-
-We do not share your personal data with any third-party advertisers or ad networks except for: (i) hashed IDs or device identifiers (to the extent they are personal data in some countries). (ii) with your separate permission (e.g., in a lead generation form) or (iii) data already visible to any users of the Services (e.g., profile). However, if you view or click on an ad on or off our Services, the ad provider will get a signal that someone visited the page that displayed the ad, and they may, through the use of mechanisms such as cookies, determine it is you. Advertising partners can associate personal data collected by the advertiser directly from you with hashed IDs or device identifiers received from us. In such instances, we seek to contractually require such advertising partners to obtain your explicit, opt-in consent before doing so.
-
-2.5 Marketing
-
-We promote our Services to you and others.
-
-In addition to advertising our Services, we use Members’ data and content for invitations and communications promoting membership and network growth, engagement and our Services, such as by showing your connections that you have used a feature on our Services.
-
-2.6 Developing Services and Research
-
-We develop our Services and conduct research.
-
-Service Development
-
-We use data, including public feedback, to conduct research and development for our Services in order to provide you and others with a better, more intuitive and personalized experience, drive membership growth and engagement on our Services, and help connect professionals to each other and to economic opportunity.
-
-Other Research
-
-We seek to create economic opportunity for Members of the global workforce and to help them be more productive and successful. We use the personal data available to us to research social, economic and workplace trends, such as jobs availability and skills needed for these jobs and policies that help bridge the gap in various industries and geographic areas. In some cases, we work with trusted third parties to perform this research, under controls that are designed to protect your privacy. We publish or allow others to publish economic insights, presented as aggregated data rather than personal data.
-
-Surveys
-
-Polls and surveys are conducted by us and others through our Services. You are not obligated to respond to polls or surveys, and you have choices about the information you provide. You may opt-out of survey invitations.
-
-2.7 Customer Support
-
-We use data to help you and fix problems.
-
-We use data (which can include your communications) to investigate, respond to and resolve complaints and for Service issues (e.g., bugs).
-
-2.8 Insights That Do Not Identify You
-
-We use data to generate insights that do not identify you.
-
-We use your data to produce and share insights that do not identify you. For example, we may use your data including inferences drawn from data about you such as your age or gender to generate statistics about our members, their profession or industry, to calculate ad impressions served or clicked on, or to publish visitor demographics for a Service or create demographic workforce insights.
-
-2.9 Security and Investigations
-
-We use data for security, fraud prevention and investigations.
-
-We use your data (including your communications) for security purposes or to prevent or investigate possible fraud or other violations of our User Agreement and/or attempts to harm our Members,Visitors or others.
-
-3\. How We Share Information3.1 Our Services
-
-Any data that you include on your profile and any content you post or social action (e.g., likes, follows, comments, shares) you take on our Services will be seen by others, consistent with your settings.
-
-Profile
-
-Your profile is fully visible to all Members and customers of our Services. Subject to your settings, it can also be visible to others on or off of our Services (e.g., Visitors to our Services or users of third- party search engines). As detailed in our Help Center, your settings, degree of connection with the viewing Member, the subscriptions they may have, their usage of our Services, access channels and search types (e.g., by name or by keyword) impact the availability of your profile and whether they can view certain fields in your profile.
-
-Posts, Likes, Follows, Comments, Messages
-
-Our Services allow viewing and sharing information including through posts, likes, follows and comments.
-
-*   When you share an article or a post (e.g., an update, image, video or article) publicly it can be viewed by everyone and re-shared anywhere (subject to your settings). Members, Visitors and others will be able to find and see your publicly-shared content, including your name (and photo if you have provided one).
-*   In a group, posts are visible to others in the group. Your membership in groups is public and part of your profile, but you can change visibility in your settings.
-*   Any information you share through companies’ or other organizations’ pages on our Services will be viewable by it and others who visit those pages.
-*   When you follow a person or organization, you are visible to others and that “page owner” as a follower.
-*   We let senders know when you act on their message, subject to your settings where applicable.
-*   Subject to your settings, we let a Member know when you view their profile.
-*   When you like or re-share or comment on another’s content (including ads), others will be able to view these “social actions” and associate it with you (e.g., your name, profile and photo if you provided it).
-
-Your employer can see how you use Services they provided for your work (e.g. as a recruiter or sales agent) and related information. We will not show them your job searches or personal messages.
-
-Enterprise Accounts
-
-Your employer may offer you access to our enterprise Services such as Recruiter, Sales Navigator, LinkedIn Learning or our advertising Campaign Manager. Your employer can review and manage your use of such enterprise Services.
-
-Depending on the enterprise Service, before you use such Service, we will ask for permission to share with your employer relevant data from your profile or use of our non-enterprise Services. For example, users of Sales Navigator will be asked to share their “social selling index”, a score calculated in part based on their personal account activity. We understand that certain activities such as job hunting and personal messages are sensitive, and so we do not share those with your employer unless you choose to share it with them through our Services (for example, by applying for a new position in the same company or mentioning your job hunting in a message to a co-worker through our Services).
-
-Subject to your settings, when you use workplace tools and services (e.g., interactive employee directory tools) certain of your data may also be made available to your employer or be connected with information we receive from your employer to enable these tools and services.
-
-3.2 Communication Archival
-
-Regulated Members may need to store communications outside of our Service.
-
-Some Members (or their employers) need, for legal or professional compliance, to archive their communications and social media activity, and will use services of others to provide these archival services. We enable archiving of messages by and to those Members outside of our Services. For example, a financial advisor needs to archive communications with her clients through our Services in order to maintain her professional financial advisor license.
-
-3.3 Others’ Services
-
-You may link your account with others’ services so that they can look up your contacts’ profiles, post your shares on such platforms, or enable you to start conversations with your connections on such platforms. Excerpts from your profile will also appear on the services of others.
-
-Subject to your settings, other services may look up your profile. When you opt to link your account with other services, personal data will become available to them. The sharing and use of that personal data will be described in, or linked to, a consent screen when you opt to link the accounts. For example, you may link your Twitter or WeChat account to share content from our Services into these other services, or your email provider may give you the option to upload your LinkedIn contacts into its own service. Third-party services have their own privacy policies, and you may be giving them permission to use your data in ways we would not. You may revoke the link with such accounts.
-
-Subject to your settings, excerpts from your profile will appear on the services of others (e.g., search engine results, mail and calendar applications that show a user limited profile data of the person they are meeting or messaging, social media aggregatorsFor example, company page administrators may manage their brand's online presence by aggregating users' comments and other social actions across social networks and see their basic profiles in that context., talent and lead managers). “Old” profile information remains on these services until they update their data cache with changes you made to your profile.
-
-3.4 Related Services
-
-We share your data across our different Services and LinkedIn affiliated entities.
-
-We will share your personal data with our affiliates to provide and develop our Services. We may combine information internally across the different Services covered by this Privacy Policy to help our Services be more relevant and useful to you and others. For example, we may personalize your feed or job recommendations based on your learning history.
-
-3.5 Service Providers
-
-We may use others to help us with our Services.
-
-We use others to help us provide our Services (e.g., maintenance, analysis, audit, payments, fraud detection, marketing and development). They will have access to your information as reasonably necessary to perform these tasks on our behalf and are obligated not to disclose or use it for other purposes.
-
-3.6 Legal Disclosures
-
-We may need to share your data when we believe it’s required by law or to help protect the rights and safety of you, us or others.
-
-It is possible that we will need to disclose information about you when required by law, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies. (2) enforce our agreements with you. (3) investigate and defend ourselves against any third-party claims or allegations. (4) protect the security or integrity of our Services (such as by sharing with companies facing similar threats). or (5) exercise or protect the rights and safety of LinkedIn, our Members, personnel or others. We attempt to notify Members about legal demands for their personal data when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency. We may dispute such demands when we believe, in our discretion, that the requests are overbroad, vague or lack proper authority, but we do not promise to challenge every demand. To learn more see our Data Request Guidelines and Transparency Report.
-
-3.7 Change in Control or Sale
-
-We may share your data when our business is sold to others, but it must continue to be used in accordance with this Privacy Policy.
-
-We can also share your personal data as part of a sale, merger or change in control, or in preparation for any of these events. Any other entity which buys us or part of our business will have the right to continue to use your data, but only in the manner set out in this Privacy Policy unless you agree otherwise.
-
-4\. Your Choices &. Obligations4.1 Data Retention
-
-We keep most of your personal data for as long as your account is open.
-
-We generally retain your personal data as long as you keep your account open or as needed to provide you Services. This includes data you or others provided to us and data generated or inferred from your use of our Services. Even if you only use our Services when looking for a new job every few years, we will retain your information and keep your profile open, unless you close your account. In some cases we choose to retain certain information (e.g., insights about Services use) in a depersonalized or aggregated form.
-
-4.2 Rights to Access and Control Your Personal Data
-
-You can access or delete your personal data. You have many choices about how your data is collected, used and shared.
-
-We provide many choices about the collection, use and sharing of your data, from deleting or correcting data you include in your profile and controlling the visibility of your posts to advertising opt-outs and communication controls. We offer you settings to control and manage the personal data we have about you (for SlideShare, please contact us).
-
-For personal data that we have about you, you can:
-
-*   **Delete Data:** You can ask us to erase or delete all or some of your personal data (e.g., if it is no longer necessary to provide Services to you).
-*   **Change or Correct Data**: You can edit some of your personal data through your account. You can also ask us to change, update or fix your data in certain cases, particularly if it’s inaccurate.
-*   **Object to, or Limit or Restrict, Use of Data:** You can ask us to stop using all or some of your personal data (e.g., if we have no legal right to keep using it) or to limit our use of it (e.g., if your personal data is inaccurate or unlawfully held).
-*   **Right to Access and/or Take Your Data:** You can askHow to do this: Members may go to their settings to make requests. us for a copy of your personal data and can ask for a copy of personal data you provided in machine readable form.
-
-Visitors can learn more about how to make these requests here. You may also contact us using the contact information below, and we will consider your request in accordance with applicable laws.
-
-Residents in the Designated Countries and other regions may have additional rights under their laws. Learn More.
-
-4.3 Account Closure
-
-We keep some of your data even after you close your account.
-
-If you choose to close your Linkedin (or SlideShare) account, your personal data will generally stop being visible to others on our Services within 24 hours. We generally delete closed account information within 30 days of account closure, except as noted below.
-
-We retain your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse (e.g., if we have restricted your account for breach of our Professional Community Policies), enforce our User Agreement, or fulfill your request to "unsubscribe" from further messages from us. We will retain de-personalized information after your account has been closed.
-
-Information you have shared with others (e.g., through InMail, updates or group posts) will remain visible after you close your account or delete the information from your own profile or mailbox, and we do not control data that other Members have copied out of our Services. Groups content and ratings or review content associated with closed accounts will show an unknown user as the source. Your profile may continue to be displayed in the services of others (e.g., search engine results) until they refresh their cache.
-
-5\. Other Important Information5.1. Security
-
-We monitor for and try to prevent security breaches. Please use the security features available through our Services.
-
-We implement security safeguards designed to protect your data, such as HTTPS. We regularly monitor our systems for possible vulnerabilities and attacks. However, we cannot warrant the security of any information that you send us. There is no guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Please visit our Safety Center for additional information about safely using our Services, including two-factor authentication.
-
-5.2. Cross-Border Data Transfers
-
-We store and use your data outside your country.
-
-We process data both inside and outside of the United States and rely on legally-provided mechanisms to lawfully transfer data across borders. Learn more. Countries where we process data may have laws which are different from, and potentially not as protective as, the laws of your own country.
-
-5.3 Lawful Bases for Processing
-
-We have lawful bases to collect, use and share data about you. You have choices about our use of your data.
-
-At any time, you can withdraw consent you have provided by going to settings.
-
-We will only collect and process personal data about you where we have lawful bases. Lawful bases include consentWhere we process data based on consent, we will ask for your explicit consent. You may withdraw your consent at any time, but that will not affect the lawfulness of the processing of your personal data prior to such withdrawal. Where we rely on contract, we will ask that you agree to the processing of personal data that is necessary for entering into or performance of your contract with us. We will rely on legitimate interests as a basis for data processing where the processing of your data is not overridden by your interests or fundamental rights and freedoms. (where you have given consent), contract (where processing is necessary for the performance of a contract with you (e.g., to deliver the LinkedIn Services you have requested) and “legitimate interests.” Learn more.
-
-Where we rely on your consent to process personal data, you have the right to withdraw or decline your consent at any time and where we rely on legitimate interests, you have the right to object. Learn More. If you have any questions about the lawful bases upon which we collect and use your personal data, please contact our Data Protection Officer here.
-
-5.4. Direct Marketing and Do Not Track Signals
-
-Our statements regarding direct marketing and “do not track” signals.
-
-We currently do not share personal data with third parties for their direct marketing purposes without your permission. Learn more about this and about our response to “do not track” signals.
-
-5.5. Contact Information
-
-You can contact us or use other options to resolve any complaints.
-
-If you have questions or complaints regarding this Policy, please first contact LinkedIn online. You can also reach us by physical mail. If contacting us does not resolve your complaint, you have more options. Residents in the Designated Countries and other regions may also have the right to contact our Data Protection Officer here.If this does not resolve your complaint, Residents in the Designated CountriesWe use the term “Designated Countries” to refer to countries in the European Union (EU), European Economic Area (EEA), and Switzerland and other regions may have more options under their laws. Learn More
+This Privacy Policy applies to Personal Information that is Processed by Scribd in the course of our business, including on the Scribd.com website (the “Site”) and the Scribd mobile application (the “App”).  All individuals whose responsibilities include the Processing of Personal Information on behalf of Scribd are expected to protect that data by adherence to this Privacy Policy. This Privacy Policy is intended to meet requirements globally, including those in North America, Europe, APAC, and other jurisdictions.
 
   
 
-*   Help Center
+This Privacy Policy is incorporated into and is subject to the General Terms of Use. Your use of Scribd and any Personal Information you provide through Scribd are subject at all times to this Privacy Policy and the General Terms of Use. Terms for “Scribd” apply to any site or mobile application owned and operated by Scribd, Inc.
+
+  
+2.0 Transparency/Notice–What Personal Information We Collect and How We Use It  
+
+The types of Personal Information we may collect (directly from you or from Third Party-sources) and our privacy practices depend on the nature of the relationship you have with Scribd and the requirements of applicable law.  We endeavor to collect information only relevant for the purposes of Processing. Below are the legal bases and some of the ways we collect information and how we use it.
+
+  
+2.1 Individuals  
+
+Scribd collects Personal Information regarding its current, prospective and former clients, customers, visitors and guests (collectively “Individuals”).
+
+  
+2.2 Information Scribd Collects  
+
+The data we collect from or about current, prospective and former Employees, customers, visitors and guests (collectively “Individuals”) includes information that may be deemed Personal Information, such as title, name, address, phone number, email address, user name, Internet Protocol address, and credit card and other financial information related to payments for services or goods.  
+
+  
+2.3 How Scribd Collects Personal Information  
+
+Some of the ways that Scribd may collect your Personal Information include:
+
+  
+
+  
+*   Scribd may collect Personal Information from you through various channels, including the Site, the App, in surveys, during business or marketing events, and when delivering programs and services to you.  
+      
+    
+  
+*   When you use the Site and the App, Scribd may provide you with opportunities to sign up to receive specific information or services and may ask for your contact information (e.g. name, e-mail address or personal email address), so that we can send you specific information about our products, services and specific health conditions, with your consent.  
+      
+    
+  
+*   As you navigate Scribd, certain passive information may also be collected, including Internet Protocol addresses, cookies, navigational data, the name of the domain and host from which you access the Internet, the browser software you use and your operating system, the date and time you access Scribd, and the Internet address of the website from which you linked directly to Scribd. This type of information is used for the purposes of gathering data to provide improved administration of Scribd, and to improve the quality of your experience when interacting with Scribd.
+  
+
+  
+2.4 Information from Third-Party Sources  
+
+We may collect information about you from third-party sources to supplement information provided by you.  This supplemental information allows us to verify information that you have provided to us and to enhance our ability to provide you information about our business, products and services. 
+
+  
+
+We may also offer you the ability to use Third Party services to enable additional features on Scribd. If you choose to do this, Scribd may receive information about you from these Third Parties.
+
+  
+2.5 Research/Survey Solicitations  
+
+From time to time, Scribd may perform research (online and offline) via surveys.  We may engage Third Party-service providers to conduct such surveys on our behalf.  All survey responses are voluntary, and the information collected will be used for research and reporting purposes to help us better serve Individuals by learning more about their needs and the quality of the products and services we provide.  The survey responses may be utilized to determine the effectiveness of the Site and the App, various types of communications, advertising campaigns and/or promotional activities. If an Individual participates in a survey, the information given will be used along with that of other study participants.  We may share anonymous individual and aggregate data for research and analysis purposes.
+
+  
+2.6 How Scribd Uses Your Personal Information  
+
+Depending on how you interact with Scribd, we and our Third Party-service providers may also use Personal Information in a variety of ways, including:
+
+  
+
+  
+*   **Providing Information and Services You Requested.** Scribd may use the Personal Information about you to provide you information that you may request, e.g. information about a product or program we are offering.  Scribd may also use your Personal Information to deliver a specific program or service to you, when you enroll to receive the program or service. Such use may include: (a) generally managing your information and accounts. (b) responding to questions, comments and requests. (c) providing access to certain areas and features. and (d) permitting you to register for events or participate in webinars.  
+      
+    
+  
+*   **Administrative Purposes.** Scribd may use the Personal Information about you for its administrative purposes, including, without limitation, to: (a) measure interest in Scribd’s Website, programs or services. (b) perform internal quality control. (c) verify identity. (d) send communications regarding the Scribd Website, programs or services, your account, or any changes to any Scribd policy or terms of service. (e) process payments. (f) prevent potentially prohibited or illegal activities. and (g) enforce our Terms of Use.  
+      
+    
+  
+*   **Marketing Products and Services.** Scribd may use the Personal Information about you to provide you with materials about offers, products and services offered by us, including new content or services on Scribd. Scribd may provide you with these materials by phone, postal mail, facsimile or email, as permitted by applicable law.  If you do not wish us to use your Personal Information for marketing purposes, you may contact us at any time to opt out of the use of your Personal Information for such purposes, as further described below.  
+      
+    
+  
+*   **Research and Development.** Scribd may use your Personal Information to create non-identifiable information that we may use alone or in the aggregate with information obtained from other sources, in order to help us to optimally deliver our existing products and services or develop new products, processes and services.  
+      
+    
+  
+*   **Information Submitted Via Scribd.** You agree that Scribd is free to use the content of any communications or other information submitted by you via Scribd, excluding User Content, but including any narratives, images, ideas, inventions, concepts, techniques, or know-how disclosed therein, for any purpose including developing, manufacturing, and/or marketing goods or services.  However, Scribd does not release your name or otherwise publicize the fact that you submitted materials or other information to us unless: (a) you grant us permission to do so. (b) we first send notice to you that the materials or other information you submit to a particular part of a site will be published or otherwise used with your name on it. or (c) we are required to do so by law.  
+      
+    
+  
+*   **Sharing Content with Friends or Colleagues**. Scribd may offer various tools and functionality.  For example, Scribd may provide functionality that will allow you to forward or share certain content with a friend or colleague.  Email addresses that you may provide for a friend or colleague will be used to send your friend or colleague the content or link you request, but will not be collected or otherwise used by Scribd or any other Third Parties for any other purpose.  
+      
+    
+  
+*   **Pseudonymous Data.** Including as discussed below in Section 2.12, Scribd may use and share your anonymized or aggregated information within the Scribd group of companies or with Third Parties for, research, analytics and any other legally permissible purposes.  
+      
+    
+  
+*   **Fraud protection.** Scribd may use the Personal Information about you in order to prevent fraud and to protect the accuracy and integrity of financial transactions made through Scribd.com or the Scribd mobile app. Scribd may share the Personal Information with a third party service provider for such a purpose.  
+      
+    
+  
+*   **Other Uses.** Scribd may use Personal Information for other purposes for which we have a legitimate interest, such as direct marketing, individual or market research, or any other purpose disclosed to you at the time you provide Personal Information or with your consent.
+  
+
+  
+2.7 Human Resources Data  
+
+Scribd collects Personal Information from current, prospective and former Employees, their contact points in case of a medical emergency, and beneficiaries under any insurance policy (“Human Resources Data”).  The Human Resources Data we collect may include title, name, address, phone number, email address, date of birth, passport number, driver’s license number, Social Security number or other government-issued identification number, financial information related to credit checks, bank details for payroll, information that may be recorded on a CV or application form, language abilities, contact information of third parties in case of an emergency and beneficiaries under any insurance policy.  We may also collect Sensitive Human Resources Data such as details of health and disability, including mental health, medical leave, and maternity leave. 
+
+  
+
+We acquire, hold, use and Process Human Resources-related Personal Information for a variety of business purposes including:
+
+  
+
+  
+*   workflow management, assigning, managing and administering projects;
+  
+*   Human Resources administration and communication;
+  
+*   payroll and the provision of benefits;
+  
+*   compensation, including bonuses and long-term incentive administration, stock plan administration, compensation analysis, including monitoring overtime and compliance with labor laws, and company recognition programs;
+  
+*   job grading activities;
+  
+*   performance and employee development management;
+  
+*   organizational development and succession planning;
+  
+*   benefits and personnel administration;
+  
+*   absence management;
+  
+*   helpdesk and IT support services;
+  
+*   regulatory compliance;
+  
+*   internal and/or external or governmental compliance investigations;
+  
+*   internal or external audits;
+  
+*   litigation evaluation, prosecution and defense;
+  
+*   diversity and inclusion initiatives;
+  
+*   restructuring and relocation;
+  
+*   emergency contacts and services;
+  
+*   Employee safety;
+  
+*   compliance with statutory requirements;
+  
+*   Processing of Employee expenses and travel charges. and
+  
+*   acquisitions, divestitures and integrations.
+  
+
+  
+2.8 Social Media  
+
+Generally, online social media resources are interactive tools that enable Data Subjects to collaborate and share information with others.  Social media resources include, but are not limited to, social networks, discussion boards, bulletin boards, blogs, wikis, and referral functions to share web site content and tools with a friend or colleague. 
+
+  
+
+Scribd may collect Personal Information to enable Data Subjects to use online social media resources offered either by Scribd or a Third Party.  We may also enable you to use these social media resources to post or share Personal Information with others. When using social media resources, you should take into careful consideration what Personal Information you share with others. 
+
+  
+
+If you use on online social media resource offered by a Third Party (“Third Party SMR”) through the Scribd Website, you acknowledge that Scribd may be able to access any information you make public through such Third Party SMR (such as your username, comments, posts and contacts) and other information your privacy settings on such Third Party SMR permit Scribd to access.  Scribd will comply with the terms of this Privacy Policy and the privacy policies applicable to the social media resources it uses.
+
+  
+2.9 Direct Mail, Email and Outbound Telemarketing  
+
+Individuals who provide us with Personal Information, or whose Personal Information we obtain from Third Parties, may receive periodic emails, newsletters, mailings or phone calls from us with information on Scribd or our business partners’ products and services or upcoming special offers/events we believe may be of interest.  We offer the option to decline these communications at no cost to the individual by following the instructions in Section 3 below.
+
+  
+2.10 Cookies, Pixel Tags/Web Beacons, Analytics Information, and Interest-Based Advertising  
+
+We, as well as Third Parties that provide content, advertising, or other functionality on our Services, may use cookies, pixel tags, local storage, and other technologies (“Technologies”) to automatically collect information through the Services.  We use Technologies that are essentially small data files placed on your computer, tablet, mobile phone, or other devices (referred to collectively as a "device") that allow us to record certain pieces of information whenever you visit or interact with our sites, services, applications, messaging, and tools, and to recognize you across devices.
+
+  
+2.10.1 Cookies  
+
+Cookies are small text files placed in visitors’ computer browsers to store their preferences. Most browsers allow you to block and delete cookies.  However, if you do that, the Site may not work properly. 
+
+  
+2.10.2 Pixel Tags/Web Beacons  
+
+A pixel tag (also known as a web beacon) is a piece of code embedded on the Site that collects information about users’ engagement on that web page.  The use of a pixel allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement.
+
+  
+2.10.3 Social Media Widgets  
+
+Our Website includes social media features such as the Facebook “Like” button and LinkedIn (that might include widgets such as the share this button or other interactive mini-programs).  These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. These social media features are either hosted by a Third Party or hosted directly on our Website.  Your interactions with these features are governed by the privacy policy of the company providing it.
+
+  
+2.10.4 Analytics Information  
+
+We may also use Google Analytics and Google Analytics Demographics and Interest Reporting to collect information regarding visitor behavior and visitor demographics on some of our Services, and to develop website content.  This analytics data is not tied to any Personal Information. For more information about Google Analytics, please visit www.google.com/policies/privacy/partners/. You can opt out of Google’s collection and Processing of data generated by your use of the Services by going to http://tools.google.com/dlpage/gaoptout.
+
+  
+
+Our uses of such Technologies fall into the following general categories:
+
+  
+
+  
+*   **Operationally Necessary**. We may use cookies, web beacons, or other similar technologies that are necessary to the operation of our sites, services, applications, and tools.  This includes technologies that allow you access to our sites, services, applications, and tools. that are required to identify irregular site behavior, prevent fraudulent activity and improve security. or that allow you to make use of our functions such as shopping-carts, saved search, or similar functions;  
+      
+    
+  
+*   **Performance Related**. We may use cookies, web beacons, or other similar technologies to assess the performance of our websites, applications, services, and tools, including as part of our analytic practices to help us understand how our visitors use our Site and App, determine if you have interacted with our messaging, determine whether you have viewed an item or link, or to improve our website content, applications, services, or tools;  
+      
+    
+  
+*   **Functionality Related**. We may use cookies, web beacons, or other similar technologies that allow us to offer you enhanced functionality when accessing or using our sites, services, applications, or tools.  This may include identifying you when you sign into our sites or keeping track of your specified preferences, interests, or past items viewed so that we may enhance the presentation of content on our sites  
+      
+    
+  
+*   **Advertising or Targeting Related**. We may use first-party or third-party cookies and web beacons to deliver content, including ads relevant to your interests, on our sites or on third party sites.  This includes using technologies to understand the usefulness to you of the advertisements and content that has been delivered to you, such as whether you have clicked on an advertisement.
+  
+
+  
+
+If you would like to opt-out of the Technologies we employ on our sites, services, applications, or tools, you may do so by blocking, deleting, or disabling them as your browser or device permits.
+
+  
+2.11 Mobile Devices  
+
+Scribd may provide websites and online resources that are specifically designed to be compatible and used on mobile devices.  Scribd will collect certain information that your mobile device sends when you use such websites or online resources, like a device identifier, user settings and the operating system of your device.
+
+  
+
+Mobile versions of Scribd may require that users log in with an account.  In such cases, information about use of each mobile version of the website may be associated with user accounts.  In addition, Scribd may enable Individuals to download an application, widget or other tool that can be used on mobile or other computing devices.  Some of these tools may store information on mobile or other devices. These tools may transmit Personal Information to Scribd to enable Data Subjects to access user accounts and to enable Scribd to track use of these tools.  Some of these tools may enable users to email reports and other information from the tool. Scribd may use personal or non-identifiable information transmitted to the Company to enhance these tools, to develop new tools, for quality improvement and as otherwise described in this Privacy Policy or in other notices Scribd provides.
+
+  
+2.12 Anonymous and Aggregated Information  
+
+Scribd may use your Personal Information and other information about you to create anonymized and aggregated information, such as de-identified demographic information, de-identified location information, information about the computer or device from which you access the Scribd Website or other online services, or other analyses we create.  Anonymized and aggregated information is used for a variety of functions, including the measurement of visitors’ interest in and use of various portions or features of the Site and App. Anonymized or aggregated information is not Personal Information, and Scribd may use such information in a number of ways, including research, internal analysis, analytics and any other legally permissible purposes.  We may share this information within Scribd and with Third Parties for our or their purposes in an anonymized or aggregated form that is designed to prevent anyone from identifying you.
+
+  
+3.0 Choice/Modalities to Opt Out  
+
+You have the right to opt out of certain uses and disclosures of your Personal Information, as set out in this Privacy Policy.
+
+  
+3.1 General  
+
+Where you have consented to Scribd’s Processing of your Personal Information or Sensitive Personal Information, you may withdraw that consent at any time and opt out by following the instructions in this Section 3.  Additionally, before we use Personal Information for any new purpose not originally authorized by you, we will provide information regarding the new purpose and give you the opportunity to opt out. 
+
+  
+
+Prior to disclosing Sensitive Data to a Third Party or Processing Sensitive Data for a purpose other than its original purpose or the purpose authorized subsequently by the Data Subject, Scribd will endeavor to obtain each Data Subject’s explicit consent (opt-in).  Where consent of the Data Subject for the Processing of Personal Information is otherwise required by law or contract, Scribd will comply with the law or contract.
+
+  
+3.2 Email and Telephone Communications  
+
+An “Unsubscribe” button will be provided at the top or bottom of each email communications sent by Scribd so that you can opt-out.  However, we may continue to send transaction-related emails regarding products or services you have requested in response to such request.  We may need to send you certain communications regarding the Scribd programs and services and you will not be able to opt out of those communications – e.g., communications regarding updates to our Terms of Use or this Privacy Policy.
+
+  
+3.3 Human Resources Data  
+
+With regard to Personal Information that Scribd receives in connection with the employment relationship, Scribd will use such Personal Information only for employment-related purposes as more fully described in section 2.3 above.  If Scribd intends to use this Personal Information for any other purpose, the Company will provide the Data Subject with an opportunity to opt-out of such uses. 
+
+  
+3.4 “Do Not Track”  
+
+Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers.  DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services.  Scribd does not recognize or respond to browser-initiated DNT signals. For information about “do-not-track”, visit http://www.allaboutdnt.org.
+
+  
+
+  
+4.0 Onward Transfer  
+4.1 Information We Share  
+
+Scribd does not sell or otherwise disclose Personal Information about you, except as described in this Privacy Policy or as you explicitly consent.  Scribd endeavors to require third parties to which it discloses Personal Information to protect Personal Information using substantially similar standards to those required by Scribd (and at least the same level of privacy protection as is required by the Privacy Shield Principles and this Privacy Policy), and to notify Scribd if they make a determination they can no longer meet this obligation.   
+
+  
+4.1.1 Service Providers  
+
+Scribd may share Personal Information with our service providers that we have retained to perform services on our behalf including (i) provision of IT and related services. (ii) provision of information and services you have requested. (iii) payment processing. and (iv) customer service activities. Payment information will be used and shared only to effectuate your order and may be stored by a service provider for purposes of future orders. 
+
+  
+
+Scribd has executed appropriate contracts with the service providers that prohibit them from using or sharing your personal information except as necessary to perform the contracted services on our behalf or to comply with applicable legal requirements.
+
+  
+4.1.2 Information Shared via Third Party Features  
+
+Scribd may offer additional features that allow you to share your information with a Third Party (like Waze). If you tell us to do so, Scribd will share limited amounts of information with the Third Party in order to enable the feature you choose. We will tell you what information the Third Party may receive when you initially instruct us to share it. Please be aware that any information you provide to a Third Party will be subject to that Third Party’s privacy policy.
+
+  
+
+Scribd will share your information for as long as you use the Third Party feature. You can disable this at any time in your Scribd settings under Settings.
+
+  
+4.1.3 Business Partners  
+
+Scribd may share Personal Information with our business partners, and affiliates for our and our affiliates’ internal business purposes or to provide you with a product or service that you have requested Scribd may also provide Personal Information to business partners with whom we may jointly offer products or services, or whose products or services we believe may be of interest to you.  In such cases, our business partner’s name will appear, along with Scribd’s. Scribd requires our affiliates and business partners to agree in writing to maintain the confidentiality and security of Personal Information they maintain on our behalf and not to use it for any purpose other than the purpose for which it was provided.  
+
+  
+4.1.4 Information Disclosed for Our Protection and the Protection of Others  
+
+We may disclose information about you: (i) if we are required to do so by law, court order or legal process. (ii) in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. (iii) under the discovery process in litigation. (iv) to enforce Scribd policies or contracts. (v) to collect amounts owed to Scribd. (vi) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation or prosecution of suspected or actual illegal activity. or (vii) if we, in good faith, believe that disclosure is otherwise necessary or advisable. 
+
+  
+
+In addition, from time to time, server logs may be reviewed for security purposes – e.g., to detect unauthorized activity.  In such cases, server log data containing IP addresses may be shared with law enforcement bodies in order that they may identify users in connection with their investigation of the unauthorized activities.
+
+  
+4.1.5 Information Disclosed in Connection with Business Transactions  
+
+We reserve the right to disclose or transfer any information we have about you in the event of a proposed or actual purchase, any reorganization, sale, lease, merger, joint venture, assignment, amalgamation or any other type of acquisition, disposal or financing of all or any portion of our business or of any of the business assets or shares (including in connection with any bankruptcy or similar proceeding).  Should such an event occur, Scribd will endeavor to direct the transferee to use Personal Information in a manner that is consistent with this Privacy Policy.
+
+  
+4.2 Data Transfers  
+
+All Personal Information sent or collected via or by Scribd may be stored anywhere in the world, including but not limited to, in the United States, in the cloud, our servers, the servers of our affiliates or the servers of our service providers. Your Personal Information may be accessible to law enforcement or other authorities pursuant to a lawful request. By providing information to Scribd, you consent to the storage of your Personal Information in these locations. 
+
+  
+5.0 Rights of Access, Rectification, Erasure and Restriction  
+
+You may seek confirmation regarding whether Scribd is processing Personal Information about you, request access to Personal Information, and ask that we correct, amend or delete your Personal Information where it is inaccurate.  Where otherwise permitted by applicable law, you may use any of the methods set out in this Privacy Policy to request access to, receive (port), restrict processing, seek rectification or request erasure of Personal Information held about you by Scribd.  Such requests will be processed in line with local laws. Although Scribd makes good faith efforts to provide Individuals with access to their Personal Information, there may be circumstances in which Scribd is unable to provide access, including but not limited to: where the information contains legal privilege, would compromise others’ privacy or other legitimate rights, where the burden or expense of providing access would be disproportionate to the risks to the Individual’s privacy in the case in question or where it is commercially proprietary.  If Scribd determines that access should be restricted in any particular instance, we will provide you with an explanation of why that determination has been made and a contact point for any further inquiries. To protect your privacy, Scribd will take commercially reasonable steps to verify your identity before granting access to or making any changes to your Personal Information.
+
+  
+6.0 Retention  
+
+Scribd retains the Personal Information we receive as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our products and services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements and comply with applicable laws.
+
+  
+7.0 Security  
+
+The security of all Personal Information provided to Scribd is important to us, and Scribd takes reasonable steps designed to protect your Personal Information.  Unfortunately, no data transmission over the Internet or storage of information can be guaranteed to be 100% secure. As a result, while Scribd strives to protect your Personal Information, we cannot ensure or warrant the security of any information you transmit to Scribd, and you do so at your own risk.  You are responsible for maintaining the secrecy of your own passwords. If you have reason to believe that your passwords or Personal Information is no longer secure, please promptly notify us at privacy@scribd.com.
+
+  
+8.0 Redress/Compliance and Accountability  
+
+If after reviewing this Privacy Policy, you would like to submit a request or you have any questions or privacy concerns, please contact us at privacy@scribd.com.
+
+  
+
+Scribd will address your concerns and attempt to resolve any privacy issues in a timely manner.  
+
+  
+
+**If you are an EU or Swiss citizen and feel that Scribd is not abiding by the terms of this Privacy Policy, please contact Scribd at the contact information provided above. If any request remains unresolved, you may contact the national data protection authority for your EU Member State.**
+
+  
+9.0 Other Rights and Important Information.  
+9.1 Information Regarding Children  
+
+Due to the nature of Scribd’s business, services and benefits are not marketed to persons less than 13 years of age (and in certain jurisdictions under the age of 16 (collectively “minors”). 
+
+  
+
+If you are under 13 years of age (and in certain jurisdictions under the age of 16), then you may not use or access Scribd at any time or in any manner.
+
+  
+
+Protecting the privacy of young children is especially important.  For that reason, Scribd does not knowingly collect or maintain personally identifiable information from minors.  If Scribd learns that personally-identifiable information of minors has been collected on or through Scribd then Scribd will take the appropriate steps to delete this information.
+
+  
+
+If you are the parent or legal guardian of a minor who has become Scribd member, then please contact Scribd at privacy@scribd.com to have that minor’s account terminated and information deleted.
+
+  
+
+The following are some resources that may help parents and legal guardians in monitoring and limiting your childrens' access to certain types of material on the internet.  While Scribd does not endorse these products, we are providing information about them as a public service to our community.
+
+  
+
+  
+*   WiredSafety
+  
+*   Netsmartz.org
+  
+*   Children’s Safety Network
+  
+*   CyberSitter
+  
+*   Net Nanny
+  
+
+  
+9.2 California Privacy Rights  
+
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the Third Parties to whom we have disclosed their Personal Information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of Personal Information disclosed to those parties.  Scribd does not share Personal Information with third parties for their own marketing purposes.
+
+  
+9.3 Links to Third-Party Websites  
+
+Please note that Scribd may contain links to other websites for your convenience and information.  Scribd does not control Third-Party websites or their privacy practices, which may differ from those set out in this Privacy Policy.  Scribd does not endorse or make any representations about Third-Party websites. Any Personal Information you choose to give to unrelated Third Parties is not covered by this Privacy Policy.  Scribd encourages you to review the privacy policy of any company or website before submitting your Personal Information. Some Third Parties may choose to share their users’ Personal Information with Scribd. that sharing is governed by that company’s privacy policy, not this Privacy Policy.
+
+  
+9.4 Changes to the Privacy Policy  
+
+Scribd may update this Privacy Policy from time to time as it deems necessary in its sole discretion.  If there are any material changes to this Privacy Policy, Scribd will notify you by email or as otherwise required by applicable law.  Scribd encourages you to review this Privacy Policy periodically to be informed regarding how Scribd is using and protecting your information and to be aware of any policy changes.  Your continued relationship with Scribd after the posting or notice of any amended Privacy Policy shall constitute your agreement to be bound by any such changes. Any changes to this Privacy Policy will take effect immediately after being posted or otherwise provided by Scribd.
+
+  
+9.5 Contact Information  
+
+Please contact Scribd with any questions or comments about this privacy notice, your personal information, and our third-party disclosure practices or your consent choices at: Scribd, Inc., 460 Bryant Street, Suite 100, San Francisco, CA 94107-2594, or by email: privacy@scribd.com.  We will respond to your inquiry within 30 days of its receipt.
+
+  
+
+**Scribd Privacy Notice (Effective: May 25, 2018)**
+
+  
+
+*   English
+*   Español
+*   Português
+*   Français
+*   Deutsch
+
 *   About
-    *   Press
-    *   Blog
-    *   Developers
-*   Careers
-*   Advertising
-*   Talent Solutions
-*   Sales Solutions
-*   Small Business
-*   Mobile
-*   Language
-    *   العربية (Arabic)
-    *   Čeština (Czech)
-    *   Dansk (Danish)
-    *   Deutsch (German)
-    *   **English (English)**
-    *   Español (Spanish)
-    *   Français (French)
-    *   Bahasa Indonesia (Bahasa Indonesia)
-    *   Italiano (Italian)
-    *   日本語 (Japanese)
-    *   한국어 (Korean)
-    *   Bahasa Malaysia (Malay)
-    *   Nederlands (Dutch)
-    *   Norsk (Norwegian)
-    *   Polski (Polish)
-    *   Português (Portuguese)
-    *   Română (Romanian)
-    *   Русский (Russian)
-    *   Svenska (Swedish)
-    *   ภาษาไทย (Thai)
-    *   Tagalog (Tagalog)
-    *   Türkçe (Turkish)
-    *   简体中文 (Chinese (Simplified))
-    *   正體中文 (Chinese (Traditional))
-*   Online Learning
-*   ProFinder
+*   Developers &. API
+*   Blog
+*   Terms
+*   Privacy
+*   Copyright
+*   Support
 
-*   Search Jobs
-
-*   Directories
-*   Members
-*   Companies
-*   Universities
-
-LinkedIn Corporation _© 2020_
-
-*   User Agreement
-*   Privacy Policy
-*   Community Guidelines
-*   Cookie Policy
-*   Copyright Policy
-*   Unsubscribe
-
-<img src="http://b.scorecardresearch.com/b?c1=2&amp;c2=6402952&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cv=1.3&amp;cj=1" style="display:none" width="0" height="0" alt="" /><img src="/csp/dtag?p=10" width="1" height="1" alt="" style="display:none"/>.
+RSS Feeds ×
