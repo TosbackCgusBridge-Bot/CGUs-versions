@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Kubernetes 1.19 release candidate available for testing
 *   Next WSLConf date set, CFP now open through 15th August
 *   The State of Robotics – July 2020
-*   Infographic: Ubuntu from 2004 to 20.04 LTS
