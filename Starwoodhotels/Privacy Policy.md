@@ -1,4 +1,4 @@
-Commitment to Clean Travel with confidence during COVID-19. Travel with confidence during COVID-19:   Best Rate Guarantee   Flexible Cancellation   Commitment to Clean   Contactless Services Skip Main Navigation Menu Marriott Bonvoy
+Flexible Cancellation Travel with confidence during COVID-19. Travel with confidence during COVID-19:   Best Rate Guarantee   Flexible Cancellation   Commitment to Clean   Contactless Services Skip Main Navigation Menu Marriott Bonvoy
 
 *   *   English
 *   Help
@@ -68,7 +68,7 @@ The Marriott Group (PDF) values you as our guest and recognizes that privacy is 
 **Your Data, Your Choices: Your Privacy Preferences &. Rights**  
 **Other Important Provisions**  
 **Contact Us**  
-**Related Links**
+**Related Links** California Privacy Statement
 
 Read the Marriott Group California Consumer Privacy Statement.
 
@@ -579,4 +579,4 @@ Loading...
 
 Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
     
-prod9,DA15A3DC-D1A3-58E9-A462-481D7B84F68B
+prod8,27EF0A35-DD1D-5D87-8392-E33B02920243
