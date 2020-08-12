@@ -112,7 +112,7 @@ Skip to main content
 *   News &  
     Experts News &. Experts News &. Experts Health News
     
-    *   Get Daily Coronavirus News Updates Here
+    *   Get Coronavirus News &. Updates Here
     *   COVID-19: Check Your Symptoms Now
     *   Coronavirus in Context: Interviews With Experts
     *   How Long Does Coronavirus Live On Surfaces?
@@ -123,7 +123,7 @@ Skip to main content
     *   WebMD Blogs
     *   News Center
     
-    Featured Topics*   WebMD News Get the Latest Coronavirus News &. Updates
+    Featured Topics*   WebMD News Get the Latest COVID-19 News Here
     *   Newsletters Sign Up to Receive Our Free Coroanvirus Newsletter
 *   Mobile Apps
 *   Subscriptions
