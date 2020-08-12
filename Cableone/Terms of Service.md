@@ -236,7 +236,7 @@ Company
 *   About Sparklight
 *   About Cable One
 *   Social Responsibility
-*   Press Releases
+*   News Room
 *   Investor Relations
 *   One-to-One
 
