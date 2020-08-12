@@ -1,9 +1,3 @@
-We use cookies to ensure the best experience on our website. If you continue to use our site we will assume you consent. To find out more see our Privacy Policy.
-
-If you decline, your information won’t be tracked. A single cookie will be used to remember your preference.
-
-Accept Decline
-
 *   Home
 *   Products
     *   Omniscope Classic
@@ -92,6 +86,8 @@ Enquiry form
 
 Discuss
 
-<img class="wp-image-17085" src="https://visokio.com/wp-content/uploads/2020/01/5cb480cd5f1b6d3fbadece79.png" alt="Discuss with the Visokio team about Omniscope" width="40" height="40" data-wp-editing="1" />
+<img loading="lazy" class="wp-image-17085" src="https://visokio.com/wp-content/uploads/2020/01/5cb480cd5f1b6d3fbadece79.png" alt="Discuss with the Visokio team about Omniscope" width="40" height="40" data-wp-editing="1" srcset="https://visokio.com/wp-content/uploads/2020/01/5cb480cd5f1b6d3fbadece79.png 160w, https://visokio.com/wp-content/uploads/2020/01/5cb480cd5f1b6d3fbadece79-150x150.png 150w" sizes="(max-width: 40px) 100vw, 40px" />
 
 © Visokio    |   Terms of use   |   Privacy Policy
+
+Notifications
