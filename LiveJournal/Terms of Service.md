@@ -1,170 +1,135 @@
-1.  ACCEPTANCE OF TERMS
-    
-    LiveJournal, Inc., dba LiveJournal.com, ("LiveJournal" or "Service") provides the following service to you ("You" or "User"), subject to these Terms of Service ("TOS"), which may be updated periodically without prior notice.
-    
-    BY COMPLETING THE REGISTRATION PROCESS AND/OR USING THE SERVICE, YOU HEREBY AGREE THAT YOU ARE ELIGIBLE FOR A LIVEJOURNAL ACCOUNT AND ARE BOUND BY THESE TERMS AND CONDITIONS, AS DESCRIBED BELOW. Your use of the Service implies your consent to the TOS. It is your responsibility to check if there have been changes to the TOS at: http://www.livejournal.com/legal/tos.bml. We suggest that you bookmark this URL. Failure to comply with these TOS may result in restricted access, Account suspension, or Account deletion at any time, without prior notice.
-    
-2.  DESCRIPTION OF SERVICE
-    
-    LiveJournal is a web-based service that allows users to create and update online journals and communities (herein referred to as "LiveJournal" or the "Service"). The Service may be used through a web browser or downloadable clients (the "Software"). LiveJournal provides users with templates and other tools for creating and maintaining web pages based on content provided by such users, to be stored and served on LiveJournal. Each registered user can create and publish a journal and /or join communities to post text, data, messages, information, and/or links to software, music, sound, photography, graphics, and video (the "Content"). This Content may reside on LiveJournal's servers or on the servers of a third party. You are solely responsible for the Content you post. LiveJournal reserves the right to remove or disable access to Content at any time for any reason without your approval or notice.
-    
-    LiveJournal currently supports seven account types:
-    
-    1.  _Plus Accounts_: Currently available to all users. Plus Accounts provide free access to certain enhanced features and storage. LiveJournal reserves the right to display ads and engage in other commercial activities on Plus Accounts.
-    2.  _Basic accounts_: Currently available to all users. Basic Accounts provide free access to a limited number of features. LiveJournal reserves the right to display ads and engage in other commercial activities on Basic Accounts.
-    3.  _Paid accounts_: Currently available to all users. Paid Accounts are available for a term-based fee (e.g., based on a monthly, quarterly, and/or annual subscription) and offer users an extended package of enhanced features and services. LiveJournal will not display ads on Paid Accounts. Paid Accounts are non-transferable and non-refundable.
-    4.  _Permanent accounts_: No longer available to new users. Permanent Accounts have access to current Paid Account features without recurring subscription fees.
-    5.  _Sponsored accounts_: Currently available to approved sponsors. Sponsored Accounts offer free access to the majority of enhanced features and services available to Paid Accounts as part of an approved advertising campaign.
-    6.  _Early Adopter_: No longer available to new users. This Account was available to users who registered before September 14, 2000. Early Adopters do not receive new Paid Account features.
-    7.  _Third Party Login_: Users who access the Service using OpenID, Facebook Connect, or another third party service have free limited access to the Service and are bound by these TOS.
-    
-    For a full overview of the current features and pricing for each available Account type, see http://www.livejournal.com/paidaccounts/. By using the Service, you agree to this structure, and to LiveJournal's right to modify or discontinue any Account type and/or its respective services, including, but not limited to, changing pricing, features, and services available to each account type. LiveJournal currently offers a free level of service. In exchange for providing free access to the Service, LiveJournal reserves the right to display ads and engage in other commercial activities for the purpose of generating revenue. You agree not to implement, post, or promote malicious scripts that interfere with the display of ads targeted to your Account level. While you may apply custom CSS to customize the design and lay-out of your Journal or Community, you are not permitted to block the display of ads. or hide, modify, and/or otherwise impair the display and proper function of the LiveJournal menu and logo. LiveJournal may enter into agreements with third parties to offer our users additional features, products, and services that are consistent with the Service. In addition, LiveJournal may embed links that generate revenue in such a manner that does not interfere with the intended use of our Service. While information on the Internet can never be deemed 100% private or secure, LiveJournal will not sell or otherwise disclose your private information to third parties and will exercise the highest standard of care to preserve the safety and security of your private information.
-    
-3.  YOUR REGISTRATION OBLIGATIONS
-    
-    Account registration and verification is required in order to create a LiveJournal account. During registration, all users are required to provide accurate, complete, and current information about themselves in all required fields. Should any of your own information change after submitting it to LiveJournal, you are required to update that information as soon as possible. Should LiveJournal suspect that your personal information is not complete, current, or accurate, your Account may be suspended or terminated without further notice. LiveJournal is committed to being a safe and secure environment for all its users. You must be at least 13 years of age to use the Service. Users who are found to be under 13 years of age may be suspended from the Service without notice. Users who are over 18 years of age and who register as being under 18 years of age may be suspended without notice. Users who are under 18 years of age and who register as being over 18 years of age may be suspended without notice.
-    
-4.  LIVEJOURNAL.COM PRIVACY POLICY
-    
-    Your use of the Service is subject to LiveJournal's privacy policy. For information on LiveJournal's privacy practices, please see the entire privacy policy at http://www.livejournal.com/legal/privacy.bml.
-    
-5.  INDEMNITY
-    
-    You agree to indemnify and hold LiveJournal, and its subsidiaries, affiliates, officers, agents, co-branders or other partners, and employees, harmless from any alleged claim or demand, including reasonable attorney fees, made by any third party due to or arising out of your Content, your use of the Service, your connection to the Service, your violation of the TOS, or your violation of any rights of others, whether you are a registered user or not. The user is solely responsible for his or her actions when using the Service, including, but not limited to, costs incurred for Internet access.
-    
-6.  SPECIAL ADMONITIONS FOR INTERNATIONAL USE
-    
-    Recognizing the global nature of the Internet, you agree to comply with all local laws regarding online conduct and acceptable Content. Specifically, you agree to comply with all applicable laws regarding the transmission of technical data exported from the United States and the country in which you reside.
-    
-7.  GENERAL PRACTICES REGARDING USE AND STORAGE
-    
-    You acknowledge that LiveJournal may be required to send you emails regarding your use of the Service. LiveJournal will never ask you to submit personal information or verify your Account information in the form of an email. Should you receive any such communications, please do not respond, and forward it to abuse@livejournalinc.com at once.
-    
-8.  MODIFICATIONS TO SERVICE
-    
-    LiveJournal reserves the right to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice at any time. You agree that LiveJournal shall not be held liable to you or to any third party for any modification, suspension, or discontinuance of the Service.
-    
-9.  NO RESALE OF SERVICE
-    
-    You agree not to reproduce, duplicate, copy, sell, resell, or exploit any portion of the Service, use of the Service, or access to the Service.
-    
-10.  TERMINATION
-    
-    By using the LiveJournal service, you hereby acknowledge and agree that LiveJournal may, at its sole discretion, block, restrict, or terminate access. suspend or delete any Account. and flag or remove any Content found within the Service, for any reason, at any time, without prior notice.
-    
-    **Spam or Malicious Search Engine Optimization (“SEO”):** If you engage in behavior that is inconsistent with ordinary use of the Service, as described in the TOS, including, but not limited to, posting Content that contains malicious SEO optimizations. using bots to spam accounts and/or obtain private information from LiveJournal users. or creating an account for strictly commercial purposes, we reserve the right to flag, restrict, or terminate your Account at any time without notice.
-    
-    **Offensive content:** LiveJournal is a social media platform that falls under the DMCA Safe Harbor Agreement and, as such, cannot be held responsible for any user-generated Content that appears on its Service. Without imposing legal accountability where none exists, LiveJournal reserves the right, at its sole discretion, to suspend any Account, remove any Content, and/or restrict access to any part of the Service that contains full nudity, violence, obscenity, gang-related Content, hate-based Content based on racial, ethnic, gender, transgender, disability, or sexual orientation, harassment of other users, endangerment to minors, incitation to violence or criminal activity, violation of another person’s intellectual property rights, or Content that is otherwise offensive or inappropriate under the TOS, in order to maintain a safe environment for all of its users.
-    
-    **Purging Inactive Accounts:** Without limiting the generality of the foregoing, by using the Service, you hereby acknowledge and agree that LiveJournal reserves the right to purge “Inactive Accounts” as part of its general housekeeping procedures in order to improve site efficiency and performance. This results in permanent removal of all related Content, including, but not limited to, original writing, artwork, design, photos, and links. LiveJournal cannot be held accountable, in whole or in part, for any alleged monetary damages or loss of profits flowing from the removal of said Content during the ordinary course of business.
-    
-    Inactive Accounts are defined as follows:
-    
-    1.  The user has deleted the Account.
-    2.  The Account has been suspended for a minimum of six months due to violation of the TOS described herein.
-    
-    **U.S. Court orders and Police investigations:** LiveJournal shall not be held responsible for retaining any user Content or information that has been deleted or purged during the ordinary course of business. Notwithstanding the above, LiveJournal may choose to retain content from Inactive Accounts under certain circumstances, including where LiveJournal determines, at its sole discretion, that the physical safety of a user may be at risk and/or where the information has been made the subject of a valid subpoena and/or lawful police investigation, as recognized under U.S. law. This shall not be interpreted as placing LiveJournal under any obligation, express or implied, to take active measures to retain user information and/or Content until such time as it receives proper legal notice, as recognized under U.S. law.
-    
-    **Termination of contracts:** Any legal obligations derived from any contracts, express or implied, shall terminate when LiveJournal deletes or purges an Account, at LiveJournal’s sole discretion. In addition, you agree that LiveJournal may restrict or eliminate access to the Service at any time without prior notice. LiveJournal shall not be held liable to you or any third-party for any temporary or permanent termination of access to any or all parts of the Service. LiveJournal shall not be responsible for refunding any fees for Paid Account subscriptions and other features and services when an Account is terminated under the TOS.
-    
-11.  ADVERTISEMENTS AND PROMOTIONS
-    
-    You understand and agree that LiveJournal may display advertisements on some or all of the Service, subject to user account types and evolving business requirements, at our sole discretion. You also understand and agree that you will not obscure any advertisements from general view via HTML/CSS or any other means. By using the Service, you agree that LiveJournal has the right to run such advertisements without prior notice and without recompense to you or any other user. LiveJournal reserves the right to modify the manner, mode, and extent of advertising on the Service at any time without notice. Any business dealings, interactions, or participation in sponsored giveaways or promotions with advertisers found on the Service, including payment and delivery of related goods or services, and any other terms, conditions, warranties, or representations associated with such dealings, are solely between you and such advertiser. You agree that LiveJournal shall not be held responsible for any loss or damage incurred as the result of such interactions or dealings with advertisers on the Service.
-    
-12.  LINKS
-    
-    The Service, or relevant third parties, may provide links to other websites or resources. Because LiveJournal has no control over such sites and resources, you acknowledge and agree that LiveJournal is not responsible for the availability of such external sites or resources, and does not endorse, nor is it responsible or liable for any content, advertising, products, or other materials that appear on such sites. You further acknowledge and agree that LiveJournal shall not be held responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by the use of, or reliance upon, any such content, goods, or services found on such other websites and resources.
-    
-13.  JOURNAL CONTENT
-    
-    LiveJournal falls under the DMCA Safe Harbor Agreement and cannot control, or be held responsible or liable, for any of the Content that appears on the Service. Without limiting the generality of the foregoing, LiveJournal imposes certain guidelines to promote the safety and security of all of its users. By using the Service, you hereby agree to comply with the following guidelines for posting Content on the Service. Failure to comply with the guidelines set forth below may result in flagging or restricting access to any and all Content posted to the Service, deletion of said Content, and/or suspension of your Account without further notice:
-    
-    *   **Flagging Adult Content and Accounts:** LiveJournal is committed to maintaining the Service in a manner that is reasonably acceptable to all audiences, but cannot be held responsible for the monitoring or filtering of any Content found on the Service. You are fully responsible for all Content you post on the Service and should keep in mind that the lower age limit for use of the Service is 13 years old. You are encouraged under the TOS to flag ALL Content and/or Accounts that contain adult themes and images, including, but not limited to, nudity, sexual acts, crime, violence, and/or illicit subject matter, regardless of artistic merit or newsworthy purpose. You understand and agree that LiveJournal may, at its sole discretion, flag, restrict access or delete said Content at any time without prior notice without assuming liability for any damages or legal claims associated with the posting of said Content on the Service. Should the Content be deemed illegal under U.S. law, you understand and agree that LiveJournal has the right to share your personal information and submit all necessary information to, and cooperate with, the proper U.S. authorities.
-    *   **Offensive and Inappropriate Content:** Should any Content that you have posted be reported to LiveJournal as being offensive or inappropriate, LiveJournal has the right to flag, restrict access, or delete said Content at any time without prior notice. In addition, LiveJournal might call upon you to retract, modify, or protect (by means of privacy settings) the Content in question within a reasonable amount of time, as determined by the LiveJournal staff. Should you fail to meet such a request, LiveJournal may flag, restrict access, delete said Content, or terminate your Account at its sole discretion without assuming control, responsibility, or liability for the Content posted on the Service under the terms of the DMCA Safe Harbor Agreement. Should Content be reported to LiveJournal as containing full nudity, violence, obscenity, gang-related Content, hate-based Content based on racial, ethnic, gender, transgender, disability, or sexual orientation, harassment of other users, endangerment to minors, incitation to violence or criminal activity, violation of another person’s intellectual property rights, or Content that is otherwise offensive or inappropriate under the TOS, LiveJournal reserves the right to flag, restrict access, and/or delete said Content and/or suspend your Account at any time without notice;
-    *   **No Control or Liability for User-Generated Content on the Service:** LiveJournal claims no ownership or control over any Content posted by its users. The author retains all patent, trademarks, and copyrights to all posted Content, and is fully responsible for protecting said rights. While LiveJournal will comply with all lawful DMCA claims and remove copyright- and/or trademark-protected Content in a timely manner, it is not responsible for policing said rights for its users. By posting Content to LiveJournal, you hereby acknowledge and agree that you have all rights necessary to post such Content (and for LiveJournal to serve such Content) without violation of any laws or regulations, and/or intellectual property or other rights of third parties;
-    *   **Content Delivery and Subscription Fees:** LiveJournal reserves the right, without limitation except by law, to serve any user Content on the web, through downloadable clients, mobile platforms, and otherwise;
-    *   **No Liability for Content Accuracy, Reliability, or Legality:** You hereby acknowledge that LiveJournal does not pre-screen Content, but that LiveJournal shall have the right (but not the obligation), at its sole discretion, to remove or refuse to remove any Content found on the Service at any time without prior notice. Without limiting the foregoing, LiveJournal shall have the right, but not the obligation, to remove any Content that violates the TOS or is otherwise objectionable, or that infringes or is alleged to infringe upon, intellectual property rights. You agree that you must evaluate, and bear all risks associated with, the use of any Content that appears on the Service, including any reliance on the accuracy, completeness, or usefulness of such Content. Furthermore, LiveJournal reserves the right to limit access to your Account if you are found to be in violation of the TOS, including without limitation the User Conduct described below, by flagging, restricting access or deleting Content, suspending or deleting your Account, and/or removing your information from the user directory, search engine, and all other methods used to identify LiveJournal users at any time without prior notice;
-    *   **No Liability or Implied Warranty for Third Party Products and Services:** LiveJournal may enter into agreements with third party web developers and service providers ("Third Parties ") to offer users additional products, services, and applications. Third Parties are legally obligated to comply with our TOS and Privacy Policy and are solely responsible for their content, products, and services. LiveJournal makes no implied or express warranty of usability for Third Party products and services, and shall not be responsible for resolving technical issues or bugs. All issues should be reported directly to Third Party customer support. LiveJournal will not share your personal information with Third Parties, but may provide general demographic data and analytics associated with use of their products and/or services. LiveJournal will make best efforts to ensure that Third Parties comply with our TOS and/or Privacy Policy, but shall not be responsible to you for any losses or damages resulting from failure to comply with LiveJournal’s TOS and Privacy Policy. LiveJournal does not condone or endorse any Content, ads, or services that appear on Third Party web sites and/or affiliate web sites and properties. LiveJournal cannot be held responsible for applications and/or services created by outside parties without our consent.
-14.  LIVEJOURNAL.COM PROPRIETARY RIGHTS
-    
-    You acknowledge and agree that the Service, and any necessary software used in connection with the Service (referred to as "Software"), may contain proprietary and confidential information that is protected by applicable laws governing intellectual property, proprietary rights and the like. All LiveJournal code and specifications, and all other code and specifications for the Software and the operation of the Service, are subject to their express or implied licenses. You further acknowledge and agree that Content contained in advertisements or information presented to you through the Service or advertisers is protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws. Except as expressly authorized by LiveJournal or advertisers, you agree not to modify, rent, lease, sell, distribute, or create derivative works based on the Content, the Service or the Software, in whole or in part.
-    
-    Submission of Unsolicited Ideas and Information
-    
-    LiveJournal does not want to receive confidential or proprietary information from you through any form of written or verbal communication. Unless otherwise agreed in writing by an authorized LiveJournal representative, any material, information, or idea that you transmit to LiveJournal by any means may be disseminated or used by LiveJournal or its affiliates without compensation or liability to you for any purpose whatsoever, including, but not limited to, developing, manufacturing, and marketing products. However, this provision does not apply to personal information that is subject to our Privacy Policy.
-    
-    Trademarks
-    
-    A partial list of trademarks owned by LiveJournal follows. Any questions concerning the use of these trademarks or whether a trademark that does not appear on this list is a trademark of LiveJournal should be referred to LiveJournal Legal at trademarks@livejournal.com. Failure of a mark to appear on this page does not mean that LiveJournal does not use the mark nor does it mean that the product is not actively marketed or is not significant within its relevant market. Any trademarks followed by ® are registered trademarks of LiveJournal in accordance with applicable law. all others are trademarks or common law marks of LiveJournal in the United States.
-    
-    *   LiveJournal
-    *   LiveJournal logo:  
-        
-15.  USER CONDUCT
-    
-    You understand that all Content, including without limitation, all information, data, text, software, music, sound, photographs, graphics, video, messages, or other materials, whether publicly posted or privately transmitted, are the sole responsibility of the user who posted the Content. LiveJournal does not control Content posted via the Service and, as such, does not guarantee the validity of such Content. You also understand that by using the Service, you may be exposed to Content that is offensive, indecent, or objectionable. Should Content be found or reported to be in violation with, but not limited to, the following terms, LiveJournal may, at its sole discretion, flag, restrict access, delete, terminate the Account, or take any other actions that it deems necessary to enforce the spirit of the TOS.
-    
-    You agree to NOT use the Service to:
-    
-    1.  Upload, post or otherwise transmit any Content that is unlawful, harmful, threatening, abusive, harassing, tortuous, defamatory, vulgar, obscene, libelous, invasive to another's privacy (including, but not limited to, posting the address, email, phone number, or any other contact information without the written consent of the owner of such information), or Content containing full nudity, violence, obscenity, gang-related Content, hate-based Content based on racial, ethnic, gender, transgender, disability, or sexual orientation, harassment of other users, endangerment to minors, incitation to violence or criminal activity, violation of another person’s intellectual property rights, or Content that is otherwise offensive or inappropriate under the TOS;
-    2.  Impersonate any person or entity, including, but not limited to, a LiveJournal staff member or volunteer, or falsely state or otherwise misrepresent your affiliation with LiveJournal or any other person or entity;
-    3.  Forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the Service;
-    4.  Upload, post, or otherwise transmit any Content that you do not have a right to transmit under any law or under contractual or fiduciary relationships (such as inside information, proprietary, and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements);
-    5.  Upload, post, or otherwise transmit any Content that infringes any patent, trademark, trade secret, copyright, or other proprietary right of a third party without express consent;
-    6.  Upload, post or otherwise transmit any unsolicited or unauthorized advertising, promotional materials, "junk mail," "spam," "chain letters," "pyramid schemes," or any other form of solicitation;
-    7.  Upload, post, or otherwise transmit any material that contains software viruses or any other computer code, files, or programs designed to interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment;
-    8.  Interfere with or disrupt the Service or servers or networks connected to the Service, or disobey any requirements, procedures, policies, or regulations of networks connected to the Service;
-    9.  Intentionally or unintentionally violate any applicable local, state, national, or international law, including, but not limited to, regulations promulgated by the U.S. Securities and Exchange Commission, any rules of any national or other securities exchange, including, without limitation, the New York Stock Exchange, the American Stock Exchange, or the NASDAQ, and any regulations having the force of law;
-    10.  "Stalk" or otherwise harass another person or company;
-    11.  Collect or store personal data about other users for business or commercial purposes;
-    12.  Promote or provide instructional information about illegal activities, promote physical harm or injury against any governmental entity, group or individual, or promote any act of cruelty to animals. This may include, but is not limited to, providing instructions on how to assemble bombs, grenades, and other weapons or incendiary devices;
-    13.  Use the LiveJournal Service solely to promote and/or drive traffic to another website, business, or commercial enterprise;
-    14.  Allow other users to access and/or use your Account in a manner that violates LiveJournal's TOS;
-    15.  Engage in commercial activities on behalf of LiveJournal without prior approval;
-    16.  Employ tactics to prevent the full and complete display of advertisements on LiveJournal pages, including, but not limited to, making journal style changes, customizations, or overrides that effectively block or substantially impair the display of advertisements on a Plus Account's Content or any other pages on which advertisements appear on the Service.
-    17.  Solicit passwords or personal identifying information for unintended, commercial or unlawful purposes from other users.
-    18.  Exceed the intended scope of the Service, for example, accessing and using features that you do not have a right to use, or deleting, adding to, or otherwise changing other people's entries or other Content without express permission.
-    19.  Make excessive or harmful automated use of the system, such as implementing malicious SEO tags, spamming, and/or utilizing bots or other malware to gain access to user Accounts and/or information. See this page for details on our automated use policy: http://www.livejournal.com/bots/.
-    
-    If LiveJournal determines, in its sole discretion, that any user has violated the TOS, LiveJournal reserves the right to terminate such user's Account at any time without prior notice.
-    
-16.  VOLUNTEERS AND LIVEJOURNAL
-    
-    LiveJournal appreciates the significant contributions made by volunteers, who assist LiveJournal in its efforts to provide high quality, community-driven features and services. To help achieve this goal, LiveJournal volunteers perform a variety of technical and non-technical tasks, including, but not limited to, programming, the creation of web-based content (HTML, BML, and other formats), graphic design, audio and/or visual content creation, technical writing, providing technical support, offering QA review of beta features, categorizing, researching, and performing other assignments, as needed. All volunteers are expected to be of legal age, or volunteering with the consent of a legal parent or guardian.
-    
-    By accepting these TOS, any LiveJournal user agrees that the intellectual Content created as a result of volunteer work for LiveJournal constitutes the intellectual property of LiveJournal and that all rights in said Content shall vest in LiveJournal at the time that it is created, to the extent permitted by law. If laws prevent such vesting, the volunteer makes assignment of all such rights to LiveJournal at the time of creation. If laws prevent such assignment, the volunteer grants a perpetual worldwide irrevocable license to LiveJournal to use said Content. If laws prevent such licensing, the volunteer agrees never to sue LiveJournal for the use of said Content.
-    
-    The volunteer agrees to insure that any work provided does not contain any inflammatory language, indecency, or obscenities. LiveJournal volunteers are expected to interact with other users on the Service in a manner that is courteous, constructive, supportive, and helpful to other LiveJournal users. Without limiting the generality of the foregoing, LiveJournal reserves the right to terminate any volunteer’s status, privileges, and/or benefits if LiveJournal determines in its sole discretion that a volunteer’s conduct is hostile, harmful, and/or destructive in any way to LiveJournal’s best interests.
-    
-    Without an expressed written confirmation to the contrary, all LiveJournal volunteers positions are assumed to be taken without pay or future consideration.
-    
-17.  DISCLAIMER OF WARRANTIES
-    
-    YOU EXPRESSLY UNDERSTAND AND AGREE THAT:
-    
-    *   (a) YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. LIVEJOURNAL EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
-    *   (b) LIVEJOURNAL MAKES NO WARRANTY THAT (i) THE SERVICE WILL MEET YOUR REQUIREMENTS, (ii) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (iii) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE, (iv) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR EXPECTATIONS, AND (V) ANY ERRORS IN THE SOFTWARE WILL BE CORRECTED.
-    *   (c) ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS DONE AT YOUR OWN DISCRETION AND RISK, AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA OR OTHER LIABILITYTHAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.
-    *   (d) NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM LIVEJOURNAL.COM OR THROUGH OR FROM THE SERVICE SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THE TOS.
-18.  LIMITATION OF LIABILITY
-    
-    YOU EXPRESSLY UNDERSTAND AND AGREE THAT LIVEJOURNAL SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF LIVEJOURNAL HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (i) THE USE OR THE INABILITY TO USE THE SERVICE. (ii) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES RESULTING FROM ANY GOODS, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH OR FROM THE SERVICE. (iii) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA. (iv) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SERVICE. OR (v) ANY OTHER MATTER RELATING TO THE SERVICE.
-    
-19.  U.S. GOVERNMENT RESTRICTED RIGHTS
-    
-    The materials on LiveJournal are provided with "RESTRICTED RIGHTS." Use, duplication, or disclosure by the U.S. Government is subject to restrictions as set forth in applicable laws and regulations. Use of the materials by the U.S. Government constitutes acknowledgment of LiveJournal's proprietary rights in them.
-    
-20.  GENERAL INFORMATION
-    
-    The TOS constitutes the entire agreement between you and LiveJournal and governs your use of the Service, superseding any prior agreements between you and LiveJournal (including, but not limited to, any prior versions of the TOS) and any prior representations by LiveJournal. The laws of the State of California, U.S.A, shall govern the TOS and the relationship between you and LiveJournal, without regard to its conflict of law provisions. You and LiveJournal agree to submit to the personal and exclusive jurisdiction of the courts located within the county of San Francisco, California, U.S.A. The failure of LiveJournal to exercise or enforce any right or provision of the TOS shall not constitute a waiver of such right or provision. If any provision of the TOS is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of the TOS remain in full force and effect. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of, or related to, use of the Service or the TOS must be filed within one (1) year after such claim or cause of action arose or be forever barred. The section titles in the TOS are for convenience only and have no legal or contractual effect.
-    
-21.  VIOLATIONS
-    
-    Instructions on how to report violations against the TOS can be found in the FAQ "How do I contact the Abuse team?" To expedite the processing of your report, please follow the instructions therein.
-    
-22.  REVISIONS
-    
-    LiveJournal may revise the TOS found at this URL, in whole or in part, without notice. By using this Site, you hereby acknowledge and agree to be bound by any such revisions and should therefore periodically visit this page to determine the current Terms of Service to which you are bound.
-    
+User Agreement
+==============
 
-_Last revision: December 12, 2010_
+**ATTENTION**: this translation of the User Agreement is not a legally binding document. The original User Agreement, which is valid, is located at the following address: [http://www.livejournal.com/legal/tos-ru.bml](http://www.livejournal.com/legal/tos-ru.bml).
+
+1.  #### Subject of the Agreement
+    
+    1.  “Rambler Group”, Limited Liability Company (the Administration) shall make the Service available to user of the information and telecommunications network Internet (User) under the terms and conditions defined in this User Agreement (the Agreement). The Service may be used only by individuals aged 14 and above.
+    2.  The Administration shall make the Service available to User for free.
+2.  #### General Provisions
+    
+    1.  This Agreement constitutes a public offer in accordance with Article 437 of the Civil Code of the Russian Federation. By using the Service, including every access to the Website pages by any means, User unconditionally accepts this Agreement in its entirety.
+    2.  This Agreement governs User’s and the Administration’s rights and obligations as well as their relationships with third parties whose rights and interests may be affected by User’s actions.
+    3.  The current version of the Agreement hereof is available online at [http://www.livejournal.com/legal/tos-en.bml](http://www.livejournal.com/legal/tos-en.bml). This Agreement may be amended by the Administration without special notice by publishing a new version hereof at the above URL. The new version hereof shall come into force upon its online publishing unless otherwise set forth by such a new version hereof.
+    4.  Any User who does not agree with the terms of the current version hereof in full or in part shall discontinue using the Service in any way.
+    5.  Users breach hereunder may cause termination of his/her access to his/her Account or deletion of such an Account as well as full or partial deletion of the Content or suspension thereto without prior notice.
+3.  #### Terms
+    
+    **Authorisation** means the analysis of the Authentication Details given by User performed by the software part of the Service, based on which User is given an access to his/her Account.
+    
+    **Account** means User’s account containing Authentication Details and other information provided by the User while using the Service.
+    
+    **Authentication Details** means unique means of User identification (username and password) used for Authorisation.
+    
+    **Blog** means a third-level domain of the Website which is transferred by the Administration to User under the terms and conditions hereof to post his/her Content (keep a Blog).
+    
+    **Community Owner** means User who created a Blog in the form of Community.
+    
+    **Content** means User\`s information within the Service, including any information published during the process of Registration, in Blogs and Communities as a note or comment as well as sent by User in private messages using the Service.
+    
+    **Community Moderator** means User to whom the Community Owner provided access to the functionality necessary to moderate the Community’s Content.
+    
+    **Profile** means a publicly available page automatically created within the Service during the Registration, which contains all the information filled out by User during the Registration as well as during any further modifications or amendments of his/her Account, except for password and email address specified for registration.
+    
+    **Paid Services** means any additional services provided to User by the Administration and Live Journal Inc. on a cost basis.
+    
+    **Registration** means User actions performed in order to create an Account pursuant to the procedure established by the Administration. User shall give his/her Authentication Details during the Registration process and may also give any other non-obligatory information which he/she deems fit.
+    
+    **Website** means a website in the information and telecommunications network Internet identified by its domain name LiveJournal. com.
+    
+    **Service** means the LiveJournal Service which allows User to keep Blogs, posts notes, comments and use any other functions offered by the Administration.
+    
+    **Community Supervisor** means User to whom the Community Owner gave access to special Community management functions.
+    
+    **Community** means a Blog devoted to a topic specified by the Community Owner, the scope of Content which may be created by a Community of Users in accordance with the rules defined by the Community Owner.
+    
+4.  #### Account Registration
+    
+    1.  In order to use a number of functions of the Service, User shall go through Registration procedure.
+    2.  For the purpose of Registration, the User shall provide information in accordance with the registration form. If the Administration has reasons to believe that the information provided by the User is incorrect or out-of-date, the Administration may at its own discretion suspend the access to the User’s Account or delete such an Account.
+    3.  User shall confirm the Registration by activating following the instruction sent by the Administration to User’s email address defined for the Registration (Registered Address) upon submission of the information to the Registration form;
+    4.  The Administration may, at its own discretion, prohibit the use of certain usernames as well as establish requirements to username and password (the number of characters, allowed symbols etc.) If the Administration detects that any words (letter combinations) are used as usernames that may be regarded as affecting the Administration’s and/or any third parties’ rights and legal interests, the Administration may, at its own discretion, delete the User’s Account or restrict access to it until User has changed his/her username as required by the Administration.
+    5.  After completion of the registration process, User\`s Account and Blog shall be created within the Service identified by a third-level domain name in the format username. livejournal. com, where ’username’ means the username chosen by User.
+    6.  User shall be responsible for the security (guessing attacks resistance) of the Authentication Details and its confidentiality.
+    7.  User shall be responsible for all actions performed using the User’s Authentications Details, All actions performed upon the Authorisation using the User’s Authentication Details shall be deemed performed by the User personally, unless the User has duly notified the Administration in advance of possible Unauthorised Access and/or any breach (alleged breach) of confidentiality of his/her Authentication Details in accordance herewith.
+    8.  The User shall be responsible for any possible loss or distortion of information and for other consequences of any nature which may occur due to the User’s breach of any provisions of the Agreement.
+    9.  User also can get an access to additional Service functions via her/his Facebook’, Twitter’, Google’, Apple’, VKontakte’ or Mail. ru’ account (Third Party’ Account). Third Party Account functions can be limited in comparison with Account functions.
+5.  #### User Details
+    
+    1.  The technical data transmitted to the Service by the User’s software as well as any other information transmitted by the User to the Service shall be available to the Administration and may be used at its own discretion legally, including targeting the advertising to User.
+    2.  The User’s IP address may be available to other Users when User posts comments in Blogs, depending on settings chosen by User or by the Community Owner where User posts such comments.
+    3.  Information contained in the Profile shall be available to other Users. User may at any time delete and/or modify the Profile using Account management interface.
+    4.  **Please note that, no information which can directly or indirectly identify the individual is needed in order to use the Service, including registration process; thus, the relationship connected with the Service, the Registration and information provided in the process of Registration, is not governed by the provisions of Federal Act of the Russian Federation No. 152-ФЗ.**
+6.  #### Account Termination
+    
+    1.  Termination of Inactive Accounts by the Administration
+        1.  The Administration reserves the right to delete Account and Blog if User did not access the Account or the access was restricted for more than 2 years due to a breach hereof.
+    2.  Account Termination by the User
+        1.  User may delete his/her Account using Account management interface. When the function to delete Account is activated, Account shall be blocked for 1 year, during which other Users shall have no access to the Blog Content;
+        2.  Within this period hereof User can restore his/her Account, and Users’ access to the Blog Content shall be restored;
+        3.  If User will not restore, his/her Account, username shall become available to other Users and all the User’s information and all the Content posted using Account and checked by User in the interface as subject to deletion shall be deleted except for the information specified in clause 6.3 hereof. Thenceforth, Account or any information related thereto cannot be restored. The data stored in accordance with clause 6.3 hereof shall not be available to User or to third parties and may be provided by the Administration only at the request of competent authorities.
+    3.  **Please note that in accordance with part 3 Article 10.1 of the Federal Act of the Russian Federation No. 149-ФЗ the Administration shall keep the following information and provide it upon the lawful request of the competent authorities regardless of Users will:**
+        1.  any information related to receipt, transfer, delivery and/or processing of voice information, written texts, images, sounds, video and other electronic messages of Users and information on Users who performed the above actions, within one year upon performing such actions;
+7.  #### Blog
+    
+    1.  User may keep Blog, post notes and comments within his/her own Blog (Community) or in other Users’ Blogs (Communities).
+    2.  Using the Service functions, User shall define the Content and the level of Content availability to Users subject to the requirements specified herein and applicable laws.
+    3.  User who created Blog shall be responsible for such a Blog as well as for the Content posted therein.
+    4.  Requirements connected to Article 10.2 of the Federal Act of the Russian Federation No. 149-ФЗ were excluded starting from July 30, 2017 as this Article was repealed by Federal Act of the Russian Federation No. 276-ФЗ.
+    5.  User who posted comments in Blog and User keeping such a Blog shall be jointly and severally liable in respect of such comments.
+8.  #### Community
+    
+    1.  User may create Communities.
+    2.  Community may have its own Community rules; however, such rules may not contradict hereto or to applicable laws.
+    3.  Community Owner shall be responsible for the Community, including the Community rules, the Content posted within the Community, the actions of Community Supervisor and Moderator.
+    4.  Requirements connected to Article 10.2 of the Federal Act of the Russian Federation No. 149-ФЗ were excluded starting from July 30, 2017 as this Article was repealed by Federal Act of the Russian Federation No. 276-ФЗ.
+    5.  User who posted a note or a comment in Community and Community Owner shall be subsidiarily liable in respect of such a note or a comment.
+    6.  Community Supervisor and Community Owner shall be subsidiarily liable in respect of Community Supervisor’ actions.
+9.  #### Content
+    
+    1.  By posting Content, User shall:
+        1.  Guarantee to the Administration that Content and terms of its appearance on the Service meets all the requirements of the applicable laws, that User has received all rights and permits necessary to post such a Content;
+        2.  In respect of any Content which constitutes intellectual property, User provides to the Administration a non-exclusive (simple) license to use his/her Content in order to provide the Service by reproducing his/her Content as well as by making it public for the entire period the Content is posted on the Service. If User participates in any rankings or if User’s Content is used in any editorial projects of the Service, User provides to the Administration an additional authorisation to modify, shorten and amend his/her Content, to add images, a preamble, comments or any clarifications to his/her Content while using it, and in certain cases based on the Service functions, an authorisation to use User’s Content anonymously.
+        3.  Mark Content estimated by Russian legislation as inappropriate for children (0 −18) as “adult material” by using Service functions.
+    2.  The User may not:
+        1.  register a legal entity as a User;
+        2.  register himself/herself as a User on behalf of another individual;
+        3.  mislead Users as to his/her identity and relationships with other individuals;
+        4.  transmit spam messaging without the recipients’ consent;
+        5.  perform any actions aimed at disrupting the normal functioning of the Service;
+        6.  without the Administration’s special permit, use automatic scripts (bots, crawlers etc.) to collect information from the Service and/or to interact with the Service;
+        7.  post advertising and/or political solicitation materials unless otherwise directly specified in a separate agreement between User and the Administration;
+        8.  perform any other actions contradictory to the laws of the Russian Federation and/or any other applicable laws, including those applicable in the jurisdiction of User’s residence.
+    3.  **Any claims related to the Content shall be submitted to the Administration through the [contact form](https://www.livejournal.com/support/submit).**
+10.  #### Rights and Obligations of the Administration
+    
+    1.  The Administration shall endeavour to ensure providing of the Service and its prompt restoration in the event of technical failures and outages.
+    2.  The Administration shall not verify the correctness of the information provided by User during the Registration; however, in some circumstances it reserves the right to request User to confirm such an information. Failure to confirm the information may be considered as provision of incorrect information and have the consequences specified in clause 4.2 hereof.
+    3.  The Administration shall not verify the compliance of Content and/or Users’ actions with the terms and conditions hereof and with the applicable laws; however, it reserves the right at its own discretion or upon the request received from the competent authority and/or the substantiated request by another entity without User’s prior notice, marked Content as an “adult material”, take measures specified in clause 2.5 hereof and restrict the access to Blog/Community for certain Users.
+    4.  In case of request of from a competent authority, the Administration may be obliged to provide the information about User or related to User.
+    5.  The Administration may restrict User’s access to any Service function and restrict or prohibit the use of API and posting of links to third-party resources and take any other actions aimed at protecting the Service from factors which present or may have a risk to Users, to the normal operation of the Service and to the Administration’s policies. The Administration shall implement the said measures at its own discretion and shall not be responsible for possible negative consequences of such measures to User and to third parties.
+    6.  The Administration may at its own discretion and without User’s prior notice supplement, reduce or otherwise modify any Service function and it’ procedures.
+11.  #### Liability
+    
+    1.  User shall be liable for breaching the terms and conditions hereof, including the requirements to Registration and Content posting, as well as for violation of applicable laws committed by User, including the laws of the Russian Federation and the laws of User’s residence;
+    2.  The Administration shall not be liable for any temporary failures or interruption in the operation of the Service and for information unavailability and/or loss caused by it. The Administration shall not be liable for any damage to any equipment or computer software or data caused by or related to using the Service including damage caused by Service’ supplementation in accordance with clause 10.6.
+    3.  **Please note that in accordance with the Russian Federation Act No. 2300-1 dated February 7, 1992, the provisions of the said act related to consumer rights protection do not apply to the relationship between the Administration and Users as the Service is provided for free.**
+12.  #### Advertising
+    
+    1.  Unless otherwise specifically set forth by a separate agreement between User and the Administration, the Administration may without further notice or refund, place advertising on the Service, including on any Blog/Community pages.
+    2.  The Administration may at any time change the method, type and quantity of the advertising placed on the Service.
+    3.  The User’s participation in campaigns and events advertised within the Service, as well as User’s purchasing of any products, work or services shall create rights and obligations only between User and the entity selling the respective product, work or service or holding such campaign or event.
+    4.  If User places any advertising Content on the Service (or promises to place such Content), this does not create any obligations of the Administration.
+    5.  The Administration may send to User information related to the Service as well as third-party advertising using the email address provided by User.
+13.  #### Miscellaneous
+    
+    1.  The following addresses shall be used to send legally significant communications:
+        1.  to the Administration:
+            1.  in respect of communications related to Content: [contact form](https://www.livejournal.com/support/submit),
+            2.  in respect of other communications: bldg. 1, 9 Varshavskoye Highway, Moscow, 117105.
+        2.  to User: the address provided for registration:
+    2.  All disputes arising out of this Agreement and/or related to the Service and Content may be resolved in Court after the Parties have taken steps to settle the dispute by negotiation, 30 calendar days upon the date when the claim (request) was sent to the addresses defined in clause 12.1 hereof.
+    3.  If the dispute is not resolved by the time defined in clause 13.2 hereof it may be resolved by the Court in the Administration’s location.
+
+**ATTENTION**: this translation of the User Agreement is not a legally binding document. The original User Agreement, which is valid, is located at the following address: [http://www.livejournal.com/legal/tos-ru.bml](http://www.livejournal.com/legal/tos-ru.bml).
