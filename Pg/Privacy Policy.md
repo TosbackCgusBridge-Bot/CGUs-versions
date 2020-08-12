@@ -648,7 +648,7 @@ Under the CCPA, you may designate an authorized agent to make a request on your 
   
 Contact Us
 
-Please contact us directly with any questions or concerns you may have about your privacy and our data protection practices or if you are a consumer with a disability and need a copy of this notice in an alternative format.
+Please contact us directly with any questions or concerns you may have about your privacy and our data protection practices or if you are a consumer with a disability and need a copy of this notice in an alternative format. If you have these or any other questions or concerns with respect to our processing of your personal information, you may also contact our Global Data Protection Officer at – Email: pgprivacyofficer.im@pg.com, Phone: +1 (513) 622-0103, Mailing Address: 1 Procter &. Gamble Plaza, Cincinnati, OH 45202, U.S.A.
 
   
 
