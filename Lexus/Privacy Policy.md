@@ -119,7 +119,7 @@ COMPARE **UX**
 
 **GX**
 
-*   Starting at $53,0001\*
+*   Starting at $53,1008\*
 *   301-HP3\* V8, FULL-TIME 4WD
 
 *   Build
@@ -127,7 +127,7 @@ COMPARE **UX**
 
 **LX**
 
-*   Starting at $86,48012\*
+*   Starting at $86,5808\*
 *   383-HP3\* V8, FULL-TIME 4WD
 
 *   Build
@@ -398,8 +398,6 @@ click here Important Info Important Info
 \[10\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL.
 
 \[11\] 2019 Lexus RX 450h (AWD) preliminary 31/city, 28/hwy, 30/comb mpg estimates determined by Lexus. EPA estimates not available at time of publishing. Actual mileage will vary. Image for illustrative purposes only.
-
-\[12\] MSRP excludes delivery, processing and handling fee of $1,295, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
 
 DO NOT SELL MY PERSONAL INFORMATION Leasing &. Finance
 
