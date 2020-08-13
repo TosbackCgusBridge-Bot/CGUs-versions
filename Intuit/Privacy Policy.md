@@ -10,7 +10,7 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -24,7 +24,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-JuniorsYoung MenKidsDormBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationMenWomenGirlsBoysMoving &. groovingBig savings on athletic styles? Winning!25% OFF Champion apparelselect styles | Excluded from coupons.UP TO 40% OFF Xersion apparelselect styles Stock smart!More basics means more time between loads!select stylesBUY 1 GET 1 FREE\*Women's bras20% OFFMen's underwearBUY 1 GET 1 50% OFF\*Kids' basicsBUY 1 GET 1 50% OFF\*Boys' socks &. underwearUP TO 40% OFF Easy, breezy styles Update your summer highlight reel with cool looks from head to toe.select stylesCasual Apparel for HimCasual Apparel for HerUP TO 50% OFF ArizonaMust-have pieces to wear anywhere and everywhere. select styles
+JuniorsYoung MenKidsDormBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationMenWomenGirlsBoysStock smart!More basics means more time between loads!select stylesBUY 1 GET 1 50% OFF\*Women's bras20% OFFMen's underwearBUY 1 GET 1 50% OFF\*Girls' socks &. underwearBUY 1 GET 1 50% OFF\*Boys' socks &. underwearUP TO 40% OFF Easy, breezy styles Update your summer highlight reel with cool looks from head to toe.select stylesCasual Apparel for HimCasual Apparel for HerUP TO 50% OFF ArizonaMust-have pieces to wear anywhere and everywhere. select styles
 
 *   Shop All
 
@@ -37,7 +37,7 @@ JuniorsYoung MenKidsDormBackpacksHomeschoolComforters &. Bedding SetsSheetsBeddi
 *   Girls
     
 
-Shop AllGet 'em while they're hauteThe best names in beauty have everything you need to look and feel your best.  UP TO 15% OFF Salon haircareselect stylesBeauty Trending Right NowExcluded from coupons.UP TO 50% OFFBedroom essentials that take you from A to Zzzzzs.select styles
+Shop AllMoving &. groovingBig savings on athletic styles? Winning!25% OFF Champion apparelselect styles | Excluded from coupons.UP TO 40% OFF Xersion apparelselect styles Get 'em while they're hauteThe best names in beauty have everything you need to look and feel your best.  UP TO 15% OFF Salon haircareselect stylesBeauty Trending Right NowExcluded from coupons.UP TO 50% OFFBedroom essentials that take you from A to Zzzzzs.select styles
 
 *   Shop All
 
@@ -56,12 +56,34 @@ Shop AllWomenMenBaby &. KidsShoes
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 20 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   St. John's Bay Mid Rise Capris $9.74with code~$32~100
-*   JCPenney Home Performance Bath Towel Collection $4.49 - $28.49with code~$10 - $76~398
-*   Liz Claiborne Luxury Egyptian Hygrocotton Loops Bath Towel $5.99 - $41.24with code~$16 - $124~164
-*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.74with code~$32~14
-*   JCPenney Home™ 300tc 100% Cotton Ultra Soft Solid and Print Sheet Sets $16.24 - $45.49with code~$50 - $130~430
-*   Liz Claiborne Signature Plush Bath Towel Collection $5.24 - $35.99with code~$12 - $96~567
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+    
+    $20sale
+    
+    ~$124.98~139
+*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+    
+    $20sale
+    
+    ~$124.98~206
+*   Home Expressions Lisette Rod-Pocket Sheer Panel
+    
+    $4.99 - $27.99sale
+    
+    ~$16 - $40~1246
+*   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
+    
+    $10sale
+    
+    ~$49.98~237
+*   Nike Air Max Motion 2 Womens Running Shoes
+    
+    BUY 1 GET 1 50% OFF
+    
+    $85
+    
+    1
+*   Bali Double Support Comfort Wireless Comfort Full Coverage Bra-3820 $26.24with code~$40~1779
 
 Shop and Save at JCPenney
 
