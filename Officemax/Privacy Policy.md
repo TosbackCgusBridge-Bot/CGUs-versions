@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$19.29
+$19.45
 
 Change
 
-+0.63
++0.16
 
 Percent Change
 
-(+3.38%)
+(+0.83%)
 
 Data Provided by Refinitiv. Minimum 15 minutes delayed.
 
 view details  
-Recent News Aug 10, 2020 Office Depot Unveils ‘powered by CompuCom’ to Provide SMBs with Scalable Technology and Service Solutions view more Recent News Aug 10, 2020 Office Depot Unveils ‘powered by CompuCom’ to Provide SMBs with Scalable Technology and Service Solutions view more Events Aug 5, 2020 at 9:00 AM EDT Q2 2020 Office Depot Inc Earnings Conference Call view more Events Aug 5, 2020 at 9:00 AM EDT Q2 2020 Office Depot Inc Earnings Conference Call view more Presentations Aug 05, 2020 Office Depot Second Quarter 2020 Earnings Webcast Presentation view more Presentations Aug 05, 2020 Office Depot Second Quarter 2020 Earnings Webcast Presentation view more
+Recent News Aug 12, 2020 Office Depot Releases 12th Annual Diverse Supplier Catalog view more Recent News Aug 12, 2020 Office Depot Releases 12th Annual Diverse Supplier Catalog view more Events Aug 5, 2020 at 9:00 AM EDT Q2 2020 Office Depot Inc Earnings Conference Call view more Events Aug 5, 2020 at 9:00 AM EDT Q2 2020 Office Depot Inc Earnings Conference Call view more Presentations Aug 05, 2020 Office Depot Second Quarter 2020 Earnings Webcast Presentation view more Presentations Aug 05, 2020 Office Depot Second Quarter 2020 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
