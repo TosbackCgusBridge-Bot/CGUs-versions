@@ -5,7 +5,7 @@ You may read our site as usual with advertisements and tracking (you may revoke 
 
 Accept Pfeil nach rechts
 
-Details about ad and analysis tracking can be found in our data privacy statement
+Details about ad and analysis tracking can be found in our data privacy statement or privacy center
 
 … or you can sign up for a PUR subscription
 
@@ -25,9 +25,11 @@ You already subscribe to PUR but under a different user account? Log off here.
 
 You already subscribe to PUR? Please close this window to log on.
 
+Tracking: Cookies, device IDs, etc. stored on your device can be used to personalize ads and content based on a usage profile, to add data and measure the performance of ads and content. Based on your usage, insights into target groups can be derived and the data can be used for product development (such as improving usability, systems and software).
+
 Reactivate iTunes subscription
 
-PUR subscriptions are processed via your iTunes account and are paid for via purchase confirmation. Twenty-four hours before expiration, the subscription automatically renews for an additional month at the current price of €4.99. In your iTunes account settings, you can cancel your subscription at any time. To use your PUR subscription outside of this app, you must link your subscription with your SPIEGEL ID-account immediately after purchase. By purchasing a PUR subscription, you are accepting our General Terms &. Conditions and our Data Privacy statement .
+PUR subscriptions are processed via your iTunes account and are paid for via purchase confirmation. Twenty-four hours before expiration, the subscription automatically renews for an additional month at the current price of €4.99. In your iTunes account settings, you can cancel your subscription at any time. To use your PUR subscription outside of this app, you must link your subscription with your SPIEGEL ID-account immediately after purchase. By purchasing a PUR subscription, you are accepting our General Terms &. Conditions and our Data Privacy statement.
 
 *   Imprint
 *   Privacy Policy
@@ -38,5 +40,3 @@ PUR subscriptions are processed via your iTunes account and are paid for via pur
 *   Impressum
 *   Datenschutz
 *   Nutzungsbedingungen
-
-x Accept all cookies Reject all cookies
