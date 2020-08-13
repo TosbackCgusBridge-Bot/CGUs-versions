@@ -32,12 +32,12 @@ View more results
     *   How To Become Popular at School with Princess
     *   Goldie Princess: Skin Doctor
     *   Goldie: Lip Injections
-    *   Car Salon
-    *   Floral Real Life Manicure
     *   Cake Design
     *   Tattoo Salon
+    *   Floral Real Life Manicure
+    *   Car Salon
+    *   Baby Hazel: Newborn Baby
     *   Cute Puppy Care
-    *   Mommy BFFs: Pregnant Check-Up
 *   Racing
     
     Top Categories
@@ -57,8 +57,8 @@ View more results
     *   Hill Racing Challenge
     *   Xcross Madness
     *   Off-Roader V6
-    *   Cars 3D
     *   Real Dog Racing Simulator
+    *   Cars 3D
     *   City Car Stunts 2
     *   Formula X Speed 3D: Car Racing Game
     *   Two Punk Racing
@@ -93,7 +93,7 @@ View more results
     *   Mystic Sea Treasures
     *   Mahjongg Alchemy
     *   Farm Connect 2
-    *   Jewel Shuffle
+    *   Candy Riddles: Free Match 3 Puzzle
 *   Shooting
     
     Top Categories
@@ -165,8 +165,8 @@ View more results
     
     All Action Best Games
     *   Subway Clash 3D
-    *   Stickman Fighter: Epic Battle
     *   Combat Strike 2
+    *   Stickman Fighter: Epic Battle
     *   Stickman Archer 2
     *   Miami Crime Simulator 3D
     *   Shot Trigger
@@ -202,8 +202,8 @@ View more results
     *   Dog Simulator: Puppy Craft
     *   World Crafts
     *   KOGAMA: Adopt a Son or Daughter and Form Your Family
-    *   Adam and Eve 3
     *   Draw Climber
+    *   Adam and Eve 3
     *   Pixel Craft
     *   Adam and Eve 2
 *   More
