@@ -9,14 +9,28 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Pure Enrichment
-    *   BergHOFF Kitchen Starting at $20
-    *   Nearly Natural Faux Plants
+    *   Limited-Time Deals Up to 70% Off
+    *   Via Spiga Up to 70% Off
+    *   Nail Polish and Care ft OPI &. Butter London
+    *   H by Bordeaux &. More Up to 75% Off Incl. Plus
+    *   Now &. Zen: Yogawear ft. Marika
+    *   Summer Pants Up to 80% Off Incl. Plus
+    *   Summer Tops Under $30 Incl. Plus
+    *   Free Press &. Shimera Under $35
+    *   David Donahue Up to 70% Off
+    *   Booties Up to 80% Off
+    *   OVERSTOCK ART Blowout Up to 70% Off
+    *   Men's Chukka Boots Up to 65% Off
+    *   Girls' Summer Dresses Starting at $12
+    *   Diamond Rings Starting at $80
+    *   Play Outside: Kids' Shoes Starting at $10
+    *   Roberto Cavalli Men Up to 80% Off
     *   Drybar Must-Haves
     *   Bags We Love Ft. Kurt Geiger
     *   Steve Madden Up to 70% Off
     *   Splendid
     *   Dresses Under $100 Incl. Plus
+    
     *   Angie &. More Incl. Plus
     *   Knit Tops &. More Under $30 Incl. Plus
     *   Sun Brands for Him Starting at $40
@@ -30,50 +44,45 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Our Exclusives ft. SUSINA Up to 65% Off
     *   Dive In: Swim For Him Up to 70% Off
     *   Kids' Active Styles Up to 60% Off
-    
     *   Fashion Sneakers Starting at $15
-    *   Sunday Steals Up to 85% Off Incl. Plus
-    *   Joie &. More Up to 75% Off
+    *   JOE'S Jeans Up to 85% Off
     *   BOSS Men Up to 60% Off
     *   Vince Camuto Up to 75% Off Incl. Plus
     *   Vince Camuto Shoes Up to 60% Off
-    *   BOSS Women's Clothing Up to 70% Off
     *   Boss Men's Shoes Up to 60% Off
     *   Murad Skincare
-    *   BOSS
-    *   Fall Fashion: Go Wild
-    *   Women's Styles at $20 Incl. Plus
-    *   Women's Styles at $30 Incl. Plus
     *   Vince Camuto Men Up to 75% Off
+    
     *   Rustic Wall Decor &. More Starting at $40
-    *   JOE'S Jeans Up to 85% Off
     *   Vince Camuto Luggage Up to 75% Off
     *   Men's Boots &. More Up to 60% Off
-    *   Step into Fall: Comfort Boots &. Booties
-    *   Vince Camuto Accessories
     *   Mini Melissa
-    
     *   7 For All Mankind Kids &. More
     *   Men's Luxe Shoe Blowout
-    *   Women's Luxe Shoe Blowout
-    *   Summer Active Steals Up to 70% Off
     *   Donald Pliner Men's Shoes Up to 75% Off
-    *   Kids' Sleepwear Starting at $12
-    *   Oh, Baby: Little Me &. More
-    *   Men's Comfort Sneakers Up to 60% Off
-    *   Levi's Men Starting at $15
     *   Kitchen Must-Haves
-    *   Bugatchi Men's Clothing 70% Off
     *   Philosophy &. More
-    *   Layered Jewelry: Stack Rings and More
-    *   Fresh Finds: Men's Shoes Up to 60% Off
-    *   KERASTASE Haircare &. Treatment
+    *   Pure Enrichment
+    *   BergHOFF Kitchen Starting at $20
+    *   Summer Active Steals Up to 70% Off
     *   Natori Sleep &. Lingerie Up to 70% Off
-    *   Summer Pants &. More Under $35 Incl. Plus
-    *   Woven Tops Under $25 Incl. Plus
-    *   Feminine Flair: Ruffle Styles Up to 75% Off Incl. Plus
+    *   Nearly Natural Faux Plants
+    *   BOSS Women's Clothing Up to 70% Off
+    *   Women's Styles at $20 Incl. Plus
+    *   Women's Styles at $30 Incl. Plus
+    *   Sunday Steals Up to 85% Off Incl. Plus
+    *   Joie &. More Up to 75% Off
 *   WomenShop Sale Events
     
+    *   Limited-Time Deals Up to 70% Off
+    *   Via Spiga Up to 70% Off
+    *   H by Bordeaux &. More Up to 75% Off Incl. Plus
+    *   Now &. Zen: Yogawear ft. Marika
+    *   Summer Pants Up to 80% Off Incl. Plus
+    *   Summer Tops Under $30 Incl. Plus
+    *   Free Press &. Shimera Under $35
+    *   Booties Up to 80% Off
+    *   Diamond Rings Starting at $80
     *   Bags We Love Ft. Kurt Geiger
     *   Steve Madden Up to 70% Off
     *   Splendid
@@ -81,62 +90,51 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Angie &. More Incl. Plus
     *   Knit Tops &. More Under $30 Incl. Plus
     *   Fall Forward: Andrew Marc Outerwear Up to 70% Off
+    
     *   Season's Best Swim Up to 65% Off
     *   Beat the Summer Heat: Hats for Men &. Women
     *   Lush
     *   Our Exclusives ft. SUSINA Up to 65% Off
-    *   Sunday Steals Up to 85% Off Incl. Plus
-    *   Joie &. More Up to 75% Off
+    *   JOE'S Jeans Up to 85% Off
     *   Vince Camuto Up to 75% Off Incl. Plus
     *   Vince Camuto Shoes Up to 60% Off
+    *   Vince Camuto Luggage Up to 75% Off
+    *   Philosophy &. More
+    *   Summer Active Steals Up to 70% Off
+    *   Natori Sleep &. Lingerie Up to 70% Off
     *   BOSS Women's Clothing Up to 70% Off
-    *   BOSS
-    
-    *   Fall Fashion: Go Wild
     *   Women's Styles at $20 Incl. Plus
     *   Women's Styles at $30 Incl. Plus
-    *   JOE'S Jeans Up to 85% Off
-    *   Vince Camuto Luggage Up to 75% Off
-    *   Step into Fall: Comfort Boots &. Booties
-    *   Vince Camuto Accessories
-    *   Women's Luxe Shoe Blowout
-    *   Summer Active Steals Up to 70% Off
-    *   Philosophy &. More
-    *   Layered Jewelry: Stack Rings and More
-    *   KERASTASE Haircare &. Treatment
-    *   Natori Sleep &. Lingerie Up to 70% Off
-    *   Summer Pants &. More Under $35 Incl. Plus
-    *   Woven Tops Under $25 Incl. Plus
-    *   Feminine Flair: Ruffle Styles Up to 75% Off Incl. Plus
+    *   Sunday Steals Up to 85% Off Incl. Plus
+    *   Joie &. More Up to 75% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Lingerie &. Shapewear
     *   Jewelry
-    *   Handbags
     *   Accessories
+    *   Handbags
 *   MenShop Sale Events
     
+    *   Limited-Time Deals Up to 70% Off
+    *   David Donahue Up to 70% Off
+    *   Men's Chukka Boots Up to 65% Off
+    *   Roberto Cavalli Men Up to 80% Off
     *   Sun Brands for Him Starting at $40
     *   Ben Sherman Up to 70% Off
     *   Beat the Summer Heat: Hats for Men &. Women
     *   Men's Business Casual Shoes Up to 80% Off
     *   Men's Sneakers Up to 70% Off ft. Steve Madden
+    
     *   Dive In: Swim For Him Up to 70% Off
     *   BOSS Men Up to 60% Off
     *   Boss Men's Shoes Up to 60% Off
-    *   BOSS
-    
     *   Vince Camuto Men Up to 75% Off
     *   Vince Camuto Luggage Up to 75% Off
     *   Men's Boots &. More Up to 60% Off
     *   Men's Luxe Shoe Blowout
     *   Donald Pliner Men's Shoes Up to 75% Off
-    *   Men's Comfort Sneakers Up to 60% Off
-    *   Levi's Men Starting at $15
-    *   Bugatchi Men's Clothing 70% Off
-    *   Fresh Finds: Men's Shoes Up to 60% Off
     
     Shop By Category
     *   Shoes
@@ -144,26 +142,29 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Limited-Time Deals Up to 70% Off
+    *   Girls' Summer Dresses Starting at $12
+    *   Play Outside: Kids' Shoes Starting at $10
     *   Kids' Active Styles Up to 60% Off
     *   Fashion Sneakers Starting at $15
     *   Mini Melissa
     *   7 For All Mankind Kids &. More
-    *   Kids' Sleepwear Starting at $12
-    *   Oh, Baby: Little Me &. More
     
     Shop By Category
     *   Girls
-    *   Baby
     *   Girls' Shoes
     *   Boys
     *   Boys' Shoes
+    *   Baby
 *   HomeShop Sale Events
     
+    *   Limited-Time Deals Up to 70% Off
+    *   OVERSTOCK ART Blowout Up to 70% Off
+    *   Rustic Wall Decor &. More Starting at $40
+    *   Kitchen Must-Haves
     *   Pure Enrichment
     *   BergHOFF Kitchen Starting at $20
     *   Nearly Natural Faux Plants
-    *   Rustic Wall Decor &. More Starting at $40
-    *   Kitchen Must-Haves
     
     Shop By Category
     *   Home Decor
@@ -172,16 +173,19 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Limited-Time Deals Up to 70% Off
+    *   Nail Polish and Care ft OPI &. Butter London
     *   Drybar Must-Haves
     *   Murad Skincare
     *   Philosophy &. More
-    *   KERASTASE Haircare &. Treatment
     
     Shop By Category
-    *   Hair Care
+    *   Nails
     *   Skin Care
     *   Bath &. Body
+    *   Hair Care
     *   Tools &. Accessories
+    *   Makeup
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
