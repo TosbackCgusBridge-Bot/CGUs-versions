@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Develop Uno Platform projects on Linux with Visual Studio
 *   Kubernetes 1.19 release candidate available for testing
 *   Next WSLConf date set, CFP now open through 15th August
-*   The State of Robotics – July 2020
