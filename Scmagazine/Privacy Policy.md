@@ -251,23 +251,23 @@ Extreme Engineering Solutions ensures compliance requirements while reducing man
     *   Emailed
     *   Recent
     
-    *   First Look: Hyperproof Compliance Operations Platform
-    *   Give employees the right tools to defend against phishing attacks
-    *   Coordinated attack on Reddit spreads pro-Trump messaging
+    *   Adobe mends critical code execution flaws in Magento
+    *   Five ways to declaw the Meow bot
+    *   Lock down home workers with a mix of tech tools and policies
     *   Get ready for the next DDoS attack
-    *   Spirent Communications CyberFlood Data Breach Assessment v2.02
+    *   Emerging Products: Breach and attack simulation technologies
     
-    *   Botnet abuses Docker servers and crypto blockchain to deliver Doki backdoor
-    *   Regulators levy $80 million fine, hammer Capital One for massive breach
-    *   The Picus Security Validation Platform 3113
-    *   China targets networks with new Taidoor malware attacks
-    *   XM Cyber 1.35
+    *   SafeBreach Platform
+    *   Avon attackers may have exploited unprotected web server
+    *   New index shows proactive cybersecurity measures outpaced reactive in Q2
+    *   California under counted COVID-19 cases after certificate expired
+    *   Stricken electronics firms weigh reward, cost of paying ransom
     
-    *   Whatever the cause, Intel leak still stings
-    *   US expands Clean Network to protect COVID-19 vaccine research from China
-    *   More attackers trying to sabotage incident response tactics
-    *   Coordinated attack on Reddit spreads pro-Trump messaging
-    *   Regulators levy $80 million fine, hammer Capital One for massive breach
+    *   California under counted COVID-19 cases after certificate expired
+    *   Microsoft patches 2 actively exploited zero-day flaws
+    *   Have I Been Pwned code base goes open source as it expands
+    *   Adobe eliminates 11 critical bugs in Acrobat, Reader
+    *   Business must overcome privacy challenge for facial recognition to thrive
 
 Back to Top
 
@@ -303,4 +303,4 @@ Back to Top
 
 Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
 
-You can skip this ad in 1 seconds.
+You can skip this ad in 2 seconds.
