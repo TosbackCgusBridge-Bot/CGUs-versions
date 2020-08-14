@@ -1,8 +1,8 @@
 Shop safe! Masks are required for anyone entering the store. Details  
 EXTRA 30% OFF $75+ with code: STYLE21 Details  
 EXTRA 25% OFF under $75 with code: STYLE21 Details  
-Free Shipping Over $49  DetailsBedding Flash Sale EXTRA 35% OFF w/ code: FRESH28 Details  
-Shop safe! Masks are required for anyone entering the store. Details  
+UP TO 60% OFF Site-wide savings galore! Shop All  
+Free Shipping Over $49  DetailsShop safe! Masks are required for anyone entering the store. Details  
 EXTRA 30% OFF $75+ with code: STYLE21 Details  
 
 Enable Accessibility
@@ -24,7 +24,20 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-JuniorsYoung MenKidsDormBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationMenWomenGirlsBoysStock smart!More basics means more time between loads!select stylesBUY 1 GET 1 50% OFF\*Women's bras20% OFFMen's underwearBUY 1 GET 1 50% OFF\*Girls' socks &. underwearBUY 1 GET 1 50% OFF\*Boys' socks &. underwearUP TO 40% OFF Easy, breezy styles Update your summer highlight reel with cool looks from head to toe.select stylesCasual Apparel for HimCasual Apparel for HerUP TO 50% OFF ArizonaMust-have pieces to wear anywhere and everywhere. select styles
+Juniors' Tee**$8.24\*** ($10.99)Guys' Arizona polo**$7.49\*** ($9.99)Women's sandals**$14.99\*** ($19.99)Liz Claiborne jewelry **+EXTRA 25% OFF\*** (50% OFF)Juniors' jeans**$20.24\*** ($26.99)Cooks 5-in-1 power blender**$20.69\*** ($22.99)Arizona kids' jeans or boys' joggers**$13.49\*** ($17.99)Guys' Arizona jeans**$18.74\*** ($24.99)Ambrielle cotton bra**$9.74\*** ($12.99)JCPenney Home quick-dri bath towel**$5.24\*** ($6.99)JCPenney Home Hilton 84" rod-pocket curtain**$11.99\*** ($15.99)Kids' IZOD uniform polo**$4.50\*** ($6)JuniorsYoung MenKidsDormBackpacksHomeschoolUP TO 40% OFF Dorm their way.Cozy styles to create their own space, home or away.select styles
+
+*   Shop All
+
+*   Comforters &. Bedding Sets
+    
+*   Sheets
+    
+*   Bedding Basics
+    
+*   Storage &. Organization
+    
+
+Shop AllUP TO 50% OFF ArizonaMust-have pieces to wear anywhere and everywhere. select styles
 
 *   Shop All
 
@@ -37,22 +50,22 @@ JuniorsYoung MenKidsDormBackpacksHomeschoolComforters &. Bedding SetsSheetsBeddi
 *   Girls
     
 
-Shop AllMoving &. groovingBig savings on athletic styles? Winning!25% OFF Champion apparelselect styles | Excluded from coupons.UP TO 40% OFF Xersion apparelselect styles Get 'em while they're hauteThe best names in beauty have everything you need to look and feel your best.  UP TO 15% OFF Salon haircareselect stylesBeauty Trending Right NowExcluded from coupons.UP TO 50% OFFBedroom essentials that take you from A to Zzzzzs.select styles
+Shop AllMenWomenGirlsBoysUP TO 40% OFF Easy, breezy styles Update your summer highlight reel with cool looks from head to toe.select stylesCasual Apparel for HimCasual Apparel for HerStock smart!More basics means more time between loads!select stylesBUY 1 GET 1 50% OFF\*Women's bras20% OFFMen's underwearBUY 1 GET 1 50% OFF\*Girls' socks &. underwearBUY 1 GET 1 50% OFF\*Boys' socks &. underwearGet 'em while they're hauteThe best names in beauty have everything you need to look and feel your best.  UP TO 15% OFF Salon haircareselect stylesBeauty Trending Right NowExcluded from coupons.UP TO 40% OFF Kitchen essentialsMeal prep made easy? Now you're cooking!select styles
 
 *   Shop All
 
-*   Mattresses
+*   Cookware
     
-*   Sheets
+*   Kitchen Appliances
     
-*   Mattress Pads
+*   Cutlery &. Kitchen Knives
     
-*   Pillows
+*   Food Storage
     
 
-Shop AllWomenMenBaby &. KidsShoes
+Shop AllMoving &. groovingBig savings on athletic styles? Winning!25% OFF Champion apparelselect styles | Excluded from coupons.UP TO 40% OFF Xersion apparelselect styles WomenMenBaby &. KidsShoes
 
-\*Buy one item at regular price, get the second item of equal or lesser value for 50% off or free, while supplies last. Some items must be same category of merchandise or same gender. See store associate or jcp.com for details.
+\***For BOGO offer**: Buy one item at regular price, get the second item of equal or lesser value for either 50% off or free, as advertised in the specific offer. Some items must be same category of merchandise or same gender. See store associate or jcp.com for details. **For coupon offer:** **Coupon** **required.** Some restrictions and exclusions apply. See coupon for details. Prices shown reflect coupon discount.
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 20 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
@@ -66,6 +79,11 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 20 total items loaded
     $20sale
     
     ~$124.98~206
+*   Nike Mens Ring Leader Basketball Shoes
+    
+    $54.99sale
+    
+    ~$65~16
 *   Home Expressions Lisette Rod-Pocket Sheer Panel
     
     $4.99 - $27.99sale
@@ -76,14 +94,7 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 20 total items loaded
     $10sale
     
     ~$49.98~237
-*   Nike Air Max Motion 2 Womens Running Shoes
-    
-    BUY 1 GET 1 50% OFF
-    
-    $85
-    
-    1
-*   Bali Double Support Comfort Wireless Comfort Full Coverage Bra-3820 $26.24with code~$40~1779
+*   Home Expressions Tiles Complete Bedding Set with Sheets $44.99 - $62.99with code~$110 - $170~337
 
 Shop and Save at JCPenney
 
