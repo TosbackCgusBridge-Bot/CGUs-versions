@@ -28,9 +28,9 @@ Lands' End let's get comfy™ Sign In menu
 
 0 Free Shipping on $75+
 
-Receive up to 60% off your order!
+Receive up to 40% off your order!
 
-code: LAKE pin: PROMOTION DETAILS
+code: BAT pin: PROMOTION DETAILS
 
 Customer Service Menu
 
