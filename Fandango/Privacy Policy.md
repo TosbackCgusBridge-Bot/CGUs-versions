@@ -50,7 +50,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
+    *   Book Your Movie Vacation Read More
     *   What to Watch on FandangoNOW: ‘Max Reload and the Nether Blasters,’ Great Video Game Movies and More Read More
     *   The Week in Movie News: Nia DaCosta Directing ‘Captain Marvel 2,’ ‘John Wick 5’ in the Works and More Read More
     
