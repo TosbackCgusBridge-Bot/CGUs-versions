@@ -1,6 +1,4 @@
-The Times and your Data
-
-Main Menu Privacy F.A.Q.Privacy PolicyCookie Policy
+Skip to ContentThe Times and your DataMain MenuPrivacy F.A.Q.Privacy PolicyCookie Policy
 
 The Times and Your Data
 
@@ -41,9 +39,7 @@ How we handle information about you depends on which Times Services you use — 
 
 Be aware that certain Times Services work differently. Some have additional terms that supplement this policy (e.g., Reader Submissions). Others refer to a different privacy policy altogether, so this one does not apply.
 
-1.
-
-What Information Do We Gather About You?
+1.What Information Do We Gather About You?
 
 The information we gather about you depends on the context. By and large, it’s information about you that can personally identify you — either on its own or when combined with other information.
 
@@ -145,9 +141,7 @@ The following describes the information we collect and how we obtain it.
 
 We are always improving our products and services, and we create new features regularly. These updates sometimes require us to collect new information, or use what we already have differently. If there is a significant or material change in the way we handle your personal information, we will notify you as detailed below.
 
-Back to top2.
-
-What Do We Do With the Information We Gather?
+Back to top2.What Do We Do With the Information We Gather?
 
 **A) We provide the Times Services.**
 
@@ -225,9 +219,7 @@ We periodically send you targeted email newsletters or promotional emails. For i
 
 Sometimes we aggregate or de-identify information so that it can no longer identify you, under applicable laws. This helps us better understand and represent our users, such as when we measure ad performance, create advertising interest-based segments or compile survey results. We can use and disclose this aggregated or de-identified information for any purpose, unless an applicable law says otherwise.
 
-Back to top3.
-
-With Whom Do We Share the Information We Gather?
+Back to top3.With Whom Do We Share the Information We Gather?
 
 **A) Within The New York Times Company:**
 
@@ -281,9 +273,7 @@ There are situations when we share your information with third parties beyond ou
     *   Cooperate with government authorities, which could be outside your country of residence.
 7.  We disclose public activities in our RSS feeds, APIs and other distribution formats. Your public activities could thus appear on other websites, blogs or feeds.
 
-Back to top4.
-
-What Are Your Rights?
+Back to top4.What Are Your Rights?
 
 **A) How Do I Opt Out of Email, Phone, Mail and Push Notifications?**
 
@@ -340,9 +330,7 @@ You can update your account information and see your transaction history (for In
 
 It works differently if you subscribed via Apple’s App Store or Google Play. Register with us to access the Account area, and contact Apple or Google for your transaction history.
 
-Back to top5.
-
-What About Sensitive Personal Information?
+Back to top5.What About Sensitive Personal Information?
 
 We generally don’t want to gather any sensitive information about you. This includes:
 
@@ -356,9 +344,7 @@ We generally don’t want to gather any sensitive information about you. This in
 
 There are rare situations when we request this information (e.g., a reader survey asks about your political leanings), but you can decline to answer. Outside those situations we would prefer you never share that information with us.
 
-Back to top6.
-
-How Long Do You Retain Data?
+Back to top6.How Long Do You Retain Data?
 
 It depends. We store your personal information for as long as needed, or permitted, based on the reason why we obtained it (consistent with applicable law). This means we might retain your personal information even after you close your account with us.
 
@@ -370,25 +356,19 @@ When deciding how long to keep your information, we consider:
 
 Rather than delete your data, we might de-identify it by removing identifying details.
 
-Back to top7.
-
-How Do You Protect My Information?
+Back to top7.How Do You Protect My Information?
 
 We protect your personal information with a series of organizational, technological and physical safeguards — but we cannot guarantee its absolute security. We recommend that you use complex and unique passwords for your Times accounts and for third-party accounts linked to them. Do not share your password with anyone.
 
 If you have reason to believe your interaction with us is no longer secure, notify us immediately.
 
-Back to top8.
-
-Are There Guidelines for Children?
+Back to top8.Are There Guidelines for Children?
 
 Times Services are intended for a general audience, and are not directed at children under (13) years of age.
 
 We do not knowingly gather personal information (as defined by the U.S. Children’s Privacy Protection Act, or COPPA) in a manner not permitted by COPPA. If you are a parent or guardian and you believe we have collected information from your child in a manner not permitted by law, contact us at privacy@nytimes.com. We will remove the data to the extent required by applicable laws.
 
-Back to top9.
-
-How Is Information Transferred Internationally?
+Back to top9.How Is Information Transferred Internationally?
 
 The New York Times Company is headquartered in the United States. If you are located outside the United States, your information is collected in your country and then transferred to the United States — or to another country in which we (or our affiliates or service providers) operate.
 
@@ -400,9 +380,7 @@ If we transfer your data out of the European Economic Area (E.E.A.), we implemen
 
 In certain situations, the courts, law enforcement agencies, regulatory agencies or security authorities in those countries might be entitled to access your personal information.
 
-Back to top10.
-
-What Is Our Legal Basis?
+Back to top10.What Is Our Legal Basis?
 
 In some jurisdictions, like the European Union and the European Economic Area, we only collect, use or share information about you when we have a valid reason. This is called “lawful basis.” Specifically, this is one of the following:
 
@@ -416,15 +394,11 @@ In some jurisdictions, like the European Union and the European Economic Area, w
     
     We have a legitimate interest in gathering and processing personal information, for example: (1) to ensure that our networks and information are secure. (2) to administer and generally conduct business within The New York Times Company. (3) to prevent fraud. and (4) to conduct our marketing activities.
 
-Back to top11.
-
-Links to Third-Party Services?
+Back to top11.Links to Third-Party Services?
 
 Some Times Services contain links to third-party websites, resources, vendors and advertisers. These third parties are not Times Services. We do not control (and are not responsible for) third party content or privacy practices. Any personal data you provide to them is not covered by this Privacy Policy.
 
-Back to top12.
-
-How Are Changes to This Privacy Policy Communicated?
+Back to top12.How Are Changes to This Privacy Policy Communicated?
 
 We periodically update this Privacy Policy. We will post any changes on this page by updating this policy.
 
@@ -432,9 +406,7 @@ If we make a significant or material change in the way we collect, use or share 
 
 After we post any changes on this page, your continued use of Times Services is subject to the updated Privacy Policy.
 
-Back to top13.
-
-How Can You Contact Us? Who Is the Controller of Your Personal Information?
+Back to top13.How Can You Contact Us? Who Is the Controller of Your Personal Information?
 
 If you have any questions, email us at privacy@nytimes.com or write us at:
 
