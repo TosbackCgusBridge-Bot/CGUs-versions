@@ -58,7 +58,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT.
 
-What is PeekScore? Public Records &. Background Checks 5%  5%  4%  4%  Arrest Records &. Driving Infractions
+What is PeekScore? Public Records &. Background Checks 2%  2%  2%  2%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -99,7 +99,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 4%  Twitter 4%  Instagram 4%  Myspace 4%  Social Profiles 4%  Pinterest 4%  Wikipedia 4%  Music 4%  Photo Albums 4%  Web Search 4%  Images 4% 
+Facebook 1%  Twitter 1%  Instagram 1%  Myspace 1%  Social Profiles 1%  Pinterest 1%  Wikipedia 1%  Music 1%  Photo Albums 1%  Web Search 1%  Images 1% 
 
 *   About PeekYou
 *   Privacy Policy
