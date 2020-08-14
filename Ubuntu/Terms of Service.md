@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
-*   Develop Uno Platform projects on Linux with Visual Studio
-*   Kubernetes 1.19 release candidate available for testing
-*   Next WSLConf date set, CFP now open through 15th August
+*   Trilio and Canonical extend partnership to enable data protection for Charmed OpenStack
+*   Registration is now open for microWSLConf 2020
+*   What is PostgreSQL, and why do developers love it?
