@@ -88,9 +88,9 @@ Check out the Benefits
         Watch videos and browse the internet on your Amazon Fire TV.
         
     
-    <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/nav/cards/add-ons.91437385d52f.png" alt="">. Add-ons
+    <img class="mzp-c-card-image" src="https://www.mozilla.org/media/img/nav/cards/mozilla-vpn.1863708227a1.png" alt="">. Mozilla VPN: Fast. Simple. Private.
     
-    Learn how to customize the way Firefox works.
+    Protect your entire device and all applications. Mask your real location and connect up to 5 devices. Subscribe now.
     
 *   Projects Close Projects menu
     
