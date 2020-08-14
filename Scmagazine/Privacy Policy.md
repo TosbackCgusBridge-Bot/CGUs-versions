@@ -251,23 +251,23 @@ Extreme Engineering Solutions ensures compliance requirements while reducing man
     *   Emailed
     *   Recent
     
-    *   Adobe mends critical code execution flaws in Magento
-    *   Five ways to declaw the Meow bot
-    *   Lock down home workers with a mix of tech tools and policies
-    *   Get ready for the next DDoS attack
-    *   Emerging Products: Breach and attack simulation technologies
-    
-    *   SafeBreach Platform
     *   Avon attackers may have exploited unprotected web server
-    *   New index shows proactive cybersecurity measures outpaced reactive in Q2
-    *   California under counted COVID-19 cases after certificate expired
-    *   Stricken electronics firms weigh reward, cost of paying ransom
+    *   Trade minister hack led to trade secrets leak before U.K. election
+    *   Financial institutions likely to doubledown on security spending
+    *   Sophos Phish Threat
+    *   Have I Been Pwned code base goes open source as it expands
     
+    *   ‘Boothole’ threatens billions of Linux, Windows devices
+    *   Emerging Products: Breach and attack simulation technologies
+    *   Botnet abuses Docker servers and crypto blockchain to deliver Doki backdoor
+    *   AttackIQ Platform v2.17
+    *   Lesson learned: Failure to patch led to password leak of 900 VPN enterprise servers
+    
+    *   Tesla RAT adapts, evolves to thwart security
     *   California under counted COVID-19 cases after certificate expired
     *   Microsoft patches 2 actively exploited zero-day flaws
     *   Have I Been Pwned code base goes open source as it expands
     *   Adobe eliminates 11 critical bugs in Acrobat, Reader
-    *   Business must overcome privacy challenge for facial recognition to thrive
 
 Back to Top
 
@@ -301,6 +301,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
-You can skip this ad in 2 seconds.
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
