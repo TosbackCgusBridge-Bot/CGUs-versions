@@ -265,17 +265,6 @@ Close Upload ★VIP
 
 **Search Suggestions** start typing for suggestions ... **Suggested Pornstars** start typing for suggestions ... **Suggested Channels** start typing for suggestions ... **Suggested Keywords**
 
-*   huge cock
-*   mother
-*   girls
-*   pov
-*   my wife
-*   friends hot mom
-*   my friends hot
-*   natural tits
-*   caught by sister
-*   cock tight pussy
-
 **Recent Searches** Clear
 
 JOIN VIP FOR $1
