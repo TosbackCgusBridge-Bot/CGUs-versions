@@ -9,9 +9,25 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Limited-Time Deals Up to 70% Off
-    *   Via Spiga Up to 70% Off
+    *   Cole Haan Up to 60% Off
+    *   Cole Haan Men's Shoes Up to 60% Off
+    *   Haircare Under $35 ft Biolage &. Paul Mitchell
+    *   Cole Haan Men's Clothing &. More Up to 65% Off
+    *   Cole Haan Outerwear Up to 80% Off
+    *   Luxe Brands Up to 85% Off
+    *   Date Night In: Shoes &. Accessories
+    *   Maxi Dresses Up to 75% Off Incl. Plus
+    *   WFH Essentials Up to 70% Off Incl. Plus
+    *   Best Basics Up to 70% Off Incl. Plus
+    *   Date Night In: Men's Styles Up to 80% Off
+    *   Free Shipping: Home Decor Starting at $20
+    *   Fresh for Fall: Activewear Up to 70% Off
+    *   Pet Life: Pet Accessories &. More from $20
+    *   Wave Hello to These: O'Neill Kids &. More
+    *   Date Night In: Men's Shoes up to 65% Off
+    *   GEOX Kids
     *   Nail Polish and Care ft OPI &. Butter London
+    
     *   H by Bordeaux &. More Up to 75% Off Incl. Plus
     *   Now &. Zen: Yogawear ft. Marika
     *   Summer Pants Up to 80% Off Incl. Plus
@@ -25,130 +41,91 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Diamond Rings Starting at $80
     *   Play Outside: Kids' Shoes Starting at $10
     *   Roberto Cavalli Men Up to 80% Off
+    *   Via Spiga Up to 70% Off
     *   Drybar Must-Haves
-    *   Bags We Love Ft. Kurt Geiger
-    *   Steve Madden Up to 70% Off
-    *   Splendid
-    *   Dresses Under $100 Incl. Plus
-    
-    *   Angie &. More Incl. Plus
-    *   Knit Tops &. More Under $30 Incl. Plus
     *   Sun Brands for Him Starting at $40
-    *   Fall Forward: Andrew Marc Outerwear Up to 70% Off
     *   Ben Sherman Up to 70% Off
-    *   Season's Best Swim Up to 65% Off
-    *   Beat the Summer Heat: Hats for Men &. Women
-    *   Lush
     *   Men's Business Casual Shoes Up to 80% Off
+    
     *   Men's Sneakers Up to 70% Off ft. Steve Madden
-    *   Our Exclusives ft. SUSINA Up to 65% Off
     *   Dive In: Swim For Him Up to 70% Off
     *   Kids' Active Styles Up to 60% Off
     *   Fashion Sneakers Starting at $15
-    *   JOE'S Jeans Up to 85% Off
-    *   BOSS Men Up to 60% Off
-    *   Vince Camuto Up to 75% Off Incl. Plus
-    *   Vince Camuto Shoes Up to 60% Off
-    *   Boss Men's Shoes Up to 60% Off
-    *   Murad Skincare
-    *   Vince Camuto Men Up to 75% Off
-    
-    *   Rustic Wall Decor &. More Starting at $40
-    *   Vince Camuto Luggage Up to 75% Off
+    *   BergHOFF Kitchen Starting at $20
+    *   Dresses Under $100 Incl. Plus
+    *   Women's Styles at $30 Incl. Plus
     *   Men's Boots &. More Up to 60% Off
-    *   Mini Melissa
-    *   7 For All Mankind Kids &. More
-    *   Men's Luxe Shoe Blowout
-    *   Donald Pliner Men's Shoes Up to 75% Off
     *   Kitchen Must-Haves
     *   Philosophy &. More
-    *   Pure Enrichment
-    *   BergHOFF Kitchen Starting at $20
-    *   Summer Active Steals Up to 70% Off
-    *   Natori Sleep &. Lingerie Up to 70% Off
-    *   Nearly Natural Faux Plants
-    *   BOSS Women's Clothing Up to 70% Off
     *   Women's Styles at $20 Incl. Plus
-    *   Women's Styles at $30 Incl. Plus
-    *   Sunday Steals Up to 85% Off Incl. Plus
-    *   Joie &. More Up to 75% Off
+    *   Splendid
+    *   Murad Skincare
+    *   Rustic Wall Decor &. More Starting at $40
+    *   Summer Active Steals Up to 70% Off
+    *   Pure Enrichment
+    *   Nearly Natural Faux Plants
 *   WomenShop Sale Events
     
-    *   Limited-Time Deals Up to 70% Off
-    *   Via Spiga Up to 70% Off
+    *   Cole Haan Up to 60% Off
+    *   Cole Haan Outerwear Up to 80% Off
+    *   Luxe Brands Up to 85% Off
+    *   Date Night In: Shoes &. Accessories
+    *   Maxi Dresses Up to 75% Off Incl. Plus
+    *   WFH Essentials Up to 70% Off Incl. Plus
+    *   Best Basics Up to 70% Off Incl. Plus
+    *   Fresh for Fall: Activewear Up to 70% Off
     *   H by Bordeaux &. More Up to 75% Off Incl. Plus
     *   Now &. Zen: Yogawear ft. Marika
     *   Summer Pants Up to 80% Off Incl. Plus
+    
     *   Summer Tops Under $30 Incl. Plus
     *   Free Press &. Shimera Under $35
     *   Booties Up to 80% Off
     *   Diamond Rings Starting at $80
-    *   Bags We Love Ft. Kurt Geiger
-    *   Steve Madden Up to 70% Off
-    *   Splendid
+    *   Via Spiga Up to 70% Off
     *   Dresses Under $100 Incl. Plus
-    *   Angie &. More Incl. Plus
-    *   Knit Tops &. More Under $30 Incl. Plus
-    *   Fall Forward: Andrew Marc Outerwear Up to 70% Off
-    
-    *   Season's Best Swim Up to 65% Off
-    *   Beat the Summer Heat: Hats for Men &. Women
-    *   Lush
-    *   Our Exclusives ft. SUSINA Up to 65% Off
-    *   JOE'S Jeans Up to 85% Off
-    *   Vince Camuto Up to 75% Off Incl. Plus
-    *   Vince Camuto Shoes Up to 60% Off
-    *   Vince Camuto Luggage Up to 75% Off
-    *   Philosophy &. More
-    *   Summer Active Steals Up to 70% Off
-    *   Natori Sleep &. Lingerie Up to 70% Off
-    *   BOSS Women's Clothing Up to 70% Off
-    *   Women's Styles at $20 Incl. Plus
     *   Women's Styles at $30 Incl. Plus
-    *   Sunday Steals Up to 85% Off Incl. Plus
-    *   Joie &. More Up to 75% Off
+    *   Philosophy &. More
+    *   Women's Styles at $20 Incl. Plus
+    *   Splendid
+    *   Summer Active Steals Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie &. Shapewear
     *   Jewelry
-    *   Accessories
+    *   Lingerie &. Shapewear
     *   Handbags
+    *   Accessories
 *   MenShop Sale Events
     
-    *   Limited-Time Deals Up to 70% Off
+    *   Cole Haan Men's Shoes Up to 60% Off
+    *   Cole Haan Men's Clothing &. More Up to 65% Off
+    *   Date Night In: Men's Styles Up to 80% Off
+    *   Date Night In: Men's Shoes up to 65% Off
     *   David Donahue Up to 70% Off
     *   Men's Chukka Boots Up to 65% Off
     *   Roberto Cavalli Men Up to 80% Off
+    
     *   Sun Brands for Him Starting at $40
     *   Ben Sherman Up to 70% Off
-    *   Beat the Summer Heat: Hats for Men &. Women
     *   Men's Business Casual Shoes Up to 80% Off
     *   Men's Sneakers Up to 70% Off ft. Steve Madden
-    
     *   Dive In: Swim For Him Up to 70% Off
-    *   BOSS Men Up to 60% Off
-    *   Boss Men's Shoes Up to 60% Off
-    *   Vince Camuto Men Up to 75% Off
-    *   Vince Camuto Luggage Up to 75% Off
     *   Men's Boots &. More Up to 60% Off
-    *   Men's Luxe Shoe Blowout
-    *   Donald Pliner Men's Shoes Up to 75% Off
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
 *   KidsShop Sale Events
     
-    *   Limited-Time Deals Up to 70% Off
+    *   Wave Hello to These: O'Neill Kids &. More
+    *   GEOX Kids
     *   Girls' Summer Dresses Starting at $12
     *   Play Outside: Kids' Shoes Starting at $10
     *   Kids' Active Styles Up to 60% Off
     *   Fashion Sneakers Starting at $15
-    *   Mini Melissa
-    *   7 For All Mankind Kids &. More
     
     Shop By Category
     *   Girls
@@ -158,26 +135,28 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Baby
 *   HomeShop Sale Events
     
-    *   Limited-Time Deals Up to 70% Off
+    *   Free Shipping: Home Decor Starting at $20
+    *   Pet Life: Pet Accessories &. More from $20
     *   OVERSTOCK ART Blowout Up to 70% Off
-    *   Rustic Wall Decor &. More Starting at $40
-    *   Kitchen Must-Haves
-    *   Pure Enrichment
     *   BergHOFF Kitchen Starting at $20
+    *   Kitchen Must-Haves
+    *   Rustic Wall Decor &. More Starting at $40
+    *   Pure Enrichment
     *   Nearly Natural Faux Plants
     
     Shop By Category
     *   Home Decor
+    *   Pet Accessories
     *   Kitchen &. Tabletop
     *   Electronic &. Tech Accessories
     *   Luggage &. Travel
 *   BeautyShop Sale Events
     
-    *   Limited-Time Deals Up to 70% Off
+    *   Haircare Under $35 ft Biolage &. Paul Mitchell
     *   Nail Polish and Care ft OPI &. Butter London
     *   Drybar Must-Haves
-    *   Murad Skincare
     *   Philosophy &. More
+    *   Murad Skincare
     
     Shop By Category
     *   Nails
@@ -185,7 +164,6 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Bath &. Body
     *   Hair Care
     *   Tools &. Accessories
-    *   Makeup
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
