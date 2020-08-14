@@ -30,7 +30,7 @@ IntroductionContents
 7.  Personal data that we receive about you from other organisations
 8.  Using children’s personal data
 9.  Security of your personal data
-10.  When we share or sell your personal data?
+10.  When we share or sell your personal data
 11.  International data transfers
 12.  How long we keep your personal data
 13.  How we may contact you
@@ -247,7 +247,7 @@ We do not aim any of our products or services directly at children under the age
 
 We have implemented appropriate technical and organisational controls to protect your personal data against unauthorised processing and against accidental loss, damage or destruction. You are responsible for choosing a secure password when we ask you to set up a password to access parts of our sites or apps. You should keep this password confidential and you should choose a password that you do not use on any other site. You should not share your password with anyone else, including anyone who works for us. Unfortunately, sending any information, including personal data, via the internet is not completely secure. Although we will do our best to protect your personal data once with us, we cannot guarantee the security of any personal data sent to our site while still in transit and so you provide it at your own risk.
 
-**When we share or sell your personal data?**
+**When we share or sell your personal data**
 
 _Within the Guardian group of companies_
 
@@ -426,6 +426,13 @@ If you have a question about anything else, please see our Contact us page here.
 If we decide to change our privacy policy we will post the changes here. If the changes are significant, we may also choose to email all our registered users with the new details. If required by law, we will get your permission or give you the opportunity to opt out of any new uses of your data.
 
 _Changes to this privacy policy to date_
+
+The most recent changes to this privacy policy were made on:
+
+*   12 August 2020
+    
+*   30 June 2020
+    
 
 A list of all previous changes are available upon request.
 
