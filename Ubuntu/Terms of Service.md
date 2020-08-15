@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Optimised authentication methods for Ubuntu Desktop
+*   OpenStack Charms 20.08 – TrilioVault, Arista and more
 *   Trilio and Canonical extend partnership to enable data protection for Charmed OpenStack
-*   Registration is now open for microWSLConf 2020
-*   What is PostgreSQL, and why do developers love it?
