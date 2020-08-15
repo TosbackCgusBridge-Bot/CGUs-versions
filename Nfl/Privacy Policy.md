@@ -1,4 +1,4 @@
-We use our own and third-party cookies to improve your experience and our services. By continuing and using the site, including by remaining on the landing page, you consent to the use of cookies. Click here for more information on our **Cookie Policy**.Got it! Skip to main content Open menu button Primary nav
+Skip to main content Open menu button Primary nav
 
 *   News
 *   Scores
@@ -17,7 +17,7 @@ We use our own and third-party cookies to improve your experience and our servic
 *   *   Photos
     *   Super Bowl
     *   Game Pass
-    *   Free Agency
+    *   NFL Votes
     *   Ways to Watch
     *   En Español
     *   Inspire Change
