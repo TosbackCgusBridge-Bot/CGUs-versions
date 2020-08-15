@@ -2,7 +2,7 @@
 
 *   Product loginsProduct logins
 *   Contact usContact us
-*   Cart (0)
+*   Cart
 
 Thomson Reuters LEGAL
 
@@ -10,6 +10,7 @@ Thomson Reuters LEGAL
     
     *   Westlaw
     *   Practical Law
+    *   HighQ
     *   CLEAR
     *   Law books
     *   All products
