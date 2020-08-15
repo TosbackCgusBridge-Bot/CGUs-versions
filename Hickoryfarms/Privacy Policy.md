@@ -2,8 +2,7 @@ close
 
 *   Gift Baskets
     
-    View All Categories Shop by Category*   Wine Gift Baskets
-    *   Fruit Baskets
+    View All Categories Shop by Category*   Fruit Baskets
     *   Sweet &. Savory Gifts
     *   Gift Boxes
     *   Gift Towers &. Crates
@@ -25,29 +24,23 @@ close
     *   Turkey Summer Sausage
     *   Dry Salami
     *   All Natural
+    *   Keto Gift Baskets
     *   Gluten Free
     
     Cheese*   Signature Cheese
     *   Cheese Balls &. Spreads
-*   Steaks
-    
-    View All Categories Shop by Category*   Prime Steaks
-    *   Impressive Cuts
-    *   Combos
-    *   Burgers &. Brats
-    *   Fine Meats
-    *   Seafood
-    
-    Shop by Cut*   Filets
-    *   Ribeye
-    *   Assortments
-    *   Strip Steaks
-    *   Porterhouse Steaks
-    *   Tomahawk SteaksMost Popular Fine Meats Gourmet Meals
+*   Wine Gifts
+    View All Categories Shop by Category*   Wine Gift Baskets
+    *   Wine &. Cheese Gift Baskets
+    *   Premium Wine Gifts
+    *   Red Wine Gift Baskets
+    *   White Wine Gift Baskets
+    *   Wine Bottle Gift BoxesMost Popular Champagne Gift Baskets California Gift Baskets
 *   Gourmet Food
     
     View All Categories Shop by Category*   Gourmet Meals
     *   Fine Meats
+    *   Steaks
     *   Snacks
     *   Condiments
     *   Desserts
@@ -100,8 +93,7 @@ close
 
 *   Gift Baskets
     
-    View All Categories Shop by Category*   Wine Gift Baskets
-    *   Fruit Baskets
+    View All Categories Shop by Category*   Fruit Baskets
     *   Sweet &. Savory Gifts
     *   Gift Boxes
     *   Gift Towers &. Crates
@@ -123,29 +115,23 @@ close
     *   Turkey Summer Sausage
     *   Dry Salami
     *   All Natural
+    *   Keto Gift Baskets
     *   Gluten Free
     
     Cheese*   Signature Cheese
     *   Cheese Balls &. Spreads
-*   Steaks
-    
-    View All Categories Shop by Category*   Prime Steaks
-    *   Impressive Cuts
-    *   Combos
-    *   Burgers &. Brats
-    *   Fine Meats
-    *   Seafood
-    
-    Shop by Cut*   Filets
-    *   Ribeye
-    *   Assortments
-    *   Strip Steaks
-    *   Porterhouse Steaks
-    *   Tomahawk SteaksMost Popular Fine Meats Gourmet Meals
+*   Wine Gifts
+    View All Categories Shop by Category*   Wine Gift Baskets
+    *   Wine &. Cheese Gift Baskets
+    *   Premium Wine Gifts
+    *   Red Wine Gift Baskets
+    *   White Wine Gift Baskets
+    *   Wine Bottle Gift BoxesMost Popular Champagne Gift Baskets California Gift Baskets
 *   Gourmet Food
     
     View All Categories Shop by Category*   Gourmet Meals
     *   Fine Meats
+    *   Steaks
     *   Snacks
     *   Condiments
     *   Desserts
@@ -429,4 +415,4 @@ Find A Store
 
 *   Find A Store
 
-© 2020 All Rights Reserved Privacy Policy Terms Of Use Cookie Policy Accessibility California: Your Privacy Rights
+© 2020 All Rights Reserved Privacy Policy Terms Of Use Cookie Policy Accessibility California: Your Privacy Rights Play IconFeedback
