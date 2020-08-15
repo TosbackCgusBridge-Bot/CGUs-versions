@@ -763,11 +763,11 @@ Employee/Contractor/Recruitment Data Protection Notices
 Legal Disclosures and Information
 
 *   Home
-*   Privacy &. Security
+*   Privacy & Security
 *   Careers
 *   Feedback
 *   Sitemap
-*   Advertising Practices layer
+*   Advertising Practices layer
 Advertising Practices
 
 We strive to provide you with information about products and services you might find interesting and useful. Relationship-based ads and online behavioral advertising help us do that.
@@ -780,6 +780,6 @@ Also, if you opt out of online behavioral advertising, you may still see ads whe
 
 To learn more about relationship-based ads, online behavioral advertising and our privacy practices, please review Bank of America Online Privacy Notice and our Online Privacy FAQs.
 
-Bank of America, N.A. Member FDIC. Equal Housing Lender new window
+Bank of America, N.A. Member FDIC. Equal Housing Lender new window
 
 © 2020 Bank of America Corporation. All rights reserved.
