@@ -59,10 +59,10 @@ Lenovo Explore Close
         *   ThinkStation Workstations
         
         *   Best Selling Desktops
+        *   ThinkCentre M90n Nano
         *   M720 Tiny
-        *   A340 24 inch AIO
+        *   IdeaCentre AIO 3i 24”
         *   A540 27 inch AIO
-        *   M720e SFF
         *   M920 SFF
         *   New Arrivals
         
@@ -93,7 +93,7 @@ Lenovo Explore Close
         *   ThinkPad P73
         *   ThinkPad P15s
         *   ThinkStation P340 Tiny
-        *   ThinkStation P330 Tower
+        *   ThinkStation P340 Tower
         
         Back to School
         
