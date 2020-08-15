@@ -69,12 +69,14 @@ Roc Boronat 117, Planta 6
 +34 936 012 700 press@softonic.com
 
 *   For Users
-*   For Advertisers
+*   Advertise with us
+*   For Publishers
 *   About Us
-*   Work
+*   Careers
 *   Blog
-*   News
+*   Press Room
 *   Contact
+*   FAQs
 
 Work with us!
 
