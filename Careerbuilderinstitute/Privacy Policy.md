@@ -36,7 +36,7 @@ Instant Notifications
 
 You'll receive push notifications when your resume is viewed, or when new jobs appear in your most recent search. Making it easy for you to jump right back into your job search.
 
-see how you can up your career status Career Development &. Learning Companies hiring now (August 7) and what the latest unemployment numbers mean Read Article What on-the-job collaboration looks like Read Article Cover Letters Cover letter sample for licensed practical nurses Read Article Read More Articles Employers Looking to Post a Job?
+see how you can up your career status Career Development &. Learning Companies hiring and available jobs this week (August 10) Read Article Companies hiring now (August 7) and what the latest unemployment numbers mean Read Article What on-the-job collaboration looks like Read Article Read More Articles Employers Looking to Post a Job?
 
 We have end-to-end solutions that can keep up with you and your standards.
 
