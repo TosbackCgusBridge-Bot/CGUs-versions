@@ -1,6 +1,6 @@
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T44RDC6" height="0" width="0" style="display:none;visibility:hidden"></iframe>. Skip to content Privacy Notice
 
-Notice: We have updated our Privacy Notice as of July 6, 2020 to provide you with more information about the features we offer that allow our customers to better control who they contact through our products and services. Please read more here.
+Notice: We have updated our Privacy Notice, as of August 14, 2020, to provide additional information to Users located in Brazil. Please read more here. We have also updated the addendum for California Users. Please read more here.
 
 Table of Contents
 
@@ -9,7 +9,8 @@ Table of Contents
     *   Addendum for Users who purchased services from Constant Contact
     *   Addendum for Users who purchased services from Ecomdash
     *   Addendum for Users who purchased Domain Registration services, including from Domain.com
-    *   Addendum for California Users
+    *   Addendum for Users in Brazil
+    *   Addendum for Users in California
 *   Information We Collect From You
     *   Information You Voluntarily Provide Us
     *   Information We Collect about your Usage and Devices
@@ -54,9 +55,16 @@ This privacy notice, which may also be referred to as a “privacy policy” on 
 
 When you purchase a Service from us, your personal information will be collected, used, and shared consistent with the provisions of this privacy notice. In addition, the following addendums related to particular Services offered by Endurance or individuals in certain locations also apply to your purchase or use of those Services. These addendums are a part of this privacy notice:
 
+Addendum for Particular Services
+
 *   Addendum for Users who purchased services from Constant Contact
+*   Addendum for Users who purchased services from Ecomdash
 *   Addendum for Users who purchased Domain Registration services, including from Domain.com
-*   Addendum for California Users
+
+Addendum for Certain Geographies
+
+*   Addendum for Users in Brazil
+*   Addendum for Users in California
 
 Information We Collect From You
 
@@ -66,44 +74,44 @@ Information you voluntarily provide to us
 
 We collect the following information from you when you provide it to us:
 
-*   Information you provide prior to any registration process, such as your email when you provide it to us;
-*   Information that you provide during any registration process, including in connection with a co-branded offer (such as your name, company name, email address, phone number, billing address or credit card information, geographic location and industry);
-*   Information you provide, when you call or email us (for support or otherwise) or when you use our products or services. and
-*   Payment information, including credit card data that you provide to us (by way of our Services or otherwise) when you purchase some of our products and services.
+*   *   *   Information you provide prior to any registration process, such as your email when you provide it to us;
+        *   Information that you provide during any registration process, including in connection with a co-branded offer (such as your name, company name, email address, phone number, billing address or credit card information, geographic location and industry);
+        *   Information you provide, when you call or email us (for support or otherwise) or when you use our products or services. and
+        *   Payment information, including credit card data that you provide to us (by way of our Services or otherwise) when you purchase some of our products and services.
 
 Information we collect about your usage and devices
 
-*   We collect data relating to your online activity on our websites, including the following:
-    
-    *   *   IP address;
-        *   Browser type and version;
-        *   Type of device you use, operating system version, and device identifier;
-        *   Geographic location;
-        *   Pages you view;
-        *   How you got to our Services and any links you click on to leave our Services;
-        *   When you update your information, communicate with us, or order new Services;
-        *   Metadata about your use of our Services and emails we send to you (including clicks and opens);
-        *   Metadata about how your customers, contacts, and users interact with the Services we provide you;
-        *   Your interactions with any videos we offer;
-        *   Issues you encounter requiring our support or assistance. and
-        *   Any device or other method of communication you use to interact with the Services.
-    
-    We store the data we collect in a variety of places within our infrastructure, including system log files, back end databases and analytics systems.
-    
+*   *   *   We collect data relating to your online activity on our websites, including the following:
+            
+            *   *   IP address;
+                *   Browser type and version;
+                *   Type of device you use, operating system version, and device identifier;
+                *   Geographic location;
+                *   Pages you view;
+                *   How you got to our Services and any links you click on to leave our Services;
+                *   When you update your information, communicate with us, or order new Services;
+                *   Metadata about your use of our Services and emails we send to you (including clicks and opens);
+                *   Metadata about how your customers, contacts, and users interact with the Services we provide you;
+                *   Your interactions with any videos we offer;
+                *   Issues you encounter requiring our support or assistance. and
+                *   Any device or other method of communication you use to interact with the Services.
+            
+            We store the data we collect in a variety of places within our infrastructure, including system log files, back end databases and analytics systems.
+            
 
-Information We Aquire From Social Media
+Information We Acquire From Social Media
 
-*   We collect information from third party social networking sites, including information that they provide to us if you use your credentials at such social networking sites to log into some of our Services (such as your name and email address to pre-populate our sign-up form).
-*   The information you allow us to access varies by social networking site, and depends on the level of privacy settings you have in place at the social networking site. You can control and find out more about these privacy settings at the applicable social networking site.
+*   *   *   We collect information from third party social networking sites, including information that they provide to us if you use your credentials at such social networking sites to log into some of our Services (such as your name and email address to pre-populate our sign-up form).
+        *   The information you allow us to access varies by social networking site, and depends on the level of privacy settings you have in place at the social networking site. You can control and find out more about these privacy settings at the applicable social networking site.
 
-Information We Aquire From Other Sources
+Information We Acquire From Other Sources
 
 We also collect the following information from other sources:
 
-*   Information you provide to us at seminars or to our partners;
-*   Information you provide to us in surveys;
-*   Information that is publicly available. and
-*   Information you consent to us receiving from third parties.
+*   *   *   Information you provide to us at seminars or to our partners;
+        *   Information you provide to us in surveys;
+        *   Information that is publicly available. and
+        *   Information you consent to us receiving from third parties.
 
 We also collect information that you may provide during your telephone conversations with us, which we may monitor or record.
 
@@ -113,21 +121,21 @@ How We Use Your Information
 
 We use the information we collect, both on its own and combined with any other information we collect about you, for the following business and commercial purposes:
 
-*   To provide the requested Services to you;
-*   To provide you with useful content;
-*   To ensure the proper functioning of our Services
-*   To offer and improve our Services;
-*   To provide you with requested information or technical support
-*   To facilitate your movement through our websites or your use of our Services;
-*   To do a better job of advertising and marketing our Services (subject to your consent where required by applicable law);
-*   To advertise and market third party products and services (subject to your consent where required by applicable law)
-*   To diagnose problems with our servers or our Services;
-*   In connection with our security and compliance programs;
-*   To administer our websites;
-*   To communicate with you;
-*   To target current or prospective customers with our products or services through online advertisements served on third-party sites by third-party vendors, such as Google (subject to your consent where required by applicable law);
-*   To assist us in offering you a personalized experience or otherwise tailor our Services to you. and
-*   As otherwise described in this privacy notice.
+*   *   *   To provide the requested Services to you;
+        *   To provide you with useful content;
+        *   To ensure the proper functioning of our Services
+        *   To offer and improve our Services;
+        *   To provide you with requested information or technical support
+        *   To facilitate your movement through our websites or your use of our Services;
+        *   To do a better job of advertising and marketing our Services (subject to your consent where required by applicable law);
+        *   To advertise and market third party products and services (subject to your consent where required by applicable law)
+        *   To diagnose problems with our servers or our Services;
+        *   In connection with our security and compliance programs;
+        *   To administer our websites;
+        *   To communicate with you;
+        *   To target current or prospective customers with our products or services through online advertisements served on third-party sites by third-party vendors, such as Google (subject to your consent where required by applicable law);
+        *   To assist us in offering you a personalized experience or otherwise tailor our Services to you. and
+        *   As otherwise described in this privacy notice.
 
 We also use the information we receive to produce reports on trends and statistics, such as mobile search trends, email open rates by industry, campaign best practices or the number of users that have been exposed to, or clicked on, our websites or evaluated or purchased our products or services.
 
@@ -139,12 +147,12 @@ Sharing of Information
 
 As further described below, we will only share certain personal information with:
 
-*   Other members of the Endurance corporate family;
-*   Our partners;
-*   Third party service providers and vendors;
-*   In connection with a sale, merger, acquisition or corporate reorganization;
-*   Authorized users within your organization. and
-*   For legal reasons.
+*   *   *   Other members of the Endurance corporate family;
+        *   Our partners;
+        *   Third party service providers and vendors;
+        *   In connection with a sale, merger, acquisition or corporate reorganization;
+        *   Authorized users within your organization. and
+        *   For legal reasons.
 
 Further information about the third parties with whom we share personal information is available here.
 
@@ -156,9 +164,9 @@ Sharing with Partners
 
 When we share your personal information with certain third-party partners, including marketing and advertising partners, that information includes your name, email address and other information enabling partners to:
 
-*   Assist you in using our Services,
-*   Contact you with offers, services or products that may be of interest to you, and
-*   Provide you with their products or services.
+*   *   *   Assist you in using our Services,
+        *   Contact you with offers, services or products that may be of interest to you, and
+        *   Provide you with their products or services.
 
 Our partners may use cookies, web beacons, pixels, tags, scripts and similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click here, or if you are located in the European Union, click here. Click here to opt out of interest-based advertising on your mobile device(s). Please note you will continue to receive generic ads. Click here to access our Cookie Notice.
 
@@ -194,9 +202,9 @@ Legal Process
 
 If legally required to do so, or if we have a good faith belief that such disclosure is reasonably necessary, we may disclose your personal information to courts of law, public authorities (including to meet national security or law enforcement requirements), and other relevant third parties, such as internet service providers, to conduct an investigation, respond to a third party or law enforcement subpoena or court order, to bring legal action, prevent harm to others or pursue other relief when you or a third party are or may be:
 
-*   Violating our terms and conditions of use;
-*   Causing injury or other harm to, or otherwise violating the property or other legal rights, of us, other users, or third parties. or
-*   Violating federal, state, local, or other applicable law.
+*   *   *   Violating our terms and conditions of use;
+        *   Causing injury or other harm to, or otherwise violating the property or other legal rights, of us, other users, or third parties. or
+        *   Violating federal, state, local, or other applicable law.
 
 This disclosure can include transferring your information to the U.S. and other countries outside the European Economic Area. To the extent we are legally permitted to do so, we will notify you in the event that we are required to provide your personal information to third parties in connection with a subpoena.
 
@@ -256,9 +264,9 @@ You have the right to make requests regarding your personal information. You can
 
 To exercise any of your rights, please send an email to privacy@endurance.com or visit our Privacy Center .
 
-Residents of the European Union and California have additional rights. Click here to learn more.
+Users located in Brazil, the European Union and California have additional rights. Click here to learn more.
 
-In addition to the rights above, residents of the European Union and California have further rights which are detailed below. Please note that some rights only apply in certain circumstances or to certain information and some exceptions may apply.
+In addition to the rights above, Users located in Brazil,  residents of the European Union and California have further rights which are detailed below. Please note that some rights only apply in certain circumstances or to certain information and some exceptions may apply.
 
 We will require you to verify your identity before responding to any requests to exercise your rights.
 
@@ -273,11 +281,25 @@ In addition to the rights outlined above, where the GDPR or related data protect
 
 Residents of California
 
-In addition to the rights outlined above, where the CCPA or related data protection laws apply, you may:
+In addition to the rights outlined above, where the California Consumer Privacy Act 2018 (“CCPA”) or related data protection laws apply, you may:
 
 *   Request to know the categories of personal information we collect about you, as well as the sources from which the personal information is collected. the business or commercial purpose of our collection. the categories of third parties with whom we share your personal information. and the specific pieces of personal information we hold about you.
 *   Request certain information regarding, and/or opt-out of, our disclosure of your personal information to third parties.
 *   Request that we delete the personal information we hold about you in certain limited circumstances.
+
+More information about your rights as a resident of California is available here.
+
+**Users located in Brazil**
+
+In addition to the rights outlined above, where the Lei Geral de Proteção de Dados (“LGPD”) applies, you may:
+
+*   Ask that we provide confirmation of the existence of the processing of your personal  data;
+*   Access the personal data we hold about you and certain information about how we use it and who we share it with including information about any public and private entities we have shared your personal data with;
+*   Request the deletion of personal information we have collected from you, subject to certain exceptions;
+*   Ask us to anonymize, block, or delete unnecessary or excessive data or data that is not being processed in compliance with the LGPD. and
+*   Ask us to provide information about the possibility of denying consent for the processing of your personal data and the consequences of such denial.
+
+More information about your rights as a User located in Brazil is available here.
 
 Third Party Links and Information Collection and Use by Our Users
 
@@ -336,7 +358,7 @@ THE NETHERLANDS
 Telephone: (+31) – (0)70 – 888 85 00  
 Fax: (+31) – (0)70 – 888 85 01
 
-**Last modified July 6, 2020**
+**Last modified August 14, 2020**
 
 Back To Top ©2020 Endurance International Group.
 
