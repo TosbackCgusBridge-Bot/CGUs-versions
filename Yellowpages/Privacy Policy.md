@@ -80,13 +80,15 @@ Skip Navigation
     *   California
     *   Maine
 *   _globe icon_ Global Approach
-    *   Website User GDPR Privacy Notice
+    *   Website User GDPR/LGDP Privacy Notice
     *   ATT Business Customer GDPR Privacy Notice
+    *   ATT Business Customer LGDP Privacy Notice
+    *   Aviso de Privacidade de Clientes Empresariais da AT&T nos termos da LGPD
 *   _stats icon_ Transparency Report
     *   View on the web
     *   Download the English PDF
     *   Download the Spanish PDF
-*   English Español Français Portuguese
+*   English Español Français Português
 
   Our Privacy Approach
 
