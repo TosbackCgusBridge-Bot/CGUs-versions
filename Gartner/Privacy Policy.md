@@ -85,7 +85,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 657 6971
+    1 855 652 8319
     
 
 *   Solutions By Function
@@ -157,7 +157,7 @@ Search
 
 *   Become a Client
     
-    1 855 657 6971
+    1 855 652 8319
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
