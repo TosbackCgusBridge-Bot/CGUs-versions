@@ -123,7 +123,7 @@ Read First Impressions
 
 Are you ready for #SonyKandoEverywhere? We're one week away! REGISTER now to secure your spot 👉  http://bit.ly/KandoEverywhere  pic.twitter.com/RkmAPgM0Kh
 
-6 days ago View Tweet Instagram Post CDWe7JMjPYO
+7 days ago View Tweet Instagram Post CDWe7JMjPYO
 
 New Wireless Headphones
 
