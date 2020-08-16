@@ -174,7 +174,7 @@ My Account Contact Us Shopping Cart Sign Out
     
     *   Dinnerware Sets &. More
     *   Overstocks
-    *   LookbooksShop dinnerware overstocks &. more >.
+    *   LookbooksTake an Additional 25% Off Overstocks >.
 
 *   Our Story
 *   Services
