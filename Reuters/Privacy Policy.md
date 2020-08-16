@@ -2,7 +2,7 @@
 
 *   Product loginsProduct logins
 *   Contact usContact us
-*   Cart
+*   Cart (0)
 
 Thomson Reuters LEGAL
 
