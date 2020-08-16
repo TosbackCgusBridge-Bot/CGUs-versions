@@ -251,23 +251,23 @@ Extreme Engineering Solutions ensures compliance requirements while reducing man
     *   Emailed
     *   Recent
     
-    *   Protecting data in the work-from-home age
-    *   Give employees the right tools to defend against phishing attacks
-    *   Windows 7 has reached end-of-life: Now what?
-    *   AttackIQ Platform v2.17
-    *   California under counted COVID-19 cases after certificate expired
-    
-    *   'We want to have more protection': Arrested pen testers push for Good Samaritan law
-    *   Lesson learned: Failure to patch led to password leak of 900 VPN enterprise servers
-    *   First Look: Hyperproof Compliance Operations Platform
-    *   Microsoft patches 2 actively exploited zero-day flaws
-    *   Five ways to declaw the Meow bot
-    
     *   SANS Institute breach proves anyone can fall victim to a ‘consent phishing’ scam
-    *   Shadow Code in security's blind spot, ups risk of attack
-    *   Tesla RAT adapts, evolves to thwart security
-    *   California under counted COVID-19 cases after certificate expired
-    *   Microsoft patches 2 actively exploited zero-day flaws
+    *   XM Cyber 1.35
+    *   Spirent Communications CyberFlood Data Breach Assessment v2.02
+    *   Colleges reopen amid COVID-19 by bolstering security strategies
+    *   Lesson learned: Failure to patch led to password leak of 900 VPN enterprise servers
+    
+    *   Cyber Criminals Targeting Remote Work to Gain Access to Enterprise Networks and Critical Data
+    *   Business must overcome privacy challenge for facial recognition to thrive
+    *   Stricken electronics firms weigh reward, cost of paying ransom
+    *   Lock down home workers with a mix of tech tools and policies
+    *   More attackers trying to sabotage incident response tactics
+    
+    *   Targeted BEC attacks steal business data in six countries
+    *   A2V teams with utilities to secure supply chain
+    *   SMBs imperiled as low-end RaaS grows more powerful
+    *   Maze delivers on threat to publish data stolen from Canon
+    *   SANS Institute breach proves anyone can fall victim to a ‘consent phishing’ scam
 
 Back to Top
 
@@ -301,8 +301,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
 
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+You can skip this ad in 2 seconds.
