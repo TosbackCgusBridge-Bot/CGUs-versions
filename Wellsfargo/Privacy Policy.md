@@ -1,4 +1,4 @@
-Skip to content
+Digital Privacy and Cookies Policy – Privacy and Security – Wells Fargo Skip to content
 
 *   Sign On
 *   Customer Service
@@ -18,7 +18,7 @@ Search  Opens a dialog.
     
     *   Checking Accounts
     *   Savings Accounts and CDs
-    *   Debit and Prepaid Cards
+    *   Debit Cards
     *   Credit Cards
     *   Foreign Exchange
     *   Global Remittance Services
