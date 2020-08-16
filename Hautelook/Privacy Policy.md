@@ -9,16 +9,37 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   SOREL Up to 60% Off
+    *   SOREL Men Up to 50% Off
+    *   Bailey 44
+    *   SOREL Kids Up to 50% Off
+    *   Tanks &. Tees Under $30 Incl. Plus
+    *   Last Call:Plus Styles Up to 70% Off
+    *   Cozy Robes &. Sleep ft. PJ Salvage
+    *   One-Piece Wonders: Jumpsuits &. Rompers Incl. Plus
+    *   Summer Suiting Under $150 ft. Savile Row Co.
+    *   Leather Bags Under $100 ft. Aimee Kestenberg
+    *   Trendy Jewelry Under $50 ft. Olivia Welles
+    *   Free Shipping: Get Cozy with Pillows &. Throws
+    *   Sandals &. More ft. Intentionally Blank
+    *   Fragrance Gift Sets
+    *   Fresh Finds: Shoes Under $30
+    *   Fresh Finds: Men's Shoes Up to 65% Off
+    *   Fresh Finds: Kids' Shoes Up to 60% Off
+    *   Trending Now: L.O.L. Surprise! &. More
     *   Back to School Shop: Girls' Styles Up to 65% Off
     *   Back to School Shop: Girls' Shoes Up to 65% Off
     *   Back to School Shop: Boys' Styles Up to 65% Off
+    
     *   Back to School Shop: Boys' Shoes Up to 65% Off
     *   Back to School Shop: Denim &. More Up to 85% Off
     *   Back to School Shop: Women's Sneakers Up to 65% Off
     *   Back to School Shop: Men's Sneakers Up to 65% Off
+    *   Pet Life: Pet Accessories &. More from $20
     *   Back to School Shop: Backpacks Up to 65% Off
-    *   Back to School Shop: Active &. Lounge Up to 65% Off
+    *   David Donahue Up to 70% Off
     *   Back to School Shop: Men's Active &. Lounge Starting at $12
+    *   OVERSTOCK ART Blowout Up to 70% Off
     *   Back to School Shop: Kids at Home Learning
     *   Back to School Shop: Face Masks Starting at $15
     *   Back to School Shop: Boots &. Booties Up to 65% Off
@@ -30,74 +51,55 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Back To School Shop: Tops Under $20 Incl. Plus &. Petites
     *   Back to School Shop: Dresses Up to 70% Off Incl. Plus
     *   Makeup: Becca, Lime Crime and IT Cosmetics
+    *   Back to School Shop: Active &. Lounge Up to 65% Off
     
     *   Free Shipping: Bath &. Beach Towels Up to 70% Off
     *   Chain Jewelry
-    *   Back to School Shop: Men's Denim &. More Up to 80% Off
-    *   Cole Haan Up to 60% Off
-    *   Cole Haan Men's Shoes Up to 60% Off
-    *   H by Bordeaux &. More Up to 75% Off Incl. Plus
-    *   Summer Pants Up to 80% Off Incl. Plus
-    *   Nail Polish and Care ft OPI &. Butter London
-    *   David Donahue Up to 70% Off
-    *   Drybar Must-Haves
-    *   OVERSTOCK ART Blowout Up to 70% Off
-    *   Men's Chukka Boots Up to 65% Off
-    *   Girls' Summer Dresses Starting at $12
-    *   Diamond Rings Starting at $80
-    *   Play Outside: Kids' Shoes Starting at $10
-    *   Roberto Cavalli Men Up to 80% Off
+    *   BergHOFF Kitchen Starting at $20
+    *   Rustic Wall Decor &. More Starting at $40
     *   GEOX Kids
     *   Cole Haan Outerwear Up to 80% Off
     *   Free Shipping: Home Decor Starting at $20
     *   Haircare Under $35 ft Biolage &. Paul Mitchell
     *   Date Night In: Men's Shoes up to 65% Off
-    
     *   Wave Hello to These: O'Neill Kids &. More
     *   Cole Haan Men's Clothing &. More Up to 65% Off
     *   Date Night In: Men's Styles Up to 80% Off
-    *   BergHOFF Kitchen Starting at $20
-    *   Date Night In: Shoes &. Accessories
-    *   Fresh for Fall: Activewear Up to 70% Off
-    *   Luxe Brands Up to 85% Off
-    *   Best Basics Up to 70% Off Incl. Plus
-    *   Maxi Dresses Up to 75% Off Incl. Plus
-    *   WFH Essentials Up to 70% Off Incl. Plus
-    *   Nearly Natural Faux Plants
+    *   Back to School Shop: Men's Denim &. More Up to 80% Off
+    *   Cole Haan Up to 60% Off
+    *   Cole Haan Men's Shoes Up to 60% Off
+    *   Nail Polish and Care ft OPI &. Butter London
+    *   Men's Chukka Boots Up to 65% Off
     *   Pure Enrichment
-    *   Sun Brands for Him Starting at $40
-    *   Men's Business Casual Shoes Up to 80% Off
-    *   Men's Sneakers Up to 70% Off ft. Steve Madden
-    *   Murad Skincare
-    *   Rustic Wall Decor &. More Starting at $40
-    *   Pet Life: Pet Accessories &. More from $20
-    *   Dresses Under $100 Incl. Plus
+    *   Nearly Natural Faux Plants
+    *   Drybar Must-Haves
 *   WomenShop Sale Events
     
+    *   SOREL Up to 60% Off
+    *   Bailey 44
+    *   Tanks &. Tees Under $30 Incl. Plus
+    *   Last Call:Plus Styles Up to 70% Off
+    *   Cozy Robes &. Sleep ft. PJ Salvage
+    *   One-Piece Wonders: Jumpsuits &. Rompers Incl. Plus
+    *   Leather Bags Under $100 ft. Aimee Kestenberg
+    *   Trendy Jewelry Under $50 ft. Olivia Welles
+    *   Sandals &. More ft. Intentionally Blank
+    *   Fragrance Gift Sets
+    *   Fresh Finds: Shoes Under $30
     *   Back to School Shop: Denim &. More Up to 85% Off
+    
     *   Back to School Shop: Women's Sneakers Up to 65% Off
     *   Back to School Shop: Backpacks Up to 65% Off
-    *   Back to School Shop: Active &. Lounge Up to 65% Off
     *   Back to School Shop: Face Masks Starting at $15
     *   Back to School Shop: Boots &. Booties Up to 65% Off
     *   Back to School Shop: Outerwear Up to 75% Off
     *   Back to School Shop: Slippers &. More Up to 65% Off
     *   Back To School Shop: Tops Under $20 Incl. Plus &. Petites
     *   Back to School Shop: Dresses Up to 70% Off Incl. Plus
+    *   Back to School Shop: Active &. Lounge Up to 65% Off
     *   Chain Jewelry
-    *   Cole Haan Up to 60% Off
-    
-    *   H by Bordeaux &. More Up to 75% Off Incl. Plus
-    *   Summer Pants Up to 80% Off Incl. Plus
-    *   Diamond Rings Starting at $80
     *   Cole Haan Outerwear Up to 80% Off
-    *   Date Night In: Shoes &. Accessories
-    *   Fresh for Fall: Activewear Up to 70% Off
-    *   Luxe Brands Up to 85% Off
-    *   Best Basics Up to 70% Off Incl. Plus
-    *   Maxi Dresses Up to 75% Off Incl. Plus
-    *   WFH Essentials Up to 70% Off Incl. Plus
-    *   Dresses Under $100 Incl. Plus
+    *   Cole Haan Up to 60% Off
     
     Shop By Category
     *   Clothing
@@ -108,24 +110,23 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
+    *   SOREL Men Up to 50% Off
+    *   Summer Suiting Under $150 ft. Savile Row Co.
+    *   Fresh Finds: Men's Shoes Up to 65% Off
     *   Back to School Shop: Men's Sneakers Up to 65% Off
     *   Back to School Shop: Backpacks Up to 65% Off
+    *   David Donahue Up to 70% Off
     *   Back to School Shop: Men's Active &. Lounge Starting at $12
     *   Back to School Shop: Men's Boots Up to 65% Off
+    
     *   Back to School Shop: Men's Tops Up to 65% Off
     *   Back to School Shop: Men's Outerwear Up to 65% Off
-    *   Back to School Shop: Men's Denim &. More Up to 80% Off
-    *   Cole Haan Men's Shoes Up to 60% Off
-    *   David Donahue Up to 70% Off
-    
-    *   Men's Chukka Boots Up to 65% Off
-    *   Roberto Cavalli Men Up to 80% Off
     *   Date Night In: Men's Shoes up to 65% Off
     *   Cole Haan Men's Clothing &. More Up to 65% Off
     *   Date Night In: Men's Styles Up to 80% Off
-    *   Sun Brands for Him Starting at $40
-    *   Men's Business Casual Shoes Up to 80% Off
-    *   Men's Sneakers Up to 70% Off ft. Steve Madden
+    *   Back to School Shop: Men's Denim &. More Up to 80% Off
+    *   Cole Haan Men's Shoes Up to 60% Off
+    *   Men's Chukka Boots Up to 65% Off
     
     Shop By Category
     *   Clothing
@@ -133,56 +134,58 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   SOREL Kids Up to 50% Off
+    *   Fresh Finds: Kids' Shoes Up to 60% Off
+    *   Trending Now: L.O.L. Surprise! &. More
     *   Back to School Shop: Girls' Styles Up to 65% Off
     *   Back to School Shop: Girls' Shoes Up to 65% Off
     *   Back to School Shop: Boys' Styles Up to 65% Off
+    
     *   Back to School Shop: Boys' Shoes Up to 65% Off
     *   Back to School Shop: Backpacks Up to 65% Off
     *   Back to School Shop: Kids at Home Learning
-    *   Girls' Summer Dresses Starting at $12
-    *   Play Outside: Kids' Shoes Starting at $10
     *   GEOX Kids
     *   Wave Hello to These: O'Neill Kids &. More
     
     Shop By Category
     *   Girls
     *   Girls' Shoes
-    *   Boys' Shoes
     *   Boys
+    *   Boys' Shoes
     *   Toys
     *   Baby
 *   HomeShop Sale Events
     
-    *   Free Shipping: Bath &. Beach Towels Up to 70% Off
-    *   OVERSTOCK ART Blowout Up to 70% Off
-    *   Free Shipping: Home Decor Starting at $20
-    *   BergHOFF Kitchen Starting at $20
-    *   Nearly Natural Faux Plants
-    *   Pure Enrichment
-    *   Rustic Wall Decor &. More Starting at $40
+    *   Free Shipping: Get Cozy with Pillows &. Throws
     *   Pet Life: Pet Accessories &. More from $20
+    *   OVERSTOCK ART Blowout Up to 70% Off
+    *   Free Shipping: Bath &. Beach Towels Up to 70% Off
+    *   BergHOFF Kitchen Starting at $20
+    *   Rustic Wall Decor &. More Starting at $40
+    *   Free Shipping: Home Decor Starting at $20
+    *   Pure Enrichment
+    *   Nearly Natural Faux Plants
     
     Shop By Category
     *   Home Decor
     *   Pet Accessories
     *   Kitchen &. Tabletop
+    *   Bath
     *   Electronic &. Tech Accessories
     *   Outdoor Living
-    *   Bath
     *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Fragrance Gift Sets
     *   Makeup: Becca, Lime Crime and IT Cosmetics
+    *   Haircare Under $35 ft Biolage &. Paul Mitchell
     *   Nail Polish and Care ft OPI &. Butter London
     *   Drybar Must-Haves
-    *   Haircare Under $35 ft Biolage &. Paul Mitchell
-    *   Murad Skincare
     
     Shop By Category
-    *   Nails
     *   Makeup
+    *   Nails
     *   Hair Care
-    *   Skin Care
     *   Tools &. Accessories
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
