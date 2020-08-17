@@ -251,19 +251,19 @@ Extreme Engineering Solutions ensures compliance requirements while reducing man
     *   Emailed
     *   Recent
     
-    *   SANS Institute breach proves anyone can fall victim to a ‘consent phishing’ scam
-    *   XM Cyber 1.35
-    *   Spirent Communications CyberFlood Data Breach Assessment v2.02
-    *   Colleges reopen amid COVID-19 by bolstering security strategies
-    *   Lesson learned: Failure to patch led to password leak of 900 VPN enterprise servers
-    
-    *   Cyber Criminals Targeting Remote Work to Gain Access to Enterprise Networks and Critical Data
-    *   Business must overcome privacy challenge for facial recognition to thrive
+    *   Coordinated attack on Reddit spreads pro-Trump messaging
     *   Stricken electronics firms weigh reward, cost of paying ransom
-    *   Lock down home workers with a mix of tech tools and policies
-    *   More attackers trying to sabotage incident response tactics
+    *   What security functions should small medical providers outsource?
+    *   Give employees the right tools to defend against phishing attacks
+    *   The Picus Security Validation Platform 3113
     
-    *   Targeted BEC attacks steal business data in six countries
+    *   Financial institutions likely to doubledown on security spending
+    *   Cyber Criminals Targeting Remote Work to Gain Access to Enterprise Networks and Critical Data
+    *   Protecting data in the work-from-home age
+    *   Why a cloud-native platform is a requirement for modern cybersecurity
+    *   Shadow Code in security's blind spot, ups risk of attack
+    
+    *   Targeted BEC attacks steal business data in six countries, posing as HR
     *   A2V teams with utilities to secure supply chain
     *   SMBs imperiled as low-end RaaS grows more powerful
     *   Maze delivers on threat to publish data stolen from Canon
