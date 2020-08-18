@@ -9,6 +9,23 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   The North Face Starting at $55
+    *   The North Face Men Outerwear, Shoes &. More
+    *   The North Face Backpacks
+    *   The North Face Kids
+    *   Dresses from Tommy Hilfiger &. More Incl. Plus
+    *   Franco Sarto Up to 70% Off
+    *   Floral Styles Up to 70% Off Incl. Plus
+    *   Cropped Styles Up to 75% Off Incl. Plus
+    *   Ready for Rain: Boots &. More Up to 60% Off
+    *   adidas Active Under $50
+    *   Brands We Love: Handbags Up To 60% Off
+    *   Casual Styles ft. Cloth &. Stone
+    *   Sneakers ft. Report Up to 60% Off
+    *   Free Shipping: Green Thumb's Paradise
+    *   Home Organization Starting at $20
+    *   Men's Boots Up to 50% Off
+    *   Kids' Rainboots &. More ft. Hunter
     *   Sunday Steals Up to 85% Off Incl. Plus
     *   Savvy Cie Jewelry Up to 75% Off
     *   Summer Sandals Up to 65% Off
@@ -21,8 +38,8 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Skirts Up to 75% Off Incl. Plus
     *   Shorts, Pants &. More Up to 75% Off Incl. Plus
     *   Porsamo Bleu Watches Up to 85% Off
+    
     *   Free Shipping: Bedding at 70% Off
-    *   Fragrance Gift Sets
     *   Lazy Day Faves: Sleep &. Lounge Up to 65% Off
     *   Kenneth Cole Shoes Up to 70% Off
     *   Best for Baby: Footies, Gear &. More
@@ -34,7 +51,6 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Last Call:Plus Styles Up to 70% Off
     *   Cozy Robes &. Sleep ft. PJ Salvage
     *   One-Piece Wonders: Jumpsuits &. Rompers Incl. Plus
-    
     *   Leather Bags Under $100 ft. Aimee Kestenberg
     *   Trendy Jewelry Under $50 ft. Olivia Welles
     *   Free Shipping: Get Cozy with Pillows &. Throws
@@ -50,43 +66,49 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Back to School Shop: Denim &. More Up to 85% Off
     *   Back to School Shop: Women's Sneakers Up to 65% Off
     *   Back to School Shop: Men's Sneakers Up to 65% Off
-    *   Back to School Shop: Backpacks Up to 65% Off
     *   Back to School Shop: Men's Active &. Lounge Starting at $12
-    *   Back to School Shop: Men's Denim &. More Up to 80% Off
     *   Back to School Shop: Kids at Home Learning
-    *   Back to School Shop: Face Masks Starting at $15
+    
     *   Back to School Shop: Boots &. Booties Up to 65% Off
     *   Back to School Shop: Outerwear Up to 75% Off
     *   Back to School Shop: Men's Boots Up to 65% Off
     *   Back to School Shop: Men's Tops Up to 65% Off
     *   Back to School Shop: Men's Outerwear Up to 65% Off
-    
     *   Back to School Shop: Slippers &. More Up to 65% Off
     *   Back To School Shop: Tops Under $20 Incl. Plus &. Petites
     *   Back to School Shop: Dresses Up to 70% Off Incl. Plus
     *   Makeup: Becca, Lime Crime and IT Cosmetics
-    *   Summer Suiting Under $150 ft. Savile Row Co.
+    *   Back to School Shop: Active &. Lounge Up to 65% Off
     *   Free Shipping: Bath &. Beach Towels Up to 70% Off
-    *   Pet Life: Pet Accessories &. More from $20
-    *   Chain Jewelry
-    *   BergHOFF Kitchen Starting at $20
-    *   Rustic Wall Decor &. More Starting at $40
-    *   GEOX Kids
     *   Free Shipping: Home Decor Starting at $20
     *   Haircare Under $35 ft Biolage &. Paul Mitchell
-    *   Date Night In: Men's Shoes up to 65% Off
-    *   Wave Hello to These: O'Neill Kids &. More
-    *   Blouses &. More Under $30 Incl. Plus
     *   CALPAK Luggage
-    *   Lucky Denim Men Under $50
+    *   Blouses &. More Under $30 Incl. Plus
+    *   Summer Suiting Under $150 ft. Savile Row Co.
+    *   Fragrance Gift Sets
     *   Trending Now: L.O.L. Surprise! &. More
-    *   Back to School Shop: Active &. Lounge Up to 65% Off
-    *   Nail Polish and Care ft OPI &. Butter London
+    *   Back to School Shop: Men's Denim &. More Up to 80% Off
+    *   Pet Life: Pet Accessories &. More from $20
     *   OVERSTOCK ART Blowout Up to 70% Off
     *   Pure Enrichment
+    *   BergHOFF Kitchen Starting at $20
     *   Nearly Natural Faux Plants
+    *   Lucky Denim Men Under $50
+    *   Back to School Shop: Backpacks Up to 65% Off
+    *   Back to School Shop: Face Masks Starting at $15
 *   WomenShop Sale Events
     
+    *   The North Face Starting at $55
+    *   The North Face Backpacks
+    *   Dresses from Tommy Hilfiger &. More Incl. Plus
+    *   Franco Sarto Up to 70% Off
+    *   Floral Styles Up to 70% Off Incl. Plus
+    *   Cropped Styles Up to 75% Off Incl. Plus
+    *   Ready for Rain: Boots &. More Up to 60% Off
+    *   adidas Active Under $50
+    *   Brands We Love: Handbags Up To 60% Off
+    *   Casual Styles ft. Cloth &. Stone
+    *   Sneakers ft. Report Up to 60% Off
     *   Sunday Steals Up to 85% Off Incl. Plus
     *   Savvy Cie Jewelry Up to 75% Off
     *   Summer Sandals Up to 65% Off
@@ -96,15 +118,14 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Skirts Up to 75% Off Incl. Plus
     *   Shorts, Pants &. More Up to 75% Off Incl. Plus
     *   Porsamo Bleu Watches Up to 85% Off
-    *   Fragrance Gift Sets
     *   Lazy Day Faves: Sleep &. Lounge Up to 65% Off
     *   Kenneth Cole Shoes Up to 70% Off
+    
     *   SOREL Up to 60% Off
     *   Bailey 44
     *   Tanks &. Tees Under $30 Incl. Plus
     *   Last Call:Plus Styles Up to 70% Off
     *   Cozy Robes &. Sleep ft. PJ Salvage
-    
     *   One-Piece Wonders: Jumpsuits &. Rompers Incl. Plus
     *   Leather Bags Under $100 ft. Aimee Kestenberg
     *   Trendy Jewelry Under $50 ft. Olivia Welles
@@ -112,27 +133,30 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Fresh Finds: Shoes Under $30
     *   Back to School Shop: Denim &. More Up to 85% Off
     *   Back to School Shop: Women's Sneakers Up to 65% Off
-    *   Back to School Shop: Backpacks Up to 65% Off
-    *   Back to School Shop: Face Masks Starting at $15
     *   Back to School Shop: Boots &. Booties Up to 65% Off
     *   Back to School Shop: Outerwear Up to 75% Off
     *   Back to School Shop: Slippers &. More Up to 65% Off
     *   Back To School Shop: Tops Under $20 Incl. Plus &. Petites
     *   Back to School Shop: Dresses Up to 70% Off Incl. Plus
-    *   Chain Jewelry
-    *   Blouses &. More Under $30 Incl. Plus
     *   Back to School Shop: Active &. Lounge Up to 65% Off
+    *   Blouses &. More Under $30 Incl. Plus
+    *   Fragrance Gift Sets
+    *   Back to School Shop: Backpacks Up to 65% Off
+    *   Back to School Shop: Face Masks Starting at $15
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Handbags
+    *   Jewelry
     *   Accessories
     *   Lingerie &. Shapewear
     *   Watches
 *   MenShop Sale Events
     
+    *   The North Face Men Outerwear, Shoes &. More
+    *   The North Face Backpacks
+    *   Men's Boots Up to 50% Off
     *   Men's Boots Blowout
     *   Men's Swim Blowout
     *   Dr. Martens Men
@@ -140,17 +164,16 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   SOREL Men Up to 50% Off
     *   Fresh Finds: Men's Shoes Up to 65% Off
     *   Back to School Shop: Men's Sneakers Up to 65% Off
-    *   Back to School Shop: Backpacks Up to 65% Off
-    *   Back to School Shop: Men's Active &. Lounge Starting at $12
     
-    *   Back to School Shop: Men's Denim &. More Up to 80% Off
+    *   Back to School Shop: Men's Active &. Lounge Starting at $12
     *   Back to School Shop: Men's Boots Up to 65% Off
     *   Back to School Shop: Men's Tops Up to 65% Off
     *   Back to School Shop: Men's Outerwear Up to 65% Off
-    *   Summer Suiting Under $150 ft. Savile Row Co.
-    *   Date Night In: Men's Shoes up to 65% Off
     *   CALPAK Luggage
+    *   Summer Suiting Under $150 ft. Savile Row Co.
+    *   Back to School Shop: Men's Denim &. More Up to 80% Off
     *   Lucky Denim Men Under $50
+    *   Back to School Shop: Backpacks Up to 65% Off
     
     Shop By Category
     *   Clothing
@@ -159,59 +182,63 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Watches
 *   KidsShop Sale Events
     
+    *   The North Face Backpacks
+    *   The North Face Kids
+    *   Kids' Rainboots &. More ft. Hunter
     *   Best for Baby: Footies, Gear &. More
     *   Dr. Martens Kids
     *   SOREL Kids Up to 50% Off
     *   Fresh Finds: Kids' Shoes Up to 60% Off
+    
     *   Back to School Shop: Girls' Styles Up to 65% Off
     *   Back to School Shop: Girls' Shoes Up to 65% Off
     *   Back to School Shop: Boys' Styles Up to 65% Off
-    
     *   Back to School Shop: Boys' Shoes Up to 65% Off
-    *   Back to School Shop: Backpacks Up to 65% Off
     *   Back to School Shop: Kids at Home Learning
-    *   GEOX Kids
-    *   Wave Hello to These: O'Neill Kids &. More
     *   Trending Now: L.O.L. Surprise! &. More
+    *   Back to School Shop: Backpacks Up to 65% Off
     
     Shop By Category
     *   Girls
     *   Girls' Shoes
-    *   Boys
     *   Boys' Shoes
+    *   Boys
     *   Toys
     *   Baby
 *   HomeShop Sale Events
     
+    *   The North Face Backpacks
+    *   Free Shipping: Green Thumb's Paradise
+    *   Home Organization Starting at $20
     *   Free Shipping: Bedding at 70% Off
     *   Free Shipping: Get Cozy with Pillows &. Throws
     *   Free Shipping: Bath &. Beach Towels Up to 70% Off
-    *   Pet Life: Pet Accessories &. More from $20
-    *   BergHOFF Kitchen Starting at $20
-    *   Rustic Wall Decor &. More Starting at $40
+    
     *   Free Shipping: Home Decor Starting at $20
+    *   Pet Life: Pet Accessories &. More from $20
     *   OVERSTOCK ART Blowout Up to 70% Off
     *   Pure Enrichment
+    *   BergHOFF Kitchen Starting at $20
     *   Nearly Natural Faux Plants
     
     Shop By Category
     *   Home Decor
     *   Pet Accessories
     *   Kitchen &. Tabletop
+    *   Bedding
     *   Bath
+    *   Luggage &. Travel
     *   Electronic &. Tech Accessories
     *   Outdoor Living
-    *   Luggage &. Travel
+    *   Cleaning &. Organization
 *   BeautyShop Sale Events
     
-    *   Fragrance Gift Sets
     *   Makeup: Becca, Lime Crime and IT Cosmetics
     *   Haircare Under $35 ft Biolage &. Paul Mitchell
-    *   Nail Polish and Care ft OPI &. Butter London
+    *   Fragrance Gift Sets
     
     Shop By Category
     *   Makeup
-    *   Nails
     *   Tools &. Accessories
     *   Hair Care
     *   Fragrance
