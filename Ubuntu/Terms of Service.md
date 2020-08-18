@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   How to build a snap using ROS 2 Foxy
+*   Canonical demoes its Kubernetes solutions live at KubeCon EU 2020!
 *   Optimised authentication methods for Ubuntu Desktop
-*   OpenStack Charms 20.08 – TrilioVault, Arista and more
-*   Trilio and Canonical extend partnership to enable data protection for Charmed OpenStack
