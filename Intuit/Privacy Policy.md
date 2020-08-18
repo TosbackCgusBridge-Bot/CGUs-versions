@@ -1,7 +1,6 @@
 Shop safe! Masks are required for anyone entering the store. Details  
 EXTRA 30% OFF $75+ with code: STYLE21 Details  
 EXTRA 25% OFF under $75 with code: STYLE21 Details  
-Last day! UP TO 60% OFF Site-wide savings galore! Shop All  
 Free Shipping Over $49  DetailsShop safe! Masks are required for anyone entering the store. Details  
 EXTRA 30% OFF $75+ with code: STYLE21 Details  
 
@@ -24,20 +23,15 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Juniors' Tee**$8.24\* (**$10.99)Guys' Arizona polo**$7.49\*** ($9.99)Women's sandals**$14.99\*** ($19.99)Liz Claiborne jewelry **+EXTRA 25% OFF\*** (50% OFF)Juniors' jeans**$20.24\*** ($26.99)Cooks 5-in-1 power blender**$20.69\*** ($22.99)Arizona kids' jeans or boys' joggers**$13.49\*** ($17.99) Guys' Arizona jeans**$18.74\*** ($24.99) Ambrielle cotton bra**$9.74\*** ($12.99)JCPenney Home quick-dri bath towel**$5.24\*** ($6.99) JCPenney Home Hilton 84" rod-pocket curtain**$11.99\*** ($15.99)Kids' IZOD uniform polo**$4.50\*** ($6)JuniorsYoung MenKidsBackpacksHomeschoolUP TO 50% OFF ArizonaMust-have pieces to wear anywhere and everywhere. select styles
+JuniorsYoung MenBoysGirlsUP TO 25% OFFBest brands, awesome prices!select styles | Excluded from coupons.adidasChampionPumaReebokIntroducing big &. tall Puma activewear!Excluded from coupons.
 
 *   Shop All
 
-*   Young Men
-    
-*   Juniors
-    
-*   Boys
-    
-*   Girls
-    
+For HerFor HimBoysGirlsBring on the basicsSave on must-haves for the family!select styles20% OFFMen's underwearBUY 1 GET 1 50% OFF\*Women's brasBUY 1 GET 1 50% OFF\*Girls' socks &. underwearBUY 1 GET 1 50% OFF\*Boys' socks &. underwear40-50% OFFWherever your office may be, suit up with the 3B's:blouses, blazers, button-downs!Shop Worthington select stylesShop Staffordselect styles A dream come true UP TO 50% OFF Homeselect styles
 
-Shop AllMenWomenGirlsBoysMoving &. groovingBig savings on athletic styles? Winning!25% OFF Champion apparelselect styles | Excluded from coupons.UP TO 40% OFF Xersion apparelselect styles Stock smart!More basics means more time between loads!select stylesBUY 1 GET 1 50% OFF\*Women's bras20% OFFMen's underwearBUY 1 GET 1 50% OFF\*Kids' basicsBUY 1 GET 1 50% OFF\*Boys' socks &. underwearUP TO 40% OFF Easy, breezy styles Update your summer highlight reel with cool looks from head to toe.select stylesCasual Apparel for HimCasual Apparel for HerUP TO 40% OFF Dorm their wayCozy styles to create their own space, home or away.select styles
+*   Shop All
+
+BeddingRugsWindowDecorShop Salon haircareShop Beauty at Sephora inside JCPenneySephora excluded from coupons.JuniorsYoung MenKidsBackpacksHomeschoolUP TO 40% OFF Dorm their wayCozy styles to create their own space, home or away.select styles
 
 *   Shop All
 
@@ -50,43 +44,34 @@ Shop AllMenWomenGirlsBoysMoving &. groovingBig savings on athletic styles? Winni
 *   Storage &. Organization
     
 
-Shop AllUP TO 40% OFF Kitchen essentialsMeal prep made easy? Now you're cooking!select styles
+Shop AllWomenMenBaby &. KidsShoes
 
-*   Shop All
+\*Buy one item at regular price, get the second item of equal or lesser value for either 50% off or free, as advertised in the specific offer. Some items must be same category of merchandise or same gender. See store associate or jcp.com for details.
 
-*   Cookware
-    
-*   Kitchen Appliances
-    
-*   Cutlery &. Kitchen Knives
-    
-*   Food Storage
-    
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-Shop AllGet 'em while they're hauteThe best names in beauty have everything you need to look and feel your best.  UP TO 15% OFF Salon haircareselect stylesBeauty Trending Right NowExcluded from coupons.WomenMenBaby &. KidsShoes
-
-\***For BOGO offer**: Buy one item at regular price, get the second item of equal or lesser value for either 50% off or free, as advertised in the specific offer. Some items must be same category of merchandise or same gender. See store associate or jcp.com for details. **For coupon offer: Coupon required.** Some restrictions and exclusions apply. See coupon for details. Prices shown reflect coupon discount.
-
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 20 total items loaded in Media GalleryFollow @jcpenney Recommended for You
-
-*   Nike Air Max Motion 2 Womens Running Shoes
+*   Urban Decay Naked Ultraviolet Eyeshadow Palette
     
-    $85 - $90
+    $49
     
-    25
-*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $5.99with code~$13~88
+    477
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+    
+    $124.98
+    
+    141
+*   a.n.a Womens Knit Waist Short $9.74with code~$30~31
 *   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
-    $20sale
+    $124.98
     
-    ~$124.98~208
-*   Clarks Womens Brinkley Jazz Flip-Flops
+    208
+*   Nike Mens Athletic Fit Jogger Pant
     
     $34.99sale
     
-    ~$55~323
-*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.74with code~$32~15
-*   Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set $9.74 - $22.49with code~$26 - $60~1728
+    ~$40~5
+*   Playtex 18 Hour® Comfort Strap® Wireless Comfort Full Coverage Bra-4693 $18.74with code~$36~5546
 
 Shop and Save at JCPenney
 
