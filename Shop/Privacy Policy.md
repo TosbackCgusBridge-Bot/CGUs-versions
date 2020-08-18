@@ -107,9 +107,11 @@ Lenovo Explore Close
         *   Price Match Guaranteed
         
         *   Explore Tablets
-        *   With Android
-        *   With Windows
-        *   Smart Tab
+        *   Android Tablets
+        *   Chrome Tablets
+        *   Smart Tab with Google
+        *   Smart Tab with Alexa
+        *   Tablets for Education
         *   Tablets for Business
         
         *   Best Selling Tablets
@@ -118,6 +120,7 @@ Lenovo Explore Close
         *   For Performance
         *   For a Gift
         *   Best Bargain
+        *   Recommended Smart Product
         
         Back to School
         
@@ -561,8 +564,8 @@ Lenovo Explore Close
         
         Need assistance with your device? Click here for support.
         
-*   SERVICES
-    *   SERVICES
+*   Services &. Solutions
+    *   Services &. Solutions
     *   Warranty Lookup
     *   PC Services
         
@@ -596,6 +599,7 @@ Lenovo Explore Close
         *   Implementation Services
         *   Support Services
         *   TruScale Infrastructure Services
+    *   Solutions
     *   Support
         
         *   Twitter @LenovoSupport
@@ -629,7 +633,7 @@ Lenovo Explore Close
 1-855-253-6686 option #2
 
 *   Search
-*   icon-compare0 Compare Compare (0)
+
 *   LenovoPro
     *   Sign In To LenovoPRO For Small Business
     *   Learn more
@@ -717,13 +721,7 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
-
-Please add at least 2 products for compare
-
-Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
-
-Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
 Privacy Statement"/>.
 
