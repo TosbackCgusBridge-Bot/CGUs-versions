@@ -28,9 +28,9 @@ Lands' End let's get comfy™ Sign In menu
 
 0 Free Shipping on $75+
 
-20% off full-price uniform styles (prices reflect savings) + 50% off backpacks!
+Receive up to 40% off your order!
 
-code: BACKPACK pin: PROMOTION DETAILS
+code: BAT pin: PROMOTION DETAILS
 
 Customer Service Menu
 
