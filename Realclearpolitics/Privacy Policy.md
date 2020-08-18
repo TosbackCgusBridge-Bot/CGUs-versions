@@ -51,29 +51,28 @@ Subscribe Sign In | Subscribe Ad-Free
     *   Bill Scher
     *   A.B. Stoddard
     *   Frank Miele
-    *   Steve Cortes
     *   Contributors
     *   Jared D. Carl
-    *   Sandy Maisel
     *   L. Sandy Maisel
-    *   Wendell L. Willkie II
-    *   Josef Joffe
-    *   Lance Trover
     *   Richard Porter
-    *   Haley Barbour
-    *   William A. Pierce
     *   Luis Farias
-    *   Mary Vought
-    *   Sen. Rob Portman
-    *   Jessica Curtis
-    *   Steve McIntosh
-    *   Ted Dabrowski
-    *   Mark Glennon
-    *   Russell Muirhead
-    *   Adam Brandon
     *   Ann Ravel
+    *   Jessica Curtis
+    *   Wendell L. Willkie II
+    *   Lance Trover
+    *   William A. Pierce
+    *   Steve McIntosh
+    *   Mary Vought
+    *   Adam Brandon
+    *   Russell Muirhead
+    *   Josef Joffe
+    *   Mark Glennon
+    *   Haley Barbour
     *   Marco Rubio
+    *   Ted Dabrowski
+    *   Sen. Rob Portman
     *   John Hart
+    *   Sandy Maisel
     *   Lou Cannon
     *   Charles Lipson
     *   Anneke E. Green
