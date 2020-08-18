@@ -9,15 +9,22 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
-    *   The Bay of Silence (2020)
-    *   In the Life of Music
-    *   Spree (2020)
+    *   Inception 10th Anniversary
+    *   Unhinged (2020)
+    *   The 24th (2020)
+    *   Cut Throat City
+    *   Desert One (2020)
+    *   The Pale Door (2020)
+    *   Stage Mother (2020)
+    *   Tesla (2020)
+    *   Words on Bathroom Walls
     *   See All Opening This Week
     
     Coming Soon
     
     *   Unhinged (2020)
     *   Bill &. Ted Face the Music
+    *   The New Mutants
     *   Tenet
     *   The King's Man
     *   Honest Thief (2020)
