@@ -40,15 +40,15 @@ Stock Quote and Chart
 
 Price
 
-$21.15
+$21.09
 
 Change
 
-+0.07
+\-0.06
 
 Percent Change
 
-(+0.33%)
+(-0.28%)
 
 Data Provided by Refinitiv. Minimum 15 minutes delayed.
 
