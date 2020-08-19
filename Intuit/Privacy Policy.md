@@ -1,12 +1,13 @@
 Shop safe! Masks are required for anyone entering the store. Details  
 EXTRA 30% OFF $75+ with code: STYLE21 Details  
 EXTRA 25% OFF under $75 with code: STYLE21 Details  
-Free Shipping Over $49  DetailsShop safe! Masks are required for anyone entering the store. Details  
+Free Shipping Over $49  DetailsSchool Uniforms Flash Sale! 40% OFF with code: UNIFORM8 Details  
+Shop safe! Masks are required for anyone entering the store. Details  
 EXTRA 30% OFF $75+ with code: STYLE21 Details  
 
 Enable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresLynnhaven MallMore Stores701 Lynn Haven Pkwy, Virginia Beach, VA, 23452757-463-4270 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
     *   JCP Credit CardCart
@@ -23,15 +24,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-JuniorsYoung MenBoysGirlsUP TO 25% OFFBest brands, awesome prices!select styles | Excluded from coupons.adidasChampionPumaReebokIntroducing big &. tall Puma activewear!Excluded from coupons.
-
-*   Shop All
-
-For HerFor HimBoysGirlsBring on the basicsSave on must-haves for the family!select styles20% OFFMen's underwearBUY 1 GET 1 50% OFF\*Women's brasBUY 1 GET 1 50% OFF\*Girls' socks &. underwearBUY 1 GET 1 50% OFF\*Boys' socks &. underwear40-50% OFFWherever your office may be, suit up with the 3B's:blouses, blazers, button-downs!Shop Worthington select stylesShop Staffordselect styles A dream come true UP TO 50% OFF Homeselect styles
-
-*   Shop All
-
-BeddingRugsWindowDecorShop Salon haircareShop Beauty at Sephora inside JCPenneySephora excluded from coupons.JuniorsYoung MenKidsBackpacksHomeschoolUP TO 40% OFF Dorm their wayCozy styles to create their own space, home or away.select styles
+JuniorsYoung MenBoysGirlsJuniorsYoung MenKidsBackpacksHomeschoolUP TO 40% OFF Dorm their wayCozy styles to create their own space, home or away.select styles
 
 *   Shop All
 
@@ -44,34 +37,38 @@ BeddingRugsWindowDecorShop Salon haircareShop Beauty at Sephora inside JCPenneyS
 *   Storage &. Organization
     
 
-Shop AllWomenMenBaby &. KidsShoes
+Shop AllFor HerFor HimBoysGirlsUP TO 25% OFFBest brands, awesome prices!select styles | Excluded from coupons.adidasChampionPumaReebokIntroducing big &. tall Puma activewear!Excluded from coupons.
+
+*   Shop All
+
+Bring on the basicsSave on must-haves for the family!select styles20% OFFMen's underwearBUY 1 GET 1 50% OFF\*Women's brasBUY 1 GET 1 50% OFF\*Girls' socks &. underwear$9 EA.Face masks40-50% OFFWherever your office may be, suit up with the 3B's:blouses, blazers, button-downs!Shop Worthington select stylesShop Staffordselect styles A dream come true UP TO 50% OFF Homeselect styles
+
+*   Shop All
+
+BeddingRugsWindowDecorShop Salon haircareShop Beauty at Sephora inside JCPenneySephora excluded from coupons.WomenMenBaby &. KidsShoes
 
 \*Buy one item at regular price, get the second item of equal or lesser value for either 50% off or free, as advertised in the specific offer. Some items must be same category of merchandise or same gender. See store associate or jcp.com for details.
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Urban Decay Naked Ultraviolet Eyeshadow Palette
+*   Limited Edition! Womens 1 CT. T.W. Genuine White Diamond 10K White Gold Bridal Set $1274.98with code28
+*   Nike Flight Legacy Mens Basketball Shoes
     
-    $49
+    $90
     
-    477
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $124.98
-    
-    141
-*   a.n.a Womens Knit Waist Short $9.74with code~$30~31
+    2
 *   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $124.98
     
     208
-*   Nike Mens Athletic Fit Jogger Pant
+*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $26.99 - $40.49with code~$60 - $90~122
+*   Home Expressions Lisette Rod-Pocket Sheer Panel
     
-    $34.99sale
+    $4.99 - $27.99sale
     
-    ~$40~5
-*   Playtex 18 Hour® Comfort Strap® Wireless Comfort Full Coverage Bra-4693 $18.74with code~$36~5546
+    ~$16 - $40~1249
+*   a.n.a-Womens V Neck Short Sleeve T-Shirt $5.99with code~$13~11
 
 Shop and Save at JCPenney
 
