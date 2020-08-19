@@ -34,8 +34,8 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
 *   Cookies &. Technologies
 *   Children's Privacy
 *   Your Choices &. Controls
-*   Your Privacy Rights
 *   Hot Wheels™ id FAQ
+*   Your Privacy Rights
 *   Contact Us
 
 *   Menu
@@ -73,8 +73,8 @@ Main navigation Our Brands About Us Our Stores American Girl Shop Fisher Price S
     *   Cookies &. Technologies
     *   Children's Privacy
     *   Your Choices &. Controls
-    *   Your Privacy Rights
     *   Hot Wheels™ id FAQ
+    *   Your Privacy Rights
     *   Contact Us
 
 Mattel Online Privacy Statement
