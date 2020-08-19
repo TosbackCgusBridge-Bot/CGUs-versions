@@ -2,7 +2,8 @@ close
 
 *   Gift Baskets
     
-    View All Categories Shop by Category*   Fruit Baskets
+    View All Categories Shop by Category*   Wine Gift Baskets
+    *   Fruit Baskets
     *   Sweet &. Savory Gifts
     *   Gift Boxes
     *   Gift Towers &. Crates
@@ -94,7 +95,8 @@ close
 
 *   Gift Baskets
     
-    View All Categories Shop by Category*   Fruit Baskets
+    View All Categories Shop by Category*   Wine Gift Baskets
+    *   Fruit Baskets
     *   Sweet &. Savory Gifts
     *   Gift Boxes
     *   Gift Towers &. Crates
