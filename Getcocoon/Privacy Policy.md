@@ -1,112 +1,68 @@
- 
-
-*   *   Download
-    *   Sign Up
-    *   MyData Rewards
-    *   How It Works
+*   *   Sign Up
+    *   Download
     *   Support
 
-*   How It Works
-    *   Anti-Virus
-    *   Security
-    *   Privacy
-    *   Portability
 *   Support
-    *   FAQ
-    *   Tutorials
-    *   Contact
 *   Download
 *   Sign Up
-*   MyData Rewards
 
-Company Info Pages
+Profit From Your Data
 
-*   Company Info
-*   Press Room
-*   Terms of Service
-*   Privacy Policy
-*   Contact
+Big companies make money from your data, so should you! Try Cocoon MDR™, the free app that pays cash for your data.
+
+Available for Mac, Windows, and Android
+
+Geolocation Data EARN CASH EASILY on-the-go
+
+Easily make money everyday as you move around, since EVERYWHERE YOU GO EARNS rewards. Ride to school or work, walk through the mall, or bike through a park and you will get paid for sharing your geolocation data with Cocoon MDR™. (Currently available only on mobile devices running Android and available in 10 countries\*. Coming soon to iOS devices.)
+
+For Desktop EARN CASH EASILY with everyday browsing
+
+Whether you are shopping Online, watching videos, or surfing the Net for the latest news and trends you can do it all while earning money at the same time. Cocoon MDR™ is a Chrome-based browser to give you the best experience possible. Start earning money just for surfing the Internet like you already do. (Currently available only to USA users and only on devices running Windows or MacOS. Coming soon to mobile devices.)
+
+Take Control STOP GIVING AWAY YOUR DATA FOR FREE
+
+Big companies like Google and Facebook profit from your data without paying you a single penny. Now you can easily TAKE CONTROL and GET PAID for sharing your data with Cocoon MDR™. Help change the industry and get your fair share today!
+
+3 Reasons to Start Selling Your Data and earn easy cash with Cocoon MDR™  
+We Value Your Privacy
+
+What information do we collect? The Cocoon MDR™ app collects ANONYMOUS behavioral data. We do not collect any PII (personal identifiable information), for example, first and last names, and email addresses. In addition, you always have full control and can easily turn data sharing on or off at any time.
 
   
-Contact Virtual World Computing  
-5383 Hollister Avenue, Suite 140  
-Santa Barbara, CA 93111  
-Office: 805.845.9200  
-Privacy Policy
+Cashout Fast, No Bank Info Needed
 
-It is our goal to provide in plain English, the clearest, most concise, and most accurate privacy policy on the Internet. We are open to your suggestions for any changes we could include to make this more clear.
+To get paid, we don't require any bank information. Cash out and transfer your MyData Rewards™ balance to PayPal at any time. Enter PayPal account information in your MDR™ account dashboard, then every quarter your rewards are automatically deposited for free! The fine print: the minimum balance you can transfer is $5.00 and current month earnings are available 30 days later.
 
-Our business is to protect your privacy. We do not share your data with anyone unless required by law. Your data belongs to you.  Only you have the key to decrypt your data. If you close your account, no trace of your data is left on our systems.
-
-Outside of Cocoon, on our public website, www.getCocoon.com, we use cookies to understand what information people find valuable, how they found us, and how to improve our website. This information is not connected to you or your account in any way.
-
-Your personal information:  
-Inside Cocoon we do not use cookies or track your browsing history. We do not share your information with any third-parties nor do we allow third-parities to place their tracking technologies within the Cocoon service.
-
-Advertising within Cocoon:  
-To help pay for the free Cocoon service, advertisements are shown in Cocoon. Ads that are shown in Cocoon may be based on the page that you are currently visiting but not on your browsing history, cookies or past behavior. If you do not want your non-personal URL information to be used, then you can subscribe to the Cocoon+ product at getcocoon.com/plans.
-
-If you click on an ad, the advertiser will most likely place a cookie in your Cocoon account, which you can manage like any other cookie a website or advertiser gives you. You can ignore it or delete it as you wish, knowing that Cocoon is still protecting your identity and IP address from advertisers.
-
-Only operational information, such as processing speed or what features are under greatest demand, may be used to ensure Cocoon provides the best possible performance and experience to our users.
-
-We may revise this Privacy Policy from time to time in response to suggestions or as needed. The most current version will be posted here. If we make any changes to this policy we will notify users via their Cocoon mailslot. Continued use of Cocoon after those changes go into effect signifies agreement to the revised Privacy Policy.
-
-We welcome your feedback. Please contact us with your questions or concerns regarding this privacy statement.
-
-Virtual World Computing  
-5383 Hollister Avenue, Suite 150  
-Santa Barbara, CA 93111  
-Email <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/938792996/?value=0&amp;guid=ON&amp;script=0"/>. </div>. <img src="//bat.bing.com/action/0?ti=5065606&Ver=2" height="0" width="0" style="display:none. visibility: hidden;" />.
-
-*   *   Overview
-    *   Anti Virus
-    *   Privacy
-    *   Portability
-    *   Compare
-    *   Sign Up
-*   *   Support
-    *   Download
-    *   FAQ
-    *   Tutorials
-    *   Contact Support
-*   *   Company Info
-    *   Press Room
-    *   Terms of Service
-    *   Privacy Policy
-    *   Contact
-*   *   Twitter
-    *   Facebook
-    *   YouTube
-    *   LinkedIn
-
-©2020 Virtual World Computing, LLC  
   
-Tour
+100% Easy, Passive Income
 
-*   Overview
-*   Anti Virus
-*   Privacy
-*   Portability
-*   Compare
-*   Sign Up
+No questions, no surveys, no forms to fill out. So what do you have to do? Nothing more than you already do. With the Cocoon MDR™ app and MyData Rewards™ account you make money from everyday browsing on your desktop and with your mobile device, you get paid when you go places. There's nothing more to do. Just easy, passive income for doing what your normally do.
+
+Start Earning Cash Today! Download Cocoon MDR™ FOR ANDROID FOR WINDOWS FOR MAC \*Currently available in 10 countries, USA, Canada, China, India, Indonesia, Mexico, Nigeria, Phillipines, Vietnam, and Vatican City (Holysee). Please see FAQs for more details.
+
+**COCOON SECURE** our legacy privacy browser is **currently unavailable** for download.
+
+If you are a current **Cocoon Secure** user will we continue to serve you.
 
 Support
 
-*   Support
+*   *   Sign Up
+    *   Download
+    *   Support
+    *   CCPA
+    *   Privacy Policy
+
+©2020 Virtual World Computing, LLC  
+  
+My Data Rewards™
+
+*   Sign Up
 *   Download
-*   FAQ
-*   Tutorials
-*   Contact Support
-
-Company
-
-*   Company Info
-*   Press Room
-*   Terms of Service
+*   Support
+*   CCPA
 *   Privacy Policy
-*   Contact
 
 ©2020 Virtual World Computing, LLC
 
-loading
+<div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/938792996/?value=0&amp;guid=ON&amp;script=0"/>. </div>. <img src="//bat.bing.com/action/0?ti=5065606&Ver=2" height="0" width="0" style="display:none. visibility: hidden;" />.
