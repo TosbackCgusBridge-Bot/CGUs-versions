@@ -5,7 +5,7 @@
     *   PRODUCTS
     *   Smartwatches
     *   Trackers
-    *   Premium
+    *   Services
     *   Accessories
     *   Designer Collections
     *   Scales
@@ -14,9 +14,6 @@
     
     *   EXPERIENCES
     *   Setup Process
-    
-    *   NOT SURE WHICH PRODUCT IS RIGHT FOR YOU?
-    *   Take the Quiz
     
     SALE
     
@@ -79,13 +76,6 @@ MOTIVATION
 *   My Dashboard
 *   Manage my subscriptions
 *   Log Out
-
-*   What's New
-*   Shop All Products
-*   Setup Process
-
-*   Take the Quiz
-*   NOT SURE WHICH PRODUCT IS RIGHT FOR YOU?
 
 *   My Dashboard
 *   Manage my subscriptions
@@ -462,4 +452,18 @@ HEALTH SOLUTIONS
 
 ©2020 Fitbit, Inc. All rights reserved
 
-United States
+United States Cart summary (0) 0 Sorry, the code is invalid
+
+Promo success
+
+The cart is empty Log In / Sign Up Checkout as Guest Remove Item
+
+Proceed to remove item from shopping cart?
+
+Yes No Error Adding to Cart
+
+You can only purchase one membership at a time. The membership will be linked to your Fitbit account. If you would like to upgrade to another membership, complete your order, navigate back to the cart to add another membership.
+
+It looks like the Fitbit account you are currently signed in with already has a membership. Thanks for being a member! If you are trying to purchase a membership for another account, please sign in with that account before making a purchase.
+
+Proceed <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1505598476417668&amp;ev=PageView&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/v3/?tid=2614274860968&amp;noscript=1">. <img height="1" width="1" style="display:none;" alt="" src=" https://ct.pinterest.com/v3/?tid=2614274860968&amp;event=pagevisit&amp;noscript=1">.
