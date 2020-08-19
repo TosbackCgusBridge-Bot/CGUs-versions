@@ -1,4 +1,4 @@
-HR Tech Privacy Back to Indeed
+HR Tech Privacy
 
 *   Home
 *   Our Sites
@@ -16,7 +16,7 @@ HR Tech Privacy Back to Indeed
 1.  Our Sites
 2.  Indeed
 
-Privacy Policy
+Contact Us
 
 *   Privacy Policy
     *   1\. Introduction
@@ -50,7 +50,7 @@ Visit Indeed
 
 **Privacy Policy**
 
-Last updated June 22, 2020
+Last updated August 18, 2020
 
 **Summary of Indeed’s Privacy Policy** **1\. Introduction**
 
@@ -545,7 +545,7 @@ Alternatively, if you do not wish to do this, you may make a formal request to d
 
 **PLEASE NOTE: by requesting the deletion of your Personal Data, you will no longer be able to create an account with Indeed using the same email address. If you simply wish to close your account, please click the “close my account” button in your account page. If you use Indeed Apply for an application or take any other action on the Site using the same email address associated with your deletion request, you may not receive certain communications associated with those actions from Indeed or other Indeed users.** **Additionally, by making a personal data deletion request, you acknowledge that you will be removed from consideration for all active sweepstakes, contests, prize draws, and other promotions.**
 
-**If you are a Job Seeker and want to delete a job application performed from Indeed’s Site, please contact the prospective Employer directly to request deletion of your application. If you are a Job Seeker who submitted a job application to work at Indeed, please refer to our** **Applicant Privacy Policy** **for additional instructions on how to exercise your rights.** 
+**If you are a Job Seeker and want to delete a job application performed from Indeed’s Site, please contact the prospective Employer directly to request deletion of your application. If you are a Job Seeker who submitted a job application to work at Indeed, please refer to the privacy policy you received when you applied, or reach out to your recruiter,** **for additional instructions on how to exercise your rights.**
 
 **10.6 Withdrawing Consent**
 
