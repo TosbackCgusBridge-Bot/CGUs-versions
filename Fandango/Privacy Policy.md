@@ -58,7 +58,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
-    *   What to Watch on FandangoNOW: ‘Max Reload and the Nether Blasters,’ Great Video Game Movies and More Read More
+    *   What to Watch on FandangoNOW: Black History Drama ‘Emperor,’ Classic Documentaries and More Read More
     *   The Week in Movie News: Garth Evans to Direct ‘Tron 3,’ Elisabeth Moss Sticks with Blumhouse and More Read More
     
     Explore Content
@@ -97,7 +97,7 @@ Privacy Policy Privacy Policy Terms and Policies Terms of Use Ticket Policy Prom
 *   en Français
 *   auf Deutsch
 
-Last updated: August 11, 2020
+Last updated: August 18, 2020
 
 This Privacy Policy explains how Fandango Media, LLC and its subsidiary companies, including the businesses operating under the Fandango, FandangoNOW, Vudu, Rotten Tomatoes, Flixster, Movieclips, Movies.com, Activaterewards.com, MovieTickets.com, or M-GO brands ("Fandango", "we", "our" or "us"), collect, use, and share information from or about you when you use our websites, downloadable applications, interactive TV applications, voice-activated skills, other digital services, connected devices, and off-line services that link to this policy, or if you generate ratings/reviews/public comments/content on our properties or engage in business with us (the “Services”). Note that this Privacy Policy does not apply to our movie ticketing business that operates in Latin America, as that business has a separate privacy policy.
 
@@ -348,6 +348,10 @@ Additional information on purposes of use
 
 We may combine all the information we collect from or receive about you for the outlined purposes. We may aggregate or deidentify your information and may use, share, rent or sell aggregated or deidentified information for any purpose, and such information is not subject to this Privacy Policy.
 
+**Sale of Personal Information:** If you, or someone acting on your behalf, would like to request that we do not sell your personal information, you can either click here for such request, or send an email to donotsell@fandango.com. You will also need to clear your cookies and re-set your MAIDs, as referenced in the link. For more information about how to opt-out of receiving targeted advertising from certain third party advertisers, please see our Cookies Notice.
+
+For Vudu (which Fandango acquired from Walmart), if you are a California resident and you, or someone acting on your behalf, would like to request that Vudu does not sell your personal information, you can either click here or call 800-925-6278 and Walmart will process your request on Vudu’s behalf.
+
 2\. WHEN WE SHARE YOUR INFORMATION
 
 We may share your information with:
@@ -469,6 +473,8 @@ New + Coming soon
 
 *   Unhinged (2020)
     
+*   Words on Bathroom Walls
+    
 *   The New Mutants
     
 *   Tenet
@@ -480,8 +486,6 @@ New + Coming soon
 *   The Invisible Man (2020)
     
 *   Trolls World Tour (2020)
-    
-*   The Broken Hearts Gallery
     
 
 Experience + Explore
