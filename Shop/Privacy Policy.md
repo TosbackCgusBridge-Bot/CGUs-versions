@@ -101,11 +101,6 @@ Lenovo Explore Close
         
     *   Tablets
         
-        *   Always Free Shipping
-        *   Earn 3% rewards on all purchases
-        *   Financing as low as 0%
-        *   Price Match Guaranteed
-        
         *   Explore Tablets
         *   Android Tablets
         *   Chrome Tablets
