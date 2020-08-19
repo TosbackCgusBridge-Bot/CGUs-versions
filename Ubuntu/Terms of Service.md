@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Set up the AdGuard Home Ubuntu Appliance
 *   How to build a snap using ROS 2 Foxy
 *   Canonical demoes its Kubernetes solutions live at KubeCon EU 2020!
-*   Optimised authentication methods for Ubuntu Desktop
