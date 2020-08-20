@@ -1,1 +1,1 @@
-403 Forbidden openresty
+408 Request Time-out Your browser didn't send a complete request in time.
