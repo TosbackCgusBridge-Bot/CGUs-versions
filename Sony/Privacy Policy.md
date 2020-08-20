@@ -72,7 +72,6 @@ Main menuSONY
     *   Companion Robots
     *   Digital Paper
     *   Wearable Speaker
-    *   Engagement App Development
     *   Robotics KitsView AllAll ElectronicsSee Professional Products<img src="//www.sony.com/image/73af50e8d496b98be27c316fba0cb511?fmt=jpeg&amp;wid=218" alt="" class="iq-img">Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up<img src="//www.sony.com/image/f240cc29ed9c788d9bf45ace019b9739?fmt=png-alpha&amp;wid=218" alt="" class="iq-img">Bring instant shopping into the pictureIf approved, a temporary shopping pass that could be up to $1500 in available credit may be issued and sent to your smartphone, allowing you to shop online right away. Learn more
 *   PlayStation
 *   EntertainmentEntertainment
@@ -125,7 +124,7 @@ Play video: Elevate Your Listening With Noise-Canceling Tech Close video: Elevat
 
 First details on Ghost of Tsushima: Legends, a free online co-op mode coming this fall:  http://play.st/3aDOTXt  pic.twitter.com/YjMq3K512i
 
-1 day ago View Tweet Instagram Post CDuTzWKl\_Xc
+2 days ago View Tweet Instagram Post CDuTzWKl\_Xc
 
 Existing Accessories
 
