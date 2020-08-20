@@ -105,7 +105,7 @@ Close submenu (Community activities)Community activities
 Close submenu (Securing the mail)Securing the mail
 
 *   Mail center security
-*   Avaition mail security &. hazardous materials
+*   Aviation mail security &. hazardous materials
 
 Close submenu (Performance)Performance
 
@@ -214,7 +214,7 @@ See how USPS is delivering for customers and employees Jump to page content
             *   Finding missing children
         *   Securing the mail
             *   Mail center security
-            *   Avaition mail security &. hazardous materials
+            *   Aviation mail security &. hazardous materials
         *   Sustainability
     *   Performance
         *   Household diary
