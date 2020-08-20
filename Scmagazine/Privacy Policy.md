@@ -251,17 +251,17 @@ Extreme Engineering Solutions ensures compliance requirements while reducing man
     *   Emailed
     *   Recent
     
-    *   Media companies need to lock down content systems as fake news invades
-    *   SafeBreach Platform
-    *   Adobe eliminates 11 critical bugs in Acrobat, Reader
-    *   Why a cloud-native platform is a requirement for modern cybersecurity
-    *   Travelex driven into financial straits by ransomware attack
-    
-    *   Emerging Products: Breach and attack simulation technologies
-    *   Lock down home workers with a mix of tech tools and policies
+    *   Five security points CISOs must communicate to the corporate board
     *   Shadow Code in security's blind spot, ups risk of attack
-    *   'We want to have more protection': Arrested pen testers push for Good Samaritan law
-    *   Twitter hackers duped employees with phone spear phishing scam
+    *   Trade minister hack led to trade secrets leak before U.K. election
+    *   Hackers hijack design platform to go phishing
+    *   China targets networks with new Taidoor malware attacks
+    
+    *   Adobe eliminates 11 critical bugs in Acrobat, Reader
+    *   Five ways to declaw the Meow bot
+    *   Travelex driven into financial straits by ransomware attack
+    *   New index shows proactive cybersecurity measures outpaced reactive in Q2
+    *   Adobe mends critical code execution flaws in Magento
     
     *   Hackers hijack design platform to go phishing
     *   ID theft protection for employees can boost productivity, worker loyalty
@@ -301,8 +301,6 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">. X
 
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+You can skip this ad in 2 seconds.
