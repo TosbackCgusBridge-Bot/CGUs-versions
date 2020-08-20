@@ -107,7 +107,7 @@ We may restrict bandwidth or charge extra for the following uses of our player o
 
 **Resale:** You may not sell, resell, rent, lease, or distribute any plan or any other aspect of our Services to any third party unless authorized by us in writing.
 
-5\. Subscription Plans
+5\. Acceptable Use Policy
 
 We may allow you to upload, live stream, submit, or publish (collectively, to "**submit**") content such as videos, recordings, images, and text (collectively, "**content**"). You must ensure that your content, and your conduct, complies with the Acceptable Use Policy set forth in this **Section 5**. Vimeo may (but is not obligated to) monitor your account, content, and conduct, regardless of your privacy settings. Vimeo may take all appropriate actions to enforce its rights including removing specific videos or suspending or removing your account.
 
