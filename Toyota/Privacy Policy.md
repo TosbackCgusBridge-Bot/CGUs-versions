@@ -178,27 +178,29 @@ Shopping Tools
 
 *   Kelley Blue Book Trade-In Value  
     
-*   Search Inventory  
-    
-*   Build Your Toyota  
-    
-*   Find Your Match  
-    
 *   Local Specials  
     
-*   Request a Quote  
+*   What Fits My Budget  
     
-*   Brochures  
+*   Find Your Match  
     
 *   Find a Dealer  
     
 *   Payment Estimator  
     
-*   Buy Parts and Accessories  
+*   Brochures  
     
 *   Toyota Certified Used Vehicles  
     
 *   Compare Toyota vs. the Competition  
+    
+*   Buy Parts and Accessories  
+    
+*   Build Your Toyota  
+    
+*   Search Inventory  
+    
+*   Request a Quote  
     
 
 Cars/Minivan
@@ -310,11 +312,9 @@ Compare Toyota vs. the Competition
     
 *   2020 Toyota Tacoma vs. Jeep Gladiator  
     
-*   2020 Toyota Corolla vs. Nissan Sentra  
+*   2020 Toyota Tacoma vs. Honda Ridgeline  
     
-*   2020 Toyota Corolla vs. Mazda 3 Sedan  
-    
-*   2020 Toyota Corolla vs. Honda Civic  
+*   2020 Toyota Tacoma vs. Chevrolet Colorado  
     
 *   2020 Toyota Corolla Hatchback vs. Subaru Impreza 5-Door  
     
@@ -337,6 +337,10 @@ Compare Toyota vs. the Competition
 *   2020 Toyota Highlander vs. Ford Explorer  
     
 *   2020 Toyota Highlander vs. Chevrolet Traverse  
+    
+*   2020 Toyota Prius vs. Kia Niro  
+    
+*   2020 Toyota Prius vs. Hyundai Ioniq  
     
 *   2020 Toyota Sienna vs. Honda Odyssey  
     
@@ -1425,6 +1429,7 @@ ToyotaProud Mobility Partner SIGN UP FOR TOYOTA UPDATES DO NOT SELL MY PERSONAL 
 *   Search Inventory
 *   Find a Dealer
 *   Local Specials
+*   What Fits My Budget
 *   Payment Estimator
 *   Request a Quote
 *   Accessories
@@ -1498,7 +1503,7 @@ The use of Olympic Marks, Terminology and Imagery is authorized by the U.S. Olym
 
 \[#\] View All Disclosures
 
-*   1\. MSRP excludes the Delivery, Processing, and Handling Fee of $995 for Cars (86, Avalon, Avalon HV, Camry, Camry HV, Corolla, Corolla HV, Corolla HB, Mirai, Prius, Prius Prime, Supra), $1,175 for SUV/Van/Small Trucks (4Runner, C-HR, Highlander, Highlander HV, RAV4, RAV4 HV, RAV4 Prime, Sienna, Tacoma), $1,365 for Large SUVs (Land Cruiser, Sequoia), and $1,595 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure and may be subject to change at any time. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. The published prices do not apply to Puerto Rico and the U.S. Virgin Islands. Actual dealer price will vary.
+*   1\. MSRP excludes the Delivery, Processing, and Handling Fee of $995 for Cars (86, Avalon, Avalon HV, Camry, Camry HV, Corolla, Corolla HV, Corolla HB, Mirai, Prius, Prius Prime, Supra), $1,175 for SUV/Van/Small Trucks (4Runner, C-HR, Highlander, Highlander HV, RAV4, RAV4 HV, RAV4 Prime, Sienna, Tacoma, Venza), $1,365 for Large SUVs (Land Cruiser, Sequoia), and $1,595 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure and may be subject to change at any time. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. The published prices do not apply to Puerto Rico and the U.S. Virgin Islands. Actual dealer price will vary.
 *   2\. 2017 EPA-estimated city/highway mileage. Actual mileage will vary.  
     2018 EPA-estimated city/highway mileage. Actual mileage will vary.  
     2019 EPA-estimated 26 city/35 hwy/30 combined mpg for RAV4 LE FWD, XLE FWD, XLE Premium FWD and Limited FWD. 27 city/34 hwy/30 combined mpg for LE AWD. 25 city/33 hwy/28 combined mpg for XLE AWD, XLE Premium AWD, Adventure and Limited AWD. Actual mileage will vary. 2019 RAV4 Hybrid LE, Hybrid XLE, Hybrid XSE and Hybrid Limited preliminary 41 city/38 hwy/40 combined mpg estimates determined by Toyota. EPA ratings not available at time of posting. Actual mileage will vary.
@@ -1565,7 +1570,10 @@ The use of Olympic Marks, Terminology and Imagery is authorized by the U.S. Olym
 *   63\. EPA-estimated 54 city/50 hwy/52 combined mpg for 2021 Prius LE, XLE, 2020 Edition and Limited. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 *   64\. MSRP includes the Delivery, Processing and Handling Fee. (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Toyota Delivery, Processing and Handling Fee is $955 for Passenger Cars, $1,120 for SUVs/Van/Small Trucks, $1,325 for Large SUVs and $1,595 for Large Trucks. Dealer price will vary.
 *   65\. Manufacturer's Suggested Retail Price excludes the Delivery, Processing and Handling Fee of $995 for Cars (86, Avalon, Camry, Corolla, Corolla HV, Corolla HB, Camry, Camry HV, Prius, Prius Prime, Supra, Yaris Hatchback, Yaris), $1,175 for Small/Medium Trucks, SUVs and Van (4Runner, C-HR, Highlander, Highlander HV, RAV4, RAV4 HV, Sienna, Tacoma), $1,595 for Large Truck (Tundra), and $1,595 for Large SUVs (Sequoia and Land Cruiser). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The MSRP price is only valid in TX, OK, AR, MS, and LA. The published prices do not apply to Puerto Rico and the U.S. Virgin Islands. Actual dealer price will vary.
-*   66\. MSRP excludes the Delivery, Processing, and Handling Fee of $995 for Cars (86, Avalon, Avalon HV, Camry, Camry HV, Corolla, Corolla HV, Corolla HB, Mirai, Prius, Prius Prime, Supra), $1,175 for SUV/Van/Small Trucks (4Runner, C-HR, Highlander, Highlander HV, RAV4, RAV4 HV, RAV4 Prime, Sienna, Tacoma), $1,365 for Large SUVs (Land Cruiser, Sequoia), and $1,595 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure and may be subject to change at any time. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. The published prices do not apply to Puerto Rico and the U.S. Virgin Islands. Actual dealer price will vary.
-*   67\. Preliminary 13 city/17 highway/14 combined mpg estimates for 2021 Land Cruiser determined by Toyota. EPA estimates not available at time of posting. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
+*   66\. MSRP excludes the Delivery, Processing, and Handling Fee of $995 for Cars (86, Avalon, Avalon HV, Camry, Camry HV, Corolla, Corolla HV, Corolla HB, Mirai, Prius, Prius Prime, Supra), $1,175 for SUV/Van/Small Trucks (4Runner, C-HR, Highlander, Highlander HV, RAV4, RAV4 HV, RAV4 Prime, Sienna, Tacoma, Venza), $1,365 for Large SUVs (Land Cruiser, Sequoia), and $1,595 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure and may be subject to change at any time. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. The published prices do not apply to Puerto Rico and the U.S. Virgin Islands. Actual dealer price will vary.
+*   67\. 2021 projected EPA-estimated range rating estimates. EPA estimates not available at time of posting. Actual mileage will vary.
+*   68\. Projected EPA-estimated range rating 13 city/17 highway/14 combined estimates for 2021 Land Cruiser as determined by manufacturer. EPA estimates not available at time of posting. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
+*   69\. EPA-estimated 40 city/37 hwy/39 combined mpg for 2021 Venza. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
+*   70\. EPA-estimated 133 combined MPGe for 2021 Prius Prime. MPGe is the EPA-equivalent of gasoline fuel efficiency for electric operation. EPA-estimated 55 city/53 hwy/54 combined mpg. Use for comparison purposes only. Your MPGe/MPG will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 
 Cookie ConsentWe use the following categories of cookies on our website:Required Functional CookiesRequired cookies are essential to provide you with core functionality during use of the website. These functions include e.g. Local Specials, Offers, Dealer Locator, etc. We also collect basic site usage analytics to optimize the experience for our visitors.Performance CookiesPerformance cookies collect information about how our website is used (e.g. number of visits, time spent on the site). These cookies allow us to serve more relevant content for an enhanced shopping experience.CancelSave
