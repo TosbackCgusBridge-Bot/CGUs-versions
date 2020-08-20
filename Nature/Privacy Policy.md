@@ -13,7 +13,6 @@
         *   How We Work
         *   Our History
     *   Where We Work
-        *   Local: Colorado
         *   Africa
         *   Asia Pacific
         *   Canada
