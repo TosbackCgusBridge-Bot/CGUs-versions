@@ -1,13 +1,13 @@
 Shop safe! Masks are required for anyone entering the store. Details  
-EXTRA 30% OFF $75+ with code: STYLE21 Details  
+Last day! EXTRA 30% OFF $75+ with code: STYLE21 Details  
 EXTRA 25% OFF under $75 with code: STYLE21 Details  
-Free Shipping Over $49  DetailsSchool Uniforms Flash Sale! 40% OFF with code: UNIFORM8 Details  
+Free Shipping Over $49  DetailsLast day—Uniforms Flash Sale! 40% OFF with code: UNIFORM8 Details  
 Shop safe! Masks are required for anyone entering the store. Details  
-EXTRA 30% OFF $75+ with code: STYLE21 Details  
+Last day! EXTRA 30% OFF $75+ with code: STYLE21 Details  
 
 Enable Accessibility
 
-*   StoresLynnhaven MallMore Stores701 Lynn Haven Pkwy, Virginia Beach, VA, 23452757-463-4270 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
     *   JCP Credit CardCart
@@ -24,7 +24,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-JuniorsYoung MenBoysGirlsJuniorsYoung MenKidsBackpacksHomeschoolUP TO 40% OFF Dorm their wayCozy styles to create their own space, home or away.select styles
+JuniorsYoung MenBoysGirlsUP TO 40% OFF Dorm their wayCozy styles to create their own space, home or away.select styles
 
 *   Shop All
 
@@ -37,11 +37,11 @@ JuniorsYoung MenBoysGirlsJuniorsYoung MenKidsBackpacksHomeschoolUP TO 40% OFF Do
 *   Storage &. Organization
     
 
-Shop AllFor HerFor HimBoysGirlsUP TO 25% OFFBest brands, awesome prices!select styles | Excluded from coupons.adidasChampionPumaReebokIntroducing big &. tall Puma activewear!Excluded from coupons.
+Shop AllJuniorsYoung MenKidsBackpacksHomeschoolBring on the basicsSave on must-haves for the family!select styles20% OFFMen's underwearBUY 1 GET 1 50% OFF\*Women's brasBUY 1 GET 1 50% OFF\*Girls' socks &. underwear$9 EA.Face masksFor HerFor HimBoysGirlsUP TO 25% OFFBest brands, awesome prices!select styles | Excluded from coupons.adidasChampionPumaReebokIntroducing big &. tall Puma activewear!Excluded from coupons.
 
 *   Shop All
 
-Bring on the basicsSave on must-haves for the family!select styles20% OFFMen's underwearBUY 1 GET 1 50% OFF\*Women's brasBUY 1 GET 1 50% OFF\*Girls' socks &. underwear$9 EA.Face masks40-50% OFFWherever your office may be, suit up with the 3B's:blouses, blazers, button-downs!Shop Worthington select stylesShop Staffordselect styles A dream come true UP TO 50% OFF Homeselect styles
+40-50% OFFWherever your office may be, suit up with the 3B's:blouses, blazers, button-downs!Shop Worthington select stylesShop Staffordselect styles A dream come true UP TO 50% OFF Homeselect styles
 
 *   Shop All
 
@@ -51,24 +51,32 @@ BeddingRugsWindowDecorShop Salon haircareShop Beauty at Sephora inside JCPenneyS
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Limited Edition! Womens 1 CT. T.W. Genuine White Diamond 10K White Gold Bridal Set $1274.98with code28
-*   Nike Flight Legacy Mens Basketball Shoes
+*   Urban Decay Naked Ultraviolet Eyeshadow Palette
     
-    $90
+    $49
     
-    2
+    479
+*   Too Faced Born This Way Matte 24 Hour Foundation
+    
+    $40
+    
+    78
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+    
+    $124.98
+    
+    141
+*   a.n.a Womens Knit Waist Short
+    
+    $12.99sale
+    
+    ~$30~35
+*   Home Expressions Tiles Complete Bedding Set with Sheets $37.49 - $55.99with code~$110 - $170~338
 *   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $124.98
     
     208
-*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $26.99 - $40.49with code~$60 - $90~122
-*   Home Expressions Lisette Rod-Pocket Sheer Panel
-    
-    $4.99 - $27.99sale
-    
-    ~$16 - $40~1249
-*   a.n.a-Womens V Neck Short Sleeve T-Shirt $5.99with code~$13~11
 
 Shop and Save at JCPenney
 
