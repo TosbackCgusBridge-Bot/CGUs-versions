@@ -763,7 +763,8 @@ Employee/Contractor/Recruitment Data Protection Notices
 Legal Disclosures and Information
 
 *   Home
-*   Privacy & Security
+*   Privacy
+*   Security
 *   Careers
 *   Feedback
 *   Sitemap
