@@ -16,7 +16,7 @@ Sign inPROMARKETPLACESUBSCRIBE
     *   Top REITs
     *   Top Growth Stocks
 *   My Portfolio
-*   Authors
+*   My Authors
     *   My Authors
     *   Author Email Alerts
     *   Latest StockTalks
