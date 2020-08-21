@@ -28,9 +28,9 @@ Lands' End let's get comfy™ Sign In menu
 
 0 Free Shipping on $75+
 
-Receive up to 40% off your order!
+Receive up to 40% off full-price styles. up to 75% sale &. clearance styles!
 
-code: BAT pin: PROMOTION DETAILS
+code: BALL pin: PROMOTION DETAILS
 
 Customer Service Menu
 
