@@ -50,11 +50,11 @@ Up to
 
 Outback Onyx Edition XT shown
 
-Forester $24,495\* starting price 2020 Forester
+Forester $24,795\* starting price 2021 Forester
 
 Starting at
 
-$24,495 MSRP
+$24,795 MSRP
 
 Up to
 
