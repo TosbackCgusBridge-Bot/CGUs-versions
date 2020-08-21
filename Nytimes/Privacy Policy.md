@@ -1,4 +1,4 @@
-Skip to ContentThe Times and your DataMain MenuPrivacy F.A.Q.Privacy PolicyCookie Policy
+Skip to ContentThe New York TimesThe Times and your DataMain MenuPrivacy F.A.Q.Privacy PolicyCookie Policy
 
 The Times and Your Data
 
@@ -429,7 +429,7 @@ Attn.: Privacy Counsel
 
 Wirecutter operates the Wirecutter Services in accordance with the practices disclosed in this Privacy Policy. With respect to the Wirecutter Services, Wirecutter, Inc. is referred to in this Privacy Policy as included in “The Times,” “we” or “our.” In this Privacy Policy, Wirecutter Services are included under “Times Services.”
 
-Back to top
+Back to topThe New York Times
 
 ©2020 The New York Times Company
 
