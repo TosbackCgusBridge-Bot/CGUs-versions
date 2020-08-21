@@ -21,7 +21,7 @@ Close submenu ( Girls ) Girls
 *   Tops
 *   Tees
 *   Bottoms
-*   Shorts
+*   Jeans
 *   Dresses + Jumpsuits
 *   Matching Sets
 *   Jackets
@@ -56,7 +56,7 @@ Close submenu ( Guys ) Guys
 *   Tops
 *   Tees
 *   Bottoms
-*   Shorts
+*   Jeans
 *   Jackets
 *   Accessories
 *   Underwear
@@ -98,10 +98,10 @@ Close submenu ( Girls Jeans ) Girls Jeans
 *   Skinny Jeans
 *   Skater Jeans
 *   Boyfriend Jeans
+*   Premium Seriously Stretchy
 *   Real Denim
 *   Flex Effects
 *   Eco-Friendly Repreve
-*   Premium Seriously Stretchy
 
 Close submenu ( Guys Jeans ) Guys Jeans
 
@@ -112,7 +112,11 @@ Close submenu ( Guys Jeans ) Guys Jeans
 *   Straight Jeans
 *   Slim Bootcut Jeans
 *   Athletic Skinny Jeans
+*   Relaxed Jeans
+*   90's Dad Jeans
 *   Loose Jeans
+*   Premium Max Stretch
+*   CoolMax
 *   Flex Effects
 *   Max Stretch
 *   Eco-Friendly
@@ -205,7 +209,7 @@ Menu Find a Store Aeropostale
     *   Tops
     *   Tees
     *   Bottoms
-    *   Shorts
+    *   Jeans
     *   Dresses + Jumpsuits
     *   Matching Sets
     *   Jackets
@@ -236,7 +240,7 @@ Menu Find a Store Aeropostale
     *   Tops
     *   Tees
     *   Bottoms
-    *   Shorts
+    *   Jeans
     *   Jackets
     *   Accessories
     *   Underwear
@@ -269,10 +273,10 @@ Menu Find a Store Aeropostale
         *   Skinny Jeans
         *   Skater Jeans
         *   Boyfriend Jeans
+        *   Premium Seriously Stretchy
         *   Real Denim
         *   Flex Effects
         *   Eco-Friendly Repreve
-        *   Premium Seriously Stretchy
     
     *   Guys Jeans
         *   View All
@@ -282,7 +286,11 @@ Menu Find a Store Aeropostale
         *   Straight Jeans
         *   Slim Bootcut Jeans
         *   Athletic Skinny Jeans
+        *   Relaxed Jeans
+        *   90's Dad Jeans
         *   Loose Jeans
+        *   Premium Max Stretch
+        *   CoolMax
         *   Flex Effects
         *   Max Stretch
         *   Eco-Friendly
@@ -383,221 +391,168 @@ More Inclusive Future. Learn More
 
 Next
 
-In Stores &. Online
+DENIM FOR DAYS
 
-50-70% Off  
-Everything
+50-70% OFF  
+EVERYTHING!
 
 **Including Just Dropped Aero Denim**
 
-Brand New Fits. Can't Beat Comfort.
+(Feat. New Fits &. Washes in Premium Seriously  
+Stretchy For Her &. Premium Max Stretch For Him )
 
 Shop Girls Shop Guys Shop Girls Jeans Shop Guys Jeans
 
-In Stores &. Online
+\*Exclusions Apply
 
-50-70% Off  
-Everything
+DENIM FOR DAYS
 
-**Including Just Dropped  
-Aero Denim**
+50-70% OFF EVERYTHING!
 
-Brand New Fits.  
-Can't Beat Comfort.
+**Including Just Dropped Aero Denim**
+
+(Feat. New Fits &. Washes in Premium Seriously  
+Stretchy For Her &. Premium Max Stretch For Him )
 
 Shop Girls Shop Guys Shop Girls Jeans Shop Guys Jeans
 
-Aero Best  
-Sellers
+\*Exclusions Apply
 
-Your favorite Aero styles are  
-back by popular demand!
+Previous
 
-Shop Girls Best Sellers Shop Guys Best Sellers
+Curvy
 
-Aero Best Sellers
+High Rise Jeggings
 
-Your favorite Aero styles are  
-back by popular demand!
-
-LOVE THESE SHORTS
-
-"I am obsessed, they fit  
-perfect :)" -Katie
-
-LOVE THESE SHORTS
-
-“It’s the softest material, and  
-is soo adorable” – E.M.
-
-LOVE THESE SHORTS
-
-“Loveee. The fit is so nice and  
-the length is perfect” – Kay
-
-LOVE THESE SHORTS
-
-“So cute! It fits perfectly and has  
-a very soft fabric” - Nelly
-
-LOVE THESE SHORTS
-
-“Would 10/10 recommend  
-to a friend” – John
-
-LOVE THESE SHORTS
-
-“I have finally found the perfect  
-pair of cargo shorts”
-
-LOVE THESE SHORTS
-
-“The only thing I hear are  
-compliments”
-
-Shop Girls Best Sellers Shop Guys Best Sellers Previous
+Boyfriend
 
 Super High Rise
 
-Super High Rise
+Skinny
 
-High Rise
+Cheeky  
+**Online Only**
 
-High Rise
+Cheeky  
+**Online Only**
 
-Curvy  
-**NEW!**
+Skater  
+**Online Only**
 
-Curvy  
-**NEW!**
+Skater  
+**Online Only**
 
-Low Rise
+Bootcut  
+**Online Only**
 
-Low Rise
+Bootcut  
+**Online Only**
 
-Vintage High Rise
+Curvy
 
-Vintage High Rise
+High Rise Jeggings
 
-Mom  
-
-Mom  
-
-Bermuda
-
-Bermuda
-
-Midi
-
-Midi
-
-Twill Midi
-
-Twill Midi
+Boyfriend
 
 Super High Rise
 
-Super High Rise
+Skinny
 
-High Rise
+Cheeky  
+**Online Only**
 
-High Rise
-
-Curvy  
-**NEW!**
-
-Curvy  
-**NEW!**
-
-Low Rise
-
-Low Rise
-
-Vintage High Rise
-
-Vintage High Rise
-
-Mom  
-
-Mom  
+Cheeky  
+**Online Only**
 
 Next
 
-**Girls Shorts $11.87 &. Up**
+**PREMIUM SERIOUSLY  
+STRETCHY**
 
-**Girls Shorts**
+**PREMIUM  
+SERIOUSLY STRETCHY**
 
-**$11.87 &. Up**
+Eco-friendly stretch for feel-good do-good comfort.
 
-Flawless fits. Curve-accentuating stretch.  
-Crave-worthy comfort denim.
+Shop Seriously Stretchy Shop Girls Jeans Seriously Stretchy Shop Girls Jeans
 
-Flawless fits. Curve-accentuating stretch.  
-Crave-worthy comfort denim.
+**NEW!  
+COOLMAX®TECHNOLOGY**
 
-Girls Shorts Previous
+**NEW! COOLMAX®  
+TECHNOLOGY**
 
-Long Board Chino
+Our NEW quick-dry denim moves moisture away from the  
+body, so you can stay cool and comfortable 24/7.
 
-Classic Jogger
+Our NEW quick-dry denim moves  
+moisture away from the body, so you  
+can stay cool and comfortable 24/7.
 
-Active Short
+Shop COOLMAX® Shop Guys Jeans
 
-Slim Cut-Off
+COOLMAX® is a trademark of the LYCRA Company
 
-Classic Chino
+COOLMAX® is a trademark of the LYCRA Company
 
-Cargo
+Previous
 
-Long Cargo  
+90s Dad  
 **Online Only**
 
-Longboard Short
-
-Beach Short
-
-Slim Cuffed
-
-Belted Cargo  
+Relaxed  
 **Online Only**
 
-Long Board Chino
+Loose  
+**Online Only**
 
-Classic Jogger
+Super Skinny
 
-Active Short
+Skinny
 
-Slim Cut-Off
+Athletic Skinny  
+**NEW!**
 
-Classic Chino
+Ultra Stacked Skinny
 
-Cargo
+Slim
+
+Slim Straight
+
+Straight
+
+Slim Boot  
+**Online Only**
+
+90s Dad  
+**Online Only**
+
+Relaxed  
+**Online Only**
+
+Loose  
+**Online Only**
+
+Super Skinny
+
+Skinny
+
+Athletic Skinny  
+**NEW!**
 
 Next
 
-**Guys Shorts $11.87 &. Up**
+Short  
+Story
 
-Guys Shorts
+Short Story
 
-$11.87 &. Up
+With styles this comfortable,  
+It’s always shorts season.
 
-Everyday comfort. Cool distressed details.  
-Updated with stretch—for freedom that moves you.
+$11 .87 &. Up
 
-Guys Shorts
-
-Lounge  
-Life
-
-Lounge Life
-
-The leggings of your dreams.  
-Amazingly soft, slimming, and stretchy.  
-For your new #OOTD everyday.
-
-**$10 &. Up**
-
-Shop Leggings Shop Lounge Life
+Shop Girls Shorts Shop Guys Shorts
 
 **Order from our site and  
 pick up your purchase  
@@ -655,13 +610,11 @@ Aero's Sustainability Efforts <div class="browser-compatibility-alert">. <i clas
 
 For more information, please see our **Privacy Policy**. California residents, see our **California Privacy Notice** and **Do Not Sell My Personal Information** page.
 
-Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party!  
-Text JOIN to 237687. Terms &. Conditions  
-_Message &. Data Rates May Apply_ Details
+Enter Your Email Sign Up Join Aero's Mobile VIP Club Get texts with exclusive mobile offers and inspo Sign Up Now
 
 For more information, please see our **Privacy Policy**. California residents, see our **California Privacy Notice** and **Do Not Sell My Personal Information** page.
 
-FOLLOW US Customer Care
+Follow Us Customer Care
 
 *   Order Status
 *   Track Your Order
