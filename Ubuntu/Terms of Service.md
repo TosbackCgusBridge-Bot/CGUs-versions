@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
-*   Set up the AdGuard Home Ubuntu Appliance
-*   How to build a snap using ROS 2 Foxy
-*   Canonical demoes its Kubernetes solutions live at KubeCon EU 2020!
+*   Ubuntu on WSL 2 Backported to Windows 10 1903 and 1909, Extending Reach
+*   Tour of the snap developer account in the Snap Store
+*   Design and Web team summary – 20th August 2020
