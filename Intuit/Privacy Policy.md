@@ -1,9 +1,8 @@
 Shop safe! Masks are required for anyone entering the store. Details  
-Last day! EXTRA 30% OFF $75+ with code: STYLE21 Details  
-EXTRA 25% OFF under $75 with code: STYLE21 Details  
-Free Shipping Over $49  DetailsLast day—Uniforms Flash Sale! 40% OFF with code: UNIFORM8 Details  
-Shop safe! Masks are required for anyone entering the store. Details  
-Last day! EXTRA 30% OFF $75+ with code: STYLE21 Details  
+Friends &. Family Sale! UP TO 50% OFF brands you love! Shop All  
+EXTRA 30% OFF with code: FAMILY29 Details  
+Free Shipping Over $49  DetailsShop safe! Masks are required for anyone entering the store. Details  
+Friends &. Family Sale! UP TO 50% OFF brands you love! Shop All  
 
 Enable Accessibility
 
@@ -24,7 +23,41 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-JuniorsYoung MenBoysGirlsUP TO 40% OFF Dorm their wayCozy styles to create their own space, home or away.select styles
+Starting at $8.99Take on the day with top tees and new blues.select styles
+
+*   Shop All
+
+*   Juniors
+    
+*   Young Men
+    
+*   Boys
+    
+*   Girls
+    
+
+Shop All A dream come true UP TO 50% OFF Homeselect styles
+
+*   Shop All
+
+BeddingRugsWindowDecorUP TO 50% OFFXersion for the familyselect stylesFor HerFor HimBoysGirlsUP TO 25% OFFBest brands, awesome prices!select styles | Excluded from coupons.adidasChampionPumaReebokIntroducing big &. tall Puma activewear!Excluded from coupons.
+
+*   Shop All
+
+ 
+
+*   Shop All
+
+*   Dresses
+    
+*   Tees
+    
+*   Jeans
+    
+*   Sandals
+    
+
+Shop AllShop Salon haircareShop Beauty at Sephora inside JCPenneySephora excluded from coupons.JuniorsYoung MenKidsBackpacksHomeschoolUP TO 40% OFF Dorm their wayCozy styles to create their own space, home or away.select styles
 
 *   Shop All
 
@@ -37,46 +70,26 @@ JuniorsYoung MenBoysGirlsUP TO 40% OFF Dorm their wayCozy styles to create their
 *   Storage &. Organization
     
 
-Shop AllJuniorsYoung MenKidsBackpacksHomeschoolBring on the basicsSave on must-haves for the family!select styles20% OFFMen's underwearBUY 1 GET 1 50% OFF\*Women's brasBUY 1 GET 1 50% OFF\*Girls' socks &. underwear$9 EA.Face masksFor HerFor HimBoysGirlsUP TO 25% OFFBest brands, awesome prices!select styles | Excluded from coupons.adidasChampionPumaReebokIntroducing big &. tall Puma activewear!Excluded from coupons.
+Shop AllWomenMenBaby &. KidsShoes Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Shop All
-
-40-50% OFFWherever your office may be, suit up with the 3B's:blouses, blazers, button-downs!Shop Worthington select stylesShop Staffordselect styles A dream come true UP TO 50% OFF Homeselect styles
-
-*   Shop All
-
-BeddingRugsWindowDecorShop Salon haircareShop Beauty at Sephora inside JCPenneySephora excluded from coupons.WomenMenBaby &. KidsShoes
-
-\*Buy one item at regular price, get the second item of equal or lesser value for either 50% off or free, as advertised in the specific offer. Some items must be same category of merchandise or same gender. See store associate or jcp.com for details.
-
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 21 total items loaded in Media GalleryFollow @jcpenney Recommended for You
-
+*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.09with code~$32~5
 *   Urban Decay Naked Ultraviolet Eyeshadow Palette
     
     $49
     
-    479
+    480
+*   Matrix® Biolage Color Last Shampoo - 33.8 oz. $15.29with code~$30~110
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+    
+    $19sale
+    
+    ~$124.98~141
+*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $24.49 - $44.09with code~$50 - $90~229
 *   Too Faced Born This Way Matte 24 Hour Foundation
     
     $40
     
-    78
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $124.98
-    
-    141
-*   a.n.a Womens Knit Waist Short
-    
-    $12.99sale
-    
-    ~$30~35
-*   Home Expressions Tiles Complete Bedding Set with Sheets $37.49 - $55.99with code~$110 - $170~338
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
-    
-    $124.98
-    
-    208
+    84
 
 Shop and Save at JCPenney
 
