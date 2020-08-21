@@ -124,7 +124,7 @@ Play video: Elevate Your Listening With Noise-Canceling Tech Close video: Elevat
 
 First details on Ghost of Tsushima: Legends, a free online co-op mode coming this fall:  http://play.st/3aDOTXt  pic.twitter.com/YjMq3K512i
 
-2 days ago View Tweet Instagram Post CDuTzWKl\_Xc
+3 days ago View Tweet Instagram Post CDuTzWKl\_Xc
 
 Existing Accessories
 
