@@ -151,8 +151,6 @@ In using our Services, you may not:
 *   Embed our video player on or provide links to sites that contain content prohibited by **Section 5.2**. or
 *   Cause or encourage others to do any of the above.
 
-  
-
 **5.4 Prohibited Technical Measures**
 
 You will not:
@@ -217,8 +215,6 @@ For each piece of content that you submit to or through Vimeo, you represent and
 *   The content does not, and will not, infringe any third party's rights, including intellectual property rights, rights of publicity, moral rights, and privacy rights. and
 *   The content complies with this Agreement and all applicable laws.
 
-  
-
 **7.2 Indemnification**
 
 You will indemnify, defend, and hold harmless Vimeo and its subsidiaries, parents, and affiliates, and their and our respective directors, officers, employees, and agents, from and against all third-party complaints, demands, claims, damages, losses, costs, liabilities, and expenses, including attorney’s fees, arising from or relating to: (a) the content you submit to or through the Services. and (b) allegations of actions or omissions by you that (regardless if proven) would constitute a breach of this Agreement.
@@ -243,8 +239,6 @@ EXCEPT AS EXPRESSLY SET FORTH HEREIN, AND TO THE EXTENT PERMITTED BY APPLICABLE 
 *   That our Services will meet your business or professional needs;
 *   That we will continue to support any particular feature or maintain backwards compatibility with any third-party software or device. or
 *   Concerning any third-party websites and resources.
-
-  
 
 **10\. Limitation of Liability**
 
