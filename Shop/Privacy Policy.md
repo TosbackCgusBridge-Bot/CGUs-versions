@@ -101,6 +101,11 @@ Lenovo Explore Close
         
     *   Tablets
         
+        *   Always Free shipping
+        *   Earn Rewards on All purchases
+        *   Financing Available
+        *   Price Match Guarenteed
+        
         *   Explore Tablets
         *   Android Tablets
         *   Chrome Tablets
@@ -314,11 +319,11 @@ Lenovo Explore Close
         
         *   Additional Offers
         *   IdeaPad S940 save 47%
-        *   ThinkCentre M90n save 65%
+        *   ThinkCentre M90n save 68%
         *   Discount Programs
         *   Trade In
         *   Outlet
-        *   Coupons
+        *   Lenovo Coupons
         
         Students save now
         
