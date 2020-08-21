@@ -1,5 +1,9 @@
-1 of 1
+Previous1 of 2Next
 
+*   UPS is open for business: Service impacts related to Coronavirus...More
+*   Wild Fires Impacting Areas in California...More
+*   UPS is open for business: Service impacts related to Coronavirus...More
+*   Wild Fires Impacting Areas in California...More
 *   UPS is open for business: Service impacts related to Coronavirus...More
 
 Close Skip To Main Content
@@ -38,7 +42,7 @@ Search or TrackGoClosex
         *   Explore Managing Home Deliveries
         
         UPS My Choice for Business
-        *   Explore and Manage Business Deliveries
+        *   Explore Managing Business Deliveries
     *   Shipping New Shipments
         
         *   Create a Shipment:  
