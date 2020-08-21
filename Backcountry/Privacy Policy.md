@@ -1,6 +1,6 @@
 BACKCOUNTRY PRIVACY POLICY
 
-**Last Updated:** 7/27/2020
+**Last Updated:** 8/19/2020
 
 This Privacy Policy explains how information about you is collected, used and disclosed by Backcountry.com, LLC and its subsidiaries (“**Backcountry**” or “**we**”). This Privacy Policy applies to information we collect when you use our websites, mobile apps and other online products and services (collectively, the “**Services**”), including Backcountry.com, SteepandCheap.com, Competitivecyclist.com, and Motosport.com, or when you otherwise interact with us. This policy does not apply to products or services with separate privacy policies that do not incorporate this Privacy Policy.
 
@@ -50,6 +50,7 @@ We may share information about you as follows or as otherwise described in this 
 *   With third parties with whom we sponsor events if you consent to such disclosure;
 *   When you participate in interactive features on our Services, information about you may be displayed publicly on our Services and on other sites or online services, including your photos, videos, posts, product feedback, and other information you choose to provide;
 *   With vendors, consultants and other service providers who need access to such information in connection with services they perform for us and who are subject to contractual obligations regarding their use of the information.
+*   With third-party marketing partners for commercial purposes who are subject to contractual obligations regarding their use of the information;
 *   In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;
 *   If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Backcountry or others;
 *   In connection with, or during negotiations of, any merger, sale of Backcountry assets, financing or acquisition of all or a portion of our business by another company. and
@@ -118,6 +119,10 @@ Subject to certain limitations, the CCPA provides California consumers the right
 In the last 12 months, we collected the following categories of personal information: identifiers (such as name and contact information), characteristics of protected classifications (such as age and gender), commercial information (such as products purchased), internet or other electronic network activity information (such as browsing behavior), geolocation data, audio, electronic, visual or similar information (such as profile pictures or customer support call information), and inferences we make (such as preferred activities). For more details about the personal information we collect, including the categories of sources, please see the “Collection of Information” section above. We collect this information for the business and commercial purposes described in the “Use of Information” section above. We share this information with the categories of third parties described in the “Sharing of Information” section above.
 
 California consumers may make a rights request by visiting this portal: Rights Request. In the portal, we will require that you provide additional information in order to verify your request.
+
+Non-California Privacy Rights
+
+Residents of any state may make a privacy-related rights request by visiting this portal: Rights Request. In the portal, we will require that you provide additional information in order to verify your request.
 
 Contact Us
 
