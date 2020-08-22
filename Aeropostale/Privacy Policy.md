@@ -71,6 +71,7 @@ Close submenu ( Collections ) Collections
 *   New Arrivals
 *   Face Coverings
 *   New Aero Logo
+*   CHILL ZONE
 *   Uniform
 *   Twisted for Tie Dye
 *   Jeans Guide
@@ -252,6 +253,7 @@ Menu Find a Store Aeropostale
         *   New Arrivals
         *   Face Coverings
         *   New Aero Logo
+        *   CHILL ZONE
         *   Uniform
         *   Twisted for Tie Dye
         *   Jeans Guide
