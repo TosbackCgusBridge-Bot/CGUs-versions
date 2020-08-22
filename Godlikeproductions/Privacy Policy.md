@@ -85,7 +85,7 @@ Any of the information we collect from you may be used in one of the following w
     
 *   We maintain a Data Retention Policy that details the retention period for personal data based on our analysis of how long the specific data is reasonably required for legal or business purposes. When we no longer need personal data, we securely delete or destroy it. Aggregated data, which cannot identify a device/browser (or individual) and is used for purposes of reporting and analysis, is maintained for as long as commercially necessary.  
     
-*   You may contact our Data Protection Officer by emailing trinity@godlikeproductions.com with the subject line "ATTN: Data Protection Officer". You must include the words "Data Protection Officer" in your subject line for your email to be routed correctly. Please allow up to 14 days for a response.  
+*   You may contact our Data Protection Officer by emailing godlikecustomerservice@gmail.com with the subject line "ATTN: Data Protection Officer". You must include the words "Data Protection Officer" in your subject line for your email to be routed correctly. Please allow up to 14 days for a response.  
     
 *   Log and Usage Data  
       
@@ -95,7 +95,7 @@ Any of the information we collect from you may be used in one of the following w
       
     While you grant us a lifetime royalty free licenses to publish your posts on this website under certain circumstance we will delete the IP address or any other "personal data" associated with a user id number or post from our data base. If you feel you have submitted "personal data" to this website in the form of a post you can edit that post at any time by logging into your account.  
       
-    If you do not have an account on this website and feel information you or others have submitted amounts to "personal data" as defined by GDPR such as a name, a home address, a photo, an email address, bank details, medical information, IP address, etc. you may request removal and get immediate attention by using the "report abusive post" feature located next to each post on our website or contact our Data Protection Officer by emailing trinity@godlikeproductions.com with the subject "ATTN: Data Protection Officer" to address your concerns.  
+    If you do not have an account on this website and feel information you or others have submitted amounts to "personal data" as defined by GDPR such as a name, a home address, a photo, an email address, bank details, medical information, IP address, etc. you may request removal and get immediate attention by using the "report abusive post" feature located next to each post on our website or contact our Data Protection Officer by emailing godlikecustomerservice@gmail.com with the subject "ATTN: Data Protection Officer" to address your concerns.  
       
     **Terms and Conditions**  
       
