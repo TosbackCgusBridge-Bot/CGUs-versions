@@ -27,17 +27,17 @@ View more results
     *   BFFs Dressing Room
     *   Funny Throat Doctor
     *   Chinese Food Maker
+    *   Tattoo Salon
     *   Bad Teeth Makeover
     *   Princess Hard Times
-    *   Tattoo Salon
-    *   Car Salon
     *   Cake Design
-    *   Beach Kiss
     *   Floral Real Life Manicure
+    *   Beach Kiss
+    *   Car Salon
     *   Goldie: Lip Injections
     *   Goldie Princess: Skin Doctor
-    *   Lady Bug and Friends Maker
     *   Mommy BFFs: Pregnant Check-Up
+    *   Love Tester 3
 *   Racing
     
     Top Categories
@@ -57,8 +57,8 @@ View more results
     *   Hill Racing Challenge
     *   Xcross Madness
     *   Real Dog Racing Simulator
-    *   City Car Stunts 2
     *   Two Punk Racing
+    *   City Car Stunts 2
     *   Cars 3D
     *   Off-Roader V6
     *   Drift Cars
@@ -111,8 +111,8 @@ View more results
     *   Subway Clash 3D
     *   Combat Strike 2
     *   Archery World Tour
-    *   Stickman Archer 2
     *   Animal Hunt 3D
+    *   Stickman Archer 2
     *   Miami Crime Simulator 3D
     *   Super Rocket Buddy
     *   Shot Trigger
@@ -143,8 +143,8 @@ View more results
     *   Fireboy &. Watergirl 2: The Light Temple
     *   Gartic.io
     *   Hole.io
-    *   Pool Clash: 8 Ball Billiards Snooker
     *   Fireboy &. Watergirl 4: Crystal Temple
+    *   Pool Clash: 8 Ball Billiards Snooker
     *   Crowd City
     *   Fireboy and Watergirl: The Forest Temple
     *   Master Chess Multiplayer
@@ -167,17 +167,17 @@ View more results
     *   Subway Clash 3D
     *   Combat Strike 2
     *   Stickman Fighter: Epic Battle
+    *   Bomb It 6
     *   Stickman Archer 2
     *   Super Buddy Kick
     *   Miami Crime Simulator 3D
-    *   Bomb It 6
     *   Shot Trigger
     *   Stickman Warriors
-    *   Age of War
     *   Apple Shooter
+    *   Age of War
     *   Deer Hunter
     *   Naruto Online
-    *   Army Force Strike
+    *   Murder
 *   Adventure
     
     Top Categories
@@ -198,14 +198,14 @@ View more results
     *   Adam and Eve: GO
     *   Draw Climber
     *   The Last Survivors: 2 Player Zombie Game
+    *   Ouija Voices
     *   World Crafts
     *   Dog Simulator: Puppy Craft
-    *   Ouija Voices
-    *   Bob the Robber 4: Season 2 Russia
     *   Troll Face Quest: Horror 2
-    *   Subway Surf
-    *   Bob the Robber 5: Temple Adventure
+    *   Adam and Eve 3
+    *   Bob the Robber 4: Season 2 Russia
     *   Adam and Eve 4
+    *   Adam and Eve 2
 *   More
     
     *   Girls
