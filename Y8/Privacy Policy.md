@@ -7,31 +7,31 @@
 Categories &. more LIBRARY
 
 *   New Games Next in 00:00
-*   Best of new games 1395 games
-*   Most Popular Games 21550 games
+*   Best of new games 1390 games
+*   Most Popular Games 21551 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,336 games
-*   Driving &. Racing 6,451 games
-*   Strategy &. RPG 3,651 games
+*   For Girls 24,338 games
+*   Driving &. Racing 6,453 games
+*   Strategy &. RPG 3,652 games
 *   Management &. Sim 4,298 games
-*   Thinking 12,914 games
-*   Action &. Adventure 14,868 games
-*   Sports 3,380 games
-*   Shooting 9,168 games
-*   Fighting 2,090 games
-*   Skill 11,649 games
-*   Arcade &. Classic 9,672 games
-*   Fun &. Crazy 5,009 games
+*   Thinking 12,927 games
+*   Action &. Adventure 14,873 games
+*   Sports 3,382 games
+*   Shooting 9,165 games
+*   Fighting 2,091 games
+*   Skill 11,656 games
+*   Arcade &. Classic 9,677 games
+*   Fun &. Crazy 5,007 games
 
 Play with friends  
 Powered by Y8 Account 149 Y8 Multiplayer Games 2,233 Y8 High Score Games 1,278 Y8 Achievements Games 910 Y8 Screenshots Games 1,732 Y8 Online Save Games 3,456 All Y8 Games Games Last Highscore:
 
-**3,628** points on Orion Sandbox by peng
+**123,047** points on Military Wars 3D Multiplayer by SWAT-LTK\_Ngan
 
 Help us improve Bad translation? Social
 
@@ -44,7 +44,14 @@ Help us improve Bad translation? Social
 *   Blog
 *   Forum
 
-Register Log in
+Register Log in My Profile 0 points
+
+*   My Profile
+*   Edit Profile
+*   Favorites ()
+*   Played Games
+
+*   Log out
 
 *     English
 
