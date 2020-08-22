@@ -36,7 +36,7 @@ Instant Notifications
 
 You'll receive push notifications when your resume is viewed, or when new jobs appear in your most recent search. Making it easy for you to jump right back into your job search.
 
-see how you can up your career status Career Development &. Learning The Right Job Every industry needs administrative assistants Read Article Companies hiring and available jobs this week (August 10) Read Article Companies hiring now (August 7) and what the latest unemployment numbers mean Read Article Read More Articles Employers Looking to Post a Job?
+see how you can up your career status Career Development &. Learning Companies hiring and available jobs this week (August 17) Read Article The Right Job Every industry needs administrative assistants Read Article Companies hiring and available jobs this week (August 10) Read Article Read More Articles Employers Looking to Post a Job?
 
 We have end-to-end solutions that can keep up with you and your standards.
 
