@@ -58,8 +58,8 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
-    *   What to Watch on FandangoNOW: Black History Drama ‘Emperor,’ Classic Documentaries and More Read More
-    *   The Week in Movie News: Garth Evans to Direct ‘Tron 3,’ Elisabeth Moss Sticks with Blumhouse and More Read More
+    *   What to Watch on FandangoNOW: ‘The Secret: Dare to Dream,’ ’The Secret Garden,’ ‘She Dies Tomorrow’ and More Read More
+    *   The Week in Movie News: Spider-Man Spin-Offs for Olivia Wilde and J.C. Chandor, Ben Affleck’s Batman Returns for ‘The Flash’ and More Read More
     
     Explore Content
     *   Movie Reviews
