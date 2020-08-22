@@ -214,7 +214,7 @@ You have the right to ask us not to use your personal information for direct mar
 
 Please address written requests and questions about your rights to privacy@barnesandnoble.com or call us at 1-877-886-5024. You may submit a request for a copy of the personal information that we hold about you through our online portal.
 
-California residents may be entitled to object, or opt-out, of having their information sold to third parties. If you are a California resident and would like to opt-out of having your information sold, please visit the following link: Do Not Sell My Info. We do not discriminate against California consumers who exercise any of their rights described in this policy.
+California residents may be entitled to object, or opt-out, of having their information sold to third parties. If you are a California resident and would like to opt-out of having your information sold, please visit the following link: Do Not Sell My Personal Information. We do not discriminate against California consumers who exercise any of their rights described in this policy.
 
 Note that, as required by law, we will require you to prove your identity. We may conduct an identity verification by phone call or email. Depending on your request, we will ask for information such as your name, the last item you purchased from us, or the date of your last purchase from us. We may also ask you to provide a signed declaration confirming your identity. Following a request, we will use reasonable efforts to supply, correct or delete personal information about you in our files.
 
