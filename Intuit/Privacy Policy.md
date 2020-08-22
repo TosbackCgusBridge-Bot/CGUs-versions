@@ -6,10 +6,10 @@ Friends &. Family Sale! UP TO 50% OFF brands you love! Shop All
 
 Enable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresDadeland MallMore Stores7201 N Kendall Dr, Miami, FL, 33156305-666-1911 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -40,11 +40,7 @@ Shop All A dream come true UP TO 50% OFF Homeselect styles
 
 *   Shop All
 
-BeddingRugsWindowDecorUP TO 50% OFFXersion for the familyselect stylesFor HerFor HimBoysGirlsUP TO 25% OFFBest brands, awesome prices!select styles | Excluded from coupons.adidasChampionPumaReebokIntroducing big &. tall Puma activewear!Excluded from coupons.
-
-*   Shop All
-
- 
+BeddingRugsWindowDecor 
 
 *   Shop All
 
@@ -57,7 +53,11 @@ BeddingRugsWindowDecorUP TO 50% OFFXersion for the familyselect stylesFor HerFor
 *   Sandals
     
 
-Shop AllShop Salon haircareShop Beauty at Sephora inside JCPenneySephora excluded from coupons.JuniorsYoung MenKidsBackpacksHomeschoolUP TO 40% OFF Dorm their wayCozy styles to create their own space, home or away.select styles
+Shop AllUP TO 50% OFFXersion for the familyselect stylesFor HerFor HimBoysGirlsUP TO 25% OFFBest brands, awesome prices!select styles | Excluded from coupons.adidasChampionPumaReebokIntroducing big &. tall Puma activewear!Excluded from coupons.
+
+*   Shop All
+
+Shop Salon haircareShop Beauty at Sephora inside JCPenneySephora excluded from coupons.JuniorsYoung MenKidsBackpacksHomeschoolUP TO 40% OFF Dorm their wayCozy styles to create their own space, home or away.select styles
 
 *   Shop All
 
@@ -72,24 +72,20 @@ Shop AllShop Salon haircareShop Beauty at Sephora inside JCPenneySephora exclude
 
 Shop AllWomenMenBaby &. KidsShoes Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.09with code~$32~5
+*   Xersion Womens V Neck Short Sleeve T-Shirt $9.09with code~$22~14
 *   Urban Decay Naked Ultraviolet Eyeshadow Palette
     
     $49
     
-    480
-*   Matrix® Biolage Color Last Shampoo - 33.8 oz. $15.29with code~$30~110
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+    486
+*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $19sale
     
-    ~$124.98~141
-*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $24.49 - $44.09with code~$50 - $90~229
-*   Too Faced Born This Way Matte 24 Hour Foundation
-    
-    $40
-    
-    84
+    ~$124.98~211
+*   a.n.a Womens Knit Waist Short $10.49with code~$30~35
+*   Matrix® Biolage Color Last Shampoo - 33.8 oz. $15.29with code~$30~110
+*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.09with code~$32~15
 
 Shop and Save at JCPenney
 
