@@ -9,9 +9,26 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Trina Turk Up to 75% Off
+    *   Trina Turk Home at 50% Off
+    *   PMD Skincare Tools at 50% Off
+    *   Calvin Klein Up to 65% Off
+    *   Crossbodies Starting at 60% Off
+    *   Calvin Klein Men Up to 70% Off
+    *   Women's Styles Up to 70% Off Incl. Plus
+    *   Lucky Brand Outerwear Up to 70% Off
+    *   Kids' Sneakers Up to 60% Off ft. Fila
+    *   Calvin Klein Sleep &. Lingerie Under $25
+    *   Loafers to Love Up to 60% Off
+    *   Cool Looks for Kids ft. Roxy &. Volcom
+    *   90 Degree by Reflex Under $35
+    *   Contemporary Sandals &. More Up to 65% Off
+    *   Men's Loafers Up to 70% Off
+    *   Men's Oxfords &. Derbys Up to 70% Off
     *   Marc Jacobs Up to 50% Off
     *   Z by Zella Incl. Plus
     *   Gal Meets Glam &. More Up to 85% Off
+    
     *   Women's Styles at $50 Incl. Plus
     *   Born Up to 75% Off
     *   Women's Styles at $60 Incl. Plus
@@ -26,76 +43,46 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Gemstone Jewelry Up to 80% Off
     *   Top Toys Starting at $10
     *   Step into Fall: Kids' Boots Up to 50% Off
-    *   Johnny Was
-    *   Women's Styles at $30 Incl. Plus
-    *   Summer Intimates Up to 65% Off
-    *   Stadium Ready: Bags Starting at $13
     *   Wedding Ready: Suiting &. More Up to 85% Off
     *   Decorative Pillows &. More Starting at $20
-    *   Socialite
-    *   Fit Favorites: Active Up to 70% Off
-    *   Wedding Ready: Shoes &. Accessories
     *   Twirl Worthy: Girls' Dresses Up to 60% Off
-    
     *   Nordstrom Exclusive Dress Shirts Under $30
     *   Exclusively Ours: Men's Shoes ft. Wallin &. Bros
-    *   Our Exclusive Shoes ft. 14th &. Union
+    
     *   Wedding Ready: Men's Shoes Up to 70% Off
     *   Back to School Essentials ft. Harper Canyon
     *   Stila Beauty Up to 60% Off
-    *   Naturalizer &. SOUL Naturalizer Up to 70% Off
-    *   Wedding Ready: Shapewear Up to 65% Off
-    *   Wedding Ready: Dresses Up to 70% Off
     *   Makeup Ft Laura Geller Starting at $10
-    *   Robert Graham Up to 65% Off
-    *   Asics Kids
+    *   Women's Styles at $30 Incl. Plus
     *   Workout Ready: Men's Active Shoes
-    *   PUMA Men Starting at $12
-    *   Best Selling Artwork Featuring Reyna Noriega
-    *   adidas Kids
-    *   Virtual Play Date: Kids' Styles Up to 60% Off
-    *   Men's Shoes Up to 65% Off
-    *   Hoops &. Huggies Starting at $10
-    *   Free Shipping: Green Thumb's Paradise
-    *   Home Organization Starting at $20
-    *   Men's Boots Up to 50% Off
-    *   Free Shipping: Bedding at 70% Off
-    *   Free Shipping: Get Cozy with Pillows &. Throws
-    *   Back to School Shop: Girls' Styles Up to 65% Off
-    *   Back to School Shop: Girls' Shoes Up to 65% Off
-    *   Back to School Shop: Boys' Styles Up to 65% Off
-    
-    *   Back to School Shop: Boys' Shoes Up to 65% Off
-    *   Back to School Shop: Denim &. More Up to 85% Off
-    *   Back to School Shop: Women's Sneakers Up to 65% Off
-    *   Back to School Shop: Men's Sneakers Up to 65% Off
-    *   Back to School Shop: Men's Active &. Lounge Starting at $12
-    *   Back to School Shop: Kids at Home Learning
-    *   Back to School Shop: Boots &. Booties Up to 65% Off
-    *   Back to School Shop: Outerwear Up to 75% Off
-    *   Back to School Shop: Men's Boots Up to 65% Off
-    *   Back to School Shop: Men's Tops Up to 65% Off
-    *   Back to School Shop: Men's Outerwear Up to 65% Off
-    *   Back to School Shop: Slippers &. More Up to 65% Off
-    *   Back To School Shop: Tops Under $20 Incl. Plus &. Petites
-    *   Back to School Shop: Backpacks Up to 65% Off
-    *   Back to School Shop: Active &. Lounge Up to 65% Off
-    *   Free Shipping: Bath &. Beach Towels Up to 70% Off
-    *   Back to School Shop: Men's Denim &. More Up to 80% Off
-    *   Back to School Shop: Face Masks Starting at $15
-    *   Back to School Shop: Dresses Up to 70% Off Incl. Plus
-    *   Get Ready for the School Year with Planners
-    *   Cropped Styles Up to 75% Off Incl. Plus
-    *   Casual Styles ft. Cloth &. Stone
-    *   Summer Dresses Up to 70% Off Incl. Plus
     *   Favorite Tops Up to 75% Off Incl. Plus
     *   Pants &. More Up to 75% Off Incl. Plus
+    *   Men's Shoes Up to 65% Off
+    *   Free Shipping: Green Thumb's Paradise
+    *   Home Organization Starting at $20
+    *   Free Shipping: Bedding at 70% Off
+    *   Free Shipping: Get Cozy with Pillows &. Throws
+    *   Get Ready for the School Year with Planners
+    *   90 Degrees by Reflex Men
+    *   Suzy Levian Jewelry Up to 75% Off
+    *   Wedding Ready: Dresses Up to 70% Off
+    *   Best Selling Artwork Featuring Reyna Noriega
 *   WomenShop Sale Events
     
+    *   Trina Turk Up to 75% Off
+    *   Calvin Klein Up to 65% Off
+    *   Crossbodies Starting at 60% Off
+    *   Women's Styles Up to 70% Off Incl. Plus
+    *   Lucky Brand Outerwear Up to 70% Off
+    *   Calvin Klein Sleep &. Lingerie Under $25
+    *   Loafers to Love Up to 60% Off
+    *   90 Degree by Reflex Under $35
+    *   Contemporary Sandals &. More Up to 65% Off
     *   Marc Jacobs Up to 50% Off
     *   Z by Zella Incl. Plus
     *   Gal Meets Glam &. More Up to 85% Off
     *   Women's Styles at $50 Incl. Plus
+    
     *   Born Up to 75% Off
     *   Women's Styles at $60 Incl. Plus
     *   WFH Essentials Up to 75% Off Incl. Plus
@@ -103,116 +90,77 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Cozy at Home: Lounge &. More
     *   Fragrances ft. Calvin Klein Starting at $10
     *   Gemstone Jewelry Up to 80% Off
-    *   Johnny Was
-    *   Women's Styles at $30 Incl. Plus
-    *   Summer Intimates Up to 65% Off
-    *   Stadium Ready: Bags Starting at $13
-    *   Socialite
-    *   Fit Favorites: Active Up to 70% Off
-    *   Wedding Ready: Shoes &. Accessories
-    *   Our Exclusive Shoes ft. 14th &. Union
     *   Back to School Essentials ft. Harper Canyon
-    
-    *   Naturalizer &. SOUL Naturalizer Up to 70% Off
-    *   Wedding Ready: Shapewear Up to 65% Off
-    *   Wedding Ready: Dresses Up to 70% Off
-    *   Hoops &. Huggies Starting at $10
-    *   Back to School Shop: Denim &. More Up to 85% Off
-    *   Back to School Shop: Women's Sneakers Up to 65% Off
-    *   Back to School Shop: Boots &. Booties Up to 65% Off
-    *   Back to School Shop: Outerwear Up to 75% Off
-    *   Back to School Shop: Slippers &. More Up to 65% Off
-    *   Back To School Shop: Tops Under $20 Incl. Plus &. Petites
-    *   Back to School Shop: Backpacks Up to 65% Off
-    *   Back to School Shop: Active &. Lounge Up to 65% Off
-    *   Back to School Shop: Face Masks Starting at $15
-    *   Back to School Shop: Dresses Up to 70% Off Incl. Plus
-    *   Cropped Styles Up to 75% Off Incl. Plus
-    *   Casual Styles ft. Cloth &. Stone
-    *   Summer Dresses Up to 70% Off Incl. Plus
+    *   Women's Styles at $30 Incl. Plus
     *   Favorite Tops Up to 75% Off Incl. Plus
     *   Pants &. More Up to 75% Off Incl. Plus
+    *   Suzy Levian Jewelry Up to 75% Off
+    *   Wedding Ready: Dresses Up to 70% Off
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
-    *   Lingerie &. Shapewear
+    *   Shoes
     *   Handbags
+    *   Lingerie &. Shapewear
     *   Accessories
 *   MenShop Sale Events
     
+    *   Calvin Klein Men Up to 70% Off
+    *   Men's Loafers Up to 70% Off
+    *   Men's Oxfords &. Derbys Up to 70% Off
     *   John Varvatos Star USA Up to 85% Off
     *   Karl Lagerfeld Men's Shoes Up to 70% Off
     *   Cozy At Home: Men's Lounge ft Daniel Buchler
     *   Men's Shoes Starting at $40
+    
     *   Wedding Ready: Suiting &. More Up to 85% Off
     *   Nordstrom Exclusive Dress Shirts Under $30
     *   Exclusively Ours: Men's Shoes ft. Wallin &. Bros
     *   Wedding Ready: Men's Shoes Up to 70% Off
-    *   Robert Graham Up to 65% Off
     *   Workout Ready: Men's Active Shoes
-    
-    *   PUMA Men Starting at $12
     *   Men's Shoes Up to 65% Off
-    *   Men's Boots Up to 50% Off
-    *   Back to School Shop: Men's Sneakers Up to 65% Off
-    *   Back to School Shop: Men's Active &. Lounge Starting at $12
-    *   Back to School Shop: Men's Boots Up to 65% Off
-    *   Back to School Shop: Men's Tops Up to 65% Off
-    *   Back to School Shop: Men's Outerwear Up to 65% Off
-    *   Back to School Shop: Backpacks Up to 65% Off
-    *   Back to School Shop: Men's Denim &. More Up to 80% Off
+    *   90 Degrees by Reflex Men
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Kids' Sneakers Up to 60% Off ft. Fila
+    *   Cool Looks for Kids ft. Roxy &. Volcom
     *   Top Toys Starting at $10
     *   Step into Fall: Kids' Boots Up to 50% Off
     *   Twirl Worthy: Girls' Dresses Up to 60% Off
-    *   Asics Kids
-    *   adidas Kids
-    *   Virtual Play Date: Kids' Styles Up to 60% Off
-    
-    *   Back to School Shop: Girls' Styles Up to 65% Off
-    *   Back to School Shop: Girls' Shoes Up to 65% Off
-    *   Back to School Shop: Boys' Styles Up to 65% Off
-    *   Back to School Shop: Boys' Shoes Up to 65% Off
-    *   Back to School Shop: Kids at Home Learning
-    *   Back to School Shop: Backpacks Up to 65% Off
     
     Shop By Category
     *   Girls
     *   Girls' Shoes
+    *   Baby
     *   Boys
     *   Boys' Shoes
-    *   Baby
     *   Toys
 *   HomeShop Sale Events
     
+    *   Trina Turk Home at 50% Off
     *   Decorative Pillows &. More Starting at $20
-    *   Best Selling Artwork Featuring Reyna Noriega
     *   Free Shipping: Green Thumb's Paradise
     *   Home Organization Starting at $20
     *   Free Shipping: Bedding at 70% Off
     *   Free Shipping: Get Cozy with Pillows &. Throws
-    *   Free Shipping: Bath &. Beach Towels Up to 70% Off
     *   Get Ready for the School Year with Planners
+    *   Best Selling Artwork Featuring Reyna Noriega
     
     Shop By Category
     *   Home Decor
     *   Bedding
     *   Cleaning &. Organization
-    *   Bath
     *   Kitchen &. Tabletop
     *   Outdoor Living
-    *   Luggage &. Travel
-    *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
+    *   PMD Skincare Tools at 50% Off
     *   Fragrances ft. Calvin Klein Starting at $10
     *   Stila Beauty Up to 60% Off
     *   Makeup Ft Laura Geller Starting at $10
@@ -222,6 +170,7 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Fragrance
     *   Men’s Grooming
     *   Tools &. Accessories
+    *   Skin Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
