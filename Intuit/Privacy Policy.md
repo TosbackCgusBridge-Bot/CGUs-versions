@@ -6,10 +6,10 @@ Friends &. Family Sale! UP TO 50% OFF brands you love! Shop All
 
 Enable Accessibility
 
-*   StoresDadeland MallMore Stores7201 N Kendall Dr, Miami, FL, 33156305-666-1911 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -72,20 +72,24 @@ Shop Salon haircareShop Beauty at Sephora inside JCPenneySephora excluded from c
 
 Shop AllWomenMenBaby &. KidsShoes Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Xersion Womens V Neck Short Sleeve T-Shirt $9.09with code~$22~14
+*   Home Expressions Solid or Stripe Bath Towel Collection $4.20 - $33.60with code617
 *   Urban Decay Naked Ultraviolet Eyeshadow Palette
     
     $49
     
     486
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+*   Too Faced Born This Way Matte 24 Hour Foundation
+    
+    $40
+    
+    91
+*   a.n.a Womens Knit Waist Short $10.49with code~$30~35
+*   Home Expressions Tiles Complete Bedding Set with Sheets $34.99 - $55.99with code~$110 - $170~338
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
     $19sale
     
-    ~$124.98~211
-*   a.n.a Womens Knit Waist Short $10.49with code~$30~35
-*   Matrix® Biolage Color Last Shampoo - 33.8 oz. $15.29with code~$30~110
-*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.09with code~$32~15
+    ~$124.98~143
 
 Shop and Save at JCPenney
 
