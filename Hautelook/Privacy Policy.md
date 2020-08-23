@@ -9,12 +9,34 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Denim Shop: Premium Brands Under $80
+    *   Denim Shop: Best Sellers Up to 70% Off
+    *   Denim Shop: High Waisted Styles Up to 85% Off
+    *   Denim Shop: Styles Under $40 incl. Plus
+    *   Denim Shop: Slim &. Skinny Styles
+    *   Denim Shop: Styles Under $50
+    *   Denim Shop: Straight &. Relaxed Styles
+    *   Toms Men Starting at $30
+    *   Toms for Her
+    *   Dresses Under $40 Incl. Plus
+    *   Dr. Scholl's Up to 65% Off
+    *   Denim Shop: Kids' Styles Up to 60% Off
+    *   Cozy for Class: Kids' Styles Up to 60% Off
+    *   Free Shipping: Kitchen Must-Haves at 60% Off
+    *   Stay in Motion: Active Joggers &. More
+    *   Street-Chic Jackets: Leather, Denim &. More
+    *   Fresh Finds: Sandals &. Mules Up to 60% Off
+    *   Fresh Finds: Men's Shoes Starting at $40
+    *   Pair with Denim: Booties
+    *   Pair With Denim: Men's Boots Up to 65% Off
+    *   Fresh Finds: Kids' Shoes Up to 60% Off
+    *   Marc Jacobs Up to 50% Off
+    
     *   Trina Turk Up to 75% Off
     *   Trina Turk Home at 50% Off
     *   PMD Skincare Tools at 50% Off
     *   Calvin Klein Up to 65% Off
     *   Crossbodies Starting at 60% Off
-    *   Calvin Klein Men Up to 70% Off
     *   Women's Styles Up to 70% Off Incl. Plus
     *   Lucky Brand Outerwear Up to 70% Off
     *   Kids' Sneakers Up to 60% Off ft. Fila
@@ -25,102 +47,94 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Contemporary Sandals &. More Up to 65% Off
     *   Men's Loafers Up to 70% Off
     *   Men's Oxfords &. Derbys Up to 70% Off
-    *   Marc Jacobs Up to 50% Off
-    *   Z by Zella Incl. Plus
-    *   Gal Meets Glam &. More Up to 85% Off
-    
-    *   Women's Styles at $50 Incl. Plus
-    *   Born Up to 75% Off
-    *   Women's Styles at $60 Incl. Plus
     *   John Varvatos Star USA Up to 85% Off
-    *   WFH Essentials Up to 75% Off Incl. Plus
-    *   Season's Best: Jackets Up to 60% Off
-    *   Cozy at Home: Lounge &. More
     *   Karl Lagerfeld Men's Shoes Up to 70% Off
     *   Fragrances ft. Calvin Klein Starting at $10
     *   Cozy At Home: Men's Lounge ft Daniel Buchler
     *   Men's Shoes Starting at $40
     *   Gemstone Jewelry Up to 80% Off
     *   Top Toys Starting at $10
-    *   Step into Fall: Kids' Boots Up to 50% Off
-    *   Wedding Ready: Suiting &. More Up to 85% Off
-    *   Decorative Pillows &. More Starting at $20
-    *   Twirl Worthy: Girls' Dresses Up to 60% Off
-    *   Nordstrom Exclusive Dress Shirts Under $30
-    *   Exclusively Ours: Men's Shoes ft. Wallin &. Bros
     
+    *   Step into Fall: Kids' Boots Up to 50% Off
+    *   Decorative Pillows &. More Starting at $20
+    *   Exclusively Ours: Men's Shoes ft. Wallin &. Bros
     *   Wedding Ready: Men's Shoes Up to 70% Off
-    *   Back to School Essentials ft. Harper Canyon
     *   Stila Beauty Up to 60% Off
-    *   Makeup Ft Laura Geller Starting at $10
     *   Women's Styles at $30 Incl. Plus
-    *   Workout Ready: Men's Active Shoes
-    *   Favorite Tops Up to 75% Off Incl. Plus
-    *   Pants &. More Up to 75% Off Incl. Plus
-    *   Men's Shoes Up to 65% Off
+    *   90 Degrees by Reflex Men
+    *   Calvin Klein Men Up to 70% Off
+    *   Suzy Levian Jewelry Up to 75% Off
+    *   Makeup Ft Laura Geller Starting at $10
+    *   Best Selling Artwork Featuring Reyna Noriega
     *   Free Shipping: Green Thumb's Paradise
     *   Home Organization Starting at $20
     *   Free Shipping: Bedding at 70% Off
-    *   Free Shipping: Get Cozy with Pillows &. Throws
     *   Get Ready for the School Year with Planners
-    *   90 Degrees by Reflex Men
-    *   Suzy Levian Jewelry Up to 75% Off
+    *   Gal Meets Glam &. More Up to 85% Off
+    *   Women's Styles at $50 Incl. Plus
+    *   Women's Styles at $60 Incl. Plus
+    *   WFH Essentials Up to 75% Off Incl. Plus
     *   Wedding Ready: Dresses Up to 70% Off
-    *   Best Selling Artwork Featuring Reyna Noriega
 *   WomenShop Sale Events
     
+    *   Denim Shop: Premium Brands Under $80
+    *   Denim Shop: Best Sellers Up to 70% Off
+    *   Denim Shop: High Waisted Styles Up to 85% Off
+    *   Denim Shop: Styles Under $40 incl. Plus
+    *   Toms for Her
+    *   Dresses Under $40 Incl. Plus
+    *   Dr. Scholl's Up to 65% Off
+    *   Stay in Motion: Active Joggers &. More
+    *   Street-Chic Jackets: Leather, Denim &. More
+    *   Fresh Finds: Sandals &. Mules Up to 60% Off
+    *   Pair with Denim: Booties
+    *   Marc Jacobs Up to 50% Off
     *   Trina Turk Up to 75% Off
     *   Calvin Klein Up to 65% Off
     *   Crossbodies Starting at 60% Off
+    
     *   Women's Styles Up to 70% Off Incl. Plus
     *   Lucky Brand Outerwear Up to 70% Off
     *   Calvin Klein Sleep &. Lingerie Under $25
     *   Loafers to Love Up to 60% Off
     *   90 Degree by Reflex Under $35
     *   Contemporary Sandals &. More Up to 65% Off
-    *   Marc Jacobs Up to 50% Off
-    *   Z by Zella Incl. Plus
-    *   Gal Meets Glam &. More Up to 85% Off
-    *   Women's Styles at $50 Incl. Plus
-    
-    *   Born Up to 75% Off
-    *   Women's Styles at $60 Incl. Plus
-    *   WFH Essentials Up to 75% Off Incl. Plus
-    *   Season's Best: Jackets Up to 60% Off
-    *   Cozy at Home: Lounge &. More
     *   Fragrances ft. Calvin Klein Starting at $10
     *   Gemstone Jewelry Up to 80% Off
-    *   Back to School Essentials ft. Harper Canyon
     *   Women's Styles at $30 Incl. Plus
-    *   Favorite Tops Up to 75% Off Incl. Plus
-    *   Pants &. More Up to 75% Off Incl. Plus
     *   Suzy Levian Jewelry Up to 75% Off
+    *   Gal Meets Glam &. More Up to 85% Off
+    *   Women's Styles at $50 Incl. Plus
+    *   Women's Styles at $60 Incl. Plus
+    *   WFH Essentials Up to 75% Off Incl. Plus
     *   Wedding Ready: Dresses Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Jewelry
-    *   Shoes
     *   Handbags
+    *   Shoes
     *   Lingerie &. Shapewear
     *   Accessories
 *   MenShop Sale Events
     
-    *   Calvin Klein Men Up to 70% Off
+    *   Denim Shop: Slim &. Skinny Styles
+    *   Denim Shop: Styles Under $50
+    *   Denim Shop: Straight &. Relaxed Styles
+    *   Toms Men Starting at $30
+    *   Fresh Finds: Men's Shoes Starting at $40
+    *   Pair With Denim: Men's Boots Up to 65% Off
     *   Men's Loafers Up to 70% Off
     *   Men's Oxfords &. Derbys Up to 70% Off
+    
     *   John Varvatos Star USA Up to 85% Off
     *   Karl Lagerfeld Men's Shoes Up to 70% Off
     *   Cozy At Home: Men's Lounge ft Daniel Buchler
     *   Men's Shoes Starting at $40
-    
-    *   Wedding Ready: Suiting &. More Up to 85% Off
-    *   Nordstrom Exclusive Dress Shirts Under $30
     *   Exclusively Ours: Men's Shoes ft. Wallin &. Bros
     *   Wedding Ready: Men's Shoes Up to 70% Off
-    *   Workout Ready: Men's Active Shoes
-    *   Men's Shoes Up to 65% Off
     *   90 Degrees by Reflex Men
+    *   Calvin Klein Men Up to 70% Off
     
     Shop By Category
     *   Shoes
@@ -128,29 +142,31 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Denim Shop: Kids' Styles Up to 60% Off
+    *   Cozy for Class: Kids' Styles Up to 60% Off
+    *   Fresh Finds: Kids' Shoes Up to 60% Off
     *   Kids' Sneakers Up to 60% Off ft. Fila
     *   Cool Looks for Kids ft. Roxy &. Volcom
     *   Top Toys Starting at $10
     *   Step into Fall: Kids' Boots Up to 50% Off
-    *   Twirl Worthy: Girls' Dresses Up to 60% Off
     
     Shop By Category
-    *   Girls
     *   Girls' Shoes
-    *   Baby
     *   Boys
     *   Boys' Shoes
     *   Toys
+    *   Girls
+    *   Baby
 *   HomeShop Sale Events
     
+    *   Free Shipping: Kitchen Must-Haves at 60% Off
     *   Trina Turk Home at 50% Off
     *   Decorative Pillows &. More Starting at $20
+    *   Best Selling Artwork Featuring Reyna Noriega
     *   Free Shipping: Green Thumb's Paradise
     *   Home Organization Starting at $20
     *   Free Shipping: Bedding at 70% Off
-    *   Free Shipping: Get Cozy with Pillows &. Throws
     *   Get Ready for the School Year with Planners
-    *   Best Selling Artwork Featuring Reyna Noriega
     
     Shop By Category
     *   Home Decor
