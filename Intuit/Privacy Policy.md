@@ -1,8 +1,8 @@
-Shop safe! Masks are required for anyone entering the store. Details  
-Friends &. Family Sale! UP TO 50% OFF brands you love! Shop All  
-EXTRA 30% OFF with code: FAMILY29 Details  
-Free Shipping Over $49  DetailsShop safe! Masks are required for anyone entering the store. Details  
-Friends &. Family Sale! UP TO 50% OFF brands you love! Shop All  
+Our COVID-19 response Details  
+Last day—Friends &. Family Sale UP TO 50% OFF brands you love! Shop All  
+Last day! EXTRA 30% OFF with code: FAMILY29 Details  
+Free Shipping Over $49  DetailsOur COVID-19 response Details  
+Last day—Friends &. Family Sale UP TO 50% OFF brands you love! Shop All  
 
 Enable Accessibility
 
@@ -72,24 +72,20 @@ Shop Salon haircareShop Beauty at Sephora inside JCPenneySephora excluded from c
 
 Shop AllWomenMenBaby &. KidsShoes Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Home Expressions Solid or Stripe Bath Towel Collection $4.20 - $33.60with code617
-*   Urban Decay Naked Ultraviolet Eyeshadow Palette
+*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.09with code~$32~15
+*   Clarks Womens Brinkley Jazz Flip-Flops
     
-    $49
+    $34.99sale
     
-    486
-*   Too Faced Born This Way Matte 24 Hour Foundation
+    ~$55~325
+*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $25.19 - $37.79with code~$60 - $90~123
+*   Home Expressions Lisette Rod-Pocket Sheer Panel
     
-    $40
+    $4.99 - $27.99sale
     
-    91
-*   a.n.a Womens Knit Waist Short $10.49with code~$30~35
-*   Home Expressions Tiles Complete Bedding Set with Sheets $34.99 - $55.99with code~$110 - $170~338
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $19sale
-    
-    ~$124.98~143
+    ~$16 - $40~1249
+*   JCPenney Home™ Ultima Bath Rug Collection $13.99 - $41.99with code~$34 - $90~712
+*   a.n.a-Womens V Neck Short Sleeve T-Shirt $4.89with code~$13~11
 
 Shop and Save at JCPenney
 
