@@ -9,29 +9,45 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Last Call: Womens Styles Under $20 Incl. Plus
+    *   Sleep In: Cozy Styles Starting at $20
+    *   Men's Sneakers Blowout
+    *   Women's Shoe Blowout
+    *   Max Studio Up to 75% Off Incl. Plus
+    *   Men's Fragrances at 60% Off
+    *   Men's Active Starting at $20
+    *   Skincare ft. Murad &. Kiehl's
+    *   Pants &. More Up to 75% Off Incl. Plus
+    *   Basic to Bold: Tops Up to 75% Off Incl. Plus
+    *   Step into Comfort: Sandals &. More Up to 60% Off
+    *   Free Shipping: Pet Furniture Covers at 65% Off
+    *   Brooks Brothers Up to 60% Off
+    *   Free Shipping: BergHOFF Kitchen Blowout
+    *   Swim Favorites Up to 70% Off
+    *   Sneakers Up to 70% Off
+    *   Baby Styles Up to 65% Off
     *   Denim Shop: Premium Brands Under $80
     *   Denim Shop: Best Sellers Up to 70% Off
     *   Denim Shop: High Waisted Styles Up to 85% Off
     *   Denim Shop: Styles Under $40 incl. Plus
     *   Denim Shop: Slim &. Skinny Styles
     *   Denim Shop: Styles Under $50
+    
     *   Denim Shop: Straight &. Relaxed Styles
     *   Toms Men Starting at $30
     *   Toms for Her
     *   Dresses Under $40 Incl. Plus
     *   Dr. Scholl's Up to 65% Off
-    *   Denim Shop: Kids' Styles Up to 60% Off
     *   Cozy for Class: Kids' Styles Up to 60% Off
     *   Free Shipping: Kitchen Must-Haves at 60% Off
     *   Stay in Motion: Active Joggers &. More
     *   Street-Chic Jackets: Leather, Denim &. More
+    *   Denim Shop: Kids' Styles Up to 60% Off
     *   Fresh Finds: Sandals &. Mules Up to 60% Off
     *   Fresh Finds: Men's Shoes Starting at $40
     *   Pair with Denim: Booties
     *   Pair With Denim: Men's Boots Up to 65% Off
     *   Fresh Finds: Kids' Shoes Up to 60% Off
-    *   Marc Jacobs Up to 50% Off
-    
     *   Trina Turk Up to 75% Off
     *   Trina Turk Home at 50% Off
     *   PMD Skincare Tools at 50% Off
@@ -40,110 +56,99 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Women's Styles Up to 70% Off Incl. Plus
     *   Lucky Brand Outerwear Up to 70% Off
     *   Kids' Sneakers Up to 60% Off ft. Fila
+    
     *   Calvin Klein Sleep &. Lingerie Under $25
-    *   Loafers to Love Up to 60% Off
+    *   90 Degrees by Reflex Men
+    *   Calvin Klein Men Up to 70% Off
     *   Cool Looks for Kids ft. Roxy &. Volcom
     *   90 Degree by Reflex Under $35
     *   Contemporary Sandals &. More Up to 65% Off
     *   Men's Loafers Up to 70% Off
     *   Men's Oxfords &. Derbys Up to 70% Off
-    *   John Varvatos Star USA Up to 85% Off
     *   Karl Lagerfeld Men's Shoes Up to 70% Off
     *   Fragrances ft. Calvin Klein Starting at $10
-    *   Cozy At Home: Men's Lounge ft Daniel Buchler
     *   Men's Shoes Starting at $40
-    *   Gemstone Jewelry Up to 80% Off
     *   Top Toys Starting at $10
-    
     *   Step into Fall: Kids' Boots Up to 50% Off
     *   Decorative Pillows &. More Starting at $20
-    *   Exclusively Ours: Men's Shoes ft. Wallin &. Bros
-    *   Wedding Ready: Men's Shoes Up to 70% Off
     *   Stila Beauty Up to 60% Off
-    *   Women's Styles at $30 Incl. Plus
-    *   90 Degrees by Reflex Men
-    *   Calvin Klein Men Up to 70% Off
-    *   Suzy Levian Jewelry Up to 75% Off
-    *   Makeup Ft Laura Geller Starting at $10
     *   Best Selling Artwork Featuring Reyna Noriega
     *   Free Shipping: Green Thumb's Paradise
     *   Home Organization Starting at $20
-    *   Free Shipping: Bedding at 70% Off
     *   Get Ready for the School Year with Planners
-    *   Gal Meets Glam &. More Up to 85% Off
-    *   Women's Styles at $50 Incl. Plus
-    *   Women's Styles at $60 Incl. Plus
-    *   WFH Essentials Up to 75% Off Incl. Plus
-    *   Wedding Ready: Dresses Up to 70% Off
+    *   Loafers to Love Up to 60% Off
+    *   Suzy Levian Jewelry Up to 75% Off
 *   WomenShop Sale Events
     
+    *   Last Call: Womens Styles Under $20 Incl. Plus
+    *   Sleep In: Cozy Styles Starting at $20
+    *   Women's Shoe Blowout
+    *   Max Studio Up to 75% Off Incl. Plus
+    *   Men's Fragrances at 60% Off
+    *   Skincare ft. Murad &. Kiehl's
+    *   Pants &. More Up to 75% Off Incl. Plus
+    *   Basic to Bold: Tops Up to 75% Off Incl. Plus
+    *   Step into Comfort: Sandals &. More Up to 60% Off
+    *   Swim Favorites Up to 70% Off
+    *   Sneakers Up to 70% Off
     *   Denim Shop: Premium Brands Under $80
     *   Denim Shop: Best Sellers Up to 70% Off
     *   Denim Shop: High Waisted Styles Up to 85% Off
     *   Denim Shop: Styles Under $40 incl. Plus
     *   Toms for Her
     *   Dresses Under $40 Incl. Plus
+    
     *   Dr. Scholl's Up to 65% Off
     *   Stay in Motion: Active Joggers &. More
     *   Street-Chic Jackets: Leather, Denim &. More
     *   Fresh Finds: Sandals &. Mules Up to 60% Off
     *   Pair with Denim: Booties
-    *   Marc Jacobs Up to 50% Off
     *   Trina Turk Up to 75% Off
     *   Calvin Klein Up to 65% Off
     *   Crossbodies Starting at 60% Off
-    
     *   Women's Styles Up to 70% Off Incl. Plus
     *   Lucky Brand Outerwear Up to 70% Off
     *   Calvin Klein Sleep &. Lingerie Under $25
-    *   Loafers to Love Up to 60% Off
     *   90 Degree by Reflex Under $35
     *   Contemporary Sandals &. More Up to 65% Off
     *   Fragrances ft. Calvin Klein Starting at $10
-    *   Gemstone Jewelry Up to 80% Off
-    *   Women's Styles at $30 Incl. Plus
+    *   Loafers to Love Up to 60% Off
     *   Suzy Levian Jewelry Up to 75% Off
-    *   Gal Meets Glam &. More Up to 85% Off
-    *   Women's Styles at $50 Incl. Plus
-    *   Women's Styles at $60 Incl. Plus
-    *   WFH Essentials Up to 75% Off Incl. Plus
-    *   Wedding Ready: Dresses Up to 70% Off
     
     Shop By Category
     *   Clothing
-    *   Jewelry
-    *   Handbags
     *   Shoes
+    *   Handbags
+    *   Jewelry
     *   Lingerie &. Shapewear
     *   Accessories
 *   MenShop Sale Events
     
+    *   Men's Sneakers Blowout
+    *   Men's Active Starting at $20
+    *   Brooks Brothers Up to 60% Off
     *   Denim Shop: Slim &. Skinny Styles
     *   Denim Shop: Styles Under $50
     *   Denim Shop: Straight &. Relaxed Styles
     *   Toms Men Starting at $30
     *   Fresh Finds: Men's Shoes Starting at $40
-    *   Pair With Denim: Men's Boots Up to 65% Off
-    *   Men's Loafers Up to 70% Off
-    *   Men's Oxfords &. Derbys Up to 70% Off
     
-    *   John Varvatos Star USA Up to 85% Off
-    *   Karl Lagerfeld Men's Shoes Up to 70% Off
-    *   Cozy At Home: Men's Lounge ft Daniel Buchler
-    *   Men's Shoes Starting at $40
-    *   Exclusively Ours: Men's Shoes ft. Wallin &. Bros
-    *   Wedding Ready: Men's Shoes Up to 70% Off
+    *   Pair With Denim: Men's Boots Up to 65% Off
     *   90 Degrees by Reflex Men
     *   Calvin Klein Men Up to 70% Off
+    *   Men's Loafers Up to 70% Off
+    *   Men's Oxfords &. Derbys Up to 70% Off
+    *   Karl Lagerfeld Men's Shoes Up to 70% Off
+    *   Men's Shoes Starting at $40
     
     Shop By Category
     *   Shoes
     *   Clothing
-    *   Accessories
 *   KidsShop Sale Events
     
-    *   Denim Shop: Kids' Styles Up to 60% Off
+    *   Baby Styles Up to 65% Off
     *   Cozy for Class: Kids' Styles Up to 60% Off
+    *   Denim Shop: Kids' Styles Up to 60% Off
     *   Fresh Finds: Kids' Shoes Up to 60% Off
     *   Kids' Sneakers Up to 60% Off ft. Fila
     *   Cool Looks for Kids ft. Roxy &. Volcom
@@ -151,35 +156,36 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Step into Fall: Kids' Boots Up to 50% Off
     
     Shop By Category
+    *   Girls
     *   Girls' Shoes
     *   Boys
     *   Boys' Shoes
     *   Toys
-    *   Girls
     *   Baby
 *   HomeShop Sale Events
     
+    *   Free Shipping: Pet Furniture Covers at 65% Off
+    *   Free Shipping: BergHOFF Kitchen Blowout
     *   Free Shipping: Kitchen Must-Haves at 60% Off
     *   Trina Turk Home at 50% Off
     *   Decorative Pillows &. More Starting at $20
     *   Best Selling Artwork Featuring Reyna Noriega
     *   Free Shipping: Green Thumb's Paradise
     *   Home Organization Starting at $20
-    *   Free Shipping: Bedding at 70% Off
     *   Get Ready for the School Year with Planners
     
     Shop By Category
     *   Home Decor
-    *   Bedding
-    *   Cleaning &. Organization
     *   Kitchen &. Tabletop
+    *   Cleaning &. Organization
     *   Outdoor Living
 *   BeautyShop Sale Events
     
+    *   Men's Fragrances at 60% Off
+    *   Skincare ft. Murad &. Kiehl's
     *   PMD Skincare Tools at 50% Off
     *   Fragrances ft. Calvin Klein Starting at $10
     *   Stila Beauty Up to 60% Off
-    *   Makeup Ft Laura Geller Starting at $10
     
     Shop By Category
     *   Makeup
