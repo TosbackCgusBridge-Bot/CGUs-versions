@@ -39,7 +39,7 @@ To get paid, we don't require any bank information. Cash out and transfer your M
 
 No questions, no surveys, no forms to fill out. So what do you have to do? Nothing more than you already do. With the Cocoon MDR™ app and MyData Rewards™ account you make money from everyday browsing on your desktop and with your mobile device, you get paid when you go places. There's nothing more to do. Just easy, passive income for doing what your normally do.
 
-Start Earning Cash Today! Download Cocoon MDR™ FOR ANDROID FOR WINDOWS FOR MAC \*Currently available in 10 countries, USA, Canada, China, India, Indonesia, Mexico, Nigeria, Phillipines, Vietnam, and Vatican City (Holysee). Please see FAQs for more details.
+Start Earning Cash Today! Download Cocoon MDR™ FOR ANDROID FOR WINDOWS FOR MAC \*Currently available in 10 countries, USA, Canada, China, India, Indonesia, Mexico, Nigeria, Philippines, Vietnam, and Vatican City (Holysee). Please see FAQs for more details.
 
 **COCOON SECURE** our legacy privacy browser is **currently unavailable** for download.
 
