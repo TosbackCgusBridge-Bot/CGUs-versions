@@ -251,19 +251,19 @@ Extreme Engineering Solutions ensures compliance requirements while reducing man
     *   Emailed
     *   Recent
     
-    *   What security functions should small medical providers outsource?
+    *   California under counted COVID-19 cases after certificate expired
+    *   Travelex driven into financial straits by ransomware attack
     *   Did Intel fail to protect proprietary secrets, or misconfigure servers? Lessons from the leak
-    *   Windows 7 has reached end-of-life: Now what?
-    *   Preparing for what’s next: Innovation also brings cybersecurity risk
-    *   Cyber Criminals Targeting Remote Work to Gain Access to Enterprise Networks and Critical Data
+    *   Six steps for securing smart cities
+    *   Adobe eliminates 11 critical bugs in Acrobat, Reader
     
-    *   U.S. urges Linux users to secure kernels from new Russian malware threat
-    *   Lesson learned: Failure to patch led to password leak of 900 VPN enterprise servers
-    *   Carnival must right the ship after breaches threaten travelers' trust
-    *   IBM pays up in tech, settles Weather Channel privacy lawsuit by LA
-    *   Lock down home workers with a mix of tech tools and policies
+    *   Maze delivers on threat to publish data stolen from Canon
+    *   Fancy Bear imposters extort finance, retail on DDoS threat
+    *   Colleges reopen amid COVID-19 by bolstering security strategies
+    *   Tesla RAT adapts, evolves to thwart security
+    *   Shadow Code in security's blind spot, ups risk of attack
     
-    *   Carnival must right the ship after breaches threaten travelers' trust
+    *   Carnival left to right the ship after breaches threaten travelers' trust
     *   IBM pays up in tech, settles Weather Channel privacy lawsuit by LA
     *   Threat hunters watch as Chinese hackers forage forums for tools
     *   Exposed social media profiles give security teams 235 million reasons to worry about ransomware attacks
@@ -301,6 +301,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
-You can skip this ad in 2 seconds.
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
