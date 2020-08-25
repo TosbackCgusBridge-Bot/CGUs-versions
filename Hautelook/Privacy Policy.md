@@ -9,6 +9,21 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Tommy Bahama Men
+    *   Tommy Bahama Up to 65% Off
+    *   Meet Your Mantra: Onzie Yoga &. More
+    *   Dresses Under $100 Incl. Plus
+    *   Last Call: Shorts Up to 80% Off Incl. Plus
+    *   Tommy Bahama Luggage
+    *   Felina Intimates &. More Up to 65% Off
+    *   Interior Illusion Home Decor Starting at $20
+    *   Elevate Your Look: High Heels
+    *   Elevate Your Look: Kitten &. Low Heels
+    *   Men's Leather Sneakers Up to 65% Off
+    *   Standout Shoes: Prints &. More
+    *   Tea Collection Up to 60% Off
+    *   Kid's Jelly Shoes ft. Mini Melissa
+    *   Face Masks Starting at $15
     *   Last Call: Womens Styles Under $20 Incl. Plus
     *   Sleep In: Cozy Styles Starting at $20
     *   Men's Sneakers Blowout
@@ -16,6 +31,7 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Max Studio Up to 75% Off Incl. Plus
     *   Men's Fragrances at 60% Off
     *   Men's Active Starting at $20
+    
     *   Skincare ft. Murad &. Kiehl's
     *   Pants &. More Up to 75% Off Incl. Plus
     *   Basic to Bold: Tops Up to 75% Off Incl. Plus
@@ -32,13 +48,13 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Denim Shop: Styles Under $40 incl. Plus
     *   Denim Shop: Slim &. Skinny Styles
     *   Denim Shop: Styles Under $50
-    
     *   Denim Shop: Straight &. Relaxed Styles
     *   Toms Men Starting at $30
     *   Toms for Her
     *   Dresses Under $40 Incl. Plus
     *   Dr. Scholl's Up to 65% Off
     *   Cozy for Class: Kids' Styles Up to 60% Off
+    
     *   Free Shipping: Kitchen Must-Haves at 60% Off
     *   Stay in Motion: Active Joggers &. More
     *   Street-Chic Jackets: Leather, Denim &. More
@@ -48,38 +64,29 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Pair with Denim: Booties
     *   Pair With Denim: Men's Boots Up to 65% Off
     *   Fresh Finds: Kids' Shoes Up to 60% Off
-    *   Trina Turk Up to 75% Off
     *   Trina Turk Home at 50% Off
     *   PMD Skincare Tools at 50% Off
-    *   Calvin Klein Up to 65% Off
-    *   Crossbodies Starting at 60% Off
-    *   Women's Styles Up to 70% Off Incl. Plus
-    *   Lucky Brand Outerwear Up to 70% Off
-    *   Kids' Sneakers Up to 60% Off ft. Fila
-    
-    *   Calvin Klein Sleep &. Lingerie Under $25
-    *   90 Degrees by Reflex Men
-    *   Calvin Klein Men Up to 70% Off
-    *   Cool Looks for Kids ft. Roxy &. Volcom
-    *   90 Degree by Reflex Under $35
-    *   Contemporary Sandals &. More Up to 65% Off
     *   Men's Loafers Up to 70% Off
     *   Men's Oxfords &. Derbys Up to 70% Off
-    *   Karl Lagerfeld Men's Shoes Up to 70% Off
     *   Fragrances ft. Calvin Klein Starting at $10
-    *   Men's Shoes Starting at $40
-    *   Top Toys Starting at $10
-    *   Step into Fall: Kids' Boots Up to 50% Off
     *   Decorative Pillows &. More Starting at $20
-    *   Stila Beauty Up to 60% Off
-    *   Best Selling Artwork Featuring Reyna Noriega
-    *   Free Shipping: Green Thumb's Paradise
     *   Home Organization Starting at $20
+    *   90 Degrees by Reflex Men
+    *   Best Selling Artwork Featuring Reyna Noriega
     *   Get Ready for the School Year with Planners
-    *   Loafers to Love Up to 60% Off
-    *   Suzy Levian Jewelry Up to 75% Off
+    *   Daeng Gi Meo Ri Haircare
 *   WomenShop Sale Events
     
+    *   Tommy Bahama Up to 65% Off
+    *   Meet Your Mantra: Onzie Yoga &. More
+    *   Dresses Under $100 Incl. Plus
+    *   Last Call: Shorts Up to 80% Off Incl. Plus
+    *   Tommy Bahama Luggage
+    *   Felina Intimates &. More Up to 65% Off
+    *   Elevate Your Look: High Heels
+    *   Elevate Your Look: Kitten &. Low Heels
+    *   Standout Shoes: Prints &. More
+    *   Face Masks Starting at $15
     *   Last Call: Womens Styles Under $20 Incl. Plus
     *   Sleep In: Cozy Styles Starting at $20
     *   Women's Shoe Blowout
@@ -87,6 +94,7 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Men's Fragrances at 60% Off
     *   Skincare ft. Murad &. Kiehl's
     *   Pants &. More Up to 75% Off Incl. Plus
+    
     *   Basic to Bold: Tops Up to 75% Off Incl. Plus
     *   Step into Comfort: Sandals &. More Up to 60% Off
     *   Swim Favorites Up to 70% Off
@@ -97,102 +105,89 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Denim Shop: Styles Under $40 incl. Plus
     *   Toms for Her
     *   Dresses Under $40 Incl. Plus
-    
     *   Dr. Scholl's Up to 65% Off
     *   Stay in Motion: Active Joggers &. More
     *   Street-Chic Jackets: Leather, Denim &. More
     *   Fresh Finds: Sandals &. Mules Up to 60% Off
     *   Pair with Denim: Booties
-    *   Trina Turk Up to 75% Off
-    *   Calvin Klein Up to 65% Off
-    *   Crossbodies Starting at 60% Off
-    *   Women's Styles Up to 70% Off Incl. Plus
-    *   Lucky Brand Outerwear Up to 70% Off
-    *   Calvin Klein Sleep &. Lingerie Under $25
-    *   90 Degree by Reflex Under $35
-    *   Contemporary Sandals &. More Up to 65% Off
     *   Fragrances ft. Calvin Klein Starting at $10
-    *   Loafers to Love Up to 60% Off
-    *   Suzy Levian Jewelry Up to 75% Off
+    *   Daeng Gi Meo Ri Haircare
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Handbags
-    *   Jewelry
     *   Lingerie &. Shapewear
     *   Accessories
+    *   Jewelry
 *   MenShop Sale Events
     
+    *   Tommy Bahama Men
+    *   Tommy Bahama Luggage
+    *   Men's Leather Sneakers Up to 65% Off
     *   Men's Sneakers Blowout
     *   Men's Active Starting at $20
     *   Brooks Brothers Up to 60% Off
     *   Denim Shop: Slim &. Skinny Styles
     *   Denim Shop: Styles Under $50
+    
     *   Denim Shop: Straight &. Relaxed Styles
     *   Toms Men Starting at $30
     *   Fresh Finds: Men's Shoes Starting at $40
-    
     *   Pair With Denim: Men's Boots Up to 65% Off
-    *   90 Degrees by Reflex Men
-    *   Calvin Klein Men Up to 70% Off
     *   Men's Loafers Up to 70% Off
     *   Men's Oxfords &. Derbys Up to 70% Off
-    *   Karl Lagerfeld Men's Shoes Up to 70% Off
-    *   Men's Shoes Starting at $40
+    *   90 Degrees by Reflex Men
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
 *   KidsShop Sale Events
     
+    *   Tea Collection Up to 60% Off
+    *   Kid's Jelly Shoes ft. Mini Melissa
     *   Baby Styles Up to 65% Off
     *   Cozy for Class: Kids' Styles Up to 60% Off
     *   Denim Shop: Kids' Styles Up to 60% Off
     *   Fresh Finds: Kids' Shoes Up to 60% Off
-    *   Kids' Sneakers Up to 60% Off ft. Fila
-    *   Cool Looks for Kids ft. Roxy &. Volcom
-    *   Top Toys Starting at $10
-    *   Step into Fall: Kids' Boots Up to 50% Off
     
     Shop By Category
     *   Girls
     *   Girls' Shoes
-    *   Boys
     *   Boys' Shoes
-    *   Toys
+    *   Boys
     *   Baby
 *   HomeShop Sale Events
     
+    *   Interior Illusion Home Decor Starting at $20
     *   Free Shipping: Pet Furniture Covers at 65% Off
     *   Free Shipping: BergHOFF Kitchen Blowout
     *   Free Shipping: Kitchen Must-Haves at 60% Off
     *   Trina Turk Home at 50% Off
     *   Decorative Pillows &. More Starting at $20
-    *   Best Selling Artwork Featuring Reyna Noriega
-    *   Free Shipping: Green Thumb's Paradise
     *   Home Organization Starting at $20
+    *   Best Selling Artwork Featuring Reyna Noriega
     *   Get Ready for the School Year with Planners
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Cleaning &. Organization
-    *   Outdoor Living
+    *   Pet Accessories
 *   BeautyShop Sale Events
     
     *   Men's Fragrances at 60% Off
     *   Skincare ft. Murad &. Kiehl's
     *   PMD Skincare Tools at 50% Off
     *   Fragrances ft. Calvin Klein Starting at $10
-    *   Stila Beauty Up to 60% Off
+    *   Daeng Gi Meo Ri Haircare
     
     Shop By Category
-    *   Makeup
     *   Fragrance
     *   Men’s Grooming
-    *   Tools &. Accessories
     *   Skin Care
+    *   Tools &. Accessories
+    *   Makeup
+    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
