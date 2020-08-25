@@ -15,13 +15,11 @@
     *   EXPERIENCES
     *   Setup Process
     
-    SALE
+    New
     
-    Run the school year
+    Fitbit Charge 4
     
-    SALE
-    
-    Crush it in college
+    Fitbit Versa 2
     
     Accessories
     
