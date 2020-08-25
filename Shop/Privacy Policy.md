@@ -27,15 +27,15 @@ Lenovo Explore Close
         
         *   Best Selling Laptops
         *   X1 Carbon Gen 8
-        *   X1 Extreme Gen 2
+        *   X1 Extreme Gen 3
         *   Yoga C940
         *   Legion 5
         *   Flex 5
         *   New Arrivals
         
-        Back to School
+        Labor Day
         
-        Get excellent savings for school and keep your system protected with warranty discounts starting at 20%!
+        Save big on our top brands for work, school, gaming and much more while supplies last
         
     *   Desktops
         
@@ -66,9 +66,9 @@ Lenovo Explore Close
         *   M920 SFF
         *   New Arrivals
         
-        Back to School
+        Labor Day
         
-        Get A+ deals and enjoy savings starting at 20% on all warranties!
+        Get huge savings when you shop towers, all in ones, nanos &. more this holiday
         
     *   Workstations
         
@@ -95,9 +95,9 @@ Lenovo Explore Close
         *   ThinkStation P340 Tiny
         *   ThinkStation P340 Tower
         
-        Back to School
+        Labor Day
         
-        Get A+ deals and enjoy savings starting at 20% on all warranties!
+        Enjoy premium savings today on our selection of powerful and reliable workstations
         
     *   Tablets
         
@@ -122,9 +122,9 @@ Lenovo Explore Close
         *   Best Bargain
         *   Recommended Smart Product
         
-        Back to School
+        Labor Day
         
-        Find the perfect tablet or smart device &. get instant savings today!
+        Shop deals on tablets and smart devices for home or work
         
         Yoga Smart Tab
         
@@ -325,9 +325,9 @@ Lenovo Explore Close
         *   Outlet
         *   Lenovo Coupons
         
-        Students save now
+        Sale
         
-        Get excellent savings for school and keep your system protected with warranty discounts starting at 20%!
+        Save on Laptops, desktops &. all the accessories you need to stay productive wherever life takes you
         
 *   Phones
 *   Data Center
@@ -633,7 +633,7 @@ Lenovo Explore Close
 1-855-253-6686 option #2
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPRO For Small Business
     *   Learn more
@@ -721,7 +721,13 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
+
+Please add at least 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 Privacy Statement"/>.
 
@@ -1279,6 +1285,7 @@ PRODUCTS &. SERVICES
 *   Services &. Warranty
 *   Outlet
 *   Deals
+*   Lenovo Coupons
 *   Cloud Security Software
 *   Windows 10 Computers
 
