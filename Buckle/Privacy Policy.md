@@ -1,13 +1,14 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content For the most up-to-date store information check here. Moving Forward with your best style of the year. embrace fall
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Save on the looks you have been eyeing all season long during Labor Day Sale. shop now. In style and on budget denim that is now an extra 10% off. shop now For the most up-to-date store information check here.
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-*   Moving Forward with your best style of the year. embrace fall
 *   For the most up-to-date store information check here.
-*   Moving Forward with your best style of the year. embrace fall
+*   Save on the looks you have been eyeing all season long during Labor Day Sale. shop now.
+*   In style and on budget denim that is now an extra 10% off. shop now
 *   For the most up-to-date store information check here.
+*   Save on the looks you have been eyeing all season long during Labor Day Sale. shop now.
 
 *   Women
 *   Men
