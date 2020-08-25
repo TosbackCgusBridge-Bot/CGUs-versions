@@ -251,17 +251,17 @@ Extreme Engineering Solutions ensures compliance requirements while reducing man
     *   Emailed
     *   Recent
     
-    *   California under counted COVID-19 cases after certificate expired
-    *   Travelex driven into financial straits by ransomware attack
-    *   Did Intel fail to protect proprietary secrets, or misconfigure servers? Lessons from the leak
-    *   Six steps for securing smart cities
-    *   Adobe eliminates 11 critical bugs in Acrobat, Reader
+    *   Regulators levy $80 million fine, hammer Capital One for massive breach
+    *   Why a cloud-native platform is a requirement for modern cybersecurity
+    *   Apple OS developer supply chain threatened by 'clever' malware attack
+    *   Australia the latest to push digital sovereignty, shake up cyber world order
+    *   SMBs imperiled as low-end RaaS grows more powerful
     
-    *   Maze delivers on threat to publish data stolen from Canon
-    *   Fancy Bear imposters extort finance, retail on DDoS threat
-    *   Colleges reopen amid COVID-19 by bolstering security strategies
-    *   Tesla RAT adapts, evolves to thwart security
-    *   Shadow Code in security's blind spot, ups risk of attack
+    *   Get ready for the next DDoS attack
+    *   Why we need a federal data privacy law – and how CCPA sets the pace
+    *   Windows 7 has reached end-of-life: Now what?
+    *   China targets networks with new Taidoor malware attacks
+    *   Trade minister hack led to trade secrets leak before U.K. election
     
     *   Carnival left to right the ship after breaches threaten travelers' trust
     *   IBM pays up in tech, settles Weather Channel privacy lawsuit by LA
