@@ -209,7 +209,7 @@ Copyright All Rights Reserved © 2008-2020
 
 This website uses cookies. By clicking “Accept” you agree to the use of cookies. Accept Learn MorePrivacy &. Cookies Policy Close Necessary Always Enabled
 
-Tealium Predict X X
+Data Strategy of the Utah Jazz X Tealium Predict X X
 
 The Right Content
 
