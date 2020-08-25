@@ -1,8 +1,9 @@
 Our COVID-19 response Details  
-Last day—Friends &. Family Sale UP TO 50% OFF brands you love! Shop All  
-Last day! EXTRA 30% OFF with code: FAMILY29 Details  
+EXTRA 30% OFF $75 or more with code: BUYMORE4 Details  
+EXTRA 25% OFF under $75 with code: BUYMORE4 Details  
+Women's Flash Sale! EXTRA 40% OFF w/ code: FASHION3 Shop All  
 Free Shipping Over $49  DetailsOur COVID-19 response Details  
-Last day—Friends &. Family Sale UP TO 50% OFF brands you love! Shop All  
+EXTRA 30% OFF $75 or more with code: BUYMORE4 Details  
 
 Enable Accessibility
 
@@ -23,69 +24,39 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Starting at $8.99Take on the day with top tees and new blues.select styles
+ UP TO 60% OFFSwim for the familyselect styles
 
 *   Shop All
 
-*   Juniors
-    
-*   Young Men
-    
-*   Boys
-    
-*   Girls
-    
-
-Shop All A dream come true UP TO 50% OFF Homeselect styles
+WomenMenGirlsBoysJuniorsYoung MenKidsBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. Organization**Save on Puma, Champion &. more**Get the family moving with must-haves from top brands!select styles | Excluded from coupons.
 
 *   Shop All
 
-BeddingRugsWindowDecor 
-
-*   Shop All
-
-*   Dresses
+*   Champion
     
-*   Tees
+*   Puma
     
-*   Jeans
+*   adidas
     
-*   Sandals
+*   Nike
     
 
-Shop AllUP TO 50% OFFXersion for the familyselect stylesFor HerFor HimBoysGirlsUP TO 25% OFFBest brands, awesome prices!select styles | Excluded from coupons.adidasChampionPumaReebokIntroducing big &. tall Puma activewear!Excluded from coupons.
+Shop AllUP TO 50% OFF Xersion activewearselect styles25% OFF Big &. Tall Puma activewearselect styles | Excluded from coupons.Cuisinart®Instant Pot®GreenPanTaste of HomeShop HairsprayShop Budget-Friendly Beauty fromSephora inside JCPenneyselect styles | Sephora excluded from coupons.WomenMenBaby &. KidsShoesJuniorsWindowWomen's CareerWomen's Dresses Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Shop All
-
-Shop Salon haircareShop Beauty at Sephora inside JCPenneySephora excluded from coupons.JuniorsYoung MenKidsBackpacksHomeschoolUP TO 40% OFF Dorm their wayCozy styles to create their own space, home or away.select styles
-
-*   Shop All
-
-*   Comforters &. Bedding Sets
+*   Urban Decay Naked Ultraviolet Eyeshadow Palette
     
-*   Sheets
+    $49
     
-*   Bedding Basics
+    488
+*   Too Faced Born This Way Matte 24 Hour Foundation
     
-*   Storage &. Organization
+    $40
     
-
-Shop AllWomenMenBaby &. KidsShoes Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
-
-*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.09with code~$32~15
-*   Clarks Womens Brinkley Jazz Flip-Flops
-    
-    $34.99sale
-    
-    ~$55~325
-*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $25.19 - $37.79with code~$60 - $90~123
-*   Home Expressions Lisette Rod-Pocket Sheer Panel
-    
-    $4.99 - $27.99sale
-    
-    ~$16 - $40~1249
-*   JCPenney Home™ Ultima Bath Rug Collection $13.99 - $41.99with code~$34 - $90~712
-*   a.n.a-Womens V Neck Short Sleeve T-Shirt $4.89with code~$13~11
+    115
+*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.74with code~$32~15
+*   Home Expressions Tiles Complete Bedding Set with Sheets $37.49 - $55.99with code~$110 - $170~338
+*   a.n.a Womens Knit Waist Short $9.74with code~$30~36
+*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $31.49 - $47.24with code~$60 - $90~124
 
 Shop and Save at JCPenney
 
