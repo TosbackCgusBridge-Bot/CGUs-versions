@@ -179,7 +179,7 @@ Free trial
 
 Subscribe
 
-—/year
+$1,690/year
 
 Software for Building Information Modeling
 
@@ -189,7 +189,7 @@ Free trial
 
 Subscribe
 
-—/year
+$2,425/year
 
 Cost-effective 2D CAD
 
@@ -199,7 +199,7 @@ Free trial
 
 Subscribe
 
-—/year
+$420/year
 
 Try, buy, or learn more about Autodesk products See all products Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
 
@@ -216,7 +216,7 @@ See what's included
 
 Product details
 
-\---/year
+$2,965/year
 
 Subscribe
 
@@ -226,7 +226,7 @@ See what's included
 
 Product details
 
-\---/year
+$2,720/year
 
 Subscribe FOLLOW AUTODESK
 
