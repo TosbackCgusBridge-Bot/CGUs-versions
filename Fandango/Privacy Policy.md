@@ -9,27 +9,24 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
-    *   Inception 10th Anniversary
-    *   Unhinged (2020)
-    *   The 24th (2020)
-    *   Cut Throat City
-    *   Desert One (2020)
-    *   The Pale Door (2020)
-    *   Stage Mother (2020)
-    *   Tesla (2020)
-    *   Words on Bathroom Walls
+    *   Bill &. Ted Face the Music
+    *   The New Mutants
+    *   The Personal History of David Copperfield
+    *   The Eight Hundred (2020)
+    *   Nomad: In The Footsteps of Bruce Chatwin
+    *   Still Here (2020)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Unhinged (2020)
-    *   Bill &. Ted Face the Music
-    *   The New Mutants
     *   Tenet
     *   The King's Man
+    *   Greenland (2020)
     *   Honest Thief (2020)
     *   Wonder Woman 1984
     *   Candyman (2020)
+    *   The War with Grandpa
+    *   Death on the Nile (2020)
     *   See All Coming Soon
     
     Explore More
