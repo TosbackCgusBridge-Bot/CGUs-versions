@@ -396,11 +396,7 @@ Last updated on July 31, 2020 © 2020 WebMD, LLC. All rights reserved. Today on 
 
 Some of these might surprise you.
 
-Sponsor Content Shop our online exclusives.
-
-Save with out best online exclusive offers and get your order fast with free 2-day shipping. Restrictions apply.
-
-By Verizon Wireless Depressed, Guilty Feelings After Eating?
+Depressed, Guilty Feelings After Eating?
 
 Symptoms of binge eating disorder.
 
