@@ -1,11 +1,7 @@
-Return to Campus :  
-Key Information
+*   Return to Campus: Key Information
+*   We urge all our staff and students to **Stay Safe**, **Save Lives**
 
-We urge all our staff and students to  
-**Stay Safe**, **Save Lives**
-
-  Academic Year 2020/21  
-Undergraduate Admissions Update
+*   Academic Year 2020/21 Undergraduate Admissions Update
 
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MGFFD8" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
