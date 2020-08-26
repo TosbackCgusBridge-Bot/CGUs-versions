@@ -9,8 +9,31 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Free Shipping: Oliver Gal Top selling Wall Art
+    *   Willow Row Planters
+    *   Free Shipping: Natural Decor Pillows
+    *   Tumi
+    *   Designer Sun Under $100 ft. Prada
+    *   Best of Nest Starting at $15
+    *   Luxe Brands Up to 75% Off
+    *   Mix &. Match: Suit Separates Under $150
+    *   Luxe Shoes Up to 65% Off
+    *   Bottoms Up to 70% Off Incl. Plus
+    *   Top It Off: Blazers Up to 85% Off
+    *   Maaji Active Up to 65% Off
+    *   Alor Jewelry
+    *   Cozy &. Casual Styles Up to 70% Off
+    *   Men's Luxe Shoes Up to 70% Off
+    *   Espadrilles For Every Outfit Up to 70% Off
+    *   Men's Button-Down Shirts Up to 80% Off
+    *   Men's Dress Shoes Up to 70% Off
+    *   Kids' Active Styles Starting at $10
+    *   Converse Kids
+    *   Last Call: Womens Styles Under $20 Incl. Plus
+    *   Max Studio Up to 75% Off Incl. Plus
     *   Tommy Bahama Men
     *   Tommy Bahama Up to 65% Off
+    
     *   Meet Your Mantra: Onzie Yoga &. More
     *   Dresses Under $100 Incl. Plus
     *   Last Call: Shorts Up to 80% Off Incl. Plus
@@ -24,148 +47,141 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Tea Collection Up to 60% Off
     *   Kid's Jelly Shoes ft. Mini Melissa
     *   Face Masks Starting at $15
-    *   Last Call: Womens Styles Under $20 Incl. Plus
     *   Sleep In: Cozy Styles Starting at $20
     *   Men's Sneakers Blowout
     *   Women's Shoe Blowout
-    *   Max Studio Up to 75% Off Incl. Plus
     *   Men's Fragrances at 60% Off
     *   Men's Active Starting at $20
-    
     *   Skincare ft. Murad &. Kiehl's
-    *   Pants &. More Up to 75% Off Incl. Plus
-    *   Basic to Bold: Tops Up to 75% Off Incl. Plus
-    *   Step into Comfort: Sandals &. More Up to 60% Off
+    *   Dresses Under $40 Incl. Plus
     *   Free Shipping: Pet Furniture Covers at 65% Off
     *   Brooks Brothers Up to 60% Off
     *   Free Shipping: BergHOFF Kitchen Blowout
-    *   Swim Favorites Up to 70% Off
-    *   Sneakers Up to 70% Off
     *   Baby Styles Up to 65% Off
+    
+    *   Street-Chic Jackets: Leather, Denim &. More
     *   Denim Shop: Premium Brands Under $80
     *   Denim Shop: Best Sellers Up to 70% Off
     *   Denim Shop: High Waisted Styles Up to 85% Off
     *   Denim Shop: Styles Under $40 incl. Plus
     *   Denim Shop: Slim &. Skinny Styles
     *   Denim Shop: Styles Under $50
-    *   Denim Shop: Straight &. Relaxed Styles
+    *   Daeng Gi Meo Ri Haircare
     *   Toms Men Starting at $30
-    *   Toms for Her
-    *   Dresses Under $40 Incl. Plus
-    *   Dr. Scholl's Up to 65% Off
-    *   Cozy for Class: Kids' Styles Up to 60% Off
-    
     *   Free Shipping: Kitchen Must-Haves at 60% Off
-    *   Stay in Motion: Active Joggers &. More
-    *   Street-Chic Jackets: Leather, Denim &. More
-    *   Denim Shop: Kids' Styles Up to 60% Off
-    *   Fresh Finds: Sandals &. Mules Up to 60% Off
     *   Fresh Finds: Men's Shoes Starting at $40
-    *   Pair with Denim: Booties
     *   Pair With Denim: Men's Boots Up to 65% Off
-    *   Fresh Finds: Kids' Shoes Up to 60% Off
     *   Trina Turk Home at 50% Off
     *   PMD Skincare Tools at 50% Off
-    *   Men's Loafers Up to 70% Off
-    *   Men's Oxfords &. Derbys Up to 70% Off
-    *   Fragrances ft. Calvin Klein Starting at $10
     *   Decorative Pillows &. More Starting at $20
     *   Home Organization Starting at $20
-    *   90 Degrees by Reflex Men
-    *   Best Selling Artwork Featuring Reyna Noriega
     *   Get Ready for the School Year with Planners
-    *   Daeng Gi Meo Ri Haircare
+    *   Pants &. More Up to 75% Off Incl. Plus
+    *   Basic to Bold: Tops Up to 75% Off Incl. Plus
+    *   Denim Shop: Straight &. Relaxed Styles
+    *   Denim Shop: Kids' Styles Up to 60% Off
+    *   Stay in Motion: Active Joggers &. More
 *   WomenShop Sale Events
     
+    *   Tumi
+    *   Designer Sun Under $100 ft. Prada
+    *   Best of Nest Starting at $15
+    *   Luxe Brands Up to 75% Off
+    *   Luxe Shoes Up to 65% Off
+    *   Bottoms Up to 70% Off Incl. Plus
+    *   Top It Off: Blazers Up to 85% Off
+    *   Maaji Active Up to 65% Off
+    *   Alor Jewelry
+    *   Cozy &. Casual Styles Up to 70% Off
+    *   Espadrilles For Every Outfit Up to 70% Off
+    *   Last Call: Womens Styles Under $20 Incl. Plus
+    *   Max Studio Up to 75% Off Incl. Plus
     *   Tommy Bahama Up to 65% Off
     *   Meet Your Mantra: Onzie Yoga &. More
     *   Dresses Under $100 Incl. Plus
     *   Last Call: Shorts Up to 80% Off Incl. Plus
     *   Tommy Bahama Luggage
     *   Felina Intimates &. More Up to 65% Off
+    
     *   Elevate Your Look: High Heels
     *   Elevate Your Look: Kitten &. Low Heels
     *   Standout Shoes: Prints &. More
     *   Face Masks Starting at $15
-    *   Last Call: Womens Styles Under $20 Incl. Plus
     *   Sleep In: Cozy Styles Starting at $20
     *   Women's Shoe Blowout
-    *   Max Studio Up to 75% Off Incl. Plus
     *   Men's Fragrances at 60% Off
     *   Skincare ft. Murad &. Kiehl's
-    *   Pants &. More Up to 75% Off Incl. Plus
-    
-    *   Basic to Bold: Tops Up to 75% Off Incl. Plus
-    *   Step into Comfort: Sandals &. More Up to 60% Off
-    *   Swim Favorites Up to 70% Off
-    *   Sneakers Up to 70% Off
+    *   Dresses Under $40 Incl. Plus
+    *   Street-Chic Jackets: Leather, Denim &. More
     *   Denim Shop: Premium Brands Under $80
     *   Denim Shop: Best Sellers Up to 70% Off
     *   Denim Shop: High Waisted Styles Up to 85% Off
     *   Denim Shop: Styles Under $40 incl. Plus
-    *   Toms for Her
-    *   Dresses Under $40 Incl. Plus
-    *   Dr. Scholl's Up to 65% Off
-    *   Stay in Motion: Active Joggers &. More
-    *   Street-Chic Jackets: Leather, Denim &. More
-    *   Fresh Finds: Sandals &. Mules Up to 60% Off
-    *   Pair with Denim: Booties
-    *   Fragrances ft. Calvin Klein Starting at $10
     *   Daeng Gi Meo Ri Haircare
+    *   Pants &. More Up to 75% Off Incl. Plus
+    *   Basic to Bold: Tops Up to 75% Off Incl. Plus
+    *   Stay in Motion: Active Joggers &. More
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie &. Shapewear
     *   Accessories
+    *   Lingerie &. Shapewear
+    *   Handbags
     *   Jewelry
 *   MenShop Sale Events
     
+    *   Tumi
+    *   Mix &. Match: Suit Separates Under $150
+    *   Men's Luxe Shoes Up to 70% Off
+    *   Men's Button-Down Shirts Up to 80% Off
+    *   Men's Dress Shoes Up to 70% Off
     *   Tommy Bahama Men
     *   Tommy Bahama Luggage
     *   Men's Leather Sneakers Up to 65% Off
     *   Men's Sneakers Blowout
+    
     *   Men's Active Starting at $20
     *   Brooks Brothers Up to 60% Off
     *   Denim Shop: Slim &. Skinny Styles
     *   Denim Shop: Styles Under $50
-    
-    *   Denim Shop: Straight &. Relaxed Styles
     *   Toms Men Starting at $30
     *   Fresh Finds: Men's Shoes Starting at $40
     *   Pair With Denim: Men's Boots Up to 65% Off
-    *   Men's Loafers Up to 70% Off
-    *   Men's Oxfords &. Derbys Up to 70% Off
-    *   90 Degrees by Reflex Men
+    *   Denim Shop: Straight &. Relaxed Styles
     
     Shop By Category
     *   Clothing
     *   Shoes
+    *   Accessories
 *   KidsShop Sale Events
     
+    *   Kids' Active Styles Starting at $10
+    *   Converse Kids
     *   Tea Collection Up to 60% Off
     *   Kid's Jelly Shoes ft. Mini Melissa
     *   Baby Styles Up to 65% Off
-    *   Cozy for Class: Kids' Styles Up to 60% Off
     *   Denim Shop: Kids' Styles Up to 60% Off
-    *   Fresh Finds: Kids' Shoes Up to 60% Off
     
     Shop By Category
     *   Girls
-    *   Girls' Shoes
-    *   Boys' Shoes
-    *   Boys
     *   Baby
+    *   Girls' Shoes
+    *   Boys
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: Oliver Gal Top selling Wall Art
+    *   Willow Row Planters
+    *   Free Shipping: Natural Decor Pillows
     *   Interior Illusion Home Decor Starting at $20
     *   Free Shipping: Pet Furniture Covers at 65% Off
     *   Free Shipping: BergHOFF Kitchen Blowout
+    
     *   Free Shipping: Kitchen Must-Haves at 60% Off
     *   Trina Turk Home at 50% Off
     *   Decorative Pillows &. More Starting at $20
     *   Home Organization Starting at $20
-    *   Best Selling Artwork Featuring Reyna Noriega
     *   Get Ready for the School Year with Planners
     
     Shop By Category
@@ -173,21 +189,24 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Kitchen &. Tabletop
     *   Cleaning &. Organization
     *   Pet Accessories
+    *   Luggage &. Travel
+    *   Rugs &. Doormats
 *   BeautyShop Sale Events
     
+    *   Best of Nest Starting at $15
     *   Men's Fragrances at 60% Off
     *   Skincare ft. Murad &. Kiehl's
-    *   PMD Skincare Tools at 50% Off
-    *   Fragrances ft. Calvin Klein Starting at $10
     *   Daeng Gi Meo Ri Haircare
+    *   PMD Skincare Tools at 50% Off
     
     Shop By Category
-    *   Fragrance
-    *   Men’s Grooming
     *   Skin Care
+    *   Men’s Grooming
+    *   Fragrance
+    *   Bath &. Body
     *   Tools &. Accessories
     *   Makeup
-    *   Bath &. Body
+    *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
