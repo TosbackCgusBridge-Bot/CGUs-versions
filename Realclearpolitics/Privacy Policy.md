@@ -133,7 +133,7 @@ Subscribe Sign In | Subscribe Ad-Free
     *   Cartoons
     *   Trump Timeline
     *   Links
-    *   Events
+    *   Publishing
     *   Speakers
     *   Contact
     *   About
