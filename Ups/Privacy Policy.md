@@ -1,8 +1,10 @@
-Previous1 of 2Next
+Previous1 of 3Next
 
 *   UPS is open for business: Service impacts related to Coronavirus...More
+*   Mandatory Evacuations Will Disrupt UPS Services in Areas of Texas...More
 *   Wild Fires Impacting Areas in California...More
 *   UPS is open for business: Service impacts related to Coronavirus...More
+*   Mandatory Evacuations Will Disrupt UPS Services in Areas of Texas...More
 *   Wild Fires Impacting Areas in California...More
 *   UPS is open for business: Service impacts related to Coronavirus...More
 
