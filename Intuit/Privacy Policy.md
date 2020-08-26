@@ -7,10 +7,10 @@ EXTRA 30% OFF $75 or more with code: BUYMORE4 Details
 
 Enable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Sign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -24,11 +24,11 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
- UP TO 60% OFFSwim for the familyselect styles
+WomenMenGirlsBoys UP TO 60% OFFSwim for the familyselect styles
 
 *   Shop All
 
-WomenMenGirlsBoysJuniorsYoung MenKidsBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. Organization**Save on Puma, Champion &. more**Get the family moving with must-haves from top brands!select styles | Excluded from coupons.
+Comforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationJuniorsYoung MenKidsBackpacksHomeschool**Save on Puma, Champion &. more**Get the family moving with must-haves from top brands!select styles | Excluded from coupons.
 
 *   Shop All
 
