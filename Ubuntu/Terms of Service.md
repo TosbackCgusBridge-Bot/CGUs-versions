@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Travel, CLIs, and sticky notes: Lilyana’s life as a Canonical UX designer
+*   Kubernetes 1.19 available from Canonical﻿
 *   Ubuntu on WSL 2 Backported to Windows 10 1903 and 1909, Extending Reach
-*   Tour of the snap developer account in the Snap Store
-*   Design and Web team summary – 20th August 2020
