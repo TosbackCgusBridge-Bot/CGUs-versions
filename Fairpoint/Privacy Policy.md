@@ -213,7 +213,7 @@
         *   Employee Development, Education &. Training
         *   Vision, Mission &. Values
         *   Community Involvement
-        *   Diversity/EEO
+        *   Diversity/EEO/Pay Transparency
         *   Internships &. College Relations
     *   Hiring Process
     *   Locations
@@ -354,7 +354,7 @@ Select Location
         *   Employee Development, Education &. Training
         *   Vision, Mission &. Values
         *   Community Involvement
-        *   Diversity/EEO
+        *   Diversity/EEO/Pay Transparency
         *   Internships &. College Relations
     *   Hiring Process
     *   Locations
