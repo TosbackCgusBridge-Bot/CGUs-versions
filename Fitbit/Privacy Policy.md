@@ -17,11 +17,15 @@
     
     New
     
-    Fitbit Charge 4
+    Fitbit Sense
     
-    Fitbit Versa 2
+    New
     
-    Accessories
+    Fitbit Versa 3
+    
+    New
+    
+    Fitbit Inspire 2
     
 *   TECHNOLOGY
     
