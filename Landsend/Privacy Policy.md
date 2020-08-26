@@ -10,7 +10,7 @@ skip to content skip to navigation skip to search
 *   Ship To
 *   Help Center
 
-Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Refer a Friend for 50% OFF Full Price Items! Bagshopping cart,0items
+Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Order History Edit Order Bagshopping cart,0items
 
 *   Women
 *   Men
@@ -301,7 +301,6 @@ Services
 *   Monogramming &. Embroidery
 *   Shop Catalogs
 *   Catalog Requests
-*   Refer a Friend
 
 Stores
 
