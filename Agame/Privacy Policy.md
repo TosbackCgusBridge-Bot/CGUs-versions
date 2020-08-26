@@ -25,18 +25,18 @@ View more results
     
     All Girls Best Games
     *   BFFs Dressing Room
-    *   Meet Ellie
     *   Funny Throat Doctor
     *   Love Tester 3
     *   Cake Design
     *   Floral Real Life Manicure
     *   Bad Teeth Makeover
-    *   Car Salon
     *   Mommy BFFs: Pregnant Check-Up
+    *   Car Salon
+    *   Tattoo Salon
+    *   Shoe Designer
     *   Goldie: Lip Injections
     *   Princess Hard Times
     *   Beach Kiss
-    *   Chinese Food Maker
     *   Ice Princess: Dollhouse
 *   Racing
     
@@ -58,14 +58,14 @@ View more results
     *   Xcross Madness
     *   Madalin Cars Multiplayer
     *   Off-Roader V6
-    *   Two Punk Racing
     *   City Car Stunts 2
+    *   Two Punk Racing
     *   Cars 3D
-    *   Real Dog Racing Simulator
-    *   Drift Cars
     *   Formula X Speed 3D: Car Racing Game
-    *   Scrap Metal 3: Infernal Trap - Driving Game 3D
+    *   Drift Cars
+    *   Real Dog Racing Simulator
     *   Russian Car Driver
+    *   Scrap Metal 3: Infernal Trap - Driving Game 3D
 *   Puzzle
     
     Top Categories
@@ -84,8 +84,8 @@ View more results
     *   Bubble Shooter Classic
     *   1001 Arabian Nights
     *   Mahjong Link
-    *   Bubble Shooter
     *   Butterfly Kyodai
+    *   Bubble Shooter
     *   Block Wood Puzzle
     *   Mahjong Connect Classic
     *   Mystic Sea Treasures
@@ -111,8 +111,8 @@ View more results
     *   Subway Clash 3D
     *   Combat Strike 2
     *   Archery World Tour
-    *   Miami Crime Simulator 3D
     *   Apple Shooter
+    *   Miami Crime Simulator 3D
     *   Stickman Archer 2
     *   Shot Trigger
     *   Super Rocket Buddy
@@ -145,11 +145,11 @@ View more results
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Hole.io
     *   Fireboy and Watergirl: The Forest Temple
-    *   Pool Clash: 8 Ball Billiards Snooker
     *   Crowd City
     *   Fireboy &. Watergirl 3: The Ice Temple
-    *   Gartic.io
+    *   Pool Clash: 8 Ball Billiards Snooker
     *   Multiplayer Piano
+    *   Gartic.io
 *   Action
     
     Top Categories
@@ -168,10 +168,10 @@ View more results
     *   Combat Strike 2
     *   Stickman Fighter: Epic Battle
     *   Bomb It 6
-    *   Miami Crime Simulator 3D
     *   Apple Shooter
-    *   Stickman Archer 2
+    *   Miami Crime Simulator 3D
     *   Super Buddy Kick
+    *   Stickman Archer 2
     *   Age of War
     *   Shot Trigger
     *   Stickman Warriors
@@ -203,9 +203,9 @@ View more results
     *   Dog Simulator: Puppy Craft
     *   Bob the Robber 4: Season 2 Russia
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   World Crafts
     *   Troll Face Quest: Horror
     *   RoBBie
+    *   World Crafts
 *   More
     
     *   Girls
