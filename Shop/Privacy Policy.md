@@ -30,7 +30,7 @@ Lenovo Explore Close
         *   X1 Extreme Gen 3
         *   Yoga C940
         *   Legion 5
-        *   Flex 5
+        *   IdeaPad Slim 7
         *   New Arrivals
         
         Labor Day
@@ -68,7 +68,7 @@ Lenovo Explore Close
         
         Labor Day
         
-        Get huge savings when you shop towers, all in ones, nanos &. more this holiday
+        Get big savings when you shop desktops this holiday, including a special Nano offer up to 68% off
         
     *   Workstations
         
@@ -192,11 +192,14 @@ Lenovo Explore Close
         
         *   Quick Links
         *   Sale
+        *   Shop all new monitors
         *   Monitor Accessories
         *   Monitor FAQ
         
-        *   New Monitors
-        *   Shop all new monitors
+        M14 Portable Monitor
+        
+        Ultraslim &. ultralight, a mobile display for the modern professional &. beyond
+        
     *   Gaming
         
         *   Always Free Shipping
@@ -318,7 +321,6 @@ Lenovo Explore Close
         *   Clearance
         
         *   Additional Offers
-        *   IdeaPad S940 save 47%
         *   ThinkCentre M90n save 68%
         *   Discount Programs
         *   Trade In
@@ -633,7 +635,7 @@ Lenovo Explore Close
 1-855-253-6686 option #2
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPRO For Small Business
     *   Learn more
@@ -721,7 +723,13 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
+
+Please add at least 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 Privacy Statement"/>.
 
