@@ -10,7 +10,7 @@ close
     *   Candy Gift Baskets
     *   California Gift Baskets
     
-    Occasions*   Summer Entertaining
+    Occasions*   Fall Gift Baskets
     *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
@@ -103,7 +103,7 @@ close
     *   Candy Gift Baskets
     *   California Gift Baskets
     
-    Occasions*   Summer Entertaining
+    Occasions*   Fall Gift Baskets
     *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
