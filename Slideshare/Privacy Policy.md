@@ -358,12 +358,12 @@ Scribd retains the Personal Information we receive as described in this Privacy 
   
 7.0 Security  
 
-The security of all Personal Information provided to Scribd is important to us, and Scribd takes reasonable steps designed to protect your Personal Information.  Unfortunately, no data transmission over the Internet or storage of information can be guaranteed to be 100% secure. As a result, while Scribd strives to protect your Personal Information, we cannot ensure or warrant the security of any information you transmit to Scribd, and you do so at your own risk.  You are responsible for maintaining the secrecy of your own passwords. If you have reason to believe that your passwords or Personal Information is no longer secure, please promptly notify us at privacy@scribd.com.
+The security of all Personal Information provided to Scribd is important to us, and Scribd takes reasonable steps designed to protect your Personal Information.  Unfortunately, no data transmission over the Internet or storage of information can be guaranteed to be 100% secure. As a result, while Scribd strives to protect your Personal Information, we cannot ensure or warrant the security of any information you transmit to Scribd, and you do so at your own risk.  You are responsible for maintaining the secrecy of your own passwords. If you have reason to believe that your passwords or Personal Information is no longer secure, please promptly notify us using this form.
 
   
 8.0 Redress/Compliance and Accountability  
 
-If after reviewing this Privacy Policy, you would like to submit a request or you have any questions or privacy concerns, please contact us at privacy@scribd.com.
+If after reviewing this Privacy Policy, you would like to submit a request or you have any questions or privacy concerns, please contact us using this form.
 
   
 
@@ -389,7 +389,7 @@ Protecting the privacy of young children is especially important.  For that rea
 
   
 
-If you are the parent or legal guardian of a minor who has become Scribd member, then please contact Scribd at privacy@scribd.com to have that minor’s account terminated and information deleted.
+If you are the parent or legal guardian of a minor who has become a Scribd member, then please contact Scribd using this form to have that minor’s account terminated and information deleted.
 
   
 
@@ -427,7 +427,7 @@ Scribd may update this Privacy Policy from time to time as it deems necessary in
   
 9.5 Contact Information  
 
-Please contact Scribd with any questions or comments about this privacy notice, your personal information, and our third-party disclosure practices or your consent choices at: Scribd, Inc., 460 Bryant Street, Suite 100, San Francisco, CA 94107-2594, or by email: privacy@scribd.com.  We will respond to your inquiry within 30 days of its receipt.
+Please contact Scribd with any questions or comments about this privacy notice, your personal information, and our third-party disclosure practices or your consent choices at: Scribd, Inc., 460 Bryant Street, Suite 100, San Francisco, CA 94107-2594, or by using this form.  We will respond to your inquiry within 30 days of its receipt.
 
   
 
