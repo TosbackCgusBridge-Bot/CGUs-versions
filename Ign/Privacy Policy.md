@@ -74,6 +74,7 @@ This Privacy Policy covers information collected through the following websites 
 *   Best Gifts
 *   PCMag Shop
 *   Mashable Shop
+*   Askmen Shop
 *   IGN Store
 
 Applications:
