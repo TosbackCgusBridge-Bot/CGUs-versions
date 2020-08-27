@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Wednesday, August 26, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Thursday, August 27, 2020  
 
 DEBKAfile
 
@@ -44,6 +44,26 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Israel’s coronavirus infection level stays high
+    
+    Aug 26, 2020 @ 18:31
+    
+*    Netanyahu pledges to stay out of law enforcement appointments
+    
+    Aug 26, 2020 @ 18:21
+    
+*   First commercial flight between Israel and the UAE next Monday
+    
+    Aug 26, 2020 @ 17:52
+    
+*   Israeli rabbi stabbed to death by Palestinian terrorist
+    
+    Aug 26, 2020 @ 17:38
+    
+*   IDF aircraft strike Hizballah posts after shooting attack on troop
+    
+    Aug 26, 2020 @ 09:48
+    
 *   Sudan nixes Pompeo’s request to normalize ties with Israel
     
     Aug 25, 2020 @ 18:49
@@ -55,31 +75,11 @@ Breaking news
 *   A rare 1,100-year-old gold coin hoard found in central Israel
     
     Aug 25, 2020 @ 11:32
-    
-*   A Qatari emissary due in Gaza to discuss cash aid
-    
-    Aug 25, 2020 @ 09:23
-    
-*   Gaza in full lockdown over first local covid-19 cases
-    
-    Aug 25, 2020 @ 09:18
     
 
-*   Gamzu concerned by Covid-19 spread among Israeli Arabs, Jewish ultra-Orthodox
+*   IDF aircraft strike Hizballah posts after shooting attack on troop
     
-    Aug 25, 2020 @ 18:37
-    
-*   A rare 1,100-year-old gold coin hoard found in central Israel
-    
-    Aug 25, 2020 @ 11:32
-    
-*   A Qatari emissary due in Gaza to discuss cash aid
-    
-    Aug 25, 2020 @ 09:23
-    
-*   Gaza in full lockdown over first local covid-19 cases
-    
-    Aug 25, 2020 @ 09:18
+    Aug 26, 2020 @ 09:48
     
 *   Sudan nixes Pompeo’s request to normalize ties with Israel
     
@@ -93,13 +93,25 @@ Breaking news
     
     Aug 25, 2020 @ 11:32
     
-*   A Qatari emissary due in Gaza to discuss cash aid
+*   Israel’s coronavirus infection level stays high
     
-    Aug 25, 2020 @ 09:23
+    Aug 26, 2020 @ 18:31
     
-*   Gaza in full lockdown over first local covid-19 cases
+*    Netanyahu pledges to stay out of law enforcement appointments
     
-    Aug 25, 2020 @ 09:18
+    Aug 26, 2020 @ 18:21
+    
+*   First commercial flight between Israel and the UAE next Monday
+    
+    Aug 26, 2020 @ 17:52
+    
+*   Israeli rabbi stabbed to death by Palestinian terrorist
+    
+    Aug 26, 2020 @ 17:38
+    
+*   IDF aircraft strike Hizballah posts after shooting attack on troop
+    
+    Aug 26, 2020 @ 09:48
     
 *   Sudan nixes Pompeo’s request to normalize ties with Israel
     
@@ -113,9 +125,21 @@ Breaking news
     
     Aug 25, 2020 @ 11:32
     
-*   A Qatari emissary due in Gaza to discuss cash aid
+*   Israel’s coronavirus infection level stays high
     
-    Aug 25, 2020 @ 09:23
+    Aug 26, 2020 @ 18:31
+    
+*    Netanyahu pledges to stay out of law enforcement appointments
+    
+    Aug 26, 2020 @ 18:21
+    
+*   First commercial flight between Israel and the UAE next Monday
+    
+    Aug 26, 2020 @ 17:52
+    
+*   Israeli rabbi stabbed to death by Palestinian terrorist
+    
+    Aug 26, 2020 @ 17:38
     
 
 12PrevNext
