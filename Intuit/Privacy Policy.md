@@ -1,16 +1,16 @@
 Our COVID-19 response Details  
 EXTRA 30% OFF $75 or more with code: BUYMORE4 Details  
 EXTRA 25% OFF under $75 with code: BUYMORE4 Details  
-Women's Flash Sale! EXTRA 40% OFF w/ code: FASHION3 Shop All  
+Last day—Women's Flash Sale EXTRA 40% OFF w/ code: FASHION3 Shop All  
 Free Shipping Over $49  DetailsOur COVID-19 response Details  
 EXTRA 30% OFF $75 or more with code: BUYMORE4 Details  
 
 Enable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200Sign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -24,11 +24,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-WomenMenGirlsBoys UP TO 60% OFFSwim for the familyselect styles
-
-*   Shop All
-
-Comforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationJuniorsYoung MenKidsBackpacksHomeschool**Save on Puma, Champion &. more**Get the family moving with must-haves from top brands!select styles | Excluded from coupons.
+WomenMenGirlsBoysComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationJuniorsYoung MenKidsBackpacksHomeschool**Save on Puma, Champion &. more**Get the family moving with must-haves from top brands!select styles | Excluded from coupons.
 
 *   Shop All
 
@@ -43,20 +39,28 @@ Comforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationJuniorsYoun
 
 Shop AllUP TO 50% OFF Xersion activewearselect styles25% OFF Big &. Tall Puma activewearselect styles | Excluded from coupons.Cuisinart®Instant Pot®GreenPanTaste of HomeShop HairsprayShop Budget-Friendly Beauty fromSephora inside JCPenneyselect styles | Sephora excluded from coupons.WomenMenBaby &. KidsShoesJuniorsWindowWomen's CareerWomen's Dresses Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Urban Decay Naked Ultraviolet Eyeshadow Palette
-    
-    $49
-    
-    488
+*   Bali Double Support Comfort Wireless Full Coverage Bra-3820 $26.24with code~$40~1789
 *   Too Faced Born This Way Matte 24 Hour Foundation
     
     $40
     
-    115
-*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.74with code~$32~15
+    125
+*   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693
+    
+    $10.79 - $24.99sale
+    
+    ~$36~5568
 *   Home Expressions Tiles Complete Bedding Set with Sheets $37.49 - $55.99with code~$110 - $170~338
-*   a.n.a Womens Knit Waist Short $9.74with code~$30~36
-*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $31.49 - $47.24with code~$60 - $90~124
+*   Home Expressions Lisette Rod-Pocket Sheer Panel
+    
+    $4.99 - $40
+    
+    1249
+*   Xersion Womens Performance Tank Top
+    
+    $3.59 - $12
+    
+    349
 
 Shop and Save at JCPenney
 
