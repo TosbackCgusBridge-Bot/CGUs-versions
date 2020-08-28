@@ -37,6 +37,7 @@ Close submenu ( Girls ) Girls
 Close submenu ( Collections ) Collections
 
 *   View All
+*   Summerbusters
 *   New Arrivals
 *   Lounge Life
 *   Seamless
@@ -68,6 +69,7 @@ Close submenu ( Guys ) Guys
 Close submenu ( Collections ) Collections
 
 *   View All
+*   Summerbusters
 *   New Arrivals
 *   Face Coverings
 *   New Aero Logo
@@ -88,6 +90,7 @@ Close submenu ( Jeans ) Jeans
 Close submenu ( Girls Jeans ) Girls Jeans
 
 *   View All
+*   Buy 1 Get 1 Free
 *   Destroyed Denim
 *   Jeggings
 *   High Rise Jeans
@@ -107,6 +110,7 @@ Close submenu ( Girls Jeans ) Girls Jeans
 Close submenu ( Guys Jeans ) Guys Jeans
 
 *   View All
+*   Buy 1 Get 1 Free
 *   Destroyed Denim
 *   Skinny Jeans
 *   Slim Jeans
@@ -223,6 +227,7 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
+        *   Summerbusters
         *   New Arrivals
         *   Lounge Life
         *   Seamless
@@ -250,6 +255,7 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
+        *   Summerbusters
         *   New Arrivals
         *   Face Coverings
         *   New Aero Logo
@@ -264,6 +270,7 @@ Menu Find a Store Aeropostale
     *   View Home
     *   Girls Jeans
         *   View All
+        *   Buy 1 Get 1 Free
         *   Destroyed Denim
         *   Jeggings
         *   High Rise Jeans
@@ -282,6 +289,7 @@ Menu Find a Store Aeropostale
     
     *   Guys Jeans
         *   View All
+        *   Buy 1 Get 1 Free
         *   Destroyed Denim
         *   Skinny Jeans
         *   Slim Jeans
@@ -393,34 +401,39 @@ More Inclusive Future. Learn More
 
 Next
 
-DENIM FOR DAYS
+SUMMER SALE!
 
-50-70% OFF  
-EVERYTHING!
+Tops &. Shorts
 
-**Including Just Dropped Aero Denim**
+Summerbusters
 
-(Feat. New Fits &. Washes in Premium Seriously  
-Stretchy For Her &. Premium Max Stretch For Him )
+$5.87 &. Up
 
-Shop Girls Shop Guys Shop Girls Jeans Shop Guys Jeans
+Summerbusters $5.87 &. Up
 
-\*Exclusions Apply
+Excludes Clearance
 
-DENIM FOR DAYS
+Girls Summerbusters Guys Summerbusters Shop Girls Shop Guys
 
-50-70% OFF EVERYTHING!
+AERO JEANS
 
-**Including Just Dropped Aero Denim**
+BUY 1 GET 1 FREE  
+\+ FREE SHIPPING
 
-(Feat. New Fits &. Washes in Premium Seriously  
-Stretchy For Her &. Premium Max Stretch For Him )
+\* In store &. online. Add two to cart. Discount reflected at checkout. Excludes clearance.  
+\*\* Free shipping on your entire purchase when you buy Aero Jeans.
 
-Shop Girls Shop Guys Shop Girls Jeans Shop Guys Jeans
+Shop Girls Shop Guys
 
-\*Exclusions Apply
+AERO JEANS
 
-Previous
+BUY 1 GET 1 FREE  
+\+ FREE SHIPPING
+
+\* In store &. online. Add two to cart. Discount reflected at checkout. Excludes clearance.  
+\*\* Free shipping on your entire purchase when you buy Aero Jeans.
+
+Shop Girls Shop Guys Previous
 
 Curvy
 
@@ -433,8 +446,10 @@ Super High Rise
 Skinny
 
 Cheeky  
+**Online Only**
 
 Cheeky  
+**Online Only**
 
 Skater  
 **Online Only**
@@ -459,8 +474,10 @@ Super High Rise
 Skinny
 
 Cheeky  
+**Online Only**
 
 Cheeky  
+**Online Only**
 
 Next
 
@@ -582,7 +599,7 @@ same Easy Aero Style. Effortlessly
 soft and comfortable - in basics  
 and beyond
 
-**$6.87 &. Up**
+**$5.87 + Up**
 
 Shop Girls Tees Shop Guys Tees
 
