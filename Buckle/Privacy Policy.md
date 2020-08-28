@@ -160,7 +160,6 @@
         *   Face Masks
         *   Hats
         *   Jewlery
-        *   Other
         *   Socks
         *   Sunglasses
         *   Wallets
