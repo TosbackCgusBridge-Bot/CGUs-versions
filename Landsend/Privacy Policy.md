@@ -30,6 +30,8 @@ Lands' End let's get comfy™ Sign In menu
 
 Receive up to 40% off full-price styles. up to 75% sale &. clearance styles!
 
+Only 0 HR 05 MIN 53 SEC Left!
+
 code: BALL pin: PROMOTION DETAILS
 
 Customer Service Menu
