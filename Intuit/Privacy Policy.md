@@ -1,7 +1,7 @@
 Our COVID-19 response Details  
 EXTRA 30% OFF $75 or more with code: BUYMORE4 Details  
 EXTRA 25% OFF under $75 with code: BUYMORE4 Details  
-Last day—Women's Flash Sale EXTRA 40% OFF w/ code: FASHION3 Shop All  
+Doorbusters! UP TO 60% OFF Limited time offer! Shop All  
 Free Shipping Over $49  DetailsOur COVID-19 response Details  
 EXTRA 30% OFF $75 or more with code: BUYMORE4 Details  
 
@@ -24,43 +24,49 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-WomenMenGirlsBoysComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationJuniorsYoung MenKidsBackpacksHomeschool**Save on Puma, Champion &. more**Get the family moving with must-haves from top brands!select styles | Excluded from coupons.
+**Women's Deals**Starting at $11.99select styles**Men's Deals**Starting at $12.99select styles**Kids' Deals**Starting at $5.99select styles**Home Deals**Starting at $8.99select stylesWomenMenGirlsBoysWomenMenBeddingBring in a pop of print to the bedroom.WindowAdd some dimension with floor-length curtains.RugsSpruce up the floors with a statement rug.Kitchen &. DiningTreat yourself to chef-worthy cookware.JuniorsYoung MenKidsBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. Organization 
 
 *   Shop All
 
-*   Champion
+*   25% OFF adidas apparel
     
-*   Puma
+*   25% OFF Champion apparel
     
-*   adidas
+*   25% OFF Puma apparel
     
-*   Nike
+*   Starting at $49.99, New Balance shoes
     
 
-Shop AllUP TO 50% OFF Xersion activewearselect styles25% OFF Big &. Tall Puma activewearselect styles | Excluded from coupons.Cuisinart®Instant Pot®GreenPanTaste of HomeShop HairsprayShop Budget-Friendly Beauty fromSephora inside JCPenneyselect styles | Sephora excluded from coupons.WomenMenBaby &. KidsShoesJuniorsWindowWomen's CareerWomen's Dresses Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Shop AllJuniorsYoung MenGirlsBoys**There's nothing like Levi's**®Starting at $34.99 for her, $39.99 for him   
+select styles, including women's 721 skinny fit or men's 505™ regular fit | reg. $59.50 | Ends 8/30 Offers and coupons do not apply to Levi's®. 
 
-*   Bali Double Support Comfort Wireless Full Coverage Bra-3820 $26.24with code~$40~1789
-*   Too Faced Born This Way Matte 24 Hour Foundation
+*   For Her
+*   For Him
+
+Shop HairsprayShop Budget-Friendly Beauty fromSephora inside JCPenneyselect styles | Sephora excluded from coupons.WomenMenBaby &. KidsShoesJuniorsWindowWomen's CareerWomen's Dresses Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   Urban Decay Naked Ultraviolet Eyeshadow Palette
     
-    $40
+    $49
     
-    125
-*   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693
+    493
+*   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
     
-    $10.79 - $24.99sale
+    $49.98
     
-    ~$36~5568
+    238
+*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+    
+    $124.98
+    
+    212
+*   Ienjoy Home Casual Comfort™ Premium Ultra Soft Duvet Cover Set $20.99 - $29.99with code~$40 - $60~40
 *   Home Expressions Tiles Complete Bedding Set with Sheets $37.49 - $55.99with code~$110 - $170~338
-*   Home Expressions Lisette Rod-Pocket Sheer Panel
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
-    $4.99 - $40
+    $124.98
     
-    1249
-*   Xersion Womens Performance Tank Top
-    
-    $3.59 - $12
-    
-    349
+    144
 
 Shop and Save at JCPenney
 
