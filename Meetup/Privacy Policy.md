@@ -76,9 +76,9 @@ Summary: We use information about you to:
 
 We may use information about you described above for various business purposes related to operating our Platform, including to:
 
-1.  Provide, maintain, and improve our Platform, including to process transactions, develop new products and services (for example, including you in tests or pilots of new or revised Platform functions, such as messaging or search functionality or using information about your usage of the Platform to develop new or revised messaging or search functionality), and manage the performance of our Platform.
+1.  Provide, maintain, and improve our Platform, including to process transactions, develop new products and services (for example, including you in tests or pilots of new or revised Platform functions, such as messaging or search functionality or using information about your usage of the Platform to develop new or revised messaging or search functionality), and manage the performance of our Platform;
 2.  Display information about you, for instance, your list of interests, which will be visible on your profile;
-3.  Personalize the Platform, for example, to suggest content in which we think you may be interested.
+3.  Personalize the Platform, for example, to suggest content in which we think you may be interested;
 4.  Allow you to share information about your use of the Platform through a third-party social media service, if you connect your account through that service (which you can turn off at any time) and to provide you with better recommendations;
 5.  Monitor and analyze trends, usage, and activities in connection with our Platform. and
 6.  Detect, investigate, and prevent fraudulent transactions, abuse, and other illegal activities. to protect the rights, property, or safety of Meetup and others. to enforce compliance with our policies. and to comply with applicable law and government requests. and
@@ -99,7 +99,7 @@ We may use information about you for various other business purposes, including 
 
 1.  Provide content, features, or sponsorships that match member profiles or interests;
 2.  Facilitate contests and other promotions;
-3.  Send you marketing communications, subject to applicable law.
+3.  Send you marketing communications, subject to applicable law;
 4.  Combine with information that we collect for the purposes described in this Privacy Policy. and
 5.  Carry out any other purposes described to you at the time that we collected the information.
 
