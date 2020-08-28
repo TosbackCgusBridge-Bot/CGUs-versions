@@ -83,13 +83,13 @@ Back to Top
 
 Biometric Identifiers
 
-Where permitted by law, ETS collects and uses biometric identifiers to identify and authenticate test takers and test center administrators. ETS collects digital photographs and digital voice recordings, and coverts these samples into mathematical representations called templates, which can be compared to the templates previously collected by ETS and to templates created from your government-issued identification documents. ETS uses these templates solely to support test security and integrity and for related purposes (such prosecution of fraud or intellectual property theft). Biometric templates are securely stored and only accessible to those individuals and entities who reasonably need access to the data in connection with investigations, compliance and securityor who provide support for the biometric program. Biometric identifiers are retained for three years, unless a shorter period is required by law. To receive a copy of our Biometric Information Privacy Policy, please contact us via email to etsinfo@ets.org or write to us at the addresses in the Contact section below.
+Where permitted by law, ETS collects and uses biometric identifiers to identify and authenticate test takers and test center administrators. ETS collects digital photographs and digital voice recordings, and coverts these samples into mathematical representations called templates, which can be compared to the templates previously collected by ETS and to templates created from your government-issued identification documents. ETS uses these templates solely to support test security and integrity and for related purposes (such prosecution of fraud or intellectual property theft). Biometric templates are securely stored and only accessible to those individuals and entities who reasonably need access to the data in connection with investigations, compliance and security or who provide support for the biometric program. Biometric identifiers are retained for three years, unless a shorter period is required by law. To receive a copy of our Biometric Information Privacy Policy, please contact us via email to etsinfo@ets.org or write to us at the addresses in the Contact section below.
 
 Back to Top
 
 Use of Information by ETS Research
 
-ETS uses anonymized and pseudonymized information for various research initiatives. For example, ETS may consider how certain types of test takers (such as nonnative English speakers) respond to specific test questions. Similarly, educational apps, such as Relay Reader, collect data to help ETS understand and improve reading skills. ETS's research initiatives reflect our commitment to fairness and equity in testing, helping to ensure that our tests are accessible and free from bias. They also seek to improve teaching, learning and assessment.
+ETS uses anonymized and pseudonymized information for various research initiatives. For example, ETS may consider how certain types of test takers (such as nonnative English speakers) respond to specific test questions. Similarly, educational apps, such as Relay Reader™, collect data to help ETS understand and improve reading skills. ETS's research initiatives reflect our commitment to fairness and equity in testing, helping to ensure that our tests are accessible and free from bias. They also seek to improve teaching, learning and assessment.
 
 ETS may process Personal Information as needed to create de-identified datasets for research. ETS will not (and will not permit any third party to) associate identifying information with research data. Our research results do not contain any identifiable data, and research data are not used to target or profile individuals.
 
@@ -189,7 +189,7 @@ Pixel Tags and Web Beacons
 Pixel tags and web beacons are tiny graphic images placed on our Website(s) or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, the pixel tags and web beacons generate a notice of that action. These tools allow us to measure response to our communications and improve our web pages and promotions.
 
 Server Logs and Other Technologies  
-We collect many different types of information from server logs and other technologies. For example, we may collect information from the device you use to access our Website, your operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. Our server logs also record the IP address of the device you use to connect to the Internet. An IP address is a unique identifier that devices use to identify and communicate with each other on the internet. We may also collect information about the website you were visiting before you came to ETS and the website you visit after you leave our site.
+We collect many different types of information from server logs and other technologies. For example, we may collect information from the device you use to access our Website, your operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. Our server logs also record the IP address of the device you use to connect to the internet. An IP address is a unique identifier that devices use to identify and communicate with each other on the internet. We may also collect information about the website you were visiting before you came to ETS and the website you visit after you leave our site.
 
 Back to Top
 
@@ -235,17 +235,17 @@ ETS is providing this supplemental privacy notice to give individuals in the Eur
 
 Information About ETS
 
-This notice is being given by ETS in the United States, for itself, its EU Representative (ETS Global BV) and its other EEA affiliates.
+This notice is being given by ETS in the United States, for itself, its EU Representative (ETS Global B.V.) and its other EEA affiliates.
 
 U.S. Mail:
 
-Educational Testing Service (ETS)  
+ETS  
 660 Rosedale Road  
 Princeton, NJ 08541 USA
 
 EU Mail:
 
-ETS Global BV  
+ETS Global B.V.  
 Academic &. Business Assessments  
 Strawinskylaan 929  
 1077 XX Amsterdam – The Netherlands
@@ -273,7 +273,7 @@ We may also process your Personal Information for the purposes of our legitimate
 Automated Decision Making and Profiling  
 ETS may use automated processes in connection with scoring tests and for similar purposes as needed to provide the test services that you have requested. All such decisions are subject to human review. We will not make automated decisions about you that may significantly affect you, unless (1) the decision is necessary as part of a contract that we have with you, (2) we have your explicit consent, or (3) we are required by law to use the technology. You can learn more about test scoring by reading the information posted on our Website about each of our tests.
 
-In some cases, we use certain elements of personal data for ETS Research. For example, we may consider how certain types of test takers (such as nonnative English speakers) respond to specific test questions. Our research initiatives reflect our commitment to fairness and equity in testing, helping to ensure that are our tests are accessible and free from bias. They also seek to improve teaching, learning and assessment. Our research results do not contain any identifiable data, and are not used to target or profile individuals. Learn more about ETS Research.
+In some cases, we use certain elements of personal data for ETS Research. For example, we may consider how certain types of test takers (such as nonnative English speakers) respond to specific test questions. Our research initiatives reflect our commitment to fairness and equity in testing, helping to ensure that our tests are accessible and free from bias. They also seek to improve teaching, learning and assessment. Our research results do not contain any identifiable data, and are not used to target or profile individuals. Learn more about ETS Research.
 
 When You Are Required to Provide Personal Information to ETS  
 In most cases, you are not required by law to provide any Personal Information to ETS. You are required to provide certain Personal Information to enable us to enter into a contract with you so that you can use our products and services. Our registration forms indicate which data elements are required for our contracts. If you do not provide these data elements, we cannot do business with you.
@@ -325,7 +325,13 @@ Navigation for Legal Home Navigation for Legal HomeTerms of Use▼
 
 *   SMS Terms of Service
 
-Privacy and SecurityPermissionsTrademark Use▼
+Privacy and SecurityPermissions▼
+
+*   Licensing Policies
+*   General Licensing Permission Form
+*   Research Licensing Permission Form
+
+Trademark Use▼
 
 *   Trademarks Owned by ETS
 
