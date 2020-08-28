@@ -9,9 +9,29 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   SPANX Up to 60% Off
+    *   Jeffrey Campbell Up to 70% Off
+    *   Back to Work: Shoulder Bags &. Totes
+    *   Whish Starting at $15
+    *   Dresses from London Times &. More Incl. Plus
+    *   Knit Tops Under $35 Incl. Plus
+    *   All in the Details: Styles Up to 70% Off
+    *   Cropped Styles &. More Up to 70% Off Incl. Plus
+    *   AG Denim Up to 70% Off
+    *   Journals &. Planners Starting at $15
+    *   Steamers &. Mops at 60% Off
+    *   Comfort Sneakers &. More Up to 75% Off
+    *   Play Dress Up: Kids' Styles Up to 60% Off
+    *   Sandals for Any Outfit Up to 80% Off
+    *   Men's Luxe Loafers &. More Up to 70% Off
+    *   English Laundry Up to 60% Off
+    *   Comfort at Home: Men's Shoes Up to 60% Off
+    *   Kids' Toys ft. Mattel
+    *   Kids' Shoes Under $20
     *   Limited Time Deals at 80% Off
     *   Cashmere From $49 Incl. Plus
     *   Sweaters Under $25 Incl. Plus
+    
     *   Best of Sweaters Incl. Plus
     *   Cardigans Incl. Plus
     *   Sweater Dresses Up to 80% Off
@@ -19,8 +39,10 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Sweater Shop: Fleece Styles Up to 55% Off
     *   Booties for Fall Up to 60% Off
     *   Hair ft. Devacurl &. Macadamia Hair
+    *   Top It Off: Blazers Up to 85% Off
     *   BLANKNYC Denim Up to 80% Off
     *   Men's Cold Weather Boots ft. Sorel
+    *   Cozy &. Casual Styles Up to 70% Off
     *   Yogawear Up to 70% Off
     *   Cold Weather Boots ft. Sorel
     *   Tall &. Over the Knee Boots Up to 60% Off
@@ -29,57 +51,44 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Free Shipping: Oliver Gal Top selling Wall Art
     *   Willow Row Home Decor at 50% Off
     *   Free Shipping: Natural Decor Pillows
-    *   Tumi
-    *   Designer Sun Under $100 ft. Prada
     *   Best of Nest Starting at $15
-    
-    *   Luxe Brands Up to 75% Off
-    *   Basic to Bold: Tops Up to 75% Off Incl. Plus
     *   Mix &. Match: Suit Separates Under $150
-    *   Luxe Shoes Up to 65% Off
-    *   Bottoms Up to 70% Off Incl. Plus
-    *   Top It Off: Blazers Up to 85% Off
-    *   Maaji Active Up to 65% Off
     *   Alor Jewelry
-    *   Cozy &. Casual Styles Up to 70% Off
+    
     *   Men's Luxe Shoes Up to 70% Off
-    *   Espadrilles For Every Outfit Up to 70% Off
     *   Men's Button-Down Shirts Up to 80% Off
     *   Men's Dress Shoes Up to 70% Off
     *   Kids' Active Styles Starting at $10
     *   Converse Kids
-    *   Tommy Bahama Men
-    *   Tommy Bahama Up to 65% Off
     *   Interior Illusion Home Decor Starting at $20
-    *   Men's Leather Sneakers Up to 65% Off
-    *   Tea Collection Up to 60% Off
-    *   Kid's Jelly Shoes ft. Mini Melissa
-    *   Men's Sneakers Blowout
-    *   Men's Fragrances at 60% Off
-    
-    *   Men's Active Starting at $20
     *   Daeng Gi Meo Ri Haircare
+    *   Men's Leather Sneakers Up to 65% Off
+    *   Men's Fragrances at 60% Off
+    *   Skincare ft. Murad &. Kiehl's
     *   Free Shipping: Pet Furniture Covers at 65% Off
-    *   Brooks Brothers Up to 60% Off
     *   Free Shipping: BergHOFF Kitchen Blowout
-    *   Denim Shop: Premium Brands Under $80
-    *   Denim Shop: Best Sellers Up to 70% Off
-    *   Denim Shop: High Waisted Styles Up to 85% Off
-    *   Denim Shop: Styles Under $40 incl. Plus
-    *   Denim Shop: Straight &. Relaxed Styles
-    *   Denim Shop: Kids' Styles Up to 60% Off
+    *   Free Shipping: Kitchen Must-Haves at 60% Off
     *   Trina Turk Home at 50% Off
-    *   Home Organization Starting at $20
     *   Pants Up to 70% Off
     *   Gabi Rielle Jewelry Under $75
+    *   Tumi
+    *   Designer Sun Under $100 ft. Prada
+    *   Luxe Brands Up to 75% Off
+    *   Bottoms Up to 70% Off Incl. Plus
     *   Dresses Under $100 Incl. Plus
-    *   Skincare ft. Murad &. Kiehl's
-    *   Pants &. More Up to 75% Off Incl. Plus
-    *   Denim Shop: Slim &. Skinny Styles
-    *   Denim Shop: Styles Under $50
-    *   Free Shipping: Kitchen Must-Haves at 60% Off
+    *   Basic to Bold: Tops Up to 75% Off Incl. Plus
 *   WomenShop Sale Events
     
+    *   SPANX Up to 60% Off
+    *   Jeffrey Campbell Up to 70% Off
+    *   Back to Work: Shoulder Bags &. Totes
+    *   Whish Starting at $15
+    *   Dresses from London Times &. More Incl. Plus
+    *   Knit Tops Under $35 Incl. Plus
+    *   All in the Details: Styles Up to 70% Off
+    *   Cropped Styles &. More Up to 70% Off Incl. Plus
+    *   Comfort Sneakers &. More Up to 75% Off
+    *   Sandals for Any Outfit Up to 80% Off
     *   Limited Time Deals at 80% Off
     *   Cashmere From $49 Incl. Plus
     *   Sweaters Under $25 Incl. Plus
@@ -88,64 +97,52 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Sweater Dresses Up to 80% Off
     *   Booties for Fall Up to 60% Off
     *   Hair ft. Devacurl &. Macadamia Hair
+    *   Top It Off: Blazers Up to 85% Off
+    
     *   BLANKNYC Denim Up to 80% Off
+    *   Cozy &. Casual Styles Up to 70% Off
     *   Yogawear Up to 70% Off
     *   Cold Weather Boots ft. Sorel
     *   Tall &. Over the Knee Boots Up to 60% Off
-    *   Tumi
-    *   Designer Sun Under $100 ft. Prada
     *   Best of Nest Starting at $15
-    *   Luxe Brands Up to 75% Off
-    *   Basic to Bold: Tops Up to 75% Off Incl. Plus
-    *   Luxe Shoes Up to 65% Off
-    
-    *   Bottoms Up to 70% Off Incl. Plus
-    *   Top It Off: Blazers Up to 85% Off
-    *   Maaji Active Up to 65% Off
     *   Alor Jewelry
-    *   Cozy &. Casual Styles Up to 70% Off
-    *   Espadrilles For Every Outfit Up to 70% Off
-    *   Tommy Bahama Up to 65% Off
-    *   Men's Fragrances at 60% Off
     *   Daeng Gi Meo Ri Haircare
-    *   Denim Shop: Premium Brands Under $80
-    *   Denim Shop: Best Sellers Up to 70% Off
-    *   Denim Shop: High Waisted Styles Up to 85% Off
-    *   Denim Shop: Styles Under $40 incl. Plus
+    *   Men's Fragrances at 60% Off
+    *   Skincare ft. Murad &. Kiehl's
     *   Pants Up to 70% Off
     *   Gabi Rielle Jewelry Under $75
+    *   Tumi
+    *   Designer Sun Under $100 ft. Prada
+    *   Luxe Brands Up to 75% Off
+    *   Bottoms Up to 70% Off Incl. Plus
     *   Dresses Under $100 Incl. Plus
-    *   Skincare ft. Murad &. Kiehl's
-    *   Pants &. More Up to 75% Off Incl. Plus
+    *   Basic to Bold: Tops Up to 75% Off Incl. Plus
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Accessories
     *   Handbags
     *   Lingerie &. Shapewear
+    *   Accessories
 *   MenShop Sale Events
     
+    *   AG Denim Up to 70% Off
+    *   Men's Luxe Loafers &. More Up to 70% Off
+    *   English Laundry Up to 60% Off
+    *   Comfort at Home: Men's Shoes Up to 60% Off
     *   Limited Time Deals at 80% Off
     *   Sweater Shop: Men's Styles Up to 60% Off
     *   Sweater Shop: Fleece Styles Up to 55% Off
     *   Men's Cold Weather Boots ft. Sorel
+    
     *   Fall Ready: Men's Boots Up to 60% Off
-    *   Tumi
     *   Mix &. Match: Suit Separates Under $150
     *   Men's Luxe Shoes Up to 70% Off
     *   Men's Button-Down Shirts Up to 80% Off
-    
     *   Men's Dress Shoes Up to 70% Off
-    *   Tommy Bahama Men
     *   Men's Leather Sneakers Up to 65% Off
-    *   Men's Sneakers Blowout
-    *   Men's Active Starting at $20
-    *   Brooks Brothers Up to 60% Off
-    *   Denim Shop: Straight &. Relaxed Styles
-    *   Denim Shop: Slim &. Skinny Styles
-    *   Denim Shop: Styles Under $50
+    *   Tumi
     
     Shop By Category
     *   Clothing
@@ -153,57 +150,61 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Play Dress Up: Kids' Styles Up to 60% Off
+    *   Kids' Toys ft. Mattel
+    *   Kids' Shoes Under $20
     *   Limited Time Deals at 80% Off
     *   Sweater Shop: Kid's Styles Up to 55% Off
     *   Kids' Active Styles Starting at $10
     *   Converse Kids
-    *   Tea Collection Up to 60% Off
-    *   Kid's Jelly Shoes ft. Mini Melissa
-    *   Denim Shop: Kids' Styles Up to 60% Off
     
     Shop By Category
     *   Girls
     *   Boys
+    *   Toys
     *   Girls' Shoes
     *   Boys' Shoes
     *   Baby
-    *   Toys
 *   HomeShop Sale Events
     
+    *   Journals &. Planners Starting at $15
+    *   Steamers &. Mops at 60% Off
     *   Limited Time Deals at 80% Off
     *   Free Shipping: Oliver Gal Top selling Wall Art
     *   Willow Row Home Decor at 50% Off
     *   Free Shipping: Natural Decor Pillows
+    
     *   Interior Illusion Home Decor Starting at $20
     *   Free Shipping: Pet Furniture Covers at 65% Off
     *   Free Shipping: BergHOFF Kitchen Blowout
-    *   Trina Turk Home at 50% Off
-    *   Home Organization Starting at $20
     *   Free Shipping: Kitchen Must-Haves at 60% Off
+    *   Trina Turk Home at 50% Off
     
     Shop By Category
     *   Home Decor
-    *   Cleaning &. Organization
     *   Kitchen &. Tabletop
     *   Pet Accessories
     *   Luggage &. Travel
     *   Rugs &. Doormats
+    *   Cleaning &. Organization
+    *   Bedding
 *   BeautyShop Sale Events
     
+    *   Whish Starting at $15
     *   Limited Time Deals at 80% Off
     *   Hair ft. Devacurl &. Macadamia Hair
     *   Best of Nest Starting at $15
-    *   Men's Fragrances at 60% Off
     *   Daeng Gi Meo Ri Haircare
+    *   Men's Fragrances at 60% Off
     *   Skincare ft. Murad &. Kiehl's
     
     Shop By Category
+    *   Hair Care
     *   Skin Care
     *   Men’s Grooming
     *   Fragrance
-    *   Bath &. Body
-    *   Hair Care
     *   Makeup
+    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
@@ -403,7 +404,7 @@ Connect With Us:FacebookTwitterPinterestInstagramYouTubeDownload our Apps:iPhone
 
 © 2020 HauteLook | A Nordstrom CompanyNordstromNordstrom RackHauteLookInvite a Friend, Get $20
 
-Get a $20 credit each time a friend you invite makes their first purchase. Limited time only. Terms &. Conditions
+Get a $20 giftcard each time a friend you invite makes their first purchase. Limited time only. Terms &. Conditions
 
 Or you can use your personal referral link to invite
 
