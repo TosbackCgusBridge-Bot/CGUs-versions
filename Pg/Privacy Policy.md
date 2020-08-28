@@ -17,7 +17,7 @@ Primary navigation
 Select LanguageShqipالعربيةAzərbaycan diliBosanskiБългарски简体中文繁體中文HrvatskiČeskyDanskNederlandsEnglishEestiSuomiFrançais (Canada)Français (Européen)ქართულიDeutschΕλληνικάעבריתMagyarItaliano日本語한국어КыргызчаLatviešuLietuviųмакедонскиBahasa MelayuМонголNorskPolskiPortuguês (Brasil)Português (Portugal)RomânăРусскийSrpskiSlovenčinaSlovenščinaEspañolEspañol (España)SvenskaТоҷикӣภาษาไทยTürkçeTurkmenУкраїнськаاردوЎзбекчаTiếng Việt
 
 P&G Global Consumer Privacy Policy  
-_Date last updated: 07/14/2020_  
+_Date last updated: 08/27/2020_  
 
 We work hard to build and maintain a relationship of trust with you. So, when it comes to handling your information, we do so carefully and sensibly, and in ways that live up to that trust. This policy lets you know how we do that, including what information we collect, how we use and protect it, and how you can decide what we do with it. Our goal is to help you understand how we use your information to improve our content, products, advertisements, and services.
 
@@ -400,6 +400,8 @@ When you visit our partner sites, we can show you ads or other content we believ
 
 **deleting cookies also deletes your opt out.** When you opt out of interest-based advertising, we send an opt-out cookie to your browser that tells us that you no longer want to receive interest-based ads from us. Your opt-out cookie will be deleted if you decide to delete all cookies. This means that you will need to opt-out again if you still do not want to receive interest-based ads.
 
+**Facebook’s Advanced Matching.** Some of our sites use Facebook’s Advanced Matching \[link\] features which is a service they offer to advertisers. Through these features, we will send certain of the information you enter into our site form fields (e.g., your name, email address, and phone number – not any sensitive or special category data) in hashed format (encrypted) to Facebook, or the Facebook pixel will hash (encrypt) and pull that data automatically, for the purpose of helping associate you with your browser cookie or device ID. We do this so that we can better target and measure the effectiveness of our advertising on Facebook’s platform. This is how we can know that if we showed you an ad on Facebook, you clicked on it, came to our site and bought something – or not – and therefore whether we should continue to buy ads on Facebook – or not.
+
   
 European Union Data Processing, Retention, and Transfers
 
@@ -670,3 +672,53 @@ Please contact us directly with any questions or concerns you may have about you
 *   Adchoices 
 
 © 2020 Procter &. Gamble. All claims valid only in the U.S.
+
+California Do Not “Sell” Request CenterAs a California resident, you have the right to opt out of the “sale” of your personal information. P&G does not transfer your personal information to third parties in exchange for money but may share information with certain third parties for targeted advertising and joint marketing efforts. P&G shares your personal information through cookies and data extracts. To exercise your “Do Not Sell” right related to website cookies and tracking technologies, set your preferences below. Because some of these third parties operate differently by website and device, you may need to take this step on additional websites and devices you use. Manage Cookie PreferencesCookies/Tracking Technologies Cookies/Tracking Technologies
+
+Click this button to exercise your right to opt-out of the transfer of your personal information by cookies or tracking technologies to third parties for advertising and joint marketing purposes.  
+  
+
+Data Extracts  
+As a consumer you may have engaged with us in other ways than visiting our websites. For example, you may have registered for one of our brand programs. If you want us to update our internal records so we do not share your personal information from our brand programs with a third party in a way that may be defined as a “sale,” please submit your request using **this webform.**  
+  
+For further details on how P&G processes your personal information, please see our **privacy policy.** Confirm My ChoicesBack Button
+
+Back
+
+Performance CookiesVendor Search Search IconFilter Icon
+
+Clear Fliters
+
+Information storage and accessApply
+
+All Consent Allowed
+
+Select All VendorsAll Consent Allowed
+
+*   33Acrosshost descriptionView CookiesREPLACE-WITH-DYANMIC-HOST-ID
+    *   Namecookie nameHostcookie hostDurationcookie durationTypecookie typeCategorycookie categoryDescriptioncookie category
+
+*   33AcrossView Privacy Notice
+    
+    3 Purposes
+    
+    REPLACE-WITH-DYANMIC-VENDOR-IDArrow
+    
+    Consent Purposes
+    
+    Location Based Ads
+    
+    Consent Allowed
+    
+    Legitimate Interest Purposes
+    
+    Personalize
+    
+    Require Opt-Out
+    
+    Features
+    
+    Location Based Ads
+    
+
+Confirm My Choices
