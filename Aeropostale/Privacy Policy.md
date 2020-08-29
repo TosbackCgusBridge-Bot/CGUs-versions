@@ -613,6 +613,10 @@ Uniform approved styles
 
 Shop Girls Uniform Shop Guys Uniform
 
+The future is on your ballot.
+
+Learn More Learn More
+
 At Aero, we're committed to a better, brighter future.  
 do better, look better, feel better... it's in our jeans.
 
