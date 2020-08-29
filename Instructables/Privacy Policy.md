@@ -285,6 +285,8 @@ Where we process personal data on behalf of our customers, we may refer the requ
 
 **California residents**, please read the “Your California Privacy Rights” section for additional disclosures and information regarding your rights under California law.
 
+**Individuals in Brazil**, please read the LGPD FAQs for additional information regarding the LGPD and your rights under the law.
+
 What are Autodesk’s storage and data retention practices?
 
 We store your personal data and content on our servers and the servers of our service providers. Because we and our service providers maintain servers in global locations, your personal data may be transferred across national borders and stored on the servers outside of your country or region.
