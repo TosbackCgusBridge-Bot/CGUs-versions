@@ -4,7 +4,13 @@ Wenn Sie unsere Dienste nutzen, vertrauen Sie uns Ihre Daten an. Wir sind uns be
 
 In dieser Datenschutzerklärung erfahren Sie, welche Daten von uns erhoben werden, welche Zwecke wir damit verfolgen und wie Sie Ihre Daten aktualisieren, verwalten, exportieren und löschen können.
 
-Wirksam ab dem 31. März 2020 | Archivierte Versionen | PDF herunterladenInhaltEinführungVon Google erhobene DatenGründe für die Datenerhebung durch GoogleDatenschutzeinstellungenDatenweitergabeGewährleistung der DatensicherheitLöschen und Exportieren Ihrer DatenAufbewahrung Ihrer InformationenCompliance und Zusammenarbeit mit RegierungsbehördenInformationen über diese DatenschutzerklärungWeitere Informationen zum Datenschutz
+Privatsphärecheck
+
+Sie möchten Ihre Datenschutzeinstellungen ändern?
+
+Privatsphärecheck machen
+
+Wirksam ab dem 28. August 2020 | Archivierte Versionen | PDF herunterladenInhaltEinführungVon Google erhobene DatenGründe für die Datenerhebung durch GoogleDatenschutzeinstellungenDatenweitergabeGewährleistung der DatensicherheitLöschen und Exportieren Ihrer DatenAufbewahrung Ihrer InformationenCompliance und Zusammenarbeit mit RegierungsbehördenInformationen über diese DatenschutzerklärungWeitere Informationen zum Datenschutz
 
 Wir entwickeln eine Vielzahl von Diensten, die Millionen von Menschen Tag für Tag helfen, die Welt ganz neu zu entdecken und mit ihr zu interagieren. Zu unseren Diensten zählen:
 
@@ -368,11 +374,11 @@ Weitere Informationen zum DatenschutzGoogle-Dienste
 Die folgenden Datenschutzhinweise bieten zusätzliche Informationen zu manchen Google-Diensten:
 
 *   Chrome und das Chrome-Betriebssystem
-*   Play Bücher
 *   Payments
 *   Fiber
 *   Google Fi
 *   G Suite for Education
+*   Read Along
 *   YouTube Kids
 *   Mit Family Link verwaltete Google-Konten für Kinder unter 13 Jahren (in einigen Ländern gilt ein anderes Mindestalter für Google-Konten)
 *   Erhebung von Sprach- und Audiodaten im Rahmen von Funktionen für Kinder in Google Assistant
