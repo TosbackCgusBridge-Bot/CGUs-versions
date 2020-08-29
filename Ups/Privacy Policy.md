@@ -2,12 +2,12 @@ Previous1 of 4Next
 
 *   UPS is open for business: Service impacts related to Coronavirus...More
 *   Severe Weather Will Disrupt UPS Services in Areas of Louisiana...More
-*   Mandatory Evacuations Will Disrupt UPS Services in Areas of Texas...More
 *   Wild Fires Impacting Areas in California...More
+*   Effects of Severe Weather Impacting UPS Services in Areas of Texas...More
 *   UPS is open for business: Service impacts related to Coronavirus...More
 *   Severe Weather Will Disrupt UPS Services in Areas of Louisiana...More
-*   Mandatory Evacuations Will Disrupt UPS Services in Areas of Texas...More
 *   Wild Fires Impacting Areas in California...More
+*   Effects of Severe Weather Impacting UPS Services in Areas of Texas...More
 *   UPS is open for business: Service impacts related to Coronavirus...More
 
 Close Skip To Main Content
