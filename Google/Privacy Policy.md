@@ -4,7 +4,13 @@ Wanneer u onze services gebruikt, vertrouwt u ons uw gegevens toe. We begrijpen 
 
 Dit privacybeleid is bedoeld om u inzicht te geven in de gegevens die we verzamelen, waarom we deze gegevens verzamelen en hoe u deze gegevens kunt updaten, beheren, exporteren en verwijderen.
 
-Datum van inwerkingtreding 31 maart 2020 | Gearchiveerde versies | Pdf downloadenInhoudsopgaveInleidingGegevens die Google verzameltWaarom Google gegevens verzameltUw privacyoptiesUw gegevens delenUw gegevens veilig houdenUw gegevens exporteren en verwijderenJe gegevens bewarenNaleving en samenwerking met regelgevende instantiesOver dit beleidGerelateerde privacyprocedures
+Privacycheck
+
+Wil je je privacyinstellingen wijzigen?
+
+Voer de Privacycheck uit
+
+Datum van inwerkingtreding 28 augustus 2020 | Gearchiveerde versies | Pdf downloadenInhoudsopgaveInleidingGegevens die Google verzameltWaarom Google gegevens verzameltUw privacyoptiesUw gegevens delenUw gegevens veilig houdenUw gegevens exporteren en verwijderenJe gegevens bewarenNaleving en samenwerking met regelgevende instantiesOver dit beleidGerelateerde privacyprocedures
 
 We bouwen een reeks services waarmee miljoenen mensen dagelijks de wereld op nieuwe manieren kunnen verkennen en er interactie mee kunnen hebben. Onze services bestaan onder meer uit:
 
@@ -368,11 +374,11 @@ Gerelateerde privacyproceduresSpecifieke Google-services
 De volgende privacykennisgevingen bieden aanvullende informatie over enkele Google-services:
 
 *   Chrome en het Chrome-besturingssysteem
-*   Play Boeken
 *   Payments
 *   Fiber
 *   Google Fi
 *   G Suite for Education
+*   Read Along
 *   YouTube Kids
 *   Met Family Link beheerde Google-accounts, voor kinderen die jonger zijn dan dertien jaar (of de toepasselijke leeftijd in uw land)
 *   Verzameling van spraak- en audiogegevens uit functies voor kinderen via de Google Assistent
