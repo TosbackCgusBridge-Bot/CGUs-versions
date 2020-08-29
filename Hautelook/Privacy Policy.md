@@ -9,123 +9,131 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   SPANX Up to 60% Off
+    *   Womens Fragrance's Starting at $10
+    *   Reiss Up to 70% Off
+    *   Sanctuary Up to 75% Off Incl. Plus
+    *   Fall Outerwear Sneak Peek ft. MICHAEL Michael Kors
+    *   New Fall Favorites: Plus Styles Up to 75% Off
+    *   Eton Menswear Up to 60% Off
+    *   Women's Styles Up to 70% Off Incl. Plus
+    *   Sperry Men Up to 60% Off
+    *   Work From Home: Men's Styles Up to 65% Off
+    *   Utility Bedding Starting at $20
+    *   Flora Bunda Planters
+    *   Decorative Throws at 80% Off
+    *   School Supplies: Kids' Essentials Starting at $10
+    *   Splendid Pearls Starting at $20
+    *   Fresh Finds: Men's Boots Up to 60% Off
+    *   Fresh Finds: Flats Up to 65% Off
+    *   Perforated &. Peep Toe Shoes Up to 75% Off
+    *   Pumps that Pop Up to 75% Off
+    *   Fresh Finds: Kids' Shoes Up to 60% Off
+    *   Dooney &. Bourke
+    *   Skincare We Love ft. Borgese &. Exuviance
+    *   AGL
+    *   Exclusively Ours: Styles From $15 Incl. Plus
+    
+    *   Designer Dresses Up to 65% Off
+    *   Designer Tops Up to 70% Off
+    *   French Connection Outerwear Up to 70% Off
+    *   Loungewear ft. Theo &. Spence Under $30
+    *   Back to School Active ft. Adidas &. New Balance
+    *   Champion Starting at $20
+    *   Free Shipping: Wall Art at 70% Off
+    *   Men's Outdoor Shoes ft. Northside
+    *   Men's Active Outerwear Up to 50% Off
+    *   Free Shipping: Trash Cans
+    *   Women's Outdoor Shoes ft. Keen
+    *   Diamond Watches ft. Bulova
+    *   O'Neill, Roxy, Quiksilver &. More Starting at $10
+    *   Casual Comfort: Men's Shoes Up to 65% Off
+    *   Splendid Kids Up to 60% Off
+    *   Sweaters Under $25 Incl. Plus
+    *   Best of Sweaters Incl. Plus
     *   Jeffrey Campbell Up to 70% Off
-    *   Back to Work: Shoulder Bags &. Totes
     *   Whish Starting at $15
-    *   Dresses from London Times &. More Incl. Plus
-    *   Knit Tops Under $35 Incl. Plus
-    *   All in the Details: Styles Up to 70% Off
-    *   Cropped Styles &. More Up to 70% Off Incl. Plus
     *   AG Denim Up to 70% Off
     *   Journals &. Planners Starting at $15
     *   Steamers &. Mops at 60% Off
-    *   Comfort Sneakers &. More Up to 75% Off
     *   Play Dress Up: Kids' Styles Up to 60% Off
-    *   Sandals for Any Outfit Up to 80% Off
+    
     *   Men's Luxe Loafers &. More Up to 70% Off
     *   English Laundry Up to 60% Off
     *   Comfort at Home: Men's Shoes Up to 60% Off
     *   Kids' Toys ft. Mattel
     *   Kids' Shoes Under $20
     *   Limited Time Deals at 80% Off
-    *   Cashmere From $49 Incl. Plus
-    *   Sweaters Under $25 Incl. Plus
-    
-    *   Best of Sweaters Incl. Plus
-    *   Cardigans Incl. Plus
-    *   Sweater Dresses Up to 80% Off
     *   Sweater Shop: Men's Styles Up to 60% Off
-    *   Sweater Shop: Fleece Styles Up to 55% Off
-    *   Booties for Fall Up to 60% Off
     *   Hair ft. Devacurl &. Macadamia Hair
-    *   Top It Off: Blazers Up to 85% Off
-    *   BLANKNYC Denim Up to 80% Off
     *   Men's Cold Weather Boots ft. Sorel
-    *   Cozy &. Casual Styles Up to 70% Off
-    *   Yogawear Up to 70% Off
-    *   Cold Weather Boots ft. Sorel
-    *   Tall &. Over the Knee Boots Up to 60% Off
     *   Sweater Shop: Kid's Styles Up to 55% Off
     *   Fall Ready: Men's Boots Up to 60% Off
     *   Free Shipping: Oliver Gal Top selling Wall Art
     *   Willow Row Home Decor at 50% Off
     *   Free Shipping: Natural Decor Pillows
     *   Best of Nest Starting at $15
-    *   Mix &. Match: Suit Separates Under $150
-    *   Alor Jewelry
-    
-    *   Men's Luxe Shoes Up to 70% Off
-    *   Men's Button-Down Shirts Up to 80% Off
-    *   Men's Dress Shoes Up to 70% Off
-    *   Kids' Active Styles Starting at $10
-    *   Converse Kids
     *   Interior Illusion Home Decor Starting at $20
-    *   Daeng Gi Meo Ri Haircare
-    *   Men's Leather Sneakers Up to 65% Off
-    *   Men's Fragrances at 60% Off
-    *   Skincare ft. Murad &. Kiehl's
     *   Free Shipping: Pet Furniture Covers at 65% Off
     *   Free Shipping: BergHOFF Kitchen Blowout
-    *   Free Shipping: Kitchen Must-Haves at 60% Off
-    *   Trina Turk Home at 50% Off
-    *   Pants Up to 70% Off
-    *   Gabi Rielle Jewelry Under $75
-    *   Tumi
-    *   Designer Sun Under $100 ft. Prada
-    *   Luxe Brands Up to 75% Off
-    *   Bottoms Up to 70% Off Incl. Plus
-    *   Dresses Under $100 Incl. Plus
-    *   Basic to Bold: Tops Up to 75% Off Incl. Plus
-*   WomenShop Sale Events
-    
     *   SPANX Up to 60% Off
-    *   Jeffrey Campbell Up to 70% Off
-    *   Back to Work: Shoulder Bags &. Totes
-    *   Whish Starting at $15
-    *   Dresses from London Times &. More Incl. Plus
-    *   Knit Tops Under $35 Incl. Plus
-    *   All in the Details: Styles Up to 70% Off
-    *   Cropped Styles &. More Up to 70% Off Incl. Plus
-    *   Comfort Sneakers &. More Up to 75% Off
-    *   Sandals for Any Outfit Up to 80% Off
-    *   Limited Time Deals at 80% Off
     *   Cashmere From $49 Incl. Plus
-    *   Sweaters Under $25 Incl. Plus
-    *   Best of Sweaters Incl. Plus
     *   Cardigans Incl. Plus
     *   Sweater Dresses Up to 80% Off
-    *   Booties for Fall Up to 60% Off
-    *   Hair ft. Devacurl &. Macadamia Hair
-    *   Top It Off: Blazers Up to 85% Off
+    *   Sweater Shop: Fleece Styles Up to 55% Off
+*   WomenShop Sale Events
     
-    *   BLANKNYC Denim Up to 80% Off
-    *   Cozy &. Casual Styles Up to 70% Off
-    *   Yogawear Up to 70% Off
-    *   Cold Weather Boots ft. Sorel
-    *   Tall &. Over the Knee Boots Up to 60% Off
+    *   Womens Fragrance's Starting at $10
+    *   Reiss Up to 70% Off
+    *   Sanctuary Up to 75% Off Incl. Plus
+    *   Fall Outerwear Sneak Peek ft. MICHAEL Michael Kors
+    *   New Fall Favorites: Plus Styles Up to 75% Off
+    *   Women's Styles Up to 70% Off Incl. Plus
+    *   Splendid Pearls Starting at $20
+    *   Fresh Finds: Flats Up to 65% Off
+    *   Perforated &. Peep Toe Shoes Up to 75% Off
+    *   Pumps that Pop Up to 75% Off
+    *   Dooney &. Bourke
+    *   Skincare We Love ft. Borgese &. Exuviance
+    *   AGL
+    *   Exclusively Ours: Styles From $15 Incl. Plus
+    *   Designer Dresses Up to 65% Off
+    *   Designer Tops Up to 70% Off
+    
+    *   French Connection Outerwear Up to 70% Off
+    *   Loungewear ft. Theo &. Spence Under $30
+    *   Women's Outdoor Shoes ft. Keen
+    *   Diamond Watches ft. Bulova
+    *   Sweaters Under $25 Incl. Plus
+    *   Best of Sweaters Incl. Plus
+    *   Jeffrey Campbell Up to 70% Off
+    *   Whish Starting at $15
+    *   Limited Time Deals at 80% Off
+    *   Hair ft. Devacurl &. Macadamia Hair
     *   Best of Nest Starting at $15
-    *   Alor Jewelry
-    *   Daeng Gi Meo Ri Haircare
-    *   Men's Fragrances at 60% Off
-    *   Skincare ft. Murad &. Kiehl's
-    *   Pants Up to 70% Off
-    *   Gabi Rielle Jewelry Under $75
-    *   Tumi
-    *   Designer Sun Under $100 ft. Prada
-    *   Luxe Brands Up to 75% Off
-    *   Bottoms Up to 70% Off Incl. Plus
-    *   Dresses Under $100 Incl. Plus
-    *   Basic to Bold: Tops Up to 75% Off Incl. Plus
+    *   SPANX Up to 60% Off
+    *   Cashmere From $49 Incl. Plus
+    *   Cardigans Incl. Plus
+    *   Sweater Dresses Up to 80% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
+    *   Watches
     *   Lingerie &. Shapewear
     *   Accessories
+    *   Handbags
 *   MenShop Sale Events
+    
+    *   Eton Menswear Up to 60% Off
+    *   Sperry Men Up to 60% Off
+    *   Work From Home: Men's Styles Up to 65% Off
+    *   Fresh Finds: Men's Boots Up to 60% Off
+    *   Champion Starting at $20
+    *   Men's Outdoor Shoes ft. Northside
+    *   Men's Active Outerwear Up to 50% Off
+    *   Diamond Watches ft. Bulova
+    *   Casual Comfort: Men's Shoes Up to 65% Off
     
     *   AG Denim Up to 70% Off
     *   Men's Luxe Loafers &. More Up to 70% Off
@@ -133,78 +141,77 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Comfort at Home: Men's Shoes Up to 60% Off
     *   Limited Time Deals at 80% Off
     *   Sweater Shop: Men's Styles Up to 60% Off
-    *   Sweater Shop: Fleece Styles Up to 55% Off
     *   Men's Cold Weather Boots ft. Sorel
-    
     *   Fall Ready: Men's Boots Up to 60% Off
-    *   Mix &. Match: Suit Separates Under $150
-    *   Men's Luxe Shoes Up to 70% Off
-    *   Men's Button-Down Shirts Up to 80% Off
-    *   Men's Dress Shoes Up to 70% Off
-    *   Men's Leather Sneakers Up to 65% Off
-    *   Tumi
+    *   Sweater Shop: Fleece Styles Up to 55% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
+    *   Watches
     *   Accessories
 *   KidsShop Sale Events
     
+    *   School Supplies: Kids' Essentials Starting at $10
+    *   Fresh Finds: Kids' Shoes Up to 60% Off
+    *   Back to School Active ft. Adidas &. New Balance
+    *   O'Neill, Roxy, Quiksilver &. More Starting at $10
+    *   Splendid Kids Up to 60% Off
     *   Play Dress Up: Kids' Styles Up to 60% Off
     *   Kids' Toys ft. Mattel
     *   Kids' Shoes Under $20
     *   Limited Time Deals at 80% Off
     *   Sweater Shop: Kid's Styles Up to 55% Off
-    *   Kids' Active Styles Starting at $10
-    *   Converse Kids
     
     Shop By Category
     *   Girls
     *   Boys
-    *   Toys
     *   Girls' Shoes
     *   Boys' Shoes
     *   Baby
+    *   Toys
 *   HomeShop Sale Events
     
+    *   Utility Bedding Starting at $20
+    *   Flora Bunda Planters
+    *   Decorative Throws at 80% Off
+    *   Free Shipping: Wall Art at 70% Off
+    *   Free Shipping: Trash Cans
     *   Journals &. Planners Starting at $15
     *   Steamers &. Mops at 60% Off
+    
     *   Limited Time Deals at 80% Off
     *   Free Shipping: Oliver Gal Top selling Wall Art
     *   Willow Row Home Decor at 50% Off
     *   Free Shipping: Natural Decor Pillows
-    
     *   Interior Illusion Home Decor Starting at $20
     *   Free Shipping: Pet Furniture Covers at 65% Off
     *   Free Shipping: BergHOFF Kitchen Blowout
-    *   Free Shipping: Kitchen Must-Haves at 60% Off
-    *   Trina Turk Home at 50% Off
     
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
+    *   Bedding
     *   Pet Accessories
-    *   Luggage &. Travel
     *   Rugs &. Doormats
     *   Cleaning &. Organization
-    *   Bedding
+    *   Luggage &. Travel
+    *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
+    *   Womens Fragrance's Starting at $10
+    *   Skincare We Love ft. Borgese &. Exuviance
     *   Whish Starting at $15
     *   Limited Time Deals at 80% Off
     *   Hair ft. Devacurl &. Macadamia Hair
     *   Best of Nest Starting at $15
-    *   Daeng Gi Meo Ri Haircare
-    *   Men's Fragrances at 60% Off
-    *   Skincare ft. Murad &. Kiehl's
     
     Shop By Category
     *   Hair Care
     *   Skin Care
-    *   Men’s Grooming
+    *   Bath &. Body
     *   Fragrance
     *   Makeup
-    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
