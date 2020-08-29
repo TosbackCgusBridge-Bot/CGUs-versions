@@ -72,7 +72,7 @@ Main menuSONY
     *   aibo
     *   Koov
     *   Wearable Speaker
-    *   Digital PaperView AllAll ElectronicsSee Professional Products<img src="//www.sony.com/image/73af50e8d496b98be27c316fba0cb511?fmt=jpeg&amp;wid=218" alt="" class="iq-img">Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up<img src="//www.sony.com/image/f240cc29ed9c788d9bf45ace019b9739?fmt=png-alpha&amp;wid=218" alt="" class="iq-img">Bring instant shopping into the pictureIf approved, a temporary shopping pass that could be up to $1500 in available credit may be issued and sent to your smartphone, allowing you to shop online right away. Learn more
+    *   Digital PaperView AllAll ElectronicsSee Professional Products and Solutions<img src="//www.sony.com/image/73af50e8d496b98be27c316fba0cb511?fmt=jpeg&amp;wid=218" alt="" class="iq-img">Don’t miss what’s new.Be among the first to get the latest Sony news in your inbox. Sign up<img src="//www.sony.com/image/f240cc29ed9c788d9bf45ace019b9739?fmt=png-alpha&amp;wid=218" alt="" class="iq-img">Bring instant shopping into the pictureIf approved, a temporary shopping pass that could be up to $1500 in available credit may be issued and sent to your smartphone, allowing you to shop online right away. Learn more
 *   PlayStation
 *   EntertainmentEntertainment
     *   <img src="//www.sony.com/image/c8d568c456f06d3fa734b3331f100352?fmt=png-alpha&amp;wid=192&amp;hei=106" alt="" class="0 ">Video Games
@@ -124,7 +124,7 @@ Play video: Embrace Your Powers as a Hero in "Marvel's Avengers" Close video: Em
 
 You are Agent 47. Literally. The trilogy comes to PlayStation VR this January. pic.twitter.com/BdbShEMyOu
 
-3 days ago View Tweet Instagram Post CDuTzWKl\_Xc
+5 days ago View Tweet Instagram Post CDuTzWKl\_Xc
 
 Imagination in Motion
 
