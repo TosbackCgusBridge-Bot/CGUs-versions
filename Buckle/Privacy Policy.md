@@ -25,7 +25,7 @@
 *   Women
     *   *   Featured
         
-        *   SHOP ALL WOMENS
+        *   SHOP ALL WOMEN'S
         *   New Arrivals
         *   Brill Boutique
         *   Buckle Exclusives
@@ -208,7 +208,6 @@
 *   Jeans
     *   *   Women's Jeans
         
-        *   Find Your Fit
         *   Ankle Skinny
         *   Skinny
         *   Straight
@@ -218,12 +217,10 @@
         *   Black Jeans
         *   KanCan Kurvy
         *   Vintage Jeans
-        *   Women's Denim Style Guide
         *   Shop All
         
         *   Men's Jeans
         
-        *   Find Your Fit
         *   Slim Fit
         *   Regular Fit
         *   Relaxed Fit
@@ -232,7 +229,6 @@
         *   Straight
         *   Bootcut
         *   Black Jeans
-        *   Men's Denim Style Guide
         *   Shop All
         
         *   Stretch &. Tech Jeans
