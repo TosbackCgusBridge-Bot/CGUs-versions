@@ -4,7 +4,13 @@ Lorsque vous utilisez nos services, vous nous faites confiance pour le traitemen
 
 Les présentes Règles de confidentialité visent à vous indiquer quelles informations nous collectons et pour quelle raison, ainsi que la façon de les mettre à jour, de les gérer, de les exporter et de les supprimer.
 
-À compter du 31 mars 2020 | Versions archivées | Télécharger au format PDFSommaireIntroductionInformations collectées par GoogleRaisons pour lesquelles nous collectons des informationsVos paramètres de confidentialitéPartager vos informationsSécuriser vos informationsExporter et supprimer vos informationsConservation de vos informationsConformité et coopération avec des organismes de réglementationÀ propos des présentes règlesPratiques similaires en matière de confidentialité
+Check-up Confidentialité
+
+Vous souhaitez modifier vos paramètres de confidentialité ?
+
+Faire un Check-up Confidentialité
+
+À compter du 28 août 2020 | Versions archivées | Télécharger au format PDFSommaireIntroductionInformations collectées par GoogleRaisons pour lesquelles nous collectons des informationsVos paramètres de confidentialitéPartager vos informationsSécuriser vos informationsExporter et supprimer vos informationsConservation de vos informationsConformité et coopération avec des organismes de réglementationÀ propos des présentes règlesPratiques similaires en matière de confidentialité
 
 Notre gamme de services permet tous les jours à des millions de personnes d'explorer le monde et d'interagir avec celui-ci de manière innovante. Voici certains des services que nous proposons :
 
@@ -368,11 +374,11 @@ Pratiques similaires en matière de confidentialitéServices Google spécifiques
 Les avis de confidentialité suivants fournissent des informations supplémentaires sur certains services Google :
 
 *   Chrome et le système d'exploitation Chrome
-*   Play Livres
 *   Payments
 *   Fiber
 *   Google Fi
 *   G Suite pour l'éducation
+*   Read Along
 *   YouTube Kids
 *   Comptes Google gérés avec Family Link, pour les enfants de moins de 13 ans (ou l'âge légal de consentement dans votre pays)
 *   Collecte des données vocales et audio issues des fonctionnalités pour enfants sur l'Assistant Google
