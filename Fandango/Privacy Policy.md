@@ -466,6 +466,13 @@ For any questions in relation to this Privacy Policy please contact us at privac
 
 We have separate policies for workforce data, which is governed by the policies of our parent company, NBCUniversal. For example, please see the Candidate Privacy Statement to find out more about the information collected during our recruitment process.
 
+Offers
+
+*   Get a Retro Movie
+    
+    When you buy 3 specially marked General Mills items at Target between 8/29-10/3. SEE DETAILS
+    
+
 New + Coming soon
 
 *   Unhinged (2020)
