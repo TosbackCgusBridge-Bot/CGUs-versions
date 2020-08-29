@@ -4,7 +4,7 @@ We know that getting in touch with a customer service agent has been very diffic
 
 COVID-19 CUSTOMER SERVICE FAQS
 
-Live Chat CALL US: 1.800.777.0000  
+Live Chat Live Chat CALL US: 1.800.777.0000  
   
 We're available 10am-10pm ET, 7 days a week. menu
 
