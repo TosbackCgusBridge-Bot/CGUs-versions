@@ -7,10 +7,10 @@ EXTRA 30% OFF $75 or more with code: BUYMORE4 Details
 
 Enable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresDeerbrook MallMore Stores20131 Hwy 59n Ste 3000, Humble, TX, 77338281-540-7513 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -24,7 +24,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-**Women's Deals**Starting at $11.99select styles**Men's Deals**Starting at $12.99select styles**Kids' Deals**Starting at $5.99select styles**Home Deals**Starting at $8.99select stylesWomenMenGirlsBoysWomenMenBeddingBring in a pop of print to the bedroom.WindowAdd some dimension with floor-length curtains.RugsSpruce up the floors with a statement rug.Kitchen &. DiningTreat yourself to chef-worthy cookware.JuniorsYoung MenKidsBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. Organization 
+**Women's Deals**Starting at $11.99select styles**Men's Deals**Starting at $12.99select styles**Kids' Deals**Starting at $5.99select styles**Home Deals**Starting at $8.99select stylesBeddingBring in a pop of print to the bedroom.WindowAdd some dimension with floor-length curtains.RugsSpruce up the floors with a statement rug.Kitchen &. DiningTreat yourself to chef-worthy cookware.WomenMenGirlsBoysWomenMenComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationJuniorsYoung MenKidsBackpacksHomeschool 
 
 *   Shop All
 
@@ -37,36 +37,27 @@ Enable Accessibility
 *   Starting at $49.99, New Balance shoes
     
 
-Shop AllJuniorsYoung MenGirlsBoys**There's nothing like Levi's**®Starting at $34.99 for her, $39.99 for him   
-select styles, including women's 721 skinny fit or men's 505™ regular fit | reg. $59.50 | Ends 8/30 Offers and coupons do not apply to Levi's®. 
+Shop AllJuniorsYoung MenGirlsBoys**There's nothing like Levi's**®Starting at $39.99select styles, including women's classic mid-rise skinny fit or men's 505™ regular fit | reg. $59.50 | Ends 8/30 Offers and coupons do not apply to Levi's® 
 
 *   For Her
 *   For Him
 
 Shop HairsprayShop Budget-Friendly Beauty fromSephora inside JCPenneyselect styles | Sephora excluded from coupons.WomenMenBaby &. KidsShoesJuniorsWindowWomen's CareerWomen's Dresses Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Urban Decay Naked Ultraviolet Eyeshadow Palette
-    
-    $49
-    
-    493
-*   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
-    
-    $49.98
-    
-    238
+*   St. John's Bay Womens Mid Rise 11" Bermuda Short $8.99with code~$32~5
+*   JCPenney Home Ultra Performance 575tc Sateen Deep Pocket Sheet Set $44.99 - $62.99with code~$110 - $150~185
+*   JCPenney Home™ Ultima Bath Rug Collection $14.99 - $44.99with code~$34 - $90~712
+*   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693 $18.74with code~$36~5579
 *   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
     $124.98
     
     212
-*   Ienjoy Home Casual Comfort™ Premium Ultra Soft Duvet Cover Set $20.99 - $29.99with code~$40 - $60~40
-*   Home Expressions Tiles Complete Bedding Set with Sheets $37.49 - $55.99with code~$110 - $170~338
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+*   Urban Decay Naked Ultraviolet Eyeshadow Palette
     
-    $124.98
+    $49
     
-    144
+    493
 
 Shop and Save at JCPenney
 
