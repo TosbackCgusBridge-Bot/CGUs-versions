@@ -1,16 +1,16 @@
 Our COVID-19 response Details  
 EXTRA 30% OFF $75 or more with code: BUYMORE4 Details  
 EXTRA 25% OFF under $75 with code: BUYMORE4 Details  
-Doorbusters! UP TO 60% OFF Limited time offer! Shop All  
+Last day for Doorbusters! UP TO 60% OFF! Shop All  
 Free Shipping Over $49  DetailsOur COVID-19 response Details  
 EXTRA 30% OFF $75 or more with code: BUYMORE4 Details  
 
 Enable Accessibility
 
-*   StoresDeerbrook MallMore Stores20131 Hwy 59n Ste 3000, Humble, TX, 77338281-540-7513 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresFairfield CommonsMore Stores2727 Fairfield Commons Blvd, Dayton, OH, 45431937-427-3300 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -44,20 +44,16 @@ Shop AllJuniorsYoung MenGirlsBoys**There's nothing like Levi's**®Starting at $3
 
 Shop HairsprayShop Budget-Friendly Beauty fromSephora inside JCPenneyselect styles | Sephora excluded from coupons.WomenMenBaby &. KidsShoesJuniorsWindowWomen's CareerWomen's Dresses Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
+*   Home Expressions Tiles Complete Bedding Set with Sheets $37.49 - $55.99with code~$110 - $170~339
+*   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693 $18.74with code~$36~5580
 *   St. John's Bay Womens Mid Rise 11" Bermuda Short $8.99with code~$32~5
-*   JCPenney Home Ultra Performance 575tc Sateen Deep Pocket Sheet Set $44.99 - $62.99with code~$110 - $150~185
-*   JCPenney Home™ Ultima Bath Rug Collection $14.99 - $44.99with code~$34 - $90~712
-*   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693 $18.74with code~$36~5579
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+*   Liz Claiborne Classics Bath Towel $4.49 - $29.99with code~$10 - $84~41
+*   Home Expressions Lisette Rod-Pocket Sheer Panel
     
-    $124.98
+    $4.99 - $40
     
-    212
-*   Urban Decay Naked Ultraviolet Eyeshadow Palette
-    
-    $49
-    
-    493
+    1249
+*   a.n.a-Womens V Neck Short Sleeve T-Shirt $5.24with code~$13~11
 
 Shop and Save at JCPenney
 
