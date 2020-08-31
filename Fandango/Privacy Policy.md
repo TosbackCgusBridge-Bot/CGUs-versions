@@ -19,10 +19,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Coming Soon
     
-    *   Tenet
-    *   The King's Man
-    *   Greenland (2020)
-    *   Honest Thief (2020)
+    *   The Broken Hearts Gallery
     *   Wonder Woman 1984
     *   Candyman (2020)
     *   The War with Grandpa
