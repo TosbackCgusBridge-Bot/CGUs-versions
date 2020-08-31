@@ -251,17 +251,17 @@ Extreme Engineering Solutions ensures compliance requirements while reducing man
     *   Emailed
     *   Recent
     
-    *   Tesla RAT adapts, evolves to thwart security
-    *   Windows 7 has reached end-of-life: Now what?
-    *   Lessons from Uber: Be crystal clear on the law and your bug bounty policies
-    *   Homeland Security announces 5G strategy to manage the pending digital overhaul
-    *   SMBs imperiled as low-end RaaS grows more powerful
+    *   How, and when, to divvy consequences to employees for breaching security policy
+    *   Carnival left to right the ship after breaches threaten travelers' trust
+    *   Five security points CISOs must communicate to the corporate board
+    *   NYSE not susceptible to takedown like New Zealand exchange
+    *   Maze delivers on threat to publish data stolen from Canon
     
-    *   G Suite flaw mitigated after disclosure, but Google Drive still vulnerable
-    *   A2V teams with utilities to secure supply chain
     *   Exposed social media profiles give security teams 235 million reasons to worry about ransomware attacks
-    *   Expect rapid growth in BEC scams to continue, despite global crackdown
-    *   Australia the latest to push digital sovereignty, shake up cyber world order
+    *   NYSE not susceptible to takedown like New Zealand exchange
+    *   Is the electric grid closer to a devastating cyberattack that could mean lights out?
+    *   Former Uber chief security officer charged for hacker 'hush money'
+    *   SANS Institute breach proves anyone can fall victim to a ‘consent phishing’ scam
     
     *   How, and when, to divvy consequences to employees for breaching security policy
     *   NYSE not susceptible to takedown like New Zealand exchange
