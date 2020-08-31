@@ -1,13 +1,14 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Save on the looks you have been eyeing all season long during Labor Day Sale. shop now. In style and on budget denim that is now an extra 10% off. shop now For the most up-to-date store information check here.
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Save on the looks you have been eyeing all season long during Labor Day Sale. shop now. In style and on budget denim that is now an extra 10% off. shop now For the most up-to-date store information check here. Due to circumstances outside of our control you could potentially see impacts to deliveries.
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-*   For the most up-to-date store information check here.
+*   Due to circumstances outside of our control you could potentially see impacts to deliveries.
 *   Save on the looks you have been eyeing all season long during Labor Day Sale. shop now.
 *   In style and on budget denim that is now an extra 10% off. shop now
 *   For the most up-to-date store information check here.
+*   Due to circumstances outside of our control you could potentially see impacts to deliveries.
 *   Save on the looks you have been eyeing all season long during Labor Day Sale. shop now.
 
 *   Women
