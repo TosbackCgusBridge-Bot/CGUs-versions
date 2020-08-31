@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, August 30, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Monday, August 31, 2020  
 
 DEBKAfile
 
@@ -44,6 +44,30 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Three killed in two separate restaurant explosions in UAE cities
+    
+    Aug 31, 2020 @ 15:57
+    
+*   Little known Mustapha Adib set to be Lebanon’s prime minister
+    
+    Aug 31, 2020 @ 10:41
+    
+*   Senior Treasury official quits over government’s economic policies
+    
+    Aug 30, 2020 @ 20:58
+    
+*   Coronavirus Cabinet finally approves Gamzu plan
+    
+    Aug 30, 2020 @ 20:44
+    
+*   The IDF continues to batter Hamas for balloon terror
+    
+    Aug 30, 2020 @ 07:53
+    
+*   Coronavirus cabinet in third bid to okay Gamzu plan
+    
+    Aug 30, 2020 @ 07:49
+    
 *   Qatari official continues shuffle between Gaza and Tel Aviv for truce
     
     Aug 29, 2020 @ 19:54
@@ -51,47 +75,15 @@ Breaking news
 *   Less troops, more powers for UNIFIL in extension by Security Council
     
     Aug 29, 2020 @ 10:55
-    
-*   Gaza’s Palestinian terrorist orgs ready for “long haul” vs Israel
-    
-    Aug 29, 2020 @ 10:46
-    
-*   Israel’s daily coronavirus infection rate exceeds 2,000
-    
-    Aug 29, 2020 @ 10:43
-    
-*   Japanese PM Abe is resigning over ill health
-    
-    Aug 28, 2020 @ 09:22
-    
-*   Trump slams Biden in acceptance speech, vaunts recognition of Jerusalem
-    
-    Aug 28, 2020 @ 09:10
-    
-*   Six Palestinian rockets trigger second IDF raid against Hamas
-    
-    Aug 28, 2020 @ 08:23
-    
-*   Israel’s coronavirus infection level stays high
-    
-    Aug 26, 2020 @ 18:31
     
 
-*   Japanese PM Abe is resigning over ill health
+*   The IDF continues to batter Hamas for balloon terror
     
-    Aug 28, 2020 @ 09:22
+    Aug 30, 2020 @ 07:53
     
-*   Trump slams Biden in acceptance speech, vaunts recognition of Jerusalem
+*   Coronavirus cabinet in third bid to okay Gamzu plan
     
-    Aug 28, 2020 @ 09:10
-    
-*   Six Palestinian rockets trigger second IDF raid against Hamas
-    
-    Aug 28, 2020 @ 08:23
-    
-*   Israel’s coronavirus infection level stays high
-    
-    Aug 26, 2020 @ 18:31
+    Aug 30, 2020 @ 07:49
     
 *   Qatari official continues shuffle between Gaza and Tel Aviv for truce
     
@@ -101,29 +93,29 @@ Breaking news
     
     Aug 29, 2020 @ 10:55
     
-*   Gaza’s Palestinian terrorist orgs ready for “long haul” vs Israel
+*   Three killed in two separate restaurant explosions in UAE cities
     
-    Aug 29, 2020 @ 10:46
+    Aug 31, 2020 @ 15:57
     
-*   Israel’s daily coronavirus infection rate exceeds 2,000
+*   Little known Mustapha Adib set to be Lebanon’s prime minister
     
-    Aug 29, 2020 @ 10:43
+    Aug 31, 2020 @ 10:41
     
-*   Japanese PM Abe is resigning over ill health
+*   Senior Treasury official quits over government’s economic policies
     
-    Aug 28, 2020 @ 09:22
+    Aug 30, 2020 @ 20:58
     
-*   Trump slams Biden in acceptance speech, vaunts recognition of Jerusalem
+*   Coronavirus Cabinet finally approves Gamzu plan
     
-    Aug 28, 2020 @ 09:10
+    Aug 30, 2020 @ 20:44
     
-*   Six Palestinian rockets trigger second IDF raid against Hamas
+*   The IDF continues to batter Hamas for balloon terror
     
-    Aug 28, 2020 @ 08:23
+    Aug 30, 2020 @ 07:53
     
-*   Israel’s coronavirus infection level stays high
+*   Coronavirus cabinet in third bid to okay Gamzu plan
     
-    Aug 26, 2020 @ 18:31
+    Aug 30, 2020 @ 07:49
     
 *   Qatari official continues shuffle between Gaza and Tel Aviv for truce
     
@@ -133,13 +125,21 @@ Breaking news
     
     Aug 29, 2020 @ 10:55
     
-*   Gaza’s Palestinian terrorist orgs ready for “long haul” vs Israel
+*   Three killed in two separate restaurant explosions in UAE cities
     
-    Aug 29, 2020 @ 10:46
+    Aug 31, 2020 @ 15:57
     
-*   Israel’s daily coronavirus infection rate exceeds 2,000
+*   Little known Mustapha Adib set to be Lebanon’s prime minister
     
-    Aug 29, 2020 @ 10:43
+    Aug 31, 2020 @ 10:41
+    
+*   Senior Treasury official quits over government’s economic policies
+    
+    Aug 30, 2020 @ 20:58
+    
+*   Coronavirus Cabinet finally approves Gamzu plan
+    
+    Aug 30, 2020 @ 20:44
     
 
 12PrevNext
