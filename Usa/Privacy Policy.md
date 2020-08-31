@@ -128,8 +128,6 @@ Autodesk logo
 
 Keyboard **ALT + g** to toggle grid overlay
 
-Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products)
-
 Visit the COVID-19 Resource Center
 
 Ready to make anything
@@ -152,7 +150,7 @@ Integrated BIM tools, including Revit, AutoCAD, and Civil 3D Learn more Free tri
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products)
 
 SPECIAL BUNDLE OFFER
 
@@ -242,6 +240,8 @@ Products
 
 *   Free product trials
 *   3D CAD software
+*   3D modeling
+*   3D animation
 *   Civil engineering
 *   Drafting
 *   Manufacturing
