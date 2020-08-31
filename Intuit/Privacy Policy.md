@@ -1,16 +1,15 @@
 Our COVID-19 response Details  
 EXTRA 30% OFF $75 or more with code: BUYMORE4 Details  
 EXTRA 25% OFF under $75 with code: BUYMORE4 Details  
-Last day for Doorbusters! UP TO 60% OFF! Shop All  
 Free Shipping Over $49  DetailsOur COVID-19 response Details  
 EXTRA 30% OFF $75 or more with code: BUYMORE4 Details  
 
 Enable Accessibility
 
-*   StoresFairfield CommonsMore Stores2727 Fairfield Commons Blvd, Dayton, OH, 45431937-427-3300 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -24,36 +23,35 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-**Women's Deals**Starting at $11.99select styles**Men's Deals**Starting at $12.99select styles**Kids' Deals**Starting at $5.99select styles**Home Deals**Starting at $8.99select stylesBeddingBring in a pop of print to the bedroom.WindowAdd some dimension with floor-length curtains.RugsSpruce up the floors with a statement rug.Kitchen &. DiningTreat yourself to chef-worthy cookware.WomenMenGirlsBoysWomenMenComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationJuniorsYoung MenKidsBackpacksHomeschool 
+BeddingBring in a pop of print to the bedroom.WindowAdd some dimension with floor-length curtains.RugsSpruce up the floors with a statement rug.Kitchen &. DiningTreat yourself to chef-worthy cookware.WomenMenGirlsBoysWomenMenWomenMenBaby &. KidsShoesJuniorsWindowWomen's CareerWomen's DressesJuniorsYoung MenKidsBackpacksHomeschool**Save on Puma, Champion &. more**Get the family moving with must-haves from top brands!select styles | Excluded from coupons.
 
 *   Shop All
 
-*   25% OFF adidas apparel
+*   Champion
     
-*   25% OFF Champion apparel
+*   Puma
     
-*   25% OFF Puma apparel
+*   adidas
     
-*   Starting at $49.99, New Balance shoes
+*   Nike
     
 
-Shop AllJuniorsYoung MenGirlsBoys**There's nothing like Levi's**®Starting at $39.99select styles, including women's classic mid-rise skinny fit or men's 505™ regular fit | reg. $59.50 | Ends 8/30 Offers and coupons do not apply to Levi's® 
+Shop AllComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationShop HairsprayShop Budget-Friendly Beauty fromSephora inside JCPenneyselect styles | Sephora excluded from coupons.Recommended for You
 
-*   For Her
-*   For Him
-
-Shop HairsprayShop Budget-Friendly Beauty fromSephora inside JCPenneyselect styles | Sephora excluded from coupons.WomenMenBaby &. KidsShoesJuniorsWindowWomen's CareerWomen's Dresses Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
-
-*   Home Expressions Tiles Complete Bedding Set with Sheets $37.49 - $55.99with code~$110 - $170~339
-*   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693 $18.74with code~$36~5580
-*   St. John's Bay Womens Mid Rise 11" Bermuda Short $8.99with code~$32~5
-*   Liz Claiborne Classics Bath Towel $4.49 - $29.99with code~$10 - $84~41
-*   Home Expressions Lisette Rod-Pocket Sheer Panel
+*   Liz Claiborne Dots Tankini Swimsuit Top $14.24with code~$49~4
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
-    $4.99 - $40
+    $124.98
     
-    1249
-*   a.n.a-Womens V Neck Short Sleeve T-Shirt $5.24with code~$13~11
+    145
+*   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693 $18.74with code~$36~5581
+*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.74with code~$32~5
+*   Liz Claiborne Classics Bath Towel $5.24 - $7.49with code~$10 - $18~42
+*   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
+    
+    $49.98
+    
+    238
 
 Shop and Save at JCPenney
 
