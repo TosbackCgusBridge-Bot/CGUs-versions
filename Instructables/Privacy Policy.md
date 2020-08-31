@@ -6,22 +6,9 @@ Change country/language X
 
 Autodesk logo
 
-*   Sign In
-    
-    Autodesk Account
-    
-    Manage products &. downloads
-    
-    Account settings
-    
-    Sign In
-    
-    Manage products &. downloads
-    
-    Account settings
-    
-    Sign out
-    
+*   0
+
+*   SIGN IN
 *   United States
     
     We have redirected you to an equivalent page on your local site where you can see local pricing and promotions and purchase online.
@@ -408,6 +395,8 @@ Products
 
 *   Free product trials
 *   3D CAD software
+*   3D modeling
+*   3D animation
 *   Civil engineering
 *   Drafting
 *   Manufacturing
@@ -467,6 +456,8 @@ Products
 
 *   Free product trials
 *   3D CAD software
+*   3D modeling
+*   3D animation
 *   Civil engineering
 *   Drafting
 *   Manufacturing
@@ -526,6 +517,8 @@ Products
 
 *   Free product trials
 *   3D CAD software
+*   3D modeling
+*   3D animation
 *   Civil engineering
 *   Drafting
 *   Manufacturing
