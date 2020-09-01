@@ -251,17 +251,17 @@ Extreme Engineering Solutions ensures compliance requirements while reducing man
     *   Emailed
     *   Recent
     
-    *   How, and when, to divvy consequences to employees for breaching security policy
-    *   Carnival left to right the ship after breaches threaten travelers' trust
-    *   Five security points CISOs must communicate to the corporate board
-    *   NYSE not susceptible to takedown like New Zealand exchange
-    *   Maze delivers on threat to publish data stolen from Canon
+    *   Lessons from 15 years of bug bounties
+    *   Corporate VPNs in danger as vishing attacks target home workers
+    *   Six steps for securing smart cities
+    *   1,200 iOS apps unknowingly handing over dollars to Chinese ad platform
+    *   Why a cloud-native platform is a requirement for modern cybersecurity
     
-    *   Exposed social media profiles give security teams 235 million reasons to worry about ransomware attacks
+    *   Estonia ambassador to connect dots from cyberwar to security culture
+    *   Apple OS developer supply chain threatened by 'clever' malware attack
     *   NYSE not susceptible to takedown like New Zealand exchange
+    *   Targeted BEC attacks steal business data in six countries, posing as HR
     *   Is the electric grid closer to a devastating cyberattack that could mean lights out?
-    *   Former Uber chief security officer charged for hacker 'hush money'
-    *   SANS Institute breach proves anyone can fall victim to a ‘consent phishing’ scam
     
     *   How, and when, to divvy consequences to employees for breaching security policy
     *   NYSE not susceptible to takedown like New Zealand exchange
