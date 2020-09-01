@@ -85,7 +85,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 283 4014
+    1 855 412 1691
     
 
 *   Solutions By Function
@@ -157,7 +157,7 @@ Search
 
 *   Become a Client
     
-    1 855 283 4014
+    1 855 412 1691
     
 
 GARTNER PRIVACY POLICY Effective Date: December 2019
