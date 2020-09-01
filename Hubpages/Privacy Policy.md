@@ -10,8 +10,6 @@ PRIVACY POLICY
 
 MavenStaff
 
-Dec 27, 2019
-
 **Effective Date:** **January 1, 2020**
 
 Maven Coalition, Inc., a Delaware corporation (“**Maven**,” “**we**,” or “**us**”), offers a digital media platform that allows partners to create and monetize content by allowing Maven and its partners to show advertisements on such content. We refer to these content creators as “Partners” and to the websites and apps that participate in our coalition as “Partner Content.
