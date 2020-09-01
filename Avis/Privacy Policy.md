@@ -43,7 +43,7 @@ Complete your Profile
     *   Cars &. Services
     *   Avis App
     *   Car Guide
-    *   Avis Select Series
+    *   Avis Signature Series
     *   Products &. Services
     *   Protections &. Coverages
     *   Miles, Points &. Partners
