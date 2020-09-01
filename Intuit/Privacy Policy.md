@@ -9,7 +9,7 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -38,20 +38,20 @@ BeddingBring in a pop of print to the bedroom.WindowAdd some dimension with floo
 
 Shop AllComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationShop HairsprayShop Budget-Friendly Beauty fromSephora inside JCPenneyselect styles | Sephora excluded from coupons.Recommended for You
 
-*   Liz Claiborne Dots Tankini Swimsuit Top $14.24with code~$49~4
+*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $17.99with code~$6 - $48~635
+*   JCPenney Home™ Ultima Bath Rug Collection $14.99 - $44.99with code~$34 - $90~713
 *   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
     $124.98
     
     145
-*   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693 $18.74with code~$36~5581
-*   St. John's Bay Womens Mid Rise 11" Bermuda Short $9.74with code~$32~5
-*   Liz Claiborne Classics Bath Towel $5.24 - $7.49with code~$10 - $18~42
 *   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
     
     $49.98
     
     238
+*   Ienjoy Home Casual Comfort™ Premium Ultra Soft Duvet Cover Set $20.99 - $29.99with code~$40 - $60~40
+*   Bali Double Support Comfort Wireless Full Coverage Bra-3820 $26.24with code~$40~1794
 
 Shop and Save at JCPenney
 
