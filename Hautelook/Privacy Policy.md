@@ -22,6 +22,8 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Transition to Fall: Suede Shoes
     *   Cozy Slippers ft. BEARPAW
     *   Pajama Party: Kids' Sleepwear &. More
+    *   Timberland Up to 60% Off
+    *   Timberland Men Up to 60% Off
     *   Summer Swim Steals Up to 70% Off
     *   Men's Swim Blowout
     *   Men's Shoes Under $100
@@ -29,17 +31,16 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Savvy Cie Up to 80% Off
     *   Women's Shoes Under $30
     *   Levi's Up to 65% Off
+    
     *   Eton Menswear Up to 60% Off
     *   Shorts &. More Up to 70% Off Incl. Plus
     *   Tie Dye &. Camouflage Styles Incl. Plus
-    
     *   Fall Styles ft. Velvet by Graham &. Spencer
     *   Casual Tops Under $25 Incl. Plus
     *   Now &. Zen: Yogawear Up to 65% Off
     *   Lucky Shoes Up to 60% Off
     *   Baby Checklist: Footies, Gear &. More
     *   Fashion Sneakers ft. Steve Madden
-    *   Timberland Men Up to 60% Off
     *   Womens Fragrance's Starting at $10
     *   Reiss Up to 70% Off
     *   Sanctuary Up to 75% Off Incl. Plus
@@ -53,10 +54,10 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   School Supplies: Kids' Essentials Starting at $10
     *   Fresh Finds: Men's Boots Up to 60% Off
     *   Fresh Finds: Flats Up to 65% Off
+    
     *   Perforated &. Peep Toe Shoes Up to 75% Off
     *   Pumps that Pop Up to 75% Off
     *   Fresh Finds: Kids' Shoes Up to 60% Off
-    
     *   Skincare We Love ft. Borgese &. Exuviance
     *   Champion Starting at $20
     *   Free Shipping: Wall Art at 70% Off
@@ -73,11 +74,9 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Free Shipping: Natural Decor Pillows
     *   Women's Styles Up to 70% Off Incl. Plus
     *   Splendid Pearls Starting at $20
+    *   Sunday Steals Up to 85% Off Incl. Plus
     *   Sterling Forever Starting at $15
     *   Dresses From Betsey Johnson &. More
-    *   Timberland Up to 60% Off
-    *   Sunday Steals Up to 85% Off Incl. Plus
-    *   DKNY\_22642492\_Standard
 *   WomenShop Sale Events
     
     *   Habitual &. More Up to 60% Off
@@ -88,6 +87,7 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Forever Creations Jewelry
     *   Lazy Day Faves: Sleep &. Loungewear
     *   Transition to Fall: Suede Shoes
+    *   Timberland Up to 60% Off
     *   Summer Swim Steals Up to 70% Off
     *   Gevril Watches Up to 85% Off
     *   Savvy Cie Up to 80% Off
@@ -97,8 +97,8 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Fall Styles ft. Velvet by Graham &. Spencer
     *   Casual Tops Under $25 Incl. Plus
     *   Now &. Zen: Yogawear Up to 65% Off
-    *   Lucky Shoes Up to 60% Off
     
+    *   Lucky Shoes Up to 60% Off
     *   Womens Fragrance's Starting at $10
     *   Reiss Up to 70% Off
     *   Sanctuary Up to 75% Off Incl. Plus
@@ -112,29 +112,28 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Limited Time Deals at 80% Off
     *   Women's Styles Up to 70% Off Incl. Plus
     *   Splendid Pearls Starting at $20
+    *   Sunday Steals Up to 85% Off Incl. Plus
     *   Sterling Forever Starting at $15
     *   Dresses From Betsey Johnson &. More
-    *   Timberland Up to 60% Off
-    *   Sunday Steals Up to 85% Off Incl. Plus
     
     Shop By Category
     *   Clothing
     *   Jewelry
     *   Shoes
+    *   Lingerie &. Shapewear
     *   Watches
     *   Accessories
-    *   Lingerie &. Shapewear
     *   Handbags
 *   MenShop Sale Events
     
     *   Travis Mathew Up to 55% Off
     *   Comfort Shoes for Him
+    *   Timberland Men Up to 60% Off
     *   Men's Swim Blowout
     *   Men's Shoes Under $100
     *   Gevril Watches Up to 85% Off
     *   Levi's Up to 65% Off
     *   Eton Menswear Up to 60% Off
-    *   Timberland Men Up to 60% Off
     
     *   Sperry Men Up to 60% Off
     *   Work From Home: Men's Styles Up to 65% Off
@@ -162,8 +161,8 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     
     Shop By Category
     *   Girls
-    *   Baby
     *   Girls' Shoes
+    *   Baby
     *   Boys' Shoes
     *   Boys
     *   Toys
