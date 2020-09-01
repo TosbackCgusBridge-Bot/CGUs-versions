@@ -8,7 +8,22 @@ Autodesk logo
 
 *   0
 
-*   SIGN IN
+*   Sign In
+    
+    Autodesk Account
+    
+    Manage products &. downloads
+    
+    Account settings
+    
+    Sign In
+    
+    Manage products &. downloads
+    
+    Account settings
+    
+    Sign out
+    
 *   United States
     
     We have redirected you to an equivalent page on your local site where you can see local pricing and promotions and purchase online.
