@@ -126,9 +126,9 @@ Lenovo Explore Close
         
         Shop deals on tablets and smart devices for home or work
         
-        Yoga Smart Tab
+        Sitewide: 10% Off Tablets
         
-        Premium 2-in-1 Tablet Exclusive to Lenovo.com
+        Save up to an additional 10% off almost all Tablets using the code LENOVOTAB10!
         
     *   Accessories &. Software
         
@@ -635,7 +635,7 @@ Lenovo Explore Close
 1-855-253-6686 option #2
 
 *   Search
-*   icon-compare0 Compare Compare (0)
+
 *   LenovoPro
     *   Sign In To LenovoPRO For Small Business
     *   Learn more
@@ -723,13 +723,7 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
-
-Please add at least 2 products for compare
-
-Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
-
-Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
 Privacy Statement"/>.
 
