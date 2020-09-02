@@ -35,7 +35,7 @@ Contact Us
     *   2\. How Indeed uses cookies
     *   3\. Managing cookies in your browser
     *   4\. Cookies
-*   Indeed Privacy FAQs
+*   Indeed Privacy FAQ
 *   Contact Us
 
 About Indeed
@@ -661,7 +661,7 @@ For all other visitors to our Site, the following table lists a selection of coo
 
 Please review the “Last Updated” legend at the top of the Cookie Policy to determine when it was last amended. Any changes will become effective on the “Last Updated” date indicated above. By using the Site or providing information to us following such changes, you will have accepted the amended Cookie Policy. If Indeed is going to use Personal Data collected through the Site in a manner materially different from that stated at the time of collection, then Indeed will notify users via email and/or by posting a notice on Indeed’s Site for 30 days prior to such use or by other means as required by law.
 
-**Indeed Privacy FAQs**
+**Indeed Privacy FAQ**
 
 Our Privacy Policy describes, in a comprehensive manner, how Indeed processes your data. For more information on Indeed’s approach to privacy, please see our FAQ page.
 
