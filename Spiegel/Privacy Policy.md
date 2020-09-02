@@ -19,6 +19,8 @@ Read more about PUR here.
 
 You have already purchased a PUR subscription? Then reload the page or close this window.
 
+My user account
+
 Already a PUR subscriber? Log in here.
 
 You already subscribe to PUR but under a different user account? Log off here.
