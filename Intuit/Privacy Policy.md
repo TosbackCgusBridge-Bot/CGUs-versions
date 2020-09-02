@@ -1,6 +1,7 @@
 Our COVID-19 response Details  
 EXTRA 30% OFF $75 or more with code: BUYMORE4 Details  
 EXTRA 25% OFF under $75 with code: BUYMORE4 Details  
+Window Flash Sale! EXTRA 40% OFF w/ code: WINDOW31 Shop All  
 Free Shipping Over $49  DetailsOur COVID-19 response Details  
 EXTRA 30% OFF $75 or more with code: BUYMORE4 Details  
 
@@ -9,7 +10,7 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -23,7 +24,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-BeddingBring in a pop of print to the bedroom.WindowAdd some dimension with floor-length curtains.RugsSpruce up the floors with a statement rug.Kitchen &. DiningTreat yourself to chef-worthy cookware.WomenMenGirlsBoysWomenMenWomenMenBaby &. KidsShoesJuniorsWindowWomen's CareerWomen's DressesJuniorsYoung MenKidsBackpacksHomeschool**Save on Puma, Champion &. more**Get the family moving with must-haves from top brands!select styles | Excluded from coupons.
+WomenMenGirlsBoysWomenMenBeddingBring in a pop of print to the bedroom.WindowAdd some dimension with floor-length curtains.RugsSpruce up the floors with a statement rug.Kitchen &. DiningTreat yourself to chef-worthy cookware.JuniorsYoung MenKidsBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. Organization**Save on Puma, Champion &. more**Get the family moving with must-haves from top brands!select styles | Excluded from coupons.
 
 *   Shop All
 
@@ -36,22 +37,22 @@ BeddingBring in a pop of print to the bedroom.WindowAdd some dimension with floo
 *   Nike
     
 
-Shop AllComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationShop HairsprayShop Budget-Friendly Beauty fromSephora inside JCPenneyselect styles | Sephora excluded from coupons.Recommended for You
+Shop All**Protect yourself &. others!**$9 Face masks**select styles**
 
-*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $17.99with code~$6 - $48~635
+*   Shop All
+
+Shop HairsprayShop Budget-Friendly Beauty fromSephora inside JCPenneyselect styles | Sephora excluded from coupons.WomenMenBaby &. KidsShoesJuniorsWindowWomen's CareerWomen's Dresses Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $17.99with code~$6 - $48~636
+*   Urban Shop Faux Fur Task Office Chair $81.90 - $86.40with code~$200~
+*   Home Expressions Tiles Complete Bedding Set with Sheets $37.49 - $55.99with code~$110 - $170~339
+*   Liz Claiborne Womens Split Crew Neck Short Sleeve Blouse $13.49with code~$30~
 *   JCPenney Home™ Ultima Bath Rug Collection $14.99 - $44.99with code~$34 - $90~713
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+*   Levi's® Men's 550™ Relaxed Fit Jeans
     
-    $124.98
+    $35.70sale
     
-    145
-*   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
-    
-    $49.98
-    
-    238
-*   Ienjoy Home Casual Comfort™ Premium Ultra Soft Duvet Cover Set $20.99 - $29.99with code~$40 - $60~40
-*   Bali Double Support Comfort Wireless Full Coverage Bra-3820 $26.24with code~$40~1794
+    ~$59.50~1738
 
 Shop and Save at JCPenney
 
