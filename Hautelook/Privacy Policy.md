@@ -9,10 +9,28 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Blankets at 60% Off
+    *   Designer Shop Up to 70% Off
+    *   Fine Jewelry ft EF Collection
+    *   Men's Designer Shoes Up to 70% Off
+    *   Sunglasses ft Miu Miu
+    *   Designer Styles ft. Roberto Cavalli &. Helmut Lang
+    *   Designer Watches Starting at $100
+    *   Tees &. More Up to 65% Off Incl. Plus
+    *   Must Have Styles Under $20 Incl. Plus
+    *   Feminine Dresses From Adelyn Rae &. More
+    *   Summer Bralettes We Love Starting at $10
+    *   Graphic Tees Starting at $15
+    *   Pillows &. Bedding Starting at $15
+    *   Kids' Kickoff to Fall ft. Urban Republic
+    *   Kids' Kickoff to Fall ft. Boots &. More
+    *   Designer Shoes Up to 65% Off
+    *   Haircare Under $30
     *   Travis Mathew Up to 55% Off
     *   Habitual &. More Up to 60% Off
     *   On Trend Dresses Up to 70% Off Incl. Plus
     *   On Trend Tops Up to 70% Off Incl. Plus
+    
     *   Skirts Up to 75% Off Incl. Plus
     *   Comfort Sneakers for Her
     *   Forever Creations Jewelry
@@ -22,8 +40,6 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Transition to Fall: Suede Shoes
     *   Cozy Slippers ft. BEARPAW
     *   Pajama Party: Kids' Sleepwear &. More
-    *   Timberland Up to 60% Off
-    *   Timberland Men Up to 60% Off
     *   Summer Swim Steals Up to 70% Off
     *   Men's Swim Blowout
     *   Men's Shoes Under $100
@@ -31,54 +47,43 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Savvy Cie Up to 80% Off
     *   Women's Shoes Under $30
     *   Levi's Up to 65% Off
-    
     *   Eton Menswear Up to 60% Off
-    *   Shorts &. More Up to 70% Off Incl. Plus
-    *   Tie Dye &. Camouflage Styles Incl. Plus
-    *   Fall Styles ft. Velvet by Graham &. Spencer
-    *   Casual Tops Under $25 Incl. Plus
-    *   Now &. Zen: Yogawear Up to 65% Off
-    *   Lucky Shoes Up to 60% Off
     *   Baby Checklist: Footies, Gear &. More
     *   Fashion Sneakers ft. Steve Madden
+    *   Timberland Men Up to 60% Off
     *   Womens Fragrance's Starting at $10
-    *   Reiss Up to 70% Off
-    *   Sanctuary Up to 75% Off Incl. Plus
-    *   Fall Outerwear Sneak Peek ft. MICHAEL Michael Kors
-    *   New Fall Favorites: Plus Styles Up to 75% Off
+    
     *   Sperry Men Up to 60% Off
     *   Work From Home: Men's Styles Up to 65% Off
     *   Utility Bedding Starting at $20
     *   Flora Bunda Planters
     *   Decorative Throws at 80% Off
-    *   School Supplies: Kids' Essentials Starting at $10
     *   Fresh Finds: Men's Boots Up to 60% Off
-    *   Fresh Finds: Flats Up to 65% Off
-    
-    *   Perforated &. Peep Toe Shoes Up to 75% Off
-    *   Pumps that Pop Up to 75% Off
-    *   Fresh Finds: Kids' Shoes Up to 60% Off
     *   Skincare We Love ft. Borgese &. Exuviance
-    *   Champion Starting at $20
     *   Free Shipping: Wall Art at 70% Off
-    *   Men's Outdoor Shoes ft. Northside
-    *   Men's Active Outerwear Up to 50% Off
     *   Free Shipping: Trash Cans
-    *   Casual Comfort: Men's Shoes Up to 65% Off
-    *   Whish Starting at $15
     *   Journals &. Planners Starting at $15
     *   Steamers &. Mops at 60% Off
     *   Limited Time Deals at 80% Off
-    *   Free Shipping: Oliver Gal Top selling Wall Art
-    *   Willow Row Home Decor at 50% Off
-    *   Free Shipping: Natural Decor Pillows
-    *   Women's Styles Up to 70% Off Incl. Plus
-    *   Splendid Pearls Starting at $20
     *   Sunday Steals Up to 85% Off Incl. Plus
+    *   Timberland Up to 60% Off
+    *   Shorts &. More Up to 70% Off Incl. Plus
+    *   Casual Tops Under $25 Incl. Plus
+    *   Fall Outerwear Sneak Peek ft. MICHAEL Michael Kors
+    *   Women's Sneakers Under $40
     *   Sterling Forever Starting at $15
     *   Dresses From Betsey Johnson &. More
 *   WomenShop Sale Events
     
+    *   Designer Shop Up to 70% Off
+    *   Fine Jewelry ft EF Collection
+    *   Sunglasses ft Miu Miu
+    *   Tees &. More Up to 65% Off Incl. Plus
+    *   Must Have Styles Under $20 Incl. Plus
+    *   Feminine Dresses From Adelyn Rae &. More
+    *   Summer Bralettes We Love Starting at $10
+    *   Designer Shoes Up to 65% Off
+    *   Haircare Under $30
     *   Habitual &. More Up to 60% Off
     *   On Trend Dresses Up to 70% Off Incl. Plus
     *   On Trend Tops Up to 70% Off Incl. Plus
@@ -86,33 +91,21 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Comfort Sneakers for Her
     *   Forever Creations Jewelry
     *   Lazy Day Faves: Sleep &. Loungewear
+    
     *   Transition to Fall: Suede Shoes
-    *   Timberland Up to 60% Off
     *   Summer Swim Steals Up to 70% Off
     *   Gevril Watches Up to 85% Off
     *   Savvy Cie Up to 80% Off
     *   Women's Shoes Under $30
-    *   Shorts &. More Up to 70% Off Incl. Plus
-    *   Tie Dye &. Camouflage Styles Incl. Plus
-    *   Fall Styles ft. Velvet by Graham &. Spencer
-    *   Casual Tops Under $25 Incl. Plus
-    *   Now &. Zen: Yogawear Up to 65% Off
-    
-    *   Lucky Shoes Up to 60% Off
     *   Womens Fragrance's Starting at $10
-    *   Reiss Up to 70% Off
-    *   Sanctuary Up to 75% Off Incl. Plus
-    *   Fall Outerwear Sneak Peek ft. MICHAEL Michael Kors
-    *   New Fall Favorites: Plus Styles Up to 75% Off
-    *   Fresh Finds: Flats Up to 65% Off
-    *   Perforated &. Peep Toe Shoes Up to 75% Off
-    *   Pumps that Pop Up to 75% Off
     *   Skincare We Love ft. Borgese &. Exuviance
-    *   Whish Starting at $15
     *   Limited Time Deals at 80% Off
-    *   Women's Styles Up to 70% Off Incl. Plus
-    *   Splendid Pearls Starting at $20
     *   Sunday Steals Up to 85% Off Incl. Plus
+    *   Timberland Up to 60% Off
+    *   Shorts &. More Up to 70% Off Incl. Plus
+    *   Casual Tops Under $25 Incl. Plus
+    *   Fall Outerwear Sneak Peek ft. MICHAEL Michael Kors
+    *   Women's Sneakers Under $40
     *   Sterling Forever Starting at $15
     *   Dresses From Betsey Johnson &. More
     
@@ -126,22 +119,22 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Handbags
 *   MenShop Sale Events
     
+    *   Men's Designer Shoes Up to 70% Off
+    *   Designer Styles ft. Roberto Cavalli &. Helmut Lang
+    *   Designer Watches Starting at $100
+    *   Graphic Tees Starting at $15
     *   Travis Mathew Up to 55% Off
     *   Comfort Shoes for Him
-    *   Timberland Men Up to 60% Off
     *   Men's Swim Blowout
     *   Men's Shoes Under $100
+    
     *   Gevril Watches Up to 85% Off
     *   Levi's Up to 65% Off
     *   Eton Menswear Up to 60% Off
-    
+    *   Timberland Men Up to 60% Off
     *   Sperry Men Up to 60% Off
     *   Work From Home: Men's Styles Up to 65% Off
     *   Fresh Finds: Men's Boots Up to 60% Off
-    *   Champion Starting at $20
-    *   Men's Outdoor Shoes ft. Northside
-    *   Men's Active Outerwear Up to 50% Off
-    *   Casual Comfort: Men's Shoes Up to 65% Off
     *   Limited Time Deals at 80% Off
     
     Shop By Category
@@ -151,60 +144,59 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Kids' Kickoff to Fall ft. Urban Republic
+    *   Kids' Kickoff to Fall ft. Boots &. More
     *   Cozy Slippers ft. BEARPAW
     *   Pajama Party: Kids' Sleepwear &. More
     *   Baby Checklist: Footies, Gear &. More
     *   Fashion Sneakers ft. Steve Madden
-    *   School Supplies: Kids' Essentials Starting at $10
-    *   Fresh Finds: Kids' Shoes Up to 60% Off
     *   Limited Time Deals at 80% Off
     
     Shop By Category
-    *   Girls
     *   Girls' Shoes
     *   Baby
+    *   Girls
     *   Boys' Shoes
     *   Boys
     *   Toys
 *   HomeShop Sale Events
     
+    *   Blankets at 60% Off
+    *   Pillows &. Bedding Starting at $15
     *   Apollo Beach Towels
     *   Utility Bedding Starting at $20
     *   Flora Bunda Planters
     *   Decorative Throws at 80% Off
+    
     *   Free Shipping: Wall Art at 70% Off
     *   Free Shipping: Trash Cans
-    
     *   Journals &. Planners Starting at $15
     *   Steamers &. Mops at 60% Off
     *   Limited Time Deals at 80% Off
-    *   Free Shipping: Oliver Gal Top selling Wall Art
-    *   Willow Row Home Decor at 50% Off
-    *   Free Shipping: Natural Decor Pillows
     
     Shop By Category
     *   Home Decor
+    *   Bedding
     *   Outdoor Living
     *   Bath
-    *   Bedding
-    *   Rugs &. Doormats
     *   Cleaning &. Organization
+    *   Rugs &. Doormats
     *   Luggage &. Travel
     *   Kitchen &. Tabletop
     *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
+    *   Haircare Under $30
     *   Womens Fragrance's Starting at $10
     *   Skincare We Love ft. Borgese &. Exuviance
-    *   Whish Starting at $15
     *   Limited Time Deals at 80% Off
     
     Shop By Category
-    *   Fragrance
     *   Skin Care
+    *   Fragrance
     *   Bath &. Body
-    *   Makeup
     *   Hair Care
+    *   Makeup
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
