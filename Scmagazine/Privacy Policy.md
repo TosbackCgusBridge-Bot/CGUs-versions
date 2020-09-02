@@ -239,35 +239,29 @@ For users in the United States, any changes or modifications will be effective i
 
 For users in the EEA, any changes or modifications will be effective upon your express consent as you will be notified of any changes by virtue of a pop-up, banner, or other notification mechanism when you seek to access our services after we issue a change or modification. Upon consent, the revisions on the services shall apply to all use of our services and all acts or omissions occurring after the effective date of the revised Privacy Policy.
 
-Q&A: Asset management and risk
-
-IT Service Management vs. Cybersecurity Asset Management
-
-Extreme Engineering Solutions ensures compliance requirements while reducing manual work
-
 *   MOST POPULAR
     
     *   Popular
     *   Emailed
     *   Recent
     
-    *   Lessons from 15 years of bug bounties
-    *   Corporate VPNs in danger as vishing attacks target home workers
-    *   Six steps for securing smart cities
-    *   1,200 iOS apps unknowingly handing over dollars to Chinese ad platform
-    *   Why a cloud-native platform is a requirement for modern cybersecurity
+    *   Companies left dangling until US, EU hash out data protection differences
+    *   Lessons from Uber: Be crystal clear on the law and your bug bounty policies
+    *   SC Product Reviews: Unified Threat Management
+    *   NYSE not susceptible to takedown like New Zealand exchange
+    *   DHS and FBI warn of North Korean malware targeted at defense contractors
     
-    *   Estonia ambassador to connect dots from cyberwar to security culture
     *   Apple OS developer supply chain threatened by 'clever' malware attack
-    *   NYSE not susceptible to takedown like New Zealand exchange
-    *   Targeted BEC attacks steal business data in six countries, posing as HR
-    *   Is the electric grid closer to a devastating cyberattack that could mean lights out?
+    *   Lessons from 15 years of bug bounties
+    *   1,200 iOS apps unknowingly handing over dollars to Chinese ad platform
+    *   Fancy Bear imposters extort finance, retail on DDoS threat
+    *   ID theft protection for employees can boost productivity, worker loyalty
     
-    *   How, and when, to divvy consequences to employees for breaching security policy
+    *   Attackers could exploit flaws in MAGMI Magento plugin to hijack admin sessions
+    *   Slack users unwittingly phished with malicious payloads
+    *   Apple notarization process, meant to protect, approved Shlayer malware
+    *   How, and when, to hand down consequences to employees for breaching security policy
     *   NYSE not susceptible to takedown like New Zealand exchange
-    *   New ransomware threats leave victims scrambling to know how to respond
-    *   NCR confirms malware in lab environment, says clients not at risk
-    *   G Suite flaw mitigated after disclosure, but Google Drive still vulnerable
 
 Back to Top
 
