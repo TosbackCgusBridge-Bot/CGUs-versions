@@ -9,12 +9,11 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
-    *   Bill &. Ted Face the Music
-    *   The New Mutants
-    *   The Personal History of David Copperfield
-    *   The Eight Hundred (2020)
-    *   Nomad: In The Footsteps of Bruce Chatwin
-    *   Still Here (2020)
+    *   Tenet
+    *   Honest Thief (2020)
+    *   The Argument (2020)
+    *   Critical Thinking (2020)
+    *   My Brothers' Crossing
     *   See All Opening This Week
     
     Coming Soon
@@ -52,7 +51,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
-    *   What to Watch on FandangoNOW: ‘Bill &. Ted Face the Music,’ ‘The Burnt Orange Heresy’ and More Read More
+    *   What to Watch on FandangoNOW: ‘Fatima,’ a New Robin Williams Documentary and More Read More
     *   The Week in Movie News: Spider-Man Spin-Offs for Olivia Wilde and J.C. Chandor, Ben Affleck’s Batman Returns for ‘The Flash’ and More Read More
     
     Explore Content
@@ -516,7 +515,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   August Celebrity Birthdays
+*   September Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Follow Us
