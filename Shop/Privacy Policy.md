@@ -102,7 +102,6 @@ Lenovo Explore Close
     *   Tablets
         
         *   Always Free shipping
-        *   Earn Rewards on All purchases
         *   Financing Available
         *   Price Match Guarenteed
         
@@ -297,7 +296,7 @@ Lenovo Explore Close
         
         Things to consider when choosing a laptop
         
-    *   Sale
+    *   Labor Day
         
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
