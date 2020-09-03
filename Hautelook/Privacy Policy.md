@@ -9,9 +9,25 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Limited-Time Price Drops Up to 70% Off
+    *   Ted Baker Men Up to 65% Off
+    *   Ted Baker London Up to 65% Off
+    *   Ted Baker London Accessories Up to 60% Off
+    *   Ted Baker London Home at 60% Off
+    *   Fall Faves: Plaid &. More Up to 65% Off
+    *   Ted Baker London Shoes Up to 60% Off
+    *   Donna Karen Outerwear &. More Up to 70% Off
+    *   Dresses Under $40 Incl. Plus
+    *   Ease into Fall: Activewear Up to 70% Off
+    *   Slip on Sneakers Up to 60% Off
+    *   Ted Baker Men's Shoes Up to 60% Off
+    *   Girls' Dresses Up to 65% Off
+    *   Women's Sandals Under $20
+    *   Shiseido Must-Haves Up To 50% off
     *   Blankets at 60% Off
     *   Designer Shop Up to 70% Off
     *   Fine Jewelry ft EF Collection
+    
     *   Men's Designer Shoes Up to 70% Off
     *   Sunglasses ft Miu Miu
     *   Designer Styles ft. Roberto Cavalli &. Helmut Lang
@@ -21,148 +37,112 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Feminine Dresses From Adelyn Rae &. More
     *   Summer Bralettes We Love Starting at $10
     *   Graphic Tees Starting at $15
-    *   Pillows &. Bedding Starting at $15
+    *   Women's Sneakers Under $40
     *   Kids' Kickoff to Fall ft. Urban Republic
     *   Kids' Kickoff to Fall ft. Boots &. More
     *   Designer Shoes Up to 65% Off
     *   Haircare Under $30
     *   Travis Mathew Up to 55% Off
-    *   Habitual &. More Up to 60% Off
-    *   On Trend Dresses Up to 70% Off Incl. Plus
-    *   On Trend Tops Up to 70% Off Incl. Plus
-    
-    *   Skirts Up to 75% Off Incl. Plus
-    *   Comfort Sneakers for Her
     *   Forever Creations Jewelry
-    *   Lazy Day Faves: Sleep &. Loungewear
     *   Apollo Beach Towels
     *   Comfort Shoes for Him
-    *   Transition to Fall: Suede Shoes
+    
     *   Cozy Slippers ft. BEARPAW
     *   Pajama Party: Kids' Sleepwear &. More
-    *   Summer Swim Steals Up to 70% Off
-    *   Men's Swim Blowout
     *   Men's Shoes Under $100
-    *   Gevril Watches Up to 85% Off
-    *   Savvy Cie Up to 80% Off
-    *   Women's Shoes Under $30
     *   Levi's Up to 65% Off
-    *   Eton Menswear Up to 60% Off
-    *   Baby Checklist: Footies, Gear &. More
-    *   Fashion Sneakers ft. Steve Madden
-    *   Timberland Men Up to 60% Off
     *   Womens Fragrance's Starting at $10
-    
-    *   Sperry Men Up to 60% Off
-    *   Work From Home: Men's Styles Up to 65% Off
     *   Utility Bedding Starting at $20
     *   Flora Bunda Planters
     *   Decorative Throws at 80% Off
-    *   Fresh Finds: Men's Boots Up to 60% Off
-    *   Skincare We Love ft. Borgese &. Exuviance
     *   Free Shipping: Wall Art at 70% Off
     *   Free Shipping: Trash Cans
+    *   Pillows &. Bedding Starting at $15
+    *   On Trend Dresses Up to 70% Off Incl. Plus
+    *   On Trend Tops Up to 70% Off Incl. Plus
+    *   Skirts Up to 75% Off Incl. Plus
+    *   Lazy Day Faves: Sleep &. Loungewear
+    *   Men's Active Starting at $15
     *   Journals &. Planners Starting at $15
     *   Steamers &. Mops at 60% Off
-    *   Limited Time Deals at 80% Off
-    *   Sunday Steals Up to 85% Off Incl. Plus
-    *   Timberland Up to 60% Off
-    *   Shorts &. More Up to 70% Off Incl. Plus
-    *   Casual Tops Under $25 Incl. Plus
-    *   Fall Outerwear Sneak Peek ft. MICHAEL Michael Kors
-    *   Women's Sneakers Under $40
-    *   Sterling Forever Starting at $15
-    *   Dresses From Betsey Johnson &. More
 *   WomenShop Sale Events
     
+    *   Limited-Time Price Drops Up to 70% Off
+    *   Ted Baker London Up to 65% Off
+    *   Ted Baker London Accessories Up to 60% Off
+    *   Fall Faves: Plaid &. More Up to 65% Off
+    *   Ted Baker London Shoes Up to 60% Off
+    *   Donna Karen Outerwear &. More Up to 70% Off
+    *   Dresses Under $40 Incl. Plus
+    *   Ease into Fall: Activewear Up to 70% Off
+    *   Slip on Sneakers Up to 60% Off
+    *   Women's Sandals Under $20
+    *   Shiseido Must-Haves Up To 50% off
     *   Designer Shop Up to 70% Off
     *   Fine Jewelry ft EF Collection
     *   Sunglasses ft Miu Miu
+    
     *   Tees &. More Up to 65% Off Incl. Plus
     *   Must Have Styles Under $20 Incl. Plus
     *   Feminine Dresses From Adelyn Rae &. More
     *   Summer Bralettes We Love Starting at $10
+    *   Women's Sneakers Under $40
     *   Designer Shoes Up to 65% Off
     *   Haircare Under $30
-    *   Habitual &. More Up to 60% Off
+    *   Forever Creations Jewelry
+    *   Womens Fragrance's Starting at $10
     *   On Trend Dresses Up to 70% Off Incl. Plus
     *   On Trend Tops Up to 70% Off Incl. Plus
     *   Skirts Up to 75% Off Incl. Plus
-    *   Comfort Sneakers for Her
-    *   Forever Creations Jewelry
     *   Lazy Day Faves: Sleep &. Loungewear
-    
-    *   Transition to Fall: Suede Shoes
-    *   Summer Swim Steals Up to 70% Off
-    *   Gevril Watches Up to 85% Off
-    *   Savvy Cie Up to 80% Off
-    *   Women's Shoes Under $30
-    *   Womens Fragrance's Starting at $10
-    *   Skincare We Love ft. Borgese &. Exuviance
-    *   Limited Time Deals at 80% Off
-    *   Sunday Steals Up to 85% Off Incl. Plus
-    *   Timberland Up to 60% Off
-    *   Shorts &. More Up to 70% Off Incl. Plus
-    *   Casual Tops Under $25 Incl. Plus
-    *   Fall Outerwear Sneak Peek ft. MICHAEL Michael Kors
-    *   Women's Sneakers Under $40
-    *   Sterling Forever Starting at $15
-    *   Dresses From Betsey Johnson &. More
     
     Shop By Category
     *   Clothing
-    *   Jewelry
     *   Shoes
     *   Lingerie &. Shapewear
-    *   Watches
-    *   Accessories
+    *   Jewelry
     *   Handbags
+    *   Accessories
+    *   Watches
 *   MenShop Sale Events
     
+    *   Ted Baker Men Up to 65% Off
+    *   Ted Baker Men's Shoes Up to 60% Off
     *   Men's Designer Shoes Up to 70% Off
     *   Designer Styles ft. Roberto Cavalli &. Helmut Lang
     *   Designer Watches Starting at $100
     *   Graphic Tees Starting at $15
+    
     *   Travis Mathew Up to 55% Off
     *   Comfort Shoes for Him
-    *   Men's Swim Blowout
     *   Men's Shoes Under $100
-    
-    *   Gevril Watches Up to 85% Off
     *   Levi's Up to 65% Off
-    *   Eton Menswear Up to 60% Off
-    *   Timberland Men Up to 60% Off
-    *   Sperry Men Up to 60% Off
-    *   Work From Home: Men's Styles Up to 65% Off
-    *   Fresh Finds: Men's Boots Up to 60% Off
-    *   Limited Time Deals at 80% Off
+    *   Men's Active Starting at $15
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Watches
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Girls' Dresses Up to 65% Off
     *   Kids' Kickoff to Fall ft. Urban Republic
     *   Kids' Kickoff to Fall ft. Boots &. More
     *   Cozy Slippers ft. BEARPAW
     *   Pajama Party: Kids' Sleepwear &. More
-    *   Baby Checklist: Footies, Gear &. More
-    *   Fashion Sneakers ft. Steve Madden
-    *   Limited Time Deals at 80% Off
     
     Shop By Category
-    *   Girls' Shoes
-    *   Baby
     *   Girls
-    *   Boys' Shoes
+    *   Girls' Shoes
     *   Boys
+    *   Baby
+    *   Boys' Shoes
     *   Toys
 *   HomeShop Sale Events
     
+    *   Ted Baker London Home at 60% Off
     *   Blankets at 60% Off
-    *   Pillows &. Bedding Starting at $15
     *   Apollo Beach Towels
     *   Utility Bedding Starting at $20
     *   Flora Bunda Planters
@@ -170,9 +150,9 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     
     *   Free Shipping: Wall Art at 70% Off
     *   Free Shipping: Trash Cans
+    *   Pillows &. Bedding Starting at $15
     *   Journals &. Planners Starting at $15
     *   Steamers &. Mops at 60% Off
-    *   Limited Time Deals at 80% Off
     
     Shop By Category
     *   Home Decor
@@ -181,22 +161,22 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Bath
     *   Cleaning &. Organization
     *   Rugs &. Doormats
+    *   Holiday Decorations
     *   Luggage &. Travel
     *   Kitchen &. Tabletop
     *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
+    *   Shiseido Must-Haves Up To 50% off
     *   Haircare Under $30
     *   Womens Fragrance's Starting at $10
-    *   Skincare We Love ft. Borgese &. Exuviance
-    *   Limited Time Deals at 80% Off
     
     Shop By Category
-    *   Skin Care
     *   Fragrance
-    *   Bath &. Body
     *   Hair Care
+    *   Skin Care
     *   Makeup
+    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
