@@ -1,6 +1,9 @@
+About Us: Terms of Service
+==========================
+
 **Introduction**
 
-Please read these Terms of Service ("Terms") carefully. They contain the legal terms and conditions that govern your use of services provided to you by DeviantArt, including information, text, images, graphics, data or other materials ("Content") and products and services provided through www.DeviantArt.com , shop.deviantart.com , Sta.sh and other DeviantArt mobile applications as well as all elements, software, programs and code forming or incorporated in to www.DeviantArt.com (the "Service"). This Service is operated by DeviantArt, Inc. ("DeviantArt"). DeviantArt is also referred to in these Terms as "we", "our", and "us".
+Please read these Terms of Service ("Terms") carefully. They contain the legal terms and conditions that govern your use of services provided to you by DeviantArt, including information, text, images, graphics, data or other materials ("Content") and products and services provided through [www.DeviantArt.com](https://www.deviantart.com/) , [shop.deviantart.com](https://shop.deviantart.com/) , Sta.sh and other DeviantArt mobile applications as well as all elements, software, programs and code forming or incorporated in to [www.DeviantArt.com](https://www.deviantart.com/) (the "Service"). This Service is operated by DeviantArt, Inc. ("DeviantArt"). DeviantArt is also referred to in these Terms as "we", "our", and "us".
 
   
 
@@ -20,7 +23,7 @@ This Service is provided by DeviantArt on an "AS IS" and "AS AVAILABLE" basis an
 
 **2\. Privacy**
 
-DeviantArt has a firm commitment to safeguarding your privacy. Please review DeviantArt's Privacy Policy. The terms of DeviantArt's privacy policy are incorporated into, and form a part of, these Terms.
+DeviantArt has a firm commitment to safeguarding your privacy. Please review DeviantArt's [Privacy Policy](https://about.deviantart.com/policy/privacy/). The terms of DeviantArt's privacy policy are incorporated into, and form a part of, these Terms.
 
   
 
@@ -38,7 +41,7 @@ DeviantArt is, unless otherwise stated, the owner of all copyright and data righ
 
 **5\. Reporting Copyright Violations**
 
-DeviantArt respects the intellectual property rights of others and expects users of the Service to do the same. At DeviantArt's discretion and in appropriate circumstances, DeviantArt may remove Your Content submitted to the Site, terminate the accounts of users or prevent access to the Site by users who infringe the intellectual property rights of others. If you believe the copyright in your work or in the work for which you act as an agent has been infringed through this Service, please contact DeviantArt's agent for notice of claims of copyright infringement, Daniel Sowers who can be reached through violations@deviantart.com. You must provide our agent with substantially the following information, which DeviantArt may then forward to the alleged infringer (see 17 U.S.C. 512 (c)(3) for further details):
+DeviantArt respects the intellectual property rights of others and expects users of the Service to do the same. At DeviantArt's discretion and in appropriate circumstances, DeviantArt may remove Your Content submitted to the Site, terminate the accounts of users or prevent access to the Site by users who infringe the intellectual property rights of others. If you believe the copyright in your work or in the work for which you act as an agent has been infringed through this Service, please contact DeviantArt's agent for notice of claims of copyright infringement, Daniel Sowers who can be reached through [violations@deviantart.com](mailto:violations@deviantart.com). You must provide our agent with substantially the following information, which DeviantArt may then forward to the alleged infringer (see 17 U.S.C. 512 (c)(3) for further details):
 
 1.  A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 2.  Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site.
@@ -47,13 +50,13 @@ DeviantArt respects the intellectual property rights of others and expects users
 5.  A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner.
 6.  A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-Please see DeviantArt's Copyright Policy for further information and details.
+Please see DeviantArt's [Copyright Policy](https://about.deviantart.com/policy/copyright/) for further information and details.
 
   
 
 **6\. External Links**
 
-DeviantArt may provide links to third-party websites or resources. You acknowledge and agree that DeviantArt is not responsible or liable for: the availability or accuracy of such websites or resources. or the Content, products, or services on or available from such websites or resources. Links to such websites or resources do not imply any endorsement by DeviantArt of such websites or resources or the Content, products, or services available from such websites or resources. You acknowledge sole responsibility for and assume all risk arising from your use of any such websites or resources.
+DeviantArt may provide links to third-party websites or resources. You acknowledge and agree that DeviantArt is not responsible or liable for: the availability or accuracy of such websites or resources; or the Content, products, or services on or available from such websites or resources. Links to such websites or resources do not imply any endorsement by DeviantArt of such websites or resources or the Content, products, or services available from such websites or resources. You acknowledge sole responsibility for and assume all risk arising from your use of any such websites or resources.
 
   
 
@@ -65,7 +68,7 @@ As a convenience, we may make third-party software available through the Service
 
 **8\. Conduct**
 
-You agree that you shall not interfere with or disrupt (or attempt to interfere with or disrupt) this Service or servers or networks connected to this Service, or to disobey any requirements, procedures, policies or regulations of networks connected to this Service. or provide any information to DeviantArt that is false or misleading, that attempts to hide your identity or that you do not have the right to disclose. DeviantArt does not endorse any content placed on the Service by third parties or any opinions or advice contained in such content. You agree to defend, indemnify, and hold harmless DeviantArt, its officers, directors, employees and agents, from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and expert fees, arising out of or in any way connected with your access to or use of the Services, or your violation of these Terms.
+You agree that you shall not interfere with or disrupt (or attempt to interfere with or disrupt) this Service or servers or networks connected to this Service, or to disobey any requirements, procedures, policies or regulations of networks connected to this Service; or provide any information to DeviantArt that is false or misleading, that attempts to hide your identity or that you do not have the right to disclose. DeviantArt does not endorse any content placed on the Service by third parties or any opinions or advice contained in such content. You agree to defend, indemnify, and hold harmless DeviantArt, its officers, directors, employees and agents, from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and expert fees, arising out of or in any way connected with your access to or use of the Services, or your violation of these Terms.
 
   
 
@@ -89,7 +92,7 @@ These Terms constitute the entire agreement between DeviantArt and you with resp
 
 **12\. Comments**
 
-If you have any comments or questions about the Service please contact us by email at help@deviantart.com.
+If you have any comments or questions about the Service please contact us by email at [help@deviantart.com](mailto:help@deviantart.com).
 
   
 
@@ -115,7 +118,7 @@ _Chat Rooms and Forums_ - As a registered member of the Service, you will be gra
 
   
 
-_Artist Materials -_ As a registered member of the Service, you will also be granted the privilege of submitting certain types of Your Content, known as "Artist Materials," for display on your user page. Prior to submitting Artist Materials, you must accept the additional terms and conditions of the Submission Policy, which is incorporated into, and forms a part of, the Terms.
+_Artist Materials -_ As a registered member of the Service, you will also be granted the privilege of submitting certain types of Your Content, known as "Artist Materials," for display on your user page. Prior to submitting Artist Materials, you must accept the additional terms and conditions of the [Submission Policy](https://about.deviantart.com/policy/submission/), which is incorporated into, and forms a part of, the Terms.
 
   
 
@@ -139,7 +142,7 @@ At this time, DeviantArt provides free online storage of Your Content to registe
 
 **19\. Conduct**
 
-You agree to be subject to and to conduct yourself in accordance with the DeviantArt Etiquette Policy.You are responsible for all of Your Content you upload, download, and otherwise copy, distribute and display using the Service. You must have the legal right to copy, distribute and display all parts of any content that you upload, download and otherwise copy, distribute and display. Content provided to you by others, or made available through websites, magazines, books and other sources, are protected by copyright and should not be uploaded, downloaded, or otherwise copied, distributed or displayed without the consent of the copyright owner or as otherwise permitted by law. Please refer to DeviantArt's Copyright Policy for further details.
+You agree to be subject to and to conduct yourself in accordance with the DeviantArt [Etiquette Policy](https://about.deviantart.com/policy/etiquette/).You are responsible for all of Your Content you upload, download, and otherwise copy, distribute and display using the Service. You must have the legal right to copy, distribute and display all parts of any content that you upload, download and otherwise copy, distribute and display. Content provided to you by others, or made available through websites, magazines, books and other sources, are protected by copyright and should not be uploaded, downloaded, or otherwise copied, distributed or displayed without the consent of the copyright owner or as otherwise permitted by law. Please refer to DeviantArt's [Copyright Policy](https://about.deviantart.com/policy/copyright/) for further details.
 
   
 
@@ -182,7 +185,7 @@ You agree that DeviantArt may at any time, and without notice, suspend or termin
 
 **21\. Product Purchases from the DeviantArt Shop**
 
-From time to time, DeviantArt may make certain products available for purchase through the DeviantArt Shop. For example, you may have the opportunity to purchase "Artwork" that a registered member has listed for sale through the Print Program.
+From time to time, DeviantArt may make certain products available for purchase through the [DeviantArt Shop](https://shop.deviantart.com/). For example, you may have the opportunity to purchase "Artwork" that a registered member has listed for sale through the Print Program.
 
   
 
@@ -190,7 +193,7 @@ All payments are to be made in US dollars and prices are subject to change at an
 
   
 
-In general, DeviantArt accepts returns on defective products or incorrect orders within thirty (30) days after receipt of your order. Please contact DeviantArt at https://help.deviantart.com/contact/ and we will let you know whether you need to return the product(s) to us. If you do need to make a return, simply send the product(s) within thirty (30) days of receipt in the original packaging along with a copy of your invoice or order acknowledgement. Original shipping charges are not refunded on returned items. Customers are responsible for all shipping charges back to DeviantArt on returned items, and DeviantArt will pay the shipping charges on replacement product(s). Returns can be for replacement, refund or credit at DeviantArt's discretion. If your return merchandise is accepted, we will post a credit to your account within 24 hours from the time that we receive the product(s). Each return is credited in the same manner as payment. For example, if you paid for your order with a credit card, the credit will be applied to that card.
+In general, DeviantArt accepts returns on defective products or incorrect orders within thirty (30) days after receipt of your order. Please contact DeviantArt at [https://help.deviantart.com/contact/](https://help.deviantart.com/contact/) and we will let you know whether you need to return the product(s) to us. If you do need to make a return, simply send the product(s) within thirty (30) days of receipt in the original packaging along with a copy of your invoice or order acknowledgement. Original shipping charges are not refunded on returned items. Customers are responsible for all shipping charges back to DeviantArt on returned items, and DeviantArt will pay the shipping charges on replacement product(s). Returns can be for replacement, refund or credit at DeviantArt's discretion. If your return merchandise is accepted, we will post a credit to your account within 24 hours from the time that we receive the product(s). Each return is credited in the same manner as payment. For example, if you paid for your order with a credit card, the credit will be applied to that card.
 
   
 
@@ -200,10 +203,10 @@ EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION 21, ANY PRODUCT PURCHASED THROUGH T
 
 **22\. Print Program**
 
-As a registered member of the Service, you will also be granted the privilege of listing certain types of Artist Materials, known as "Artwork," for sale through the DeviantArt Shop. Visit https://www.deviantart.com/sell/ for additional details on the Print Program. Prior to submitting Artwork for sale, you must accept the additional terms and conditions of the Print Program Agreement, which is incorporated into, and forms a part of, the Terms.
+As a registered member of the Service, you will also be granted the privilege of listing certain types of Artist Materials, known as "Artwork," for sale through the DeviantArt Shop. Visit [https://www.deviantart.com/sell/](https://www.deviantart.com/sell/) for additional details on the Print Program. Prior to submitting Artwork for sale, you must accept the additional terms and conditions of the [Print Program Agreement](https://services.deviantart.com/prints/agreement), which is incorporated into, and forms a part of, the Terms.
 
   
 
 **23\. deviantDOLLARS**
 
-deviantDOLLARS are credits issued via contest winnings or made available as an option through print sales via the Print Program that can be used to purchase products through the DeviantArt Shop or pay for subscriptions. deviantDOLLARS are not legal currency and are not legal tender. To check your balance, simply go into your Messages, once there click on the Community Messages tab and on the right hand column click View My deviantDOLLARS and this will show you your current balance. deviantDOLLARS are nontransferable and deviantDOLLARS accrued in multiple accounts may not be combined. Your deviantDOLLARS credits cannot be redeemed for cash and cannot be used towards sales tax, gift certificates or past purchases. deviantDOLLARS are void where prohibited by law.
+deviantDOLLARS are credits issued via contest winnings or made available as an option through print sales via the Print Program that can be used to purchase products through the DeviantArt Shop or pay for subscriptions. deviantDOLLARS are not legal currency and are not legal tender. To check your balance, simply go into your [Messages](https://www.deviantart.com/notifications/), once there click on the Community Messages tab and on the right hand column click [View My deviantDOLLARS](https://www.deviantart.com/account/) and this will show you your current balance. deviantDOLLARS are nontransferable and deviantDOLLARS accrued in multiple accounts may not be combined. Your deviantDOLLARS credits cannot be redeemed for cash and cannot be used towards sales tax, gift certificates or past purchases. deviantDOLLARS are void where prohibited by law.
