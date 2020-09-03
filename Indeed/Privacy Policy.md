@@ -50,7 +50,7 @@ Visit Indeed
 
 **Privacy Policy**
 
-Last updated August 18, 2020
+Last updated September 2, 2020
 
 **Summary of Indeed’s Privacy Policy** **1\. Introduction**
 
@@ -301,7 +301,7 @@ If and to the extent permitted by applicable law, Indeed may use your contact in
 
 A Job Alert is an email that you sign up for containing Job Listings in response to a search query you have run. A company alert is one type of Job Alert which contains Job Listings and other information you have requested regarding a company. Job Alerts may also include jobs that Indeed recommends for you, Indeed Targeted Ads, companies you may be interested in following, or other actions you may want to take on the Site. Indeed may adjust the frequency of Job Alerts.
 
-An Invitation to Apply is an email sent to you inviting you to apply for a job through Indeed Hire, Indeed’s optimized hiring and recruitment service. Indeed may send you an Invitation to Apply based on your previous job search and application history on Indeed and depending on whether Indeed Hire is available in your location. 
+An Invitation to Apply is an email sent to you inviting you to apply for a job through Indeed Hire, Indeed’s optimized hiring and recruitment service. If Indeed Hire is available in your location, Indeed may send you an Invitation to Apply based on your previous job search and application history on Indeed, and any information, including Personal Data, you upload to the Site.
 
 Indeed may also share your information with third parties (including operators of third-party websites and/or social networking sites) in order to show you targeted advertisements and other content that has been customized for you. Such advertisements will only relate to Indeed’s services, products, and features, all of which focus on helping Job Seekers find jobs and Employers find candidates. If you wish to opt out of receiving any marketing messages from Indeed, please see section 10.3 of this Privacy Policy.
 
@@ -327,7 +327,7 @@ Public resumes may be available to anyone with access to Indeed’s resume searc
 
 If you post a public resume, this may be crawled by, and displayed through search engines when someone searches for your name. This means that third parties can view the Personal Data contained in your resume and you may receive unsolicited contact from parties unaffiliated with Indeed and for whom Indeed has no responsibility. If you post a public resume on Indeed, please note that although Indeed expressly prohibits the scraping of its Site any resume you post publicly is public information and the content may be copied by a third party in violation of these terms.
 
-For public resumes, you also authorize Indeed to remove your name from your public resume, in certain instances. Indeed may also change the display of your resume from public to private in certain instances to maintain the quality of the resume database.
+For public resumes, you also authorize Indeed to remove your name and contact information from your public resume, in certain instances. Indeed may also change the display of your resume from public to private in certain instances to maintain the quality of the resume database.
 
 If you have a public resume, Indeed may use information from your resume to auto-fill all or parts of a form or application. For example, if you use Indeed Chat, your name from your resume may appear in the messages.
 
@@ -341,7 +341,7 @@ When you place your resume on Indeed, it will be set to public by default. You m
 
 You acknowledge that Indeed may determine whether the words of your resume or any other individuals’ resume match the words of certain job descriptions, and vice versa, in order to improve the Site or any other Indeed product or service (including by displaying or otherwise making available potentially relevant job descriptions and resumes to Job Seekers and Employers).
 
-Indeed may also provide information collected pursuant to this Privacy Policy, including Personal Data, to Employers that may be interested in contacting you. By applying to a job, answering screener questions, providing your contact information to show interest in a job, using Indeed Hire, or by replying to a message from an Employer, you agree to the disclosure of your information to that Employer. Indeed may also provide the results of any Indeed Assessments you complete to Employers, where you agree to such provision at the time of taking such an assessment. Indeed may also use information provided to Indeed via your Indeed Resume to pre-populate application information for you and for similar purposes.
+Indeed may also provide information collected pursuant to this Privacy Policy, including Personal Data, to Employers that may be interested in contacting you. By applying to a job, answering screener questions, providing your contact information to show interest in a Job Listing, using Indeed Hire, or by replying to a message from an Employer, such as by expressing your interest in a particular Job Listing, you agree to the disclosure of your information to that Employer. Indeed may also provide the results of any Indeed Assessments you complete to Employers, where you agree to such provision at the time of taking such an assessment. Indeed may also use information provided to Indeed via your Indeed Resume to pre-populate application information for you and for similar purposes.
 
 If you have an Indeed account or an Indeed-hosted resume, you agree that Indeed may contact you or suggest you or your public resume to Employers that might be interested in a person who matches your behavior on Indeed.
 
