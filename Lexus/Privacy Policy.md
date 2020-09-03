@@ -21,16 +21,16 @@ Close MENU **IS**
 
 **ES**
 
-*   Starting at $39,9001\*
-*   302-HP 3.5L V6
+*   Starting at $39,9002\*
+*   2.5L I-4 OR 3.5L V6
 
 *   Build
 *   Current Offers
 
 **ES HYBRID**
 
-*   Starting at $41,8101\*
-*   44-MPG combined rating2\*
+*   Starting at $41,8102\*
+*   44-MPG COMBINED RATING3\*
 
 *   Build
 *   Current Offers
@@ -38,7 +38,7 @@ Close MENU **IS**
 **GS**
 
 *   Starting at $51,0651\*
-*   311-HP3\* 3.5L V6
+*   311-HP4\* 3.5L V6
 
 *   Build
 *   Current Offers
@@ -46,7 +46,7 @@ Close MENU **IS**
 **GS F**
 
 *   Starting at $85,0101\*
-*   467-HP3\* 5.0L V8
+*   467-HP4\* 5.0L V8
 
 *   Build
 *   Current Offers
@@ -54,7 +54,7 @@ Close MENU **IS**
 **LS**
 
 *   Starting at $75,4501\*
-*   416-HP3, 4\* 3.5L V6
+*   416-HP4, 5\* 3.5L V6
 
 *   Build
 *   Current Offers
@@ -62,7 +62,7 @@ Close MENU **IS**
 **LS HYBRID**
 
 *   Starting at $80,0101\*
-*   354 TOTAL SYSTEM HP3\*
+*   354 TOTAL SYSTEM HP4\*
 
 *   BUILD
 *   CURRENT OFFERS
@@ -72,30 +72,30 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 COMPARE **UX**
 
 *   Starting at $32,3001\*
-*   169-HP5\* 2.0L I-4
+*   169-HP6\* 2.0L I-4
 
 *   Build
 *   Current Offers
 
 **UX HYBRID**
 
-*   Starting at $34,5001, 6\*
-*   39-MPG COMBINED ESTIMATE7\*
+*   Starting at $34,5001, 7\*
+*   39-MPG COMBINED ESTIMATE8\*
 
 *   Build
 *   Current Offers
 
 **NX**
 
-*   Starting at $37,5108\*
-*   235-hp3\* 2.0L turbo
+*   Starting at $37,5102\*
+*   235-hp4\* 2.0L turbo
 
 *   Build
 *   Current Offers
 
 **NX HYBRID**
 
-*   Starting at $40,0608\*
+*   Starting at $40,0602\*
 *   31-MPG COMBINED ESTIMATE9\*
 
 *   Build
@@ -103,32 +103,32 @@ COMPARE **UX**
 
 **RX**
 
-*   Starting at $44,1501\*
-*   3 ROW SEATING UP TO 710\*
+*   Starting at $45,0702\*
+*   3-ROW SEATING UP TO 710\*
 
 *   Build
 *   Current Offers
 
 **RX HYBRID**
 
-*   Starting at $46,8001\*
-*   30-MPG COMBINED RATING11\*
+*   Starting at $47,7202\*
+*   30-MPG COMBINED ESTIMATE11\*
 
 *   Build
 *   Current Offers
 
 **GX**
 
-*   Starting at $53,1008\*
-*   301-HP3\* V8, FULL-TIME 4WD
+*   Starting at $53,1002\*
+*   301-HP4\* V8, FULL-TIME 4WD
 
 *   Build
 *   Current Offers
 
 **LX**
 
-*   Starting at $86,5808\*
-*   383-HP3\* V8, FULL-TIME 4WD
+*   Starting at $86,5802\*
+*   383-HP4\* V8, FULL-TIME 4WD
 
 *   Build
 *   Current Offers
@@ -146,31 +146,31 @@ COMPARE **RC**
 **RC F**
 
 *   Starting at $64,9001\*
-*   472-HP3\* 5.0L V8
+*   472-HP4\* 5.0L V8
 
 *   Build
 *   Current Offers
 
 **LC**
 
-*   Starting at $92,9508\*
-*   471-HP3\* 5.0L V8
+*   Starting at $92,9502\*
+*   471-HP4\* 5.0L V8
 
 *   Build
 *   Current Offers
 
 **LC HYBRID**
 
-*   Starting at $97,5108\*
-*   354 TOTAL SYSTEM HP3\*
+*   Starting at $97,5102\*
+*   354 TOTAL SYSTEM HP4\*
 
 *   Build
 *   Current Offers
 
 **LC CONVERTIBLE**
 
-*   Starting at $101,0008\*
-*   471-HP3\* 5.0L V8
+*   Starting at $101,0002\*
+*   471-HP4\* 5.0L V8
 
 *   Build
 *   Current Offers
@@ -179,15 +179,15 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **UX HYBRID**
 
-*   Starting at $34,5001, 6\*
-*   39-MPG COMBINED ESTIMATE7\*
+*   Starting at $34,5001, 7\*
+*   39-MPG COMBINED ESTIMATE8\*
 
 *   Build
 *   Current Offers
 
 **NX HYBRID**
 
-*   Starting at $40,0608\*
+*   Starting at $40,0602\*
 *   31-MPG COMBINED ESTIMATE9\*
 
 *   Build
@@ -195,16 +195,16 @@ COMPARE **UX HYBRID**
 
 **RX HYBRID**
 
-*   Starting at $46,8001\*
-*   30-MPG COMBINED RATING11\*
+*   Starting at $47,7202\*
+*   30-MPG COMBINED ESTIMATE12\*
 
 *   Build
 *   Current Offers
 
 **ES HYBRID**
 
-*   Starting at $41,8101\*
-*   44-MPG COMBINED RATING2\*
+*   Starting at $41,8102\*
+*   44-MPG COMBINED RATING3\*
 
 *   Build
 *   Current Offers
@@ -212,15 +212,15 @@ COMPARE **UX HYBRID**
 **LS HYBRID**
 
 *   Starting at $80,0101\*
-*   354 TOTAL SYSTEM HP3\*
+*   354 TOTAL SYSTEM HP4\*
 
 *   BUILD
 *   CURRENT OFFERS
 
 **LC HYBRID**
 
-*   Starting at $97,5108\*
-*   354 TOTAL SYSTEM HP3\*
+*   Starting at $97,5102\*
+*   354 TOTAL SYSTEM HP4\*
 
 *   Build
 *   Current Offers
@@ -230,7 +230,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 COMPARE **RC F**
 
 *   Starting at $64,9001\*
-*   472-HP3\* 5.0L V8
+*   472-HP4\* 5.0L V8
 
 *   Build
 *   Current Offers
@@ -238,31 +238,31 @@ COMPARE **RC F**
 **GS F**
 
 *   Starting at $85,0101\*
-*   467-HP3\* 5.0L V8
+*   467-HP4\* 5.0L V8
 
 *   Build
 *   Current Offers
 
 **LC**
 
-*   Starting at $92,9508\*
-*   471-HP3\* 5.0L V8
+*   Starting at $92,9502\*
+*   471-HP4\* 5.0L V8
 
 *   Build
 *   Current Offers
 
 **LC HYBRID**
 
-*   Starting at $97,5108\*
-*   354 TOTAL SYSTEM HP3\*
+*   Starting at $97,5102\*
+*   354 TOTAL SYSTEM HP4\*
 
 *   Build
 *   Current Offers
 
 **LC CONVERTIBLE**
 
-*   Starting at $101,0008\*
-*   471-HP3\* 5.0L V8
+*   Starting at $101,0002\*
+*   471-HP4\* 5.0L V8
 
 *   Build
 *   Current Offers
@@ -379,25 +379,27 @@ click here Important Info Important Info
 
 \[1\] MSRP excludes delivery, processing and handling fee of $1,025, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
 
-\[2\] 2019 EPA estimates. Actual mileage will vary.
+\[2\] MSRP excludes delivery, processing and handling fee of $1,025, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
 
-\[3\] Ratings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
+\[3\] Projected EPA-estimated MPG rating 43city/44hwy/44comb estimates for 2021 Lexus ES 300h determined by manufacturer. EPA estimates not available at time of publishing. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 
-\[4\] Specs for RWD model shown.
+\[4\] Ratings achieved using the required premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
 
-\[5\] Ratings achieved using premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
+\[5\] Specs for RWD model shown.
 
-\[6\] UX AWD system operates at speeds up to 43 mph.
+\[6\] Ratings achieved using premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
 
-\[7\] EPA-estimated 41city/38hwy/39comb MPG for 2020 Lexus UX 250h AWD. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
+\[7\] UX AWD system operates at speeds up to 43 mph.
 
-\[8\] MSRP excludes delivery, processing and handling fee of $1,025, which may be subject to change at any time. Excludes taxes, title, license and optional equipment. Dealer price will vary.
+\[8\] EPA-estimated 41city/38hwy/39comb MPG for 2020 Lexus UX 250h AWD. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 
 \[9\] EPA-estimated 33city/30hwy/31comb MPG for 2020 Lexus NX 300h (AWD). Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 
 \[10\] Seven-passenger second-row bench seating standard in the RX 350L, and six-passenger seating with second-row captain’s chairs available in the RX 350L and standard in the RX 450hL.
 
-\[11\] 2019 Lexus RX 450h (AWD) preliminary 31/city, 28/hwy, 30/comb mpg estimates determined by Lexus. EPA estimates not available at time of publishing. Actual mileage will vary. Image for illustrative purposes only.
+\[11\] EPA-estimated 31city/28hwy/30comb MPG for 2021 Lexus RX 450h. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
+
+\[12\] EPA-estimated 20city/27hwy/23comb MPG for 2021 Lexus RX 350. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 
 DO NOT SELL MY PERSONAL INFORMATION Leasing &. Finance
 
@@ -522,4 +524,4 @@ Chrome™ Notice for Safari® Users
 To ensure your experience on lexus.com is as exceptional as our vehicles, we no longer support safari® 8 and older. We do, however, support version 9.0+ and other browsers. to upgrade your current browser, click here. or to install a new one, select a link below.
 
 Firefox® Google  
-Chrome™
+Chrome™ Cookie ConsentWe use the following categories of cookies on our website:Required Functional CookiesRequired cookies are essential to provide you with core functionality during use of the website. These functions include e.g. Local Specials, Offers, Dealer Locator, etc. We also collect basic site usage analytics to optimize the experience for our visitors.Performance CookiesPerformance cookies collect information about how our website is used (e.g. number of visits, time spent on the site). These cookies allow us to serve more relevant content for an enhanced shopping experience.CancelSave
