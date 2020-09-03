@@ -32,9 +32,9 @@ This agreement sets out Canonical’s standard service terms for both Ubuntu Adv
 
 Want fully managed private cloud?
 
-Canonical provides managed services option for OpenStack. Our experts take responsibility for the design, deployment and operations
+Canonical provides a managed services option for OpenStack. Our experts take responsibility for the design, deployment and operations.
 
-Learn more ›
+Learn more ›
 
 Contact us
 
@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
-*   Spotting /tmp related vulnerabilities with TmpWatcher
-*   Snapcraft corner: Staying on track
-*   Kubernetes vs Docker
+*   Design and Web team summary – 2nd September 2020
+*   HP Z series on Ubuntu – AI development on enterprise workstations, now in your remote office
+*   Canonical at KubeCon EU 2020: our first virtual KubeCon experience
