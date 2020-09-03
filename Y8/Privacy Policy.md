@@ -1,37 +1,37 @@
-<div><img src="https://mc.yandex.ru/watch/45364173" style="position:absolute. left:-9999px;" alt="" /></div>. games videos New Games Next in  00:00
+games videos New Games Next in  15:14
 
-*   Newest Games Next addition in 00:00
+*   Newest Games Next addition in 15:14
 
 *   Best New Games Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 00:00
-*   Best of new games 1434 games
-*   Most Popular Games 21595 games
+*   New Games Next in 15:14
+*   Best of new games 1433 games
+*   Most Popular Games 21602 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,433 games
-*   Driving &. Racing 6,456 games
+*   For Girls 24,436 games
+*   Driving &. Racing 6,457 games
 *   Strategy &. RPG 3,651 games
 *   Management &. Sim 4,303 games
 *   Thinking 12,967 games
-*   Action &. Adventure 14,897 games
-*   Sports 3,386 games
+*   Action &. Adventure 14,900 games
+*   Sports 3,388 games
 *   Shooting 9,173 games
 *   Fighting 2,087 games
-*   Skill 11,695 games
-*   Arcade &. Classic 9,714 games
+*   Skill 11,706 games
+*   Arcade &. Classic 9,717 games
 *   Fun &. Crazy 5,010 games
 
 Play with friends  
 Powered by Y8 Account 148 Y8 Multiplayer Games 2,233 Y8 High Score Games 1,278 Y8 Achievements Games 910 Y8 Screenshots Games 1,731 Y8 Online Save Games 3,455 All Y8 Games Games Last Highscore:
 
-**4,400** points on Smilodon Rampage by jy7u
+**38,027** points on Military Wars 3D Multiplayer by T\_T
 
 Help us improve Bad translation? Social
 
@@ -292,4 +292,4 @@ Company
 
 Follow us
 
-We use cookies for advertising, content recommendations, and traffic measurement. By using this website, you consent to the Privacy Policy and Cookie Policy. Got it 92% Did you like “Park the Taxi” game? Yes No
+We use cookies for advertising, content recommendations, and traffic measurement. By using this website, you consent to the Privacy Policy and Cookie Policy. Got it 92% Did you like “Park the Taxi” game? Yes No <div><img src="https://mc.yandex.ru/watch/45364173" style="position:absolute. left:-9999px;" alt="" /></div>.
