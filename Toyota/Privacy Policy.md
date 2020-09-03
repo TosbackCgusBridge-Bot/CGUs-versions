@@ -26,7 +26,8 @@ Phone: 800-331-4331
 Fax: 310-468-7814
 
 M-F 7:00 a.m. - 7:00 p.m. CT  
-Sat. 7:00 a.m. - 4:30 p.m. CT
+Sat. 7:00 a.m. - 4:30 p.m. CT  
+CLOSED: Mon., Sept. 7th, 2020
 
 TTY/TDD Users: Dial 711, then request the operator dial 1-800-331-4331
 
@@ -348,6 +349,12 @@ Compare Toyota vs. the Competition
     
 *   2020 Toyota Tundra vs. Chevrolet Silverado  
     
+*   2020 Toyota Tundra vs. Ford F-150  
+    
+*   2020 Toyota Tundra vs. GMC Sierra  
+    
+*   2020 Toyota Sequoia vs. Nissan Armada  
+    
 *   2020 Toyota 4Runner vs. Nissan Pathfinder  
     
 *   2020 Toyota Avalon vs. Nissan Maxima  
@@ -478,6 +485,8 @@ Other Toyota Sites
 *   Toyota Racing  
     
 *   Toyota Rent a Car  
+    
+*   Toyota Insurance Management Solutions  
     
 *   Toyota Mobility  
     
@@ -1458,6 +1467,7 @@ Helpful Links
 *   Dealers
 *   Deals and Incentives
 *   Toyota Financial Services
+*   Toyota Insurance Management Solutions
 *   ToyotaCare
 *   Toyota Safety Sense™
 *   Audio Multimedia
@@ -1569,7 +1579,7 @@ The use of Olympic Marks, Terminology and Imagery is authorized by the U.S. Olym
 *   62\. EPA-estimated 30 city/38 hwy/33 combined mpg for 2021 Corolla Hatchback XSE CVT. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 *   63\. EPA-estimated 54 city/50 hwy/52 combined mpg for 2021 Prius LE, XLE, 2020 Edition and Limited. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 *   64\. MSRP includes the Delivery, Processing and Handling Fee. (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Toyota Delivery, Processing and Handling Fee is $955 for Passenger Cars, $1,120 for SUVs/Van/Small Trucks, $1,325 for Large SUVs and $1,595 for Large Trucks. Dealer price will vary.
-*   65\. Manufacturer's Suggested Retail Price excludes the Delivery, Processing and Handling Fee of $995 for Cars (86, Avalon, Camry, Camry HV, Corolla, Corolla HV, Corolla HB, Mirai, Prius, Prius Prime, Supra), $1,175 for Small/Medium Trucks, SUVs and Van (4Runner, C-HR, Highlander, Highlander HV, RAV4, RAV4 HV, RAV4 Prime, Sienna, Tacoma, Venza), $1,595 for Large Truck (Tundra), and $1,595 for Large SUVs (Land Cruiser, Sequoia). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The MSRP price is only valid in TX, OK, AR, MS, and LA. The published prices do not apply to Puerto Rico and the U.S. Virgin Islands. Actual dealer price will vary.
+*   65\. Manufacturer's Suggested Retail Price excludes the Delivery, Processing and Handling Fee of $1,045 for Cars (86, Avalon, Camry, Camry HV, Corolla, Corolla HV, Corolla HB, Mirai, Prius, Prius Prime, Supra, Yaris Hatchback, Yaris), $1,245 for Small/Medium Trucks, SUVs and Van (4Runner, C-HR, Highlander, Highlander HV, RAV4, RAV4 HV, RAV4 Prime, Sienna, Tacoma, Venza), $1,595 for Large Truck (Tundra), and $1,595 for Large SUVs (Sequoia and Land Cruiser). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The MSRP price is only valid in TX, OK, AR, MS, and LA. The published prices do not apply to Puerto Rico and the U.S. Virgin Islands. Actual dealer price will vary.
 *   66\. MSRP excludes the Delivery, Processing, and Handling Fee of $995 for Cars (86, Avalon, Avalon HV, Camry, Camry HV, Corolla, Corolla HV, Corolla HB, Mirai, Prius, Prius Prime, Supra), $1,175 for SUV/Van/Small Trucks (4Runner, C-HR, Highlander, Highlander HV, RAV4, RAV4 HV, RAV4 Prime, Sienna, Tacoma, Venza), $1,365 for Large SUVs (Land Cruiser, Sequoia), and $1,595 for Large Truck (Tundra). (Historically, vehicle manufacturers and distributors have charged a separate fee for processing, handling and delivering vehicles to dealerships. Toyota's charge for these services is called the "Delivery, Processing and Handling Fee" and is based on the value of the processing, handling and delivery services Toyota provides as well as Toyota's overall pricing structure and may be subject to change at any time. Toyota may make a profit on the Delivery, Processing and Handling Fee.) Excludes taxes, license, title and available or regionally required equipment. The Delivery, Processing and Handling Fee in AL, AR, FL, GA, LA, MS, NC, OK, SC and TX will be higher. The published prices do not apply to Puerto Rico and the U.S. Virgin Islands. Actual dealer price will vary.
 *   67\. 2021 projected EPA-estimated range rating estimates. EPA estimates not available at time of posting. Actual mileage will vary.
 *   68\. Projected EPA-estimated range rating 13 city/17 highway/14 combined estimates for 2021 Land Cruiser as determined by manufacturer. EPA estimates not available at time of posting. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
@@ -1578,5 +1588,7 @@ The use of Olympic Marks, Terminology and Imagery is authorized by the U.S. Olym
 *   71\. EPA-estimated 16 city/19 hwy/17 combined mpg for 2021 4Runner. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 *   72\. EPA-estimated 22 city/32 highway/26 combined mpg for 2021 Avalon XLE. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 *   73\. EPA-estimated 43 city/44 highway/44 combined mpg for 2021 Avalon Hybrid XLE. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
+*   74\. EPA-estimated 27 city/35 hwy/30 combined mpg for 2021 RAV4 LE FWD and Limited FWD. 27 city/34 hwy/30 combined mpg for 2021 RAV4 LE AWD. 28 city/35 hwy/30 combined mpg for 2021 RAV4 XLE FWD and XLE Premium FWD. 27 city/33 hwy/29 combined mpg for 2021 RAV4 XLE AWD and XLE Premium AWD. 25 city/33 hwy/28 combined mpg for 2021 RAV4 Adventure and Limited AWD. 25 city/32 hwy/28 combined mpg for 2021 RAV4 TRD Off-Road. and 41 city/38 hwy/40 combined mpg for 2021 RAV4 LE Hybrid, XLE Hybrid, XLE Premium Hybrid, XSE Hybrid and Limited Hybrid. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
+*   75\. 2021 EPA-estimated mileage. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive.
 
 Cookie ConsentWe use the following categories of cookies on our website:Required Functional CookiesRequired cookies are essential to provide you with core functionality during use of the website. These functions include e.g. Local Specials, Offers, Dealer Locator, etc. We also collect basic site usage analytics to optimize the experience for our visitors.Performance CookiesPerformance cookies collect information about how our website is used (e.g. number of visits, time spent on the site). These cookies allow us to serve more relevant content for an enhanced shopping experience.CancelSave
