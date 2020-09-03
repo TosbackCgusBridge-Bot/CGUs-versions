@@ -73,15 +73,16 @@ close
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Summer Entertaining
+    View All Categories Shop by Category*   Christmas Gifts
     
-    Occasions*   Birthday Gifts
+    Occasions*   Game Day
+    *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
     *   Retirement Gifts
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular Summer Entertaining Gifts for All Occasions
+    *   Care PackagesMost Popular Gifts for All Occasions
 *   Business Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
@@ -166,15 +167,16 @@ close
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Summer Entertaining
+    View All Categories Shop by Category*   Christmas Gifts
     
-    Occasions*   Birthday Gifts
+    Occasions*   Game Day
+    *   Birthday Gifts
     *   Thank You Gifts
     *   Congratulations
     *   Retirement Gifts
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular Summer Entertaining Gifts for All Occasions
+    *   Care PackagesMost Popular Gifts for All Occasions
 *   Business Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
