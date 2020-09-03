@@ -2,7 +2,7 @@ Toggle navigation
 
 *   For Users
     *   softonic.com
-    *   Solutions
+    *   binge.co
 *   Advertise With Us
     *   Making the difference
     *   softonic in numbers
