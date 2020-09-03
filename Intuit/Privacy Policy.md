@@ -1,16 +1,16 @@
 Our COVID-19 response Details  
-EXTRA 30% OFF $75 or more with code: BUYMORE4 Details  
+Last day! EXTRA 30% OFF $75+ with code: BUYMORE4 Details  
 EXTRA 25% OFF under $75 with code: BUYMORE4 Details  
-Window Flash Sale! EXTRA 40% OFF w/ code: WINDOW31 Shop All  
+Last day—Window Flash Sale! EXTRA 40% OFF w/ code: WINDOW31 Shop All  
 Free Shipping Over $49  DetailsOur COVID-19 response Details  
-EXTRA 30% OFF $75 or more with code: BUYMORE4 Details  
+Last day! EXTRA 30% OFF $75+ with code: BUYMORE4 Details  
 
 Enable Accessibility
 
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -44,15 +44,15 @@ Shop All**Protect yourself &. others!**$9 Face masks**select styles**
 Shop HairsprayShop Budget-Friendly Beauty fromSephora inside JCPenneyselect styles | Sephora excluded from coupons.WomenMenBaby &. KidsShoesJuniorsWindowWomen's CareerWomen's Dresses Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $17.99with code~$6 - $48~636
-*   Urban Shop Faux Fur Task Office Chair $81.90 - $86.40with code~$200~
 *   Home Expressions Tiles Complete Bedding Set with Sheets $37.49 - $55.99with code~$110 - $170~339
+*   Home Expressions Lisette Rod-Pocket Sheer Panel
+    
+    $4.99 - $27.99sale
+    
+    ~$16 - $40~1249
 *   Liz Claiborne Womens Split Crew Neck Short Sleeve Blouse $13.49with code~$30~
 *   JCPenney Home™ Ultima Bath Rug Collection $14.99 - $44.99with code~$34 - $90~713
-*   Levi's® Men's 550™ Relaxed Fit Jeans
-    
-    $35.70sale
-    
-    ~$59.50~1738
+*   Urban Shop Faux Fur Task Office Chair $81.90 - $86.40with code~$200~
 
 Shop and Save at JCPenney
 
