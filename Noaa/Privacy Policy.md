@@ -109,11 +109,13 @@ Stay connected Share to Twitter Share to Facebook NOAA on Instagram NOAA on YouT
 *   Information Quality
 *   Accessibility
 *   Guidance
+*   Budget &. Performance
 *   Disclaimer
+*   EEO
+*   No-Fear Act
 *   USA.gov
 *   Ready.gov
-*   EEO
 *   Employee Check-In
-*   Contact us
 *   Staff Directory
+*   Contact us
 *   Need help?
