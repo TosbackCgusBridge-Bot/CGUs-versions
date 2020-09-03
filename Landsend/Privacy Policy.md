@@ -30,6 +30,8 @@ Lands' End let's get comfy™ Sign In menu
 
 Receive up to 40% off full-price styles. up to 75% sale &. clearance styles!
 
+Only 0 HR 14 MIN 29 SEC Left!
+
 code: AUTUMN pin: PROMOTION DETAILS
 
 Customer Service Menu
