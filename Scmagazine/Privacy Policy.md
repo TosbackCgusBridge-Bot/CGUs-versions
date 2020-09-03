@@ -245,23 +245,23 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   Companies left dangling until US, EU hash out data protection differences
-    *   Lessons from Uber: Be crystal clear on the law and your bug bounty policies
-    *   SC Product Reviews: Unified Threat Management
-    *   NYSE not susceptible to takedown like New Zealand exchange
+    *   Tesla employee rejected a $1 million bribe to install malware
     *   DHS and FBI warn of North Korean malware targeted at defense contractors
-    
-    *   Apple OS developer supply chain threatened by 'clever' malware attack
+    *   Why we need a federal data privacy law – and how CCPA sets the pace
+    *   Trump's agenda promises 'great cybersecurity.' What does that mean?
     *   Lessons from 15 years of bug bounties
-    *   1,200 iOS apps unknowingly handing over dollars to Chinese ad platform
-    *   Fancy Bear imposters extort finance, retail on DDoS threat
-    *   ID theft protection for employees can boost productivity, worker loyalty
     
+    *   Enlist the security community to safeguard our elections this fall
+    *   Box security chief: Define your boundaries of trust
+    *   Five tips for managing information security in the post-COVID world
+    *   New DevSecOps study highlights need to address AppSec throughout the SDLC
+    *   G Suite flaw mitigated after disclosure, but Google Drive still vulnerable
+    
+    *   Socioeconomic status and cyber: the new 'digital divide'
     *   Attackers could exploit flaws in MAGMI Magento plugin to hijack admin sessions
     *   Slack users unwittingly phished with malicious payloads
     *   Apple notarization process, meant to protect, approved Shlayer malware
     *   How, and when, to hand down consequences to employees for breaching security policy
-    *   NYSE not susceptible to takedown like New Zealand exchange
 
 Back to Top
 
