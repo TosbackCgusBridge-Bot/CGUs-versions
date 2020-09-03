@@ -62,8 +62,8 @@ View more results
     *   Pixel Gun Apocalypse 3
     *   AZ
     *   Mr. Bullet
-    *   Goodgame Gangster
     *   Army Force Strike
+    *   Goodgame Gangster
 *   Adventure
     
     Top Categories
@@ -143,10 +143,10 @@ View more results
     *   BFFs Dressing Room
     *   Pizza Real Life Cooking
     *   How To Become Popular at School with Princess
-    *   Princess Hard Times
     *   Cake Design
-    *   Mommy BFFs: Pregnant Check-Up
+    *   Princess Hard Times
     *   Mermaid Sauna Flirting
+    *   Mommy BFFs: Pregnant Check-Up
     *   Goldie: Lip Injections
     *   Bad Teeth Makeover
     *   Sweetland Salon
@@ -170,12 +170,12 @@ View more results
     *   Hill Racing Challenge
     *   Moto X3M: Motorcycle Racing Game
     *   Drag Racing Rivals
-    *   Xcross Madness
     *   Madalin Cars Multiplayer
+    *   Xcross Madness
     *   Maximum Acceleration
     *   Cars 3D
-    *   City Car Stunts 2
     *   Road Crash
+    *   City Car Stunts 2
     *   Off-Roader V6
     *   Moto X3m 2
     *   Two Punk Racing
