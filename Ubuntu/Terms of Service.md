@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Tutorial: Getting Started with ROS
 *   Design and Web team summary – 2nd September 2020
 *   HP Z series on Ubuntu – AI development on enterprise workstations, now in your remote office
-*   Canonical at KubeCon EU 2020: our first virtual KubeCon experience
