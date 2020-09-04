@@ -245,23 +245,23 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   Tesla employee rejected a $1 million bribe to install malware
-    *   DHS and FBI warn of North Korean malware targeted at defense contractors
-    *   Why we need a federal data privacy law – and how CCPA sets the pace
-    *   Trump's agenda promises 'great cybersecurity.' What does that mean?
-    *   Lessons from 15 years of bug bounties
+    *   What security pros can learn from space travel
+    *   Expect rapid growth in BEC scams to continue, despite global crackdown
+    *   Australia the latest to push digital sovereignty, shake up cyber world order
+    *   Homeland Security announces 5G strategy to manage the pending digital overhaul
+    *   Hackers hijack design platform to go phishing
     
-    *   Enlist the security community to safeguard our elections this fall
-    *   Box security chief: Define your boundaries of trust
-    *   Five tips for managing information security in the post-COVID world
-    *   New DevSecOps study highlights need to address AppSec throughout the SDLC
+    *   Apple OS developer supply chain threatened by 'clever' malware attack
+    *   Threat hunters watch as Chinese hackers forage forums for tools
+    *   How to cybersecurity: Pain in the \*AST
+    *   Hackers hijack design platform to go phishing
     *   G Suite flaw mitigated after disclosure, but Google Drive still vulnerable
     
+    *   How to use cybersecurity to accelerate growth
     *   Socioeconomic status and cyber: the new 'digital divide'
     *   Attackers could exploit flaws in MAGMI Magento plugin to hijack admin sessions
     *   Slack users unwittingly phished with malicious payloads
     *   Apple notarization process, meant to protect, approved Shlayer malware
-    *   How, and when, to hand down consequences to employees for breaching security policy
 
 Back to Top
 
