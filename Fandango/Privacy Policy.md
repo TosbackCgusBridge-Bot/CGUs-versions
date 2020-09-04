@@ -471,19 +471,19 @@ Offers
 
 New + Coming soon
 
-*   Unhinged (2020)
-    
-*   Words on Bathroom Walls
+*   Tenet
     
 *   The New Mutants
     
-*   Tenet
-    
-*   The Personal History of David Copperfield
+*   The Broken Hearts Gallery
     
 *   Antebellum
     
-*   The Invisible Man (2020)
+*   Unhinged (2020)
+    
+*   The Personal History of David Copperfield
+    
+*   Words on Bathroom Walls
     
 *   Trolls World Tour (2020)
     
