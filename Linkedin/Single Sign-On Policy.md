@@ -35,12 +35,12 @@ To disconnect and remove data sharing permissions from your LinkedIn account:
 
 1.  Click the _Me_ icon at the top of your LinkedIn homepage.
 2.  Select _Settings &. Privacy_ from the dropdown.
-3.  Under the _Partners and services_ section of the _Account_ tab, click _Change_ next to _Microsoft_.
+3.  Under the _Partners and services_ in the _Account preferences_ section, click _Change_ next to _Microsoft_.
 4.  Click _Remove_ next to _Connect with your personal Microsoft Account_.
 
 To disconnect and remove data sharing permissions from your Microsoft personal account:
 
-1.  Navigate to https://accounts.microsoft.com and sign in to your Microsoft account.
+1.  Navigate to https://accounts.microsoft.com and sign into your Microsoft account.
 2.  Click _Privacy_.
 3.  Under _Other privacy settings_, click _Apps and services that can access your data_.
 4.  Click _LinkedIn_.
@@ -54,7 +54,7 @@ _Note:_ If your LinkedIn settings allow it, your public profile will still be 
 
 Check out more information about LinkedIn features in Microsoft apps and services or contact Microsoft support by visiting the Microsoft Help Center.
 
-Last updated: June 20, 2018
+Last updated: 1 day ago
 
 Was this answer helpful?YesNo
 
