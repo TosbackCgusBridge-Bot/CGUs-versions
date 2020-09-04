@@ -125,7 +125,7 @@ Play video: Stormfront Is Joining the Seven in Season 2 of “The Boys” Close 
 
 Liven up those video calls with these PlayStation-themed backgrounds from some of your favorite games:  http://play.st/3lBRkic  pic.twitter.com/UGLs9tAxqb
 
-2 days ago View Tweet Instagram Post CESprIMhgdx
+3 days ago View Tweet Instagram Post CESprIMhgdx
 
 Imagination in Motion
 
@@ -281,7 +281,7 @@ Other Sites
 *   Sony Pictures
 *   Sony Music
 *   Sony Mobile
-*   Sony Square NYC
+*   B2B Premium Incentive
 
 United States
 
