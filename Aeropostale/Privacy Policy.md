@@ -401,19 +401,21 @@ More Inclusive Future. Learn More
 
 Next
 
-SUMMER SALE!
+SUMMER BLOWOUT
 
-Tops &. Shorts
+EXTENDED!
 
-Summerbusters
+In Stores &. Online
 
-$5.87 &. Up
+EXTRA 15% OFF
 
-Summerbusters $5.87 &. Up
+$80 or more Including Tops &. Shorts Summerbusters $5.87 &. Up
 
-Excludes Clearance
+Online Code: **LNGWKND**
 
-Girls Summerbusters Guys Summerbusters Shop Girls Shop Guys
+In Store Code: **50046055**
+
+Girls Summerbusters Guys Summerbusters Shop Girls Shop Guys Store Locator
 
 AERO JEANS
 
