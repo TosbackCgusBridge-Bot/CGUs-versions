@@ -48,7 +48,7 @@ fraud events fasterTogether, we can
 identify and resolve  
 fraud events fasterTrending topic
 
-Take these four steps now to help avoid identity theft
+See why you should never share your access codes – with anyone.
 
 Read more about this topicYour security is our top priorityKnow fraud when you see it
 
