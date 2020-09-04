@@ -50,7 +50,7 @@ Visit Indeed
 
 **Privacy Policy**
 
-Last updated September 2, 2020
+Last updated September 3, 2020
 
 **Summary of Indeed’s Privacy Policy** **1\. Introduction**
 
@@ -327,7 +327,7 @@ Public resumes may be available to anyone with access to Indeed’s resume searc
 
 If you post a public resume, this may be crawled by, and displayed through search engines when someone searches for your name. This means that third parties can view the Personal Data contained in your resume and you may receive unsolicited contact from parties unaffiliated with Indeed and for whom Indeed has no responsibility. If you post a public resume on Indeed, please note that although Indeed expressly prohibits the scraping of its Site any resume you post publicly is public information and the content may be copied by a third party in violation of these terms.
 
-For public resumes, you also authorize Indeed to remove your name and contact information from your public resume, in certain instances. Indeed may also change the display of your resume from public to private in certain instances to maintain the quality of the resume database.
+For public resumes, you also authorize Indeed to remove your name and contact information from your public resume, in certain instances. Indeed may also change the display of your resume from public to private in certain instances to maintain the quality of the resume database. If you upload a file as your resume and set it to public, Indeed may make only some information from this file available to Employers until you respond to them, at which point they will have the option to view the file you uploaded.
 
 If you have a public resume, Indeed may use information from your resume to auto-fill all or parts of a form or application. For example, if you use Indeed Chat, your name from your resume may appear in the messages.
 
