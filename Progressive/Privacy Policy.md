@@ -237,13 +237,13 @@ Personal
 *   Vision
 *   Wedding &. Event
 
-View all products
+View all products›
 
 Ways to Save
 
-*   Save with Snapshot
-*   Name Your Price® Tool
-*   Compare Auto Rates
+*   Save with Snapshot›
+*   Name Your Price® Tool›
+*   Compare Auto Rates›
 
 Claims
 
@@ -273,31 +273,31 @@ About Progressive
 
 Whether you’re looking for a new career or simply want to learn more about Progressive, you can find all the information you need to get started here.
 
-Who We Are
+Who We Are›
 
 Get to know our culture and people
 
-Investors
+Investors›
 
 Learn about our goals and how we achieve them
 
-Corporate Responsibility
+Corporate Responsibility›
 
 Discover how we live our core values within our communities
 
-Local Agents
+Local Agents›
 
 Find an agent near you
 
-Newsroom
+Newsroom›
 
 See what we’re up to, as well as what we’ve accomplished
 
-Progressive Art Collection
+Progressive Art Collection›
 
 Tour our art installations, collection highlights, and more
 
-Careers
+Careers›
 
 Learn about our teams, apply for a job, and more
 
@@ -310,9 +310,9 @@ Progressive Answers
 
 Insurance doesn’t have to be complicated. Here you’ll find easy explanations for all of your questions about coverages, pricing, and more.
 
-*   Car insurance deductibles explained
-*   Covering your jewelry &. engagement rings
-*   The average auto insurance price
+*   Car insurance deductibles explained›
+*   Covering your jewelry &. engagement rings›
+*   The average auto insurance price›
 
 See all topics Close Menu
 
