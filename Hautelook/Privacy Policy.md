@@ -9,9 +9,24 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Limited-Time Price Drops Up to 70% Off
+    *   SLIP For Beauty Sleep Up to 50% Off
+    *   Best Brands Up to 85% Off ft. FRANK &. EILEEN
+    *   Live-In Lingerie ft. Jessica Simpson Under $35
+    *   Tops Under $25 Incl. Plus
+    *   Pants &. More Up to 65% Off Incl. Plus
+    *   Bonobos Up to 60% Off
+    *   Face Mask Sets Starting at $15
+    *   Hats Under $40 ft. Vans
+    *   KORKS &. Kork-Ease Up to 75% Off
+    *   Elodie &. More
+    *   Dr. Scholl's Men Up to 60% Off
+    *   Men's Boots Up to 70% Off
+    *   Pumps Under $40
+    *   Top Toys Under $20
+    *   Back to School: Kids' Shoes Starting at $15
     *   Ted Baker Men Up to 65% Off
     *   Ted Baker London Up to 65% Off
+    
     *   Ted Baker London Accessories Up to 60% Off
     *   Ted Baker London Home at 60% Off
     *   Fall Faves: Plaid &. More Up to 65% Off
@@ -25,51 +40,41 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Women's Sandals Under $20
     *   Shiseido Must-Haves Up To 50% off
     *   Blankets at 60% Off
-    *   Designer Shop Up to 70% Off
     *   Fine Jewelry ft EF Collection
-    
     *   Men's Designer Shoes Up to 70% Off
-    *   Sunglasses ft Miu Miu
     *   Designer Styles ft. Roberto Cavalli &. Helmut Lang
     *   Designer Watches Starting at $100
-    *   Tees &. More Up to 65% Off Incl. Plus
-    *   Must Have Styles Under $20 Incl. Plus
-    *   Feminine Dresses From Adelyn Rae &. More
-    *   Summer Bralettes We Love Starting at $10
+    
     *   Graphic Tees Starting at $15
-    *   Women's Sneakers Under $40
     *   Kids' Kickoff to Fall ft. Urban Republic
     *   Kids' Kickoff to Fall ft. Boots &. More
     *   Designer Shoes Up to 65% Off
     *   Haircare Under $30
     *   Travis Mathew Up to 55% Off
-    *   Forever Creations Jewelry
     *   Apollo Beach Towels
     *   Comfort Shoes for Him
-    
-    *   Cozy Slippers ft. BEARPAW
-    *   Pajama Party: Kids' Sleepwear &. More
-    *   Men's Shoes Under $100
-    *   Levi's Up to 65% Off
-    *   Womens Fragrance's Starting at $10
     *   Utility Bedding Starting at $20
     *   Flora Bunda Planters
     *   Decorative Throws at 80% Off
     *   Free Shipping: Wall Art at 70% Off
-    *   Free Shipping: Trash Cans
     *   Pillows &. Bedding Starting at $15
-    *   On Trend Dresses Up to 70% Off Incl. Plus
-    *   On Trend Tops Up to 70% Off Incl. Plus
-    *   Skirts Up to 75% Off Incl. Plus
-    *   Lazy Day Faves: Sleep &. Loungewear
     *   Men's Active Starting at $15
-    *   Journals &. Planners Starting at $15
-    *   Steamers &. Mops at 60% Off
+    *   Free Shipping: Trash Cans
 *   WomenShop Sale Events
     
-    *   Limited-Time Price Drops Up to 70% Off
+    *   SLIP For Beauty Sleep Up to 50% Off
+    *   Best Brands Up to 85% Off ft. FRANK &. EILEEN
+    *   Live-In Lingerie ft. Jessica Simpson Under $35
+    *   Tops Under $25 Incl. Plus
+    *   Pants &. More Up to 65% Off Incl. Plus
+    *   Face Mask Sets Starting at $15
+    *   Hats Under $40 ft. Vans
+    *   KORKS &. Kork-Ease Up to 75% Off
+    *   Elodie &. More
+    *   Pumps Under $40
     *   Ted Baker London Up to 65% Off
     *   Ted Baker London Accessories Up to 60% Off
+    
     *   Fall Faves: Plaid &. More Up to 65% Off
     *   Ted Baker London Shoes Up to 60% Off
     *   Donna Karen Outerwear &. More Up to 70% Off
@@ -78,45 +83,34 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Slip on Sneakers Up to 60% Off
     *   Women's Sandals Under $20
     *   Shiseido Must-Haves Up To 50% off
-    *   Designer Shop Up to 70% Off
     *   Fine Jewelry ft EF Collection
-    *   Sunglasses ft Miu Miu
-    
-    *   Tees &. More Up to 65% Off Incl. Plus
-    *   Must Have Styles Under $20 Incl. Plus
-    *   Feminine Dresses From Adelyn Rae &. More
-    *   Summer Bralettes We Love Starting at $10
-    *   Women's Sneakers Under $40
     *   Designer Shoes Up to 65% Off
     *   Haircare Under $30
-    *   Forever Creations Jewelry
-    *   Womens Fragrance's Starting at $10
-    *   On Trend Dresses Up to 70% Off Incl. Plus
-    *   On Trend Tops Up to 70% Off Incl. Plus
-    *   Skirts Up to 75% Off Incl. Plus
-    *   Lazy Day Faves: Sleep &. Loungewear
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie &. Shapewear
     *   Jewelry
-    *   Handbags
+    *   Lingerie &. Shapewear
     *   Accessories
     *   Watches
+    *   Handbags
 *   MenShop Sale Events
     
+    *   Bonobos Up to 60% Off
+    *   Face Mask Sets Starting at $15
+    *   Hats Under $40 ft. Vans
+    *   Dr. Scholl's Men Up to 60% Off
+    *   Men's Boots Up to 70% Off
     *   Ted Baker Men Up to 65% Off
     *   Ted Baker Men's Shoes Up to 60% Off
+    
     *   Men's Designer Shoes Up to 70% Off
     *   Designer Styles ft. Roberto Cavalli &. Helmut Lang
     *   Designer Watches Starting at $100
     *   Graphic Tees Starting at $15
-    
     *   Travis Mathew Up to 55% Off
     *   Comfort Shoes for Him
-    *   Men's Shoes Under $100
-    *   Levi's Up to 65% Off
     *   Men's Active Starting at $15
     
     Shop By Category
@@ -126,19 +120,19 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Watches
 *   KidsShop Sale Events
     
+    *   Top Toys Under $20
+    *   Back to School: Kids' Shoes Starting at $15
     *   Girls' Dresses Up to 65% Off
     *   Kids' Kickoff to Fall ft. Urban Republic
     *   Kids' Kickoff to Fall ft. Boots &. More
-    *   Cozy Slippers ft. BEARPAW
-    *   Pajama Party: Kids' Sleepwear &. More
     
     Shop By Category
     *   Girls
     *   Girls' Shoes
-    *   Boys
-    *   Baby
-    *   Boys' Shoes
     *   Toys
+    *   Boys' Shoes
+    *   Baby
+    *   Boys
 *   HomeShop Sale Events
     
     *   Ted Baker London Home at 60% Off
@@ -147,36 +141,30 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Utility Bedding Starting at $20
     *   Flora Bunda Planters
     *   Decorative Throws at 80% Off
-    
     *   Free Shipping: Wall Art at 70% Off
-    *   Free Shipping: Trash Cans
     *   Pillows &. Bedding Starting at $15
-    *   Journals &. Planners Starting at $15
-    *   Steamers &. Mops at 60% Off
+    *   Free Shipping: Trash Cans
     
     Shop By Category
     *   Home Decor
     *   Bedding
     *   Outdoor Living
     *   Bath
-    *   Cleaning &. Organization
     *   Rugs &. Doormats
     *   Holiday Decorations
-    *   Luggage &. Travel
+    *   Cleaning &. Organization
     *   Kitchen &. Tabletop
     *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
+    *   SLIP For Beauty Sleep Up to 50% Off
     *   Shiseido Must-Haves Up To 50% off
     *   Haircare Under $30
-    *   Womens Fragrance's Starting at $10
     
     Shop By Category
-    *   Fragrance
     *   Hair Care
-    *   Skin Care
     *   Makeup
-    *   Bath &. Body
+    *   Skin Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
@@ -355,8 +343,8 @@ Connect With Us:FacebookTwitterPinterestInstagramYouTubeDownload our Apps:iPhone
 *   The Nordy Club
 *   Big Brothers Big Sisters
 *   Donate Clothes
-*   Pride Shop
-*   See You Tomorrow: A Resale Shop
+*   Diversity, Inclusion &. Belonging
+*   Corporate Social Responsibility
 *   Gift Cards
 
 *   Member Care
@@ -380,4 +368,4 @@ Get a $20 giftcard each time a friend you invite makes their first purchase. Lim
 
 Or you can use your personal referral link to invite
 
-Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs. excluded.Temporary Extended Returns in Response to COVID-19For all items purchased between 2/1/20 and 6/17/20, we will accept returns through 8/1/20. Purchases made after 6/17/20 will be subject to our standard 45-day return policy.Return to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailUse our self-service Returns page to get started and return your item.Start Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
+Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs. excluded.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailUse our self-service Returns page to get started and return your item.Start Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
