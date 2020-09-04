@@ -203,16 +203,16 @@ Menu
     *   Main menu
     *   Insight
     *   All topics
-    *   Asia (opens in new window)
-    *   Digital and innovation (opens in new window)
-    *   Economic insight (opens in new window)
-    *   Enterprise (opens in new window)
-    *   Future of work (opens in new window)
-    *   Green finance (opens in new window)
-    *   Making banking safer (opens in new window)
-    *   Personal finance (opens in new window)
-    *   Sustainability (opens in new window)
-    *   Trade and investment (opens in new window)Digital and innovation Perspectives on the future of banking Close Navigation
+    *   Asia
+    *   Digital and innovation
+    *   Economic insight
+    *   Enterprise
+    *   Future of work
+    *   Green finance
+    *   Making banking safer
+    *   Personal finance
+    *   Sustainability
+    *   Trade and investmentDigital and innovation Perspectives on the future of banking Close Navigation
 *   Online banking
 *   Contact
 
@@ -530,5 +530,3 @@ If you’d like to accept all optional cookies, select ‘Accept all cookies’.
 To learn more about how we use cookies, visit our Cookie notice.
 
 Accept all cookiesManage cookie settings
-
-Notification appeared: Cookies on this website
