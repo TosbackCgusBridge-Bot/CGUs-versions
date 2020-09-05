@@ -1,37 +1,37 @@
-games videos New Games Next in  00:00
+games videos New Games Next in  16:24
 
-*   Newest Games Next addition in 00:00
+*   Newest Games Next addition in 16:24
 
 *   Best New Games Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 00:00
-*   Best of new games 1434 games
-*   Most Popular Games 21609 games
+*   New Games Next in 16:24
+*   Best of new games 1432 games
+*   Most Popular Games 21617 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,439 games
+*   For Girls 24,436 games
 *   Driving &. Racing 6,459 games
-*   Strategy &. RPG 3,651 games
-*   Management &. Sim 4,303 games
-*   Thinking 12,972 games
-*   Action &. Adventure 14,902 games
-*   Sports 3,388 games
-*   Shooting 9,174 games
+*   Strategy &. RPG 3,652 games
+*   Management &. Sim 4,304 games
+*   Thinking 12,973 games
+*   Action &. Adventure 14,907 games
+*   Sports 3,390 games
+*   Shooting 9,177 games
 *   Fighting 2,087 games
-*   Skill 11,710 games
-*   Arcade &. Classic 9,723 games
+*   Skill 11,713 games
+*   Arcade &. Classic 9,731 games
 *   Fun &. Crazy 5,010 games
 
 Play with friends  
-Powered by Y8 Account 148 Y8 Multiplayer Games 2,235 Y8 High Score Games 1,281 Y8 Achievements Games 911 Y8 Screenshots Games 1,734 Y8 Online Save Games 3,458 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 149 Y8 Multiplayer Games 2,235 Y8 High Score Games 1,281 Y8 Achievements Games 911 Y8 Screenshots Games 1,734 Y8 Online Save Games 3,459 All Y8 Games Games Last Highscore:
 
-**1,669,837** points on Hide Online by Zoe
+**7** points on Total Tankage by ALZ3eem
 
 Help us improve Bad translation? Social
 
@@ -292,4 +292,4 @@ Company
 
 Follow us
 
-We use cookies for advertising, content recommendations, and traffic measurement. By using this website, you consent to the Privacy Policy and Cookie Policy. Got it 92% Did you like “Park the Taxi” game? Yes No <div><img src="https://mc.yandex.ru/watch/45364173" style="position:absolute. left:-9999px;" alt="" /></div>.
+We use cookies for advertising, content recommendations, and traffic measurement. By using this website, you consent to the Privacy Policy and Cookie Policy. Got it <div><img src="https://mc.yandex.ru/watch/45364173" style="position:absolute. left:-9999px;" alt="" /></div>.
