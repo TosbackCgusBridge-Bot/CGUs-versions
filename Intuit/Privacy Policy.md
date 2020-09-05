@@ -23,11 +23,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-BeddingBring in a pop of print to the bedroom.WindowAdd some dimension with floor-length curtains.RugsSpruce up the floors with a statement rug.Kitchen &. DiningTreat yourself to chef-worthy cookware. Time for a closet refresh!**Starting at $5.99 select styles**Tops For HerPants For HerShirts For HimPants For HimJuniorsYoung MenKidsBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationWomen's a.n.aMen's St. John's BayGirls' ArizonaBoys' Arizona25% OFF adidas &. Champion for the kiddos!select styles | Excluded from coupons. Boys' adidas apparelGirls' adidas apparelBoys' Champion apparelGirls' Champion apparel**Protect yourself &. others!**$9 Face masks**select styles**
-
-*   Shop All
-
-35-60% OFF Fine Jewelry+ EXTRA 35% OFF\* with **JCPenney Credit Card** &. coupon or code: **4JEWELS**  
+BeddingBring in a pop of print to the bedroom.WindowAdd some dimension with floor-length curtains.RugsSpruce up the floors with a statement rug.Kitchen &. DiningTreat yourself to chef-worthy cookware. Time for a closet refresh!**Starting at $5.99 select styles**Tops For HerPants For HerShirts For HimPants For Him35-60% OFF Fine Jewelry+ EXTRA 35% OFF\* with **JCPenney Credit Card** &. coupon or code: **4JEWELS**  
 select styles\*Exclusions, details &. coupon
 
 *   Shop All
@@ -41,32 +37,22 @@ select styles\*Exclusions, details &. coupon
 *   Modern Bride Jewelry
     
 
-Shop AllWomen's DressesWomen's CareerJuniorsWindowWomenMenBaby &. KidsShoes
+Shop AllJuniorsYoung MenKidsBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationWomen's a.n.aMen's St. John's BayGirls' ArizonaBoys' Arizona25% OFF adidas &. Champion for the kiddos!select styles | Excluded from coupons. Boys' adidas apparelGirls' adidas apparelBoys' Champion apparelGirls' Champion apparel**Protect yourself &. others!**$9 Face masks**select styles**
+
+*   Shop All
+
+Women's DressesWomen's CareerJuniorsWindowWomenMenBaby &. KidsShoes
 
 \*Buy one item at regular price, get the second item of equal or lesser value for either 50% off or free, as advertised in the specific offer. Some items must be same category of merchandise or same gender. See store associate or jcp.com for details.
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Home Expressions Lisette Rod-Pocket Sheer Panel
-    
-    $4.99 - $27.99sale
-    
-    ~$16 - $40~1249
+*   St. John's Bay-Womens V Neck Short Sleeve T-Shirt $4.49with code~$14~74
+*   JCPenney Home™ Ultima Bath Rug Collection $14.99 - $44.99with code~$34 - $90~713
+*   Skeleton Family Womens Pant Pajama Set 2-pc. Long Sleeve $18.74with code~$44~
+*   Liz Claiborne Womens 2-pc. Capri Pajama Set Short Sleeve Crew Neck $17.85with code~$34~
 *   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $26.24 - $47.24with code~$50 - $90~230
-*   Home Expressions Tiles Complete Bedding Set with Sheets $37.49 - $55.99with code~$110 - $170~340
-*   Bali Comfort Revolution® Easylite Seamless Wireless Full Coverage Bra-Df3491
-    
-    BUY 1 GET 1 50% OFF
-    
-    $44
-    
-    295
-*   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745 $18.74with code~$36~1783
-*   JCPenney Home™ Ultima Bath Rug Collection
-    
-    $6.59 - $59.99sale
-    
-    ~$22 - $90~713
+*   Be Yourself Womens 2-pc. Capri Pajama Set Short Sleeve Round Neck $17.85with code~$34~3
 
 Shop and Save at JCPenney
 
