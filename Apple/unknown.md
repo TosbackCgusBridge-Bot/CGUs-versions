@@ -40,25 +40,8 @@ Date Range Date Range
     
     View Financial Identifier Requests
     
-    Financial Identifier Requests - Worldwide Report Period
+    Financial Identifier Requests by Year - Worldwide
     
-    H1 represents January 1 through June 30.
-    
-    H2 represents July 1 through December 31.
-    
-    Requests Received
-    
-    The number of financial identifier-based requests received worldwide from government agencies seeking customer data related to specific financial identifiers, such as credit card or gift card number. Financial identifier-based requests can be in various formats such as subpoenas, court orders, warrants, or other valid legal requests.
-    
-    Requests where Data Provided
-    
-    The number of financial identifier-based requests received worldwide that resulted in Apple providing data, such as transaction details, in response to a valid legal request.
-    
-    Percentage of Requests where Data Provided
-    
-    The percentage of financial identifier-based requests received worldwide that resulted in Apple providing data. We calculate this based on the number of financial identifier-based requests worldwide that resulted in Apple providing data, compared to the total number of financial identifier-based requests Apple received worldwide.
-    
-    Report Period Requests Received Requests where Data Provided Percentage of Requests where Data Provided 2019 H1 4,664 3,432 74% 2018 H2 4,626 3,547 77% 2018 H1 3,973 3,185 80% 2017 H2 3,101 2,636 85% 2017 H1 2,690 2,182 81% 2016 H2 2,392 1,821 76% 2016 H1 -Not Applicable -Not Applicable -Not Applicable 2015 H2 -Not Applicable -Not Applicable -Not Applicable 2015 H1 -Not Applicable -Not Applicable -Not Applicable 2014 H2 -Not Applicable -Not Applicable -Not Applicable 2014 H1 -Not Applicable -Not Applicable -Not Applicable 2013 H2 -Not Applicable -Not Applicable -Not Applicable 2013 H1 -Not Applicable -Not Applicable -Not Applicable
 *   Account
     
     Account requests are based on account identifiers such as an Apple ID or email address.  
@@ -79,13 +62,7 @@ Date Range Date Range
     
     View Account Preservation Requests
     
-    Account Preservation Requests - Worldwide Report Period
-    
-    H1 represents January 1 through June 30.
-    
-    H2 represents July 1 through December 31.
-    
-    Requests Received
+    Account Preservation Requests by Year - Worldwide Requests Received
     
     The number of account preservation requests received worldwide from government agencies.
     
@@ -93,7 +70,7 @@ Date Range Date Range
     
     The number of accounts that resulted in Apple preserving data in response to account preservation requests received worldwide.
     
-    Report Period Requests Received Accounts where Data Preserved 2019 H1 2,616 4,749 2018 H2 1,823 3,963 2018 H1 1,579 2,802 2017 H2 1,214 1,852 2017 H1 1,108 1,648 2016 H2 801 1,096 2016 H1 -Not Applicable -Not Applicable 2015 H2 -Not Applicable -Not Applicable 2015 H1 -Not Applicable -Not Applicable 2014 H2 -Not Applicable -Not Applicable 2014 H1 -Not Applicable -Not Applicable 2013 H2 -Not Applicable -Not Applicable 2013 H1 -Not Applicable -Not Applicable
+    Year Requests Received Accounts where Data Preserved 2019 5,383 10,077 2018 3,402 6,765 2017 2,322 3,500 2016 -Not Applicable -Not Applicable 2015 -Not Applicable -Not Applicable 2014 -Not Applicable -Not Applicable 2013 -Not Applicable -Not Applicable
 *   Account Restriction/Deletion
     
     Account Restriction/Deletion requests ask Apple to restrict or delete a customer’s account, for example, law enforcement determines an account was used unlawfully and obtains a court order to restrict or delete the account.
@@ -104,25 +81,8 @@ Date Range Date Range
     
     View Account Restriction/Deletion Requests
     
-    Account Restriction/Deletion Requests - Worldwide Report Period
+    Account Restriction/Deletion Requests by Year - Worldwide
     
-    H1 represents January 1 through June 30.
-    
-    H2 represents July 1 through December 31.
-    
-    Requests Received
-    
-    The number of requests received worldwide from government agencies seeking to restrict or delete a customer’s Apple account.
-    
-    Requests where Account Restricted
-    
-    The number of account restriction requests received worldwide where Apple determined the request and order sufficiently demonstrated the account to be restricted was used unlawfully and we proceeded with the requested restriction.
-    
-    Requests where Account Deleted
-    
-    The number of account deletion requests received worldwide where Apple determined the request and order sufficiently demonstrated the account to be deleted was used unlawfully and we deleted the Apple account.
-    
-    Report Period Requests Received Requests where Account Restricted Requests where Account Deleted 2019 H1 12 8 3 2018 H2 15 2 2 2018 H1 5 3 2 2017 H2 7 7 0 2017 H1 14 14 0 2016 H2 14 1 5 2016 H1 3 - 3 2015 H2 3 - 3 2015 H1 1 - 0 2014 H2 2 - 0 2014 H1 -Not Applicable -Not Applicable -Not Applicable 2013 H2 -Not Applicable -Not Applicable -Not Applicable 2013 H1 -Not Applicable -Not Applicable -Not Applicable
 *   Emergency
     
     Emergency requests relate to circumstances involving imminent danger of death or serious physical injury to any person, and generally seek information regarding customers’ connections to Apple services - for example, instances where law enforcement believe a person is missing and in danger.  
@@ -169,7 +129,7 @@ Date Range Date Range
     
     The number of accounts where Apple provided data in response to United States National Security requests. We count the number of accounts where we provide data and report the total number of accounts affected within bands/ranges permissible by law. Reporting the number of users/accounts affected for the most current reporting period may be subject to a legally required 6-month reporting delay pursuant to USA FREEDOM Act of 2015.
     
-    Report Period Request Type Requests Received Users/Accounts 2019 H1 FISA Non-Content 0 - 499 11,000 - 11,499 2019 H1 FISA Content 0 - 499 18,000 - 18,499 2019 H1 NSLs 0 - 499 2,500 - 2,999 2018 H2 FISA Non-Content 0 - 499 9,000 - 9,499 2018 H2 FISA Content 0 - 499 14,000 - 14,499 2018 H2 NSLs 3 - 499 1,505 - 1,999 2018 H1 FISA Non-Content 0 - 499 7,500 - 7,999 2018 H1 FISA Content 0 - 499 13,500 - 13,999 2018 H1 NSLs 1 - 499 1,001 - 1,499 2017 H2 National Security 16,000 - 16,249 8,000 - 8,249 2017 H1 National Security 13,250 - 13,499 9,000 - 9,249 2016 H2 National Security 5,750 - 5,999 4,750 - 4,999 2016 H1 National Security 2,750 - 2,999 2,000 - 2,249 2015 H2 National Security 1,250 - 1,499 1,000 - 1,249 2015 H1 National Security 751 - 999 250 - 499 2014 H2 National Security 250 - 499 0 - 249 2014 H1 National Security 0 - 249 0 - 249 2013 H2 National Security 0 - 249 0 - 249 2013 H1 National Security 0 - 249 0 - 249
+    Report Period Request Type Requests Received Users/Accounts 2019 H2 FISA Non-Content 0 - 499 15,500 - 15,999 2019 H2 FISA Content 0 - 499 17,500 - 17,999 2019 H2 NSLs 2 - 499 1,505 - 1,999 2019 H1 FISA Non-Content 0 - 499 11,000 - 11,499 2019 H1 FISA Content 0 - 499 18,000 - 18,499 2019 H1 NSLs 0 - 499 2,500 - 2,999 2018 H2 FISA Non-Content 0 - 499 9,000 - 9,499 2018 H2 FISA Content 0 - 499 14,000 - 14,499 2018 H2 NSLs 3 - 499 1,505 - 1,999 2018 H1 FISA Non-Content 0 - 499 7,500 - 7,999 2018 H1 FISA Content 0 - 499 13,500 - 13,999 2018 H1 NSLs 1 - 499 1,001 - 1,499 2017 H2 National Security 16,000 - 16,249 8,000 - 8,249 2017 H1 National Security 13,250 - 13,499 9,000 - 9,249 2016 H2 National Security 5,750 - 5,999 4,750 - 4,999 2016 H1 National Security 2,750 - 2,999 2,000 - 2,249 2015 H2 National Security 1,250 - 1,499 1,000 - 1,249 2015 H1 National Security 751 - 999 250 - 499 2014 H2 National Security 250 - 499 0 - 249 2014 H1 National Security 0 - 249 0 - 249 2013 H2 National Security 0 - 249 0 - 249 2013 H1 National Security 0 - 249 0 - 249
 *   United States Private Party
     
     U.S. Private Party (non-government) requests generally seek information about connections to Apple services, purchase transactions, or product registrations relating to an Apple customer - for example, civil or criminal litigation case proceedings where a subpoena is issued for information.
@@ -178,25 +138,8 @@ Date Range Date Range
     
     View U.S. Private Party Requests
     
-    U.S. Private Party Requests by Period Report Period
+    U.S. Private Party Requests by Year
     
-    H1 represents January 1 through June 30.
-    
-    H2 represents July 1 through December 31.
-    
-    Requests Received
-    
-    The number of requests received from private parties (non-government) in the United States seeking customer data related to specific devices, financial identifiers and/or accounts. We count each individual request received from private parties and report the total number of requests received.
-    
-    Requests Where Data Provided
-    
-    The number of private party requests that resulted in Apple providing data in response to valid legal process or subscriber consent. We count each instance where we provide data in response to a private party request and report the total number of such instances.
-    
-    Percentage of Requests where Data Provided
-    
-    The percentage of private party requests that resulted in Apple providing data. We calculate this based on the number of private party requests that resulted in Apple providing data, compared to the total number of private party requests Apple received.
-    
-    Report Period Requests Received Requests where Data Provided Percentage of Requests where Data Provided 2019 H1 243 69 28% 2018 H2 181 53 29% 2018 H1 215 52 24% 2017 H2 183 57 31% 2017 H1 147 44 30% 2016 H2 157 41 26% 2016 H1 -Not Applicable -Not Applicable -Not Applicable 2015 H2 -Not Applicable -Not Applicable -Not Applicable 2015 H1 -Not Applicable -Not Applicable -Not Applicable 2014 H2 -Not Applicable -Not Applicable -Not Applicable 2014 H1 -Not Applicable -Not Applicable -Not Applicable 2013 H2 -Not Applicable -Not Applicable -Not Applicable 2013 H1 -Not Applicable -Not Applicable -Not Applicable
 *   App Removal
     
     App removal requests ask Apple to remove an app from the App Store.  These requests can be based on alleged/suspected violations of local law and/or of App Store platform policies.  For example, law enforcement or regulatory agencies suspect an app may be unlawful or relate to/contain unlawful content, or may violate the App Store platform policies or relate to/contain content violating platform policies.  
@@ -231,7 +174,7 @@ Date Range Date Range
     
     The number of apps removed from the App Store in response to app removal requests received worldwide from government agencies.  
     
-    Report Period Request Type Requests Received Requests where App Removed Apps Removed 2019 H1 Legal Violation 70 66 217 2019 H1 Platform Violation 25 25 97 2018 H2 Legal Violation 80 75 634 2018 H2 Platform Violation 0 0 0
+    Report Period Request Type Requests Received Requests where App Removed Apps Removed 2019 H2 Legal Violation 54 48 207 2019 H2 Platform Violation 17 17 37 2019 H1 Legal Violation 95 91 314 2019 H1 Platform Violation 2 2 2 2018 H2 Legal Violation 80 75 634 2018 H2 Platform Violation 0 0 0
 
 More Information
 
