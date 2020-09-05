@@ -287,17 +287,6 @@ Close Upload ★VIP
 
 **Search Suggestions** start typing for suggestions ... **Suggested Pornstars** start typing for suggestions ... **Suggested Channels** start typing for suggestions ... **Suggested Keywords**
 
-*   girls
-*   mom and son
-*   step dad fucks
-*   pov
-*   step mom
-*   dad fucks daughter
-*   blonde
-*   backroom casting couch
-*   step sister
-*   big tits
-
 **Recent Searches** Clear
 
 JOIN VIP FOR $1
