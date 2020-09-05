@@ -245,23 +245,23 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
+    *   SonicWall vulnerability fixed, but researchers say the patch took 17 days
+    *   Trump's agenda promises 'great cybersecurity.' What does that mean?
+    *   IBM pays up in tech, settles Weather Channel privacy lawsuit by LA
+    *   U.S. urges Linux users to secure kernels from new Russian malware threat
+    *   SMBs assaulted by 'mercenary' DeathStalker APT espionage campaigns
+    
+    *   Five tips for managing information security in the post-COVID world
     *   What security pros can learn from space travel
-    *   Expect rapid growth in BEC scams to continue, despite global crackdown
-    *   Australia the latest to push digital sovereignty, shake up cyber world order
-    *   Homeland Security announces 5G strategy to manage the pending digital overhaul
-    *   Hackers hijack design platform to go phishing
+    *   1,200 iOS apps unknowingly handing over dollars to Chinese ad platform
+    *   Trump's agenda promises 'great cybersecurity.' What does that mean?
+    *   Adapt remote security practices to today’s digital reality at home
     
-    *   Apple OS developer supply chain threatened by 'clever' malware attack
-    *   Threat hunters watch as Chinese hackers forage forums for tools
-    *   How to cybersecurity: Pain in the \*AST
-    *   Hackers hijack design platform to go phishing
-    *   G Suite flaw mitigated after disclosure, but Google Drive still vulnerable
-    
+    *   Divisive political climate stirs up hacktivist activity, and businesses are not immune
     *   How to use cybersecurity to accelerate growth
     *   Socioeconomic status and cyber: the new 'digital divide'
     *   Attackers could exploit flaws in MAGMI Magento plugin to hijack admin sessions
     *   Slack users unwittingly phished with malicious payloads
-    *   Apple notarization process, meant to protect, approved Shlayer malware
 
 Back to Top
 
