@@ -52,7 +52,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
     *   What to Watch on FandangoNOW: ‘Fatima,’ a New Robin Williams Documentary and More Read More
-    *   The Week in Movie News: Spider-Man Spin-Offs for Olivia Wilde and J.C. Chandor, Ben Affleck’s Batman Returns for ‘The Flash’ and More Read More
+    *   This Week in Movie News: Paul Thomas Anderson Casts Philip Seymour Hoffman’s Son and More Read More
     
     Explore Content
     *   Movie Reviews
