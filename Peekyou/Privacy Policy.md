@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-4%  3% 
+7%  3% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-4%  Arrest Records &. Driving Infractions
+7%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -219,47 +219,47 @@ Facebook 3% 
 
 Twitter 3% 
 
+*   New York &. Company - nyandcompany
+    
 *   Free Privacy Policy - FreePrivacy1
-    
-*   US Attorney Nick Hanna - USAttyHanna
-    
-*   Jolynn Dellinger - MindingPrivacy
     
 *   FOIAPost - FOIAPost
     
+*   Fashion To Figure - FTFSnaps
+    
 *   Show More ...
 
-*   CDC - CDCgov
-    
-*   U.S. FDA - US\_FDA
-    
-*   Secretary Alex Azar - SecAzar
-    
-*   Francis S. Collins - NIHDirector
-    
 *   HHS.gov - HHSGov
     
 *   U.S. FDA Recalls - FDArecalls
     
+*   U.S. FDA - US\_FDA
+    
 *   Mental Health NIMH - NIMHgov
+    
+*   Jolynn Dellinger - MindingPrivacy
     
 *   USAID Policy - USAIDPolicy
     
-*   Dr. Robert R. Redfield - CDCDirector
+*   CDC - CDCgov
     
-*   Federal Reserve - federalreserve
-    
-*   ARL Public Policy - ARLpolicy
+*   Justice Department - TheJusticeDept
     
 *   NIH - NIH
     
-*   Justice Department - TheJusticeDept
+*   U.S. Census Bureau - uscensusbureau
+    
+*   ARL Public Policy - ARLpolicy
+    
+*   Federal Reserve - federalreserve
     
 *   Seattle Privacy - SeattlePrivacy
     
 *   Mabuhay Miles - PALMabuhayMiles
     
 *   Cristiano Ronaldo - Cristiano
+    
+*   OAIC - OAICgov
     
 *   Show Less ...
 
@@ -333,11 +333,11 @@ Myspace 3% 
     
 *   Show Less ...
 
-Social Profiles 4%  Pinterest 3% 
+Social Profiles 7%  Pinterest 3% 
 
-*   Privacy Policy - privacypoli0213
+*   Privacy Policy - privacypolicyvino
     
-*   privacy policy - privacypolicy0142
+*   Privacy Policy - privacypoli0213
     
 *   Learn about instant apps Google Play Instant Apps are Play Store apps you can open before requiring - girlfriendnomore1
     
@@ -374,7 +374,7 @@ Wikipedia 3% 
     
 *   Show Less ...
 
-Music 4%  Photo Albums 3% 
+Music 6%  Photo Albums 2% 
 
 *   Help
     
@@ -422,7 +422,7 @@ Music 4%  Photo Albums 3% 
     
 *   Show Less ...
 
-Web Search 4%  Images 3% 
+Web Search 6%  Images 2% 
 
 16
 
@@ -430,7 +430,7 @@ Web Search 4%  Images 3% 
 
 20
 
-9
+7
 
 facebookx
 
