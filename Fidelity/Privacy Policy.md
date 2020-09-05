@@ -22,8 +22,7 @@ Search fidelity.com or get a quote
     *   Trade Log In Required
     *   Trade
     *   Active Trader Pro
-    *   Money Movement Log In Required
-    *   Money Movement
+    *   Transfers
     *   Cash Management Log In Required
     *   Cash Management
     *   BillPay Log In Required
@@ -39,6 +38,8 @@ Search fidelity.com or get a quote
     *   Tax Forms &. Information
     *   Retirement DistributionsLog In Required
     *   Fidelity Rewards+Log In Required
+    *   Investor Community
+    *   Investor Community
 *   Planning &. Advice
     *   What We Offer
     *   My Goals
