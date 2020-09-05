@@ -3,6 +3,8 @@
 
 *   Academic Year 2020/21 Undergraduate Admissions Update
 
+  Virtual Open Day - Saturday 5 September at 10am
+
 <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MGFFD8" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
 
 Cookies &. Privacy
