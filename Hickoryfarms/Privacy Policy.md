@@ -83,7 +83,7 @@ close
     *   Thinking of You
     *   Sympathy Gifts
     *   Care PackagesMost Popular Gifts for All Occasions
-*   Business Gifts
+*   Corporate Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
     *   Congratulations
@@ -177,7 +177,7 @@ close
     *   Thinking of You
     *   Sympathy Gifts
     *   Care PackagesMost Popular Gifts for All Occasions
-*   Business Gifts
+*   Corporate Gifts
     View All Categories Shop by Category*   Thank You Gifts
     *   Birthday Gifts
     *   Congratulations
