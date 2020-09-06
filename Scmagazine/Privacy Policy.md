@@ -245,17 +245,17 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   SonicWall vulnerability fixed, but researchers say the patch took 17 days
-    *   Trump's agenda promises 'great cybersecurity.' What does that mean?
-    *   IBM pays up in tech, settles Weather Channel privacy lawsuit by LA
-    *   U.S. urges Linux users to secure kernels from new Russian malware threat
-    *   SMBs assaulted by 'mercenary' DeathStalker APT espionage campaigns
-    
-    *   Five tips for managing information security in the post-COVID world
-    *   What security pros can learn from space travel
-    *   1,200 iOS apps unknowingly handing over dollars to Chinese ad platform
-    *   Trump's agenda promises 'great cybersecurity.' What does that mean?
     *   Adapt remote security practices to today’s digital reality at home
+    *   Iranian hacker group selling server access on underground forums
+    *   Slack users unwittingly phished with malicious payloads
+    *   SC Product Reviews: Unified Threat Management
+    *   SonicWall vulnerability fixed, but researchers say the patch took 17 days
+    
+    *   Threat hunters watch as Chinese hackers forage forums for tools
+    *   Homeland Security announces 5G strategy to manage the pending digital overhaul
+    *   Adapt remote security practices to today’s digital reality at home
+    *   New ransomware threats leave victims scrambling to know how to respond
+    *   Is the electric grid closer to a devastating cyberattack that could mean lights out?
     
     *   Divisive political climate stirs up hacktivist activity, and businesses are not immune
     *   How to use cybersecurity to accelerate growth
