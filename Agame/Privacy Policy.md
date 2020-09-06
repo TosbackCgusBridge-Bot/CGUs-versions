@@ -29,12 +29,12 @@ View more results
     *   Fireboy and Watergirl: The Forest Temple
     *   Subway Clash 3D
     *   Fireboy &. Watergirl 2: The Light Temple
-    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Family Relics
+    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Bubble Machine: 2 Player Game
     *   Fireboy &. Watergirl 3: The Ice Temple
-    *   Warbanner
     *   Klondike - the lost expedition
+    *   Warbanner
 *   Action
     
     Top Categories
@@ -62,8 +62,8 @@ View more results
     *   Pixel Gun Apocalypse 3
     *   AZ
     *   Mr. Bullet
-    *   Goodgame Gangster
     *   Deer Hunter
+    *   Goodgame Gangster
 *   Adventure
     
     Top Categories
@@ -115,8 +115,8 @@ View more results
     *   Mahjong Connect Classic
     *   Bubble Machine: 2 Player Game
     *   Candy Riddles: Free Match 3 Puzzle
-    *   Skydom
     *   MahJongCon
+    *   Skydom
     *   Crystical: 2 Player Puzzle Game
     *   Snail Bob 1
     *   Pyramid Solitaire Duel
@@ -141,8 +141,8 @@ View more results
     *   Funny Throat Doctor
     *   BFFs Dressing Room
     *   Beach Kiss
-    *   Pizza Real Life Cooking
     *   Mermaid Sauna Flirting
+    *   Pizza Real Life Cooking
     *   How To Become Popular at School with Princess
     *   Cake Design
     *   Mommy BFFs: Pregnant Check-Up
@@ -150,7 +150,7 @@ View more results
     *   Goldie: Lip Injections
     *   Bad Teeth Makeover
     *   Sweetland Salon
-    *   Goldie Princess: Skin Doctor
+    *   Ella: Hips Surgery
 *   Racing
     
     Top Categories
@@ -177,9 +177,9 @@ View more results
     *   Road Crash
     *   City Car Stunts 2
     *   Moto X3m 2
+    *   Moto X3m 3
     *   Off-Roader V6
     *   Two Punk Racing
-    *   Moto X3m 3
 *   Sports
     
     Top Categories
@@ -196,12 +196,12 @@ View more results
     All Sports Best Games
     *   Drag Racing Rivals
     *   Xcross Madness
-    *   Archery World Tour
     *   Road Crash
+    *   Archery World Tour
     *   Moto X3m 3
-    *   8-Ball
     *   Stunt Skateboard 3D
     *   Baseball
+    *   8-Ball
     *   Basketball Stars 2019
     *   Table Tennis Challenge
     *   Table Tennis Pro
