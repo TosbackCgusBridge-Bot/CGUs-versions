@@ -2,7 +2,7 @@ We are continuing to respond to the impact of COVID-19 around the world. See our
 
 Before finalizing your shipment, please confirm your recipient is "OPEN" for business.
 
-*   Shipping Create a Shipment Shipping Rates &. Delivery Times Shipping Rates &. Delivery Times Schedule &. Manage Pickups Packing &. Shipping Supplies International Shipping Guide In-Store Shipping Services ALL SHIPPING SERVICES
+*   Shipping Create a Shipment Create a Shipment Shipping Rates &. Delivery Times Shipping Rates &. Delivery Times Schedule &. Manage Pickups Packing &. Shipping Supplies International Shipping Guide In-Store Shipping Services ALL SHIPPING SERVICES
 *   Tracking Tracking ID Tracking ID TRACK Advanced Shipment Tracking Manage Your Delivery ALL TRACKING SERVICES
 *   Design &. Print Upload a Print-Ready File Custom Design Templates Explore Print Products Browse Services Get Coupons &. Deals ALL PRODUCTS &. SERVICES
 *   Locations All Location Types Find a Location
