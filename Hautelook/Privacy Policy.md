@@ -9,6 +9,22 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   DRYBAR up to 40% off
+    *   Catherine Catherine Malandrino Up To 85% Off Incl. Plus
+    *   Sophisticated Dresses Up to 70% Off Incl. Plus
+    *   Season's Best Jackets Up to 70% Off Incl. Plus
+    *   Fall Lineup: Bottoms Up to 70% Off Incl. Plus
+    *   Rain or Shine: Trenches &. More Up to 70% Off
+    *   Handmade in Bali: Devata Sterling &. 18K Jewelry Up to 65% Off
+    *   Hart Schaffner Marx &. More Up to 60% Off
+    *   Sperry for Her From $25
+    *   Fresh Finds: Men's Shoes Up to 70% Off
+    *   Fresh Finds: Flat Sandals Up to 70% Off
+    *   Sharp Style: Pointy Toe Shoes Up to 60% Off
+    *   Z by Zella Girls &. More Starting at $15
+    *   Kids' Shoes Under $20
+    *   Best Brands Up to 85% Off ft. FRANK &. EILEEN
+    
     *   New to HauteLook: RtA Denim
     *   Dresses For Any Occasion ft. Max &. Ash
     *   Fall Faves: Long Sleeve Tops Up to 70% Off
@@ -21,137 +37,110 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Men's Denim Under $40
     *   Nordstrom Exclusive Dress Shirts Under $30
     *   Mario Badescu Skincare Starting at $10
-    *   Sovereign Code &. More Up to 60% Off
-    *   Best Brands Up to 85% Off ft. FRANK &. EILEEN
-    *   Live-In Lingerie ft. Jessica Simpson Under $35
-    *   Tops Under $25 Incl. Plus
-    
-    *   Pants &. More Up to 65% Off Incl. Plus
     *   Face Mask Sets Starting at $15
-    *   Hats Under $40 ft. Vans
     *   Bonobos Up to 60% Off
-    *   KORKS &. Kork-Ease Up to 75% Off
-    *   Elodie &. More
     *   Dr. Scholl's Men Up to 60% Off
+    
     *   Men's Boots Up to 70% Off
-    *   Pumps Under $40
     *   Top Toys Under $20
     *   Back to School: Kids' Shoes Starting at $15
     *   Ted Baker Men Up to 65% Off
-    *   Ted Baker London Home at 60% Off
-    *   Ted Baker London Shoes Up to 60% Off
-    *   Ted Baker Men's Shoes Up to 60% Off
-    *   Girls' Dresses Up to 65% Off
-    
     *   Shiseido Must-Haves Up To 50% off
     *   Blankets at 60% Off
-    *   Designer Styles ft. Roberto Cavalli &. Helmut Lang
-    *   Designer Watches Starting at $100
-    *   Graphic Tees Starting at $15
     *   Haircare Under $30
     *   Apollo Beach Towels
-    *   Utility Bedding Starting at $20
-    *   Flora Bunda Planters
     *   Pillows &. Bedding Starting at $15
     *   Men's Active Starting at $15
     *   SLIP For Beauty Sleep Up to 50% Off
     *   Ted Baker London Up to 65% Off
-    *   Ted Baker London Accessories Up to 60% Off
-    *   Decorative Throws at 80% Off
+    *   Sovereign Code &. More Up to 60% Off
+    *   Tops Under $25 Incl. Plus
+    *   Pants &. More Up to 65% Off Incl. Plus
 *   WomenShop Sale Events
     
+    *   DRYBAR up to 40% off
+    *   Catherine Catherine Malandrino Up To 85% Off Incl. Plus
+    *   Sophisticated Dresses Up to 70% Off Incl. Plus
+    *   Season's Best Jackets Up to 70% Off Incl. Plus
+    *   Fall Lineup: Bottoms Up to 70% Off Incl. Plus
+    *   Rain or Shine: Trenches &. More Up to 70% Off
+    *   Handmade in Bali: Devata Sterling &. 18K Jewelry Up to 65% Off
+    *   Sperry for Her From $25
+    *   Fresh Finds: Flat Sandals Up to 70% Off
+    *   Sharp Style: Pointy Toe Shoes Up to 60% Off
+    *   Best Brands Up to 85% Off ft. FRANK &. EILEEN
     *   New to HauteLook: RtA Denim
     *   Dresses For Any Occasion ft. Max &. Ash
+    
     *   Fall Faves: Long Sleeve Tops Up to 70% Off
     *   Animal Prints &. More Up to 70% Off Incl. Plus
     *   Josie Sleep Up to 65% Off
     *   Mules Up to 70% Off
     *   Our Favorite Flats Under $45
     *   Mario Badescu Skincare Starting at $10
-    *   Best Brands Up to 85% Off ft. FRANK &. EILEEN
-    *   Live-In Lingerie ft. Jessica Simpson Under $35
-    *   Tops Under $25 Incl. Plus
-    *   Pants &. More Up to 65% Off Incl. Plus
-    
     *   Face Mask Sets Starting at $15
-    *   Hats Under $40 ft. Vans
-    *   KORKS &. Kork-Ease Up to 75% Off
-    *   Elodie &. More
-    *   Pumps Under $40
-    *   Ted Baker London Shoes Up to 60% Off
     *   Shiseido Must-Haves Up To 50% off
     *   Haircare Under $30
     *   SLIP For Beauty Sleep Up to 50% Off
     *   Ted Baker London Up to 65% Off
-    *   Ted Baker London Accessories Up to 60% Off
+    *   Tops Under $25 Incl. Plus
+    *   Pants &. More Up to 65% Off Incl. Plus
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie &. Shapewear
-    *   Accessories
-    *   Watches
-    *   Handbags
     *   Jewelry
+    *   Accessories
 *   MenShop Sale Events
     
+    *   Hart Schaffner Marx &. More Up to 60% Off
+    *   Fresh Finds: Men's Shoes Up to 70% Off
     *   Men's Loafers Up to 65% Off
     *   Men's Denim Under $40
     *   Nordstrom Exclusive Dress Shirts Under $30
     *   Face Mask Sets Starting at $15
-    *   Hats Under $40 ft. Vans
+    
     *   Bonobos Up to 60% Off
     *   Dr. Scholl's Men Up to 60% Off
-    
     *   Men's Boots Up to 70% Off
     *   Ted Baker Men Up to 65% Off
-    *   Ted Baker Men's Shoes Up to 60% Off
-    *   Designer Styles ft. Roberto Cavalli &. Helmut Lang
-    *   Designer Watches Starting at $100
-    *   Graphic Tees Starting at $15
     *   Men's Active Starting at $15
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
-    *   Sovereign Code &. More Up to 60% Off
+    *   Z by Zella Girls &. More Starting at $15
+    *   Kids' Shoes Under $20
     *   Top Toys Under $20
     *   Back to School: Kids' Shoes Starting at $15
-    *   Girls' Dresses Up to 65% Off
+    *   Sovereign Code &. More Up to 60% Off
     
     Shop By Category
-    *   Girls
     *   Girls' Shoes
-    *   Toys
+    *   Girls
     *   Boys' Shoes
-    *   Baby
+    *   Toys
     *   Boys
+    *   Baby
 *   HomeShop Sale Events
     
     *   Free Shipping: Shun Cutlery
-    *   Ted Baker London Home at 60% Off
     *   Blankets at 60% Off
     *   Apollo Beach Towels
-    *   Utility Bedding Starting at $20
-    *   Flora Bunda Planters
     *   Pillows &. Bedding Starting at $15
-    *   Decorative Throws at 80% Off
     
     Shop By Category
-    *   Home Decor
     *   Bedding
     *   Outdoor Living
     *   Bath
     *   Kitchen &. Tabletop
-    *   Rugs &. Doormats
-    *   Holiday Decorations
-    *   Luggage &. Travel
+    *   Home Decor
 *   BeautyShop Sale Events
     
+    *   DRYBAR up to 40% off
     *   Mario Badescu Skincare Starting at $10
     *   Shiseido Must-Haves Up To 50% off
     *   Haircare Under $30
