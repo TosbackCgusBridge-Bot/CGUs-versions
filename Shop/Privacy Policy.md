@@ -1325,4 +1325,4 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacyCookie Consent ToolSite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement
+© 2019   Lenovo.All rights reserved Print this PagePrivacyCookie Consent ToolSite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Lenovo uses cookies to understand how you use our website, improve your experience, and offer you personalized advertisements. Visit our Cookie Consent Tool to manage your preferences, and visit our privacy policy for more information.AcceptOptions
