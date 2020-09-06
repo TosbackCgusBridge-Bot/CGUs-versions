@@ -22,7 +22,7 @@ Skip to main content Open menu button Primary nav
     *   En Español
     *   Inspire Change
 
-Fantasy Training Camp Action related nav
+NFL Shop Kickoff Action related nav
 
 *   NFL Network
 *   Fantasy
