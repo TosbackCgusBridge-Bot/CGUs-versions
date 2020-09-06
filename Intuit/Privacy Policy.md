@@ -9,7 +9,7 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -47,12 +47,16 @@ Women's DressesWomen's CareerJuniorsWindowWomenMenBaby &. KidsShoes
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   St. John's Bay-Womens V Neck Short Sleeve T-Shirt $4.49with code~$14~74
-*   JCPenney Home™ Ultima Bath Rug Collection $14.99 - $44.99with code~$34 - $90~713
+*   Home Expressions Tiles Complete Bedding Set with Sheets $37.49 - $55.99with code~$110 - $170~340
+*   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745 $18.74with code~$36~1788
 *   Skeleton Family Womens Pant Pajama Set 2-pc. Long Sleeve $18.74with code~$44~
-*   Liz Claiborne Womens 2-pc. Capri Pajama Set Short Sleeve Crew Neck $17.85with code~$34~
-*   JCPenney Home Wallace Blackout Grommet-Top Curtain Panel $26.24 - $47.24with code~$50 - $90~230
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
+    
+    $29.99sale
+    
+    ~$85~4
 *   Be Yourself Womens 2-pc. Capri Pajama Set Short Sleeve Round Neck $17.85with code~$34~3
+*   Liz Claiborne Womens Split Crew Neck Short Sleeve Blouse $13.49with code~$30~1
 
 Shop and Save at JCPenney
 
