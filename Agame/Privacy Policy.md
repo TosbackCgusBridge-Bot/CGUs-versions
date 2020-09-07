@@ -31,8 +31,8 @@ View more results
     *   Fireboy &. Watergirl 2: The Light Temple
     *   Family Relics
     *   Fireboy &. Watergirl 4: Crystal Temple
-    *   Bubble Machine: 2 Player Game
     *   Fireboy &. Watergirl 3: The Ice Temple
+    *   Bubble Machine: 2 Player Game
     *   Klondike - the lost expedition
     *   Warbanner
 *   Action
@@ -63,7 +63,7 @@ View more results
     *   AZ
     *   Mr. Bullet
     *   Deer Hunter
-    *   Goodgame Gangster
+    *   Shot Trigger
 *   Adventure
     
     Top Categories
@@ -87,12 +87,12 @@ View more results
     *   Boeing Flight Simulator
     *   The Last Survivors: 2 Player Zombie Game
     *   Build Craft
-    *   Hook
     *   Crowd City
+    *   Hook
     *   Troll Face Quest: Horror 2
-    *   Zombie Mission: 2 Player
     *   Mine Clone 4
-    *   KOGAMA: Adopt a Son or Daughter and Form Your Family
+    *   Zombie Mission: 2 Player
+    *   Money Mover Maker
 *   Puzzle
     
     Top Categories
@@ -117,8 +117,8 @@ View more results
     *   Candy Riddles: Free Match 3 Puzzle
     *   MahJongCon
     *   Skydom
-    *   Crystical: 2 Player Puzzle Game
     *   Snail Bob 1
+    *   Crystical: 2 Player Puzzle Game
     *   Pyramid Solitaire Duel
     *   Sevenventure
     *   Jewel Quest
@@ -143,14 +143,14 @@ View more results
     *   Beach Kiss
     *   Mermaid Sauna Flirting
     *   Pizza Real Life Cooking
-    *   How To Become Popular at School with Princess
     *   Cake Design
     *   Mommy BFFs: Pregnant Check-Up
+    *   How To Become Popular at School with Princess
     *   Princess Hard Times
     *   Goldie: Lip Injections
     *   Bad Teeth Makeover
     *   Sweetland Salon
-    *   Ella: Hips Surgery
+    *   Floral Real Life Manicure
 *   Racing
     
     Top Categories
@@ -170,8 +170,8 @@ View more results
     *   Hill Racing Challenge
     *   Moto X3M: Motorcycle Racing Game
     *   Madalin Cars Multiplayer
-    *   Drag Racing Rivals
     *   Xcross Madness
+    *   Drag Racing Rivals
     *   Maximum Acceleration
     *   Cars 3D
     *   Road Crash
@@ -194,13 +194,13 @@ View more results
     *   Boxing
     
     All Sports Best Games
-    *   Drag Racing Rivals
     *   Xcross Madness
+    *   Drag Racing Rivals
     *   Road Crash
     *   Archery World Tour
     *   Moto X3m 3
-    *   Stunt Skateboard 3D
     *   Baseball
+    *   Stunt Skateboard 3D
     *   8-Ball
     *   Basketball Stars 2019
     *   Table Tennis Challenge
