@@ -9,22 +9,37 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   DRYBAR up to 40% off
+    *   Sunday Steals Up to 85% Off Incl. Plus
+    *   Lazy Day Faves: Sleep &. Lounge Under $30
+    *   Women's Boots Under $50
+    *   Men's Shoes Up to 65% Off
+    *   Sam Edelman Up to 60% Off
+    *   Hanky Panky Under $40
+    *   Nanette Nanette Lepore &. More Incl. Plus
+    *   Tees &. Tanks Under $30 Incl. Plus
+    *   The North Face Men
+    *   Cardigans Up to 70% Off Incl. Plus
+    *   Now Trending: Active Styles Under $35
+    *   Free Shipping: BergHOFF Kitchen
+    *   Oliva Welles Jewelry Under $50
+    *   Active Shoes ft. Mizuno
+    *   Men's Active Shoes ft. Mizuno
+    *   Basics for Baby ft. Coccoli
+    *   Fashion Boots ft. MIA
+    *   Hart Schaffner Marx &. More Up to 60% Off
     *   Catherine Catherine Malandrino Up To 85% Off Incl. Plus
+    
     *   Sophisticated Dresses Up to 70% Off Incl. Plus
     *   Season's Best Jackets Up to 70% Off Incl. Plus
     *   Fall Lineup: Bottoms Up to 70% Off Incl. Plus
     *   Rain or Shine: Trenches &. More Up to 70% Off
     *   Handmade in Bali: Devata Sterling &. 18K Jewelry Up to 65% Off
-    *   Hart Schaffner Marx &. More Up to 60% Off
     *   Sperry for Her From $25
     *   Fresh Finds: Men's Shoes Up to 70% Off
     *   Fresh Finds: Flat Sandals Up to 70% Off
     *   Sharp Style: Pointy Toe Shoes Up to 60% Off
     *   Z by Zella Girls &. More Starting at $15
     *   Kids' Shoes Under $20
-    *   Best Brands Up to 85% Off ft. FRANK &. EILEEN
-    
     *   New to HauteLook: RtA Denim
     *   Dresses For Any Occasion ft. Max &. Ash
     *   Fall Faves: Long Sleeve Tops Up to 70% Off
@@ -33,85 +48,88 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Josie Sleep Up to 65% Off
     *   Mules Up to 70% Off
     *   Men's Loafers Up to 65% Off
-    *   Our Favorite Flats Under $45
+    
+    *   DRYBAR up to 40% off
     *   Men's Denim Under $40
     *   Nordstrom Exclusive Dress Shirts Under $30
     *   Mario Badescu Skincare Starting at $10
-    *   Face Mask Sets Starting at $15
-    *   Bonobos Up to 60% Off
     *   Dr. Scholl's Men Up to 60% Off
-    
     *   Men's Boots Up to 70% Off
     *   Top Toys Under $20
     *   Back to School: Kids' Shoes Starting at $15
-    *   Ted Baker Men Up to 65% Off
     *   Shiseido Must-Haves Up To 50% off
     *   Blankets at 60% Off
-    *   Haircare Under $30
     *   Apollo Beach Towels
-    *   Pillows &. Bedding Starting at $15
-    *   Men's Active Starting at $15
-    *   SLIP For Beauty Sleep Up to 50% Off
-    *   Ted Baker London Up to 65% Off
+    *   Joggers, Leggings &. More Up to 85% Off
+    *   KIEHL'S Starting at $10
+    *   Our Favorite Flats Under $45
     *   Sovereign Code &. More Up to 60% Off
-    *   Tops Under $25 Incl. Plus
-    *   Pants &. More Up to 65% Off Incl. Plus
+    *   SLIP For Beauty Sleep Up to 50% Off
+    *   Pillows &. Bedding Starting at $15
 *   WomenShop Sale Events
     
-    *   DRYBAR up to 40% off
+    *   Sunday Steals Up to 85% Off Incl. Plus
+    *   Lazy Day Faves: Sleep &. Lounge Under $30
+    *   Women's Boots Under $50
+    *   Sam Edelman Up to 60% Off
+    *   Hanky Panky Under $40
+    *   Nanette Nanette Lepore &. More Incl. Plus
+    *   Tees &. Tanks Under $30 Incl. Plus
+    *   Cardigans Up to 70% Off Incl. Plus
+    *   Now Trending: Active Styles Under $35
+    *   Oliva Welles Jewelry Under $50
+    *   Active Shoes ft. Mizuno
     *   Catherine Catherine Malandrino Up To 85% Off Incl. Plus
     *   Sophisticated Dresses Up to 70% Off Incl. Plus
     *   Season's Best Jackets Up to 70% Off Incl. Plus
     *   Fall Lineup: Bottoms Up to 70% Off Incl. Plus
     *   Rain or Shine: Trenches &. More Up to 70% Off
     *   Handmade in Bali: Devata Sterling &. 18K Jewelry Up to 65% Off
+    
     *   Sperry for Her From $25
     *   Fresh Finds: Flat Sandals Up to 70% Off
     *   Sharp Style: Pointy Toe Shoes Up to 60% Off
-    *   Best Brands Up to 85% Off ft. FRANK &. EILEEN
     *   New to HauteLook: RtA Denim
     *   Dresses For Any Occasion ft. Max &. Ash
-    
     *   Fall Faves: Long Sleeve Tops Up to 70% Off
     *   Animal Prints &. More Up to 70% Off Incl. Plus
     *   Josie Sleep Up to 65% Off
     *   Mules Up to 70% Off
-    *   Our Favorite Flats Under $45
+    *   DRYBAR up to 40% off
     *   Mario Badescu Skincare Starting at $10
-    *   Face Mask Sets Starting at $15
     *   Shiseido Must-Haves Up To 50% off
-    *   Haircare Under $30
+    *   Joggers, Leggings &. More Up to 85% Off
+    *   KIEHL'S Starting at $10
+    *   Our Favorite Flats Under $45
     *   SLIP For Beauty Sleep Up to 50% Off
-    *   Ted Baker London Up to 65% Off
-    *   Tops Under $25 Incl. Plus
-    *   Pants &. More Up to 65% Off Incl. Plus
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
+    *   Lingerie &. Shapewear
     *   Accessories
 *   MenShop Sale Events
     
+    *   Men's Shoes Up to 65% Off
+    *   The North Face Men
+    *   Men's Active Shoes ft. Mizuno
     *   Hart Schaffner Marx &. More Up to 60% Off
     *   Fresh Finds: Men's Shoes Up to 70% Off
     *   Men's Loafers Up to 65% Off
     *   Men's Denim Under $40
     *   Nordstrom Exclusive Dress Shirts Under $30
-    *   Face Mask Sets Starting at $15
-    
-    *   Bonobos Up to 60% Off
     *   Dr. Scholl's Men Up to 60% Off
     *   Men's Boots Up to 70% Off
-    *   Ted Baker Men Up to 65% Off
-    *   Men's Active Starting at $15
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Basics for Baby ft. Coccoli
+    *   Fashion Boots ft. MIA
     *   Z by Zella Girls &. More Starting at $15
     *   Kids' Shoes Under $20
     *   Top Toys Under $20
@@ -119,37 +137,37 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Sovereign Code &. More Up to 60% Off
     
     Shop By Category
-    *   Girls' Shoes
     *   Girls
+    *   Girls' Shoes
     *   Boys' Shoes
     *   Toys
-    *   Boys
     *   Baby
+    *   Boys
 *   HomeShop Sale Events
     
+    *   Free Shipping: BergHOFF Kitchen
     *   Free Shipping: Shun Cutlery
     *   Blankets at 60% Off
     *   Apollo Beach Towels
     *   Pillows &. Bedding Starting at $15
     
     Shop By Category
+    *   Kitchen &. Tabletop
     *   Bedding
     *   Outdoor Living
     *   Bath
-    *   Kitchen &. Tabletop
     *   Home Decor
 *   BeautyShop Sale Events
     
     *   DRYBAR up to 40% off
     *   Mario Badescu Skincare Starting at $10
     *   Shiseido Must-Haves Up To 50% off
-    *   Haircare Under $30
     *   SLIP For Beauty Sleep Up to 50% Off
     
     Shop By Category
-    *   Hair Care
     *   Makeup
     *   Skin Care
+    *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
