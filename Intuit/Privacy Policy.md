@@ -1,15 +1,14 @@
 Our COVID-19 response Details  
-EXTRA 30% OFF $75 or more with code: HOORAY3 Details  
-EXTRA 25% OFF under $75 with code: HOORAY3 Details  
+Labor Day Sale—ends tomorrow! EXTRA 30% OFF w/ code: ACTNOW9 Shop All  
 Free Shipping Over $49  DetailsOur COVID-19 response Details  
-EXTRA 30% OFF $75 or more with code: HOORAY3 Details  
+Labor Day Sale—ends tomorrow! EXTRA 30% OFF w/ code: ACTNOW9 Shop All  
 
 Enable Accessibility
 
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -23,7 +22,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-BeddingBring in a pop of print to the bedroom.WindowAdd some dimension with floor-length curtains.RugsSpruce up the floors with a statement rug.Kitchen &. DiningTreat yourself to chef-worthy cookware. Time for a closet refresh!**Starting at $5.99 select styles**Tops For HerPants For HerShirts For HimPants For Him35-60% OFF Fine Jewelry+ EXTRA 35% OFF\* with **JCPenney Credit Card** &. coupon or code: **4JEWELS**  
+BeddingBring in a pop of print to the bedroom.WindowAdd some dimension with floor-length curtains.RugsSpruce up the floors with a statement rug.Kitchen &. DiningTreat yourself to chef-worthy cookware.**Time for a closet refresh!** Starting at $5.99select stylesTops For HerPants For HerShirts For HimPants For Him35-60% OFF Fine Jewelry+ EXTRA 35% OFF\* with **JCPenney Credit Card** &. coupon or code: **4JEWELS**  
 select styles\*Exclusions, details &. coupon
 
 *   Shop All
@@ -37,7 +36,20 @@ select styles\*Exclusions, details &. coupon
 *   Modern Bride Jewelry
     
 
-Shop AllJuniorsYoung MenKidsBackpacksHomeschoolComforters &. Bedding SetsSheetsBedding BasicsStorage &. OrganizationWomen's a.n.aMen's St. John's BayGirls' ArizonaBoys' Arizona25% OFF adidas &. Champion for the kiddos!select styles | Excluded from coupons. Boys' adidas apparelGirls' adidas apparelBoys' Champion apparelGirls' Champion apparel**Protect yourself &. others!**$9 Face masks**select styles**
+Shop AllJuniorsYoung MenKidsBackpacksHomeschoolDorm their wayCozy styles to create their own space, home or away.select styles
+
+*   Shop All
+
+*   Comforters &. Bedding Sets
+    
+*   Sheets
+    
+*   Bedding Basics
+    
+*   Storage &. Organization
+    
+
+Shop AllWomen's a.n.aMen's St. John's BayGirls' ArizonaBoys' Arizona25% OFF adidas &. Champion for the kiddos!select styles | Excluded from coupons. Boys' adidas apparelGirls' adidas apparelBoys' Champion apparelGirls' Champion apparel**Protect yourself &. others!**$9 Face masks**select styles**
 
 *   Shop All
 
@@ -45,18 +57,28 @@ Women's DressesWomen's CareerJuniorsWindowWomenMenBaby &. KidsShoes
 
 \*Buy one item at regular price, get the second item of equal or lesser value for either 50% off or free, as advertised in the specific offer. Some items must be same category of merchandise or same gender. See store associate or jcp.com for details.
 
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Recommended for You
 
-*   Home Expressions Tiles Complete Bedding Set with Sheets $37.49 - $55.99with code~$110 - $170~340
-*   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745 $18.74with code~$36~1788
+*   Home Expressions Tiles Complete Bedding Set with Sheets $34.99 - $55.99with code~$110 - $170~340
+*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
+    
+    $4.99 - $27.99sale
+    
+    ~$16 - $40~1251
+*   St. John's Bay Mid Rise Capris $9.74with code~$32~27
+*   Bali Comfort Revolution® Easylite Seamless Wireless Full Coverage Bra-Df3491
+    
+    BUY 1 GET 1 50% OFF
+    
+    $44
+    
+    298
 *   Skeleton Family Womens Pant Pajama Set 2-pc. Long Sleeve $18.74with code~$44~
-*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
+*   Liz Claiborne Quinn Leaf Energy Saving Light-Filtering Grommet-Top Single Curtain Panel
     
-    $29.99sale
+    $55.99 - $90.99sale
     
-    ~$85~4
-*   Be Yourself Womens 2-pc. Capri Pajama Set Short Sleeve Round Neck $17.85with code~$34~3
-*   Liz Claiborne Womens Split Crew Neck Short Sleeve Blouse $13.49with code~$30~1
+    ~$80 - $150~861
 
 Shop and Save at JCPenney
 
