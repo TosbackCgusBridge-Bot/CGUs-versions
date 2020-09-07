@@ -245,17 +245,17 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   Adapt remote security practices to today’s digital reality at home
-    *   Iranian hacker group selling server access on underground forums
-    *   Slack users unwittingly phished with malicious payloads
-    *   SC Product Reviews: Unified Threat Management
-    *   SonicWall vulnerability fixed, but researchers say the patch took 17 days
+    *   Attackers could exploit flaws in MAGMI Magento plugin to hijack admin sessions
+    *   How COVID-19 pushed companies towards a mobile security strategy
+    *   New DevSecOps study highlights need to address AppSec throughout the SDLC
+    *   NCR confirms malware in lab environment, says clients not at risk
+    *   SMBs assaulted by 'mercenary' DeathStalker APT espionage campaigns
     
-    *   Threat hunters watch as Chinese hackers forage forums for tools
-    *   Homeland Security announces 5G strategy to manage the pending digital overhaul
-    *   Adapt remote security practices to today’s digital reality at home
+    *   The cyber digital divide: How to level the playing field
+    *   How to cybersecurity: Pain in the \*AST
+    *   Five tips for managing information security in the post-COVID world
     *   New ransomware threats leave victims scrambling to know how to respond
-    *   Is the electric grid closer to a devastating cyberattack that could mean lights out?
+    *   Expect rapid growth in BEC scams to continue, despite global crackdown
     
     *   Divisive political climate stirs up hacktivist activity, and businesses are not immune
     *   How to use cybersecurity to accelerate growth
