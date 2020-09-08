@@ -245,17 +245,17 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   Attackers could exploit flaws in MAGMI Magento plugin to hijack admin sessions
-    *   How COVID-19 pushed companies towards a mobile security strategy
-    *   New DevSecOps study highlights need to address AppSec throughout the SDLC
-    *   NCR confirms malware in lab environment, says clients not at risk
+    *   Homeland Security announces 5G strategy to manage the pending digital overhaul
+    *   Tesla employee rejected a $1 million bribe to install malware
     *   SMBs assaulted by 'mercenary' DeathStalker APT espionage campaigns
+    *   Adapt remote security practices to today’s digital reality at home
+    *   Lessons from 15 years of bug bounties
     
-    *   The cyber digital divide: How to level the playing field
-    *   How to cybersecurity: Pain in the \*AST
-    *   Five tips for managing information security in the post-COVID world
-    *   New ransomware threats leave victims scrambling to know how to respond
-    *   Expect rapid growth in BEC scams to continue, despite global crackdown
+    *   Homeland Security announces 5G strategy to manage the pending digital overhaul
+    *   Facebook announces new details on how it will disclose bugs found in third-party products
+    *   SonicWall vulnerability fixed, but researchers say the patch took 17 days
+    *   Why we need a federal data privacy law – and how CCPA sets the pace
+    *   Threat hunters watch as Chinese hackers forage forums for tools
     
     *   Divisive political climate stirs up hacktivist activity, and businesses are not immune
     *   How to use cybersecurity to accelerate growth
