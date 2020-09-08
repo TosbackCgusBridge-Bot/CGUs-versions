@@ -1,7 +1,7 @@
 Our COVID-19 response Details  
-Labor Day Sale—ends tomorrow! EXTRA 30% OFF w/ code: ACTNOW9 Shop All  
+Last day—Labor Day Sale! EXTRA 30% OFF w/ code: ACTNOW9 Shop All  
 Free Shipping Over $49  DetailsOur COVID-19 response Details  
-Labor Day Sale—ends tomorrow! EXTRA 30% OFF w/ code: ACTNOW9 Shop All  
+Last day—Labor Day Sale! EXTRA 30% OFF w/ code: ACTNOW9 Shop All  
 
 Enable Accessibility
 
@@ -57,28 +57,22 @@ Women's DressesWomen's CareerJuniorsWindowWomenMenBaby &. KidsShoes
 
 \*Buy one item at regular price, get the second item of equal or lesser value for either 50% off or free, as advertised in the specific offer. Some items must be same category of merchandise or same gender. See store associate or jcp.com for details.
 
-Recommended for You
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
 *   Home Expressions Tiles Complete Bedding Set with Sheets $34.99 - $55.99with code~$110 - $170~340
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
+    
+    $29.99sale
+    
+    ~$85~4
+*   Skeleton Family Womens Pant Pajama Set 2-pc. Long Sleeve $17.49with code~$44~
 *   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
     
     $4.99 - $27.99sale
     
     ~$16 - $40~1251
-*   St. John's Bay Mid Rise Capris $9.74with code~$32~27
-*   Bali Comfort Revolution® Easylite Seamless Wireless Full Coverage Bra-Df3491
-    
-    BUY 1 GET 1 50% OFF
-    
-    $44
-    
-    298
-*   Skeleton Family Womens Pant Pajama Set 2-pc. Long Sleeve $18.74with code~$44~
-*   Liz Claiborne Quinn Leaf Energy Saving Light-Filtering Grommet-Top Single Curtain Panel
-    
-    $55.99 - $90.99sale
-    
-    ~$80 - $150~861
+*   JCPenney Home Emma Quilt $38.49 - $52.49with code~$100 - $140~435
+*   JCPenney Home™ Ultima Bath Rug Collection $13.99 - $41.99with code~$34 - $90~713
 
 Shop and Save at JCPenney
 
