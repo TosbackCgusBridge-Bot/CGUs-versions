@@ -51,8 +51,8 @@ View more results
     
     All Action Best Games
     *   Subway Clash 3D
-    *   Warbanner
     *   Stickman Archer 2
+    *   Warbanner
     *   Total Front
     *   Combat Strike 2
     *   Miami Crime Simulator 3D
@@ -89,8 +89,8 @@ View more results
     *   Build Craft
     *   Crowd City
     *   Hook
-    *   Troll Face Quest: Horror 2
     *   Mine Clone 4
+    *   Troll Face Quest: Horror 2
     *   Zombie Mission: 2 Player
     *   Money Mover Maker
 *   Puzzle
@@ -173,8 +173,8 @@ View more results
     *   Xcross Madness
     *   Drag Racing Rivals
     *   Maximum Acceleration
-    *   Cars 3D
     *   Road Crash
+    *   Cars 3D
     *   City Car Stunts 2
     *   Moto X3m 2
     *   Moto X3m 3
@@ -199,10 +199,10 @@ View more results
     *   Road Crash
     *   Archery World Tour
     *   Moto X3m 3
-    *   Baseball
     *   Stunt Skateboard 3D
-    *   8-Ball
+    *   Baseball
     *   Basketball Stars 2019
+    *   8-Ball
     *   Table Tennis Challenge
     *   Table Tennis Pro
     *   Pool Clash: 8 Ball Billiards Snooker
@@ -401,7 +401,6 @@ COMPANY INFO
 
 *   Terms of Use
 *   Privacy Policy
-*   Privacy Policy, Kids &. Parents
 *   Information for Parents
 *   Cookies
 *   Cookie Consent
