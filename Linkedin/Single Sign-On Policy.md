@@ -54,7 +54,7 @@ _Note:_ If your LinkedIn settings allow it, your public profile will still be 
 
 Check out more information about LinkedIn features in Microsoft apps and services or contact Microsoft support by visiting the Microsoft Help Center.
 
-Last updated: 4 days ago
+Last updated: 5 days ago
 
 Was this answer helpful?YesNo
 
