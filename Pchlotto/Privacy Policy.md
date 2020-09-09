@@ -1,6 +1,6 @@
 For California Consumers, please click here for information on your rights under the California Consumer Protection Act to access and control the use your data.
 
-**Last Updated: May 25, 2020**
+**Last Updated: September 8, 2020**
 
 Publishers Clearing House ("PCH") respects your privacy. We take seriously our obligation to protect the information or "data" about you that we collect, process or share with others. This Privacy Policy governs all websites and digital properties owned or operated by PCH ("Website") and applies to all registrants, entrants, visitors and other users of such Website ("Users").
 
@@ -171,6 +171,8 @@ If you do not want your name passed to other companies for the purpose of receiv
 15\. Your California Privacy Rights:
 
 The following information for California residents covers on-line (internet) and off-line (direct mail) information sharing activities. Please review the complete Publishers Clearing House Privacy Policy for full details on our information sharing and privacy practices. As detailed in this Privacy Policy, PCH may use, collect, disclose and sell personal information about the consumers who respond to our offers. California consumers who wish to learn more about such practice and their rights under the California Consumer Protection Act, including the right to opt out of the sale of your data, may click here.
+
+We do not currently respond to Do Not Track signals. Please refer to your options under the CCPA to make consumer requests concerning your online privacy.
 
 16\. Your Nevada Privacy Rights:
 
