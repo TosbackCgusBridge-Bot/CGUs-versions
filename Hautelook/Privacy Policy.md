@@ -9,103 +9,90 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Hudson Jeans Up to 70% Off
+    *   Indoor &. Outdoor Cooking Essentials
+    *   Free Shipping: Southshore Fine Linens
+    *   End of Summer Steals ft. Trina Turk
+    *   Beach Towels at 50% Off
+    *   AllSaints
+    *   Scotch &. Soda
+    *   New Fall Faves: BB Dakota &. More
+    *   Philosophy, Whish &. More Under $35
+    *   Fall Styles ft. Scotch &. Soda
+    *   Complete The Look: Blazers Up to 75% Off
+    *   Mad for Moto: Jackets &. More Up to 60% Off
+    *   Blouses &. Shirts Up to 70% Off Incl. Plus
+    *   AllSaints Men's Shoes
+    *   On-Trend Jewelry Up to 60% Off
+    *   Fall Staples: Textured Booties &. More
+    *   Men's Trousers Starting at $29.97
+    *   Fall Dress Preview: Kid's Styles Up to 60% Off
+    
+    *   Bareminerals under $25
+    *   Kid's Rain Boots Up to 50% Off
     *   Fall Sunglasses Starting at $25
+    *   Hudson Jeans Up to 70% Off
     *   Hudson Men Up to 60% Off
     *   Fresh Fall Sweaters Under $35 Incl. Plus
-    *   Midi Dresses Under $60
     *   Abound
     *   Work From Home: Men's Styles Up to 75% Off
-    *   Skincare Masks We Love
     *   Labor Day Steals: Swim Under $30
     *   Labor Day Steals: Leggings Under $30
-    *   Johnston &. Murphy Men Up to 65% Off
     *   Hudson Kids &. More Up to 60% Off
     *   Last Call: Men's Shoes Up to 70% Off
-    *   Last Call: Shoes Up to 75% Off
-    *   Trending Now: Wedge Sneakers from $40
-    *   Splendid Pearls
-    *   Sunday Steals Up to 85% Off Incl. Plus
+    *   Midi Dresses Under $60
     *   Lazy Day Faves: Sleep &. Lounge Under $30
     *   Women's Boots Under $50
-    
     *   Men's Shoes Up to 65% Off
     *   Sam Edelman Up to 60% Off
+    
     *   Hanky Panky Under $40
-    *   Nanette Nanette Lepore &. More Incl. Plus
-    *   Tees &. Tanks Under $30 Incl. Plus
-    *   Cardigans Up to 70% Off Incl. Plus
-    *   Now Trending: Active Styles Under $35
     *   Free Shipping: BergHOFF Kitchen
     *   Oliva Welles Jewelry Under $50
-    *   Active Shoes ft. Mizuno
     *   Men's Active Shoes ft. Mizuno
     *   Basics for Baby ft. Coccoli
     *   Fashion Boots ft. MIA
-    *   Hart Schaffner Marx &. More Up to 60% Off
-    *   Catherine Catherine Malandrino Up To 85% Off Incl. Plus
-    *   Sophisticated Dresses Up to 70% Off Incl. Plus
-    *   Season's Best Jackets Up to 70% Off Incl. Plus
-    *   Fall Lineup: Bottoms Up to 70% Off Incl. Plus
-    *   Rain or Shine: Trenches &. More Up to 70% Off
-    
-    *   Handmade in Bali: Devata Sterling &. 18K Jewelry Up to 65% Off
-    *   Sperry for Her From $25
     *   Fresh Finds: Men's Shoes Up to 70% Off
-    *   Fresh Finds: Flat Sandals Up to 70% Off
-    *   DRYBAR up to 40% off
-    *   Z by Zella Girls &. More Starting at $15
-    *   Kids' Shoes Under $20
-    *   SLIP For Beauty Sleep Up to 50% Off
     *   Free Shipping: Shun Cutlery
-    *   Men's Loafers Up to 65% Off
-    *   Men's Denim Under $40
-    *   Nordstrom Exclusive Dress Shirts Under $30
     *   Mario Badescu Skincare Starting at $10
-    *   Joggers, Leggings &. More Up to 85% Off
-    *   KIEHL'S Starting at $10
+    *   Johnston &. Murphy Men Up to 65% Off
+    *   Trending Now: Wedge Sneakers from $40
+    *   Last Call: Shoes Up to 75% Off
+    *   Skincare Masks We Love
     *   The North Face Men
-    *   Sharp Style: Pointy Toe Shoes Up to 60% Off
-    *   Pillows &. Bedding Starting at $15
-    *   Blankets at 60% Off
+    *   KIEHL'S Starting at $10
+    *   DRYBAR up to 40% off
+    *   Pearls starting at $15
 *   WomenShop Sale Events
     
+    *   AllSaints
+    *   New Fall Faves: BB Dakota &. More
+    *   Philosophy, Whish &. More Under $35
+    *   Fall Styles ft. Scotch &. Soda
+    *   Complete The Look: Blazers Up to 75% Off
+    *   Mad for Moto: Jackets &. More Up to 60% Off
+    *   Blouses &. Shirts Up to 70% Off Incl. Plus
+    *   On-Trend Jewelry Up to 60% Off
+    *   Fall Staples: Textured Booties &. More
+    *   Bareminerals under $25
     *   Hudson Jeans Up to 70% Off
     *   Fresh Fall Sweaters Under $35 Incl. Plus
-    *   Midi Dresses Under $60
     *   Abound
-    *   Skincare Masks We Love
     *   Labor Day Steals: Swim Under $30
+    
     *   Labor Day Steals: Leggings Under $30
-    *   Last Call: Shoes Up to 75% Off
-    *   Trending Now: Wedge Sneakers from $40
-    *   Splendid Pearls
-    *   Sunday Steals Up to 85% Off Incl. Plus
+    *   Midi Dresses Under $60
     *   Lazy Day Faves: Sleep &. Lounge Under $30
     *   Women's Boots Under $50
     *   Sam Edelman Up to 60% Off
     *   Hanky Panky Under $40
-    *   Nanette Nanette Lepore &. More Incl. Plus
-    *   Tees &. Tanks Under $30 Incl. Plus
-    *   Cardigans Up to 70% Off Incl. Plus
-    
-    *   Now Trending: Active Styles Under $35
     *   Oliva Welles Jewelry Under $50
-    *   Active Shoes ft. Mizuno
-    *   Catherine Catherine Malandrino Up To 85% Off Incl. Plus
-    *   Sophisticated Dresses Up to 70% Off Incl. Plus
-    *   Season's Best Jackets Up to 70% Off Incl. Plus
-    *   Fall Lineup: Bottoms Up to 70% Off Incl. Plus
-    *   Rain or Shine: Trenches &. More Up to 70% Off
-    *   Handmade in Bali: Devata Sterling &. 18K Jewelry Up to 65% Off
-    *   Sperry for Her From $25
-    *   Fresh Finds: Flat Sandals Up to 70% Off
-    *   DRYBAR up to 40% off
-    *   SLIP For Beauty Sleep Up to 50% Off
     *   Mario Badescu Skincare Starting at $10
-    *   Joggers, Leggings &. More Up to 85% Off
+    *   Trending Now: Wedge Sneakers from $40
+    *   Last Call: Shoes Up to 75% Off
+    *   Skincare Masks We Love
     *   KIEHL'S Starting at $10
-    *   Sharp Style: Pointy Toe Shoes Up to 60% Off
+    *   DRYBAR up to 40% off
+    *   Pearls starting at $15
     
     Shop By Category
     *   Clothing
@@ -116,20 +103,18 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Handbags
 *   MenShop Sale Events
     
+    *   Scotch &. Soda
+    *   AllSaints Men's Shoes
+    *   Men's Trousers Starting at $29.97
     *   Fall Sunglasses Starting at $25
     *   Hudson Men Up to 60% Off
     *   Work From Home: Men's Styles Up to 75% Off
-    *   Skincare Masks We Love
-    *   Johnston &. Murphy Men Up to 65% Off
+    
     *   Last Call: Men's Shoes Up to 70% Off
     *   Men's Shoes Up to 65% Off
-    
     *   Men's Active Shoes ft. Mizuno
-    *   Hart Schaffner Marx &. More Up to 60% Off
     *   Fresh Finds: Men's Shoes Up to 70% Off
-    *   Men's Loafers Up to 65% Off
-    *   Men's Denim Under $40
-    *   Nordstrom Exclusive Dress Shirts Under $30
+    *   Johnston &. Murphy Men Up to 65% Off
     *   The North Face Men
     
     Shop By Category
@@ -138,40 +123,47 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Fall Dress Preview: Kid's Styles Up to 60% Off
+    *   Kid's Rain Boots Up to 50% Off
     *   Hudson Kids &. More Up to 60% Off
     *   Basics for Baby ft. Coccoli
     *   Fashion Boots ft. MIA
-    *   Z by Zella Girls &. More Starting at $15
-    *   Kids' Shoes Under $20
     
     Shop By Category
     *   Girls
-    *   Girls' Shoes
     *   Baby
+    *   Girls' Shoes
     *   Boys' Shoes
     *   Boys
 *   HomeShop Sale Events
     
+    *   Indoor &. Outdoor Cooking Essentials
+    *   Free Shipping: Southshore Fine Linens
+    *   End of Summer Steals ft. Trina Turk
+    *   Beach Towels at 50% Off
     *   Free Shipping: BergHOFF Kitchen
     *   Free Shipping: Shun Cutlery
-    *   Pillows &. Bedding Starting at $15
-    *   Blankets at 60% Off
     
     Shop By Category
     *   Kitchen &. Tabletop
     *   Bedding
+    *   Outdoor Living
+    *   Bath
     *   Home Decor
 *   BeautyShop Sale Events
     
-    *   DRYBAR up to 40% off
-    *   SLIP For Beauty Sleep Up to 50% Off
+    *   Philosophy, Whish &. More Under $35
+    *   Bareminerals under $25
     *   Mario Badescu Skincare Starting at $10
+    *   Skincare Masks We Love
+    *   DRYBAR up to 40% off
     
     Shop By Category
     *   Skin Care
-    *   Hair Care
     *   Makeup
     *   Bath &. Body
+    *   Hair Care
+    *   Tools &. Accessories
     *   Men’s Grooming
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
