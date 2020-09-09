@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Tuesday, September 8, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Wednesday, September 9, 2020  
 
 DEBKAfile
 
@@ -44,102 +44,102 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
-*   Ultra-Orthodox towns threaten to disobey lockdown order
+*   Iran builds new nuclear site to replace sabotaged Natanz facility
     
-    Sep 06, 2020 @ 18:42
+    Sep 09, 2020 @ 07:51
     
-*   Palestinian stabbing attack thwarted at West Bank Ariel junction
+*    Human tests on Oxford University covid-19 vaccine paused after an illness
     
-    Sep 06, 2020 @ 17:07
+    Sep 09, 2020 @ 07:35
     
-*   Israel’s covid-19 death toll crosses 1,000 mark
+*   Gamzu and Health Minister in quarantine
     
-    Sep 06, 2020 @ 10:33
+    Sep 09, 2020 @ 07:23
     
-*   Hottest day on record in Jerusalem
+*   Israel-UAE accord to be signed at White House on Sept. 15
     
-    Sep 06, 2020 @ 10:23
+    Sep 08, 2020 @ 21:39
     
-*   Hamas and Hizballah leaders meet in Beirut|
+*   Netanyahu apologizes for police cover-up in Al-Qiyan case
     
-    Sep 06, 2020 @ 09:57
+    Sep 08, 2020 @ 19:54
     
-*     Gamzu warns Arab communities to expect hundreds of fatalities
+*   Night curfew is enforced in 40 “red” Israeli towns and districts
     
-    Sep 05, 2020 @ 18:39
+    Sep 08, 2020 @ 18:09
     
-*   Two far-right US citizens charged with ties to Palestinian Hamas
+*   First Israel-UAE business deal for R&D on Covid-19
     
-    Sep 05, 2020 @ 13:42
+    Sep 08, 2020 @ 12:02
     
-*   Anti-Netanyahu protesters arrested stealing police barriers
+*   New Israeli record: 3,392 added covid-19 cases on Tuesday
     
-    Sep 05, 2020 @ 13:27
+    Sep 08, 2020 @ 10:18
     
 
-*   Hamas and Hizballah leaders meet in Beirut|
+*   Netanyahu apologizes for police cover-up in Al-Qiyan case
     
-    Sep 06, 2020 @ 09:57
+    Sep 08, 2020 @ 19:54
     
-*     Gamzu warns Arab communities to expect hundreds of fatalities
+*   Night curfew is enforced in 40 “red” Israeli towns and districts
     
-    Sep 05, 2020 @ 18:39
+    Sep 08, 2020 @ 18:09
     
-*   Two far-right US citizens charged with ties to Palestinian Hamas
+*   First Israel-UAE business deal for R&D on Covid-19
     
-    Sep 05, 2020 @ 13:42
+    Sep 08, 2020 @ 12:02
     
-*   Anti-Netanyahu protesters arrested stealing police barriers
+*   New Israeli record: 3,392 added covid-19 cases on Tuesday
     
-    Sep 05, 2020 @ 13:27
+    Sep 08, 2020 @ 10:18
     
-*   Ultra-Orthodox towns threaten to disobey lockdown order
+*   Iran builds new nuclear site to replace sabotaged Natanz facility
     
-    Sep 06, 2020 @ 18:42
+    Sep 09, 2020 @ 07:51
     
-*   Palestinian stabbing attack thwarted at West Bank Ariel junction
+*    Human tests on Oxford University covid-19 vaccine paused after an illness
     
-    Sep 06, 2020 @ 17:07
+    Sep 09, 2020 @ 07:35
     
-*   Israel’s covid-19 death toll crosses 1,000 mark
+*   Gamzu and Health Minister in quarantine
     
-    Sep 06, 2020 @ 10:33
+    Sep 09, 2020 @ 07:23
     
-*   Hottest day on record in Jerusalem
+*   Israel-UAE accord to be signed at White House on Sept. 15
     
-    Sep 06, 2020 @ 10:23
+    Sep 08, 2020 @ 21:39
     
-*   Hamas and Hizballah leaders meet in Beirut|
+*   Netanyahu apologizes for police cover-up in Al-Qiyan case
     
-    Sep 06, 2020 @ 09:57
+    Sep 08, 2020 @ 19:54
     
-*     Gamzu warns Arab communities to expect hundreds of fatalities
+*   Night curfew is enforced in 40 “red” Israeli towns and districts
     
-    Sep 05, 2020 @ 18:39
+    Sep 08, 2020 @ 18:09
     
-*   Two far-right US citizens charged with ties to Palestinian Hamas
+*   First Israel-UAE business deal for R&D on Covid-19
     
-    Sep 05, 2020 @ 13:42
+    Sep 08, 2020 @ 12:02
     
-*   Anti-Netanyahu protesters arrested stealing police barriers
+*   New Israeli record: 3,392 added covid-19 cases on Tuesday
     
-    Sep 05, 2020 @ 13:27
+    Sep 08, 2020 @ 10:18
     
-*   Ultra-Orthodox towns threaten to disobey lockdown order
+*   Iran builds new nuclear site to replace sabotaged Natanz facility
     
-    Sep 06, 2020 @ 18:42
+    Sep 09, 2020 @ 07:51
     
-*   Palestinian stabbing attack thwarted at West Bank Ariel junction
+*    Human tests on Oxford University covid-19 vaccine paused after an illness
     
-    Sep 06, 2020 @ 17:07
+    Sep 09, 2020 @ 07:35
     
-*   Israel’s covid-19 death toll crosses 1,000 mark
+*   Gamzu and Health Minister in quarantine
     
-    Sep 06, 2020 @ 10:33
+    Sep 09, 2020 @ 07:23
     
-*   Hottest day on record in Jerusalem
+*   Israel-UAE accord to be signed at White House on Sept. 15
     
-    Sep 06, 2020 @ 10:23
+    Sep 08, 2020 @ 21:39
     
 
 12PrevNext
