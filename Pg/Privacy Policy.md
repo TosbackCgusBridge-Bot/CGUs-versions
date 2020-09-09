@@ -17,7 +17,7 @@ Primary navigation
 Select LanguageShqipالعربيةAzərbaycan diliBosanskiБългарски简体中文繁體中文HrvatskiČeskyDanskNederlandsEnglishEestiSuomiFrançais (Canada)Français (Européen)ქართულიDeutschΕλληνικάעבריתMagyarItaliano日本語한국어КыргызчаLatviešuLietuviųмакедонскиBahasa MelayuМонголNorskPolskiPortuguês (Brasil)Português (Portugal)RomânăРусскийSrpskiSlovenčinaSlovenščinaEspañolEspañol (España)SvenskaТоҷикӣภาษาไทยTürkçeTurkmenУкраїнськаاردوЎзбекчаTiếng Việt
 
 P&G Global Consumer Privacy Policy  
-_Date last updated: 08/27/2020_  
+_Date last updated: 09/09/2020_  
 
 We work hard to build and maintain a relationship of trust with you. So, when it comes to handling your information, we do so carefully and sensibly, and in ways that live up to that trust. This policy lets you know how we do that, including what information we collect, how we use and protect it, and how you can decide what we do with it. Our goal is to help you understand how we use your information to improve our content, products, advertisements, and services.
 
@@ -600,11 +600,11 @@ For more information about the categories of personal information we collect, bu
 *   the categories of third parties with whom we shared the personal information. and
 *   the categories of personal information about you that we sold or disclosed for a business purpose, and the categories of third parties to whom we sold or disclosed that information for a business purpose.
 
-In addition, you have the right to request that we delete certain personal information we have collected from you. To submit a request for general disclosure **contact us here** , to access all the information we have about you **contact us here** or to ask to delete your data as described above you can **contact us here** or call us at **(877) 701-0404** in any case. To help protect your privacy and maintain security, we take steps to verify your identity before granting you access to your personal information or considering your deletion request. Upon receipt of your request, we will send you a verification form by email or postal mail. To complete your request, please respond to the verification form when you receive it. To verify your identity, we may require you to provide any of the following information: Name, email address, postal address, or date of birth. In addition, if you ask us to provide you with specific pieces of personal information, we will require you to sign a declaration under penalty of perjury that you are the consumer whose personal information is the subject of the request.
+In addition, you have the right to request that we delete certain personal information we have collected from you, submit a request for general disclosure or access all the information we have about you. To submit these requests, please contact us here or call us at (877) 701-0404 in any case. To help protect your privacy and maintain security, we take steps to verify your identity before granting you access to your personal information or considering your deletion request. Upon receipt of your request, we will send you a verification form by email or postal mail. To complete your request, please respond to the verification form when you receive it. To verify your identity, we may require you to provide any of the following information: Name, email address, postal address, or date of birth. In addition, if you ask us to provide you with specific pieces of personal information, we will require you to sign a declaration under penalty of perjury that you are the consumer whose personal information is the subject of the request.
 
 Please understand that P&G cannot delete personal information in those situations where our retention is required for our own internal business purposes or otherwise permitted by the CCPA (such as fraud prevention or legal compliance). In these situations, we will retain your information in accordance with our records retention program and securely delete it at the end of the retention period.
 
-Finally, you also have the right to opt out of the sale of your personal information. To exercise that right, please complete the process by **contacting us here** or call us at **(877) 701-0404**.
+Finally, you also have the right to opt out of the sale of your personal information. To exercise that right, please access our “Do Not Sale” center at the bottom of our webpages and contact us here or call us at (877) 701-0404.
 
 For more information about how we have shared your information with third parties such that it constitutes a “sale” under CCPA during the 12-month period prior to the date this privacy policy was last updated, please see the below chart. We do not knowingly sell personal information of minors under 16 years of age.
 
@@ -624,8 +624,6 @@ We sell this personal information to the following categories of third parties:
 *   Adtech companies such as our DSPs
 
 This data is shared for purposes of targeted advertising. These companies use that data to improve their products and services in accordance with their platform terms.
-
-To opt out of sales of your data, **click here** or call us at **(877) 701-0404**.
 
 If you want us to update our internal records so we do not share your personal information from our brand programs with a third party in a way that may be defined as a “sale,” click here or call us at **(877) 701-0404**.
 
@@ -650,7 +648,7 @@ Under the CCPA, you may designate an authorized agent to make a request on your 
   
 Contact Us
 
-Please contact us directly with any questions or concerns you may have about your privacy and our data protection practices or if you are a consumer with a disability and need a copy of this notice in an alternative format. If you have these or any other questions or concerns with respect to our processing of your personal information, you may also contact our Global Data Protection Officer at – Email: pgprivacyofficer.im@pg.com, Phone: +1 (513) 622-0103, Mailing Address: 1 Procter &. Gamble Plaza, Cincinnati, OH 45202, U.S.A.
+Please contact us directly with any questions or concerns you may have about your privacy and our data protection practices or if you are a consumer with a disability and need a copy of this notice in an alternative format.
 
   
 
