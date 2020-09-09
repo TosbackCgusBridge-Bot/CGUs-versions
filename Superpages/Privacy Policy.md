@@ -37,7 +37,6 @@ Pay Bills, View Reporting, Manage Your Listings
 *   About Us
 *   Clients
 *   Thryv® Corporate &. Investor Information
-*   Partners
 *   Contact Us
 
 *   Thryv
@@ -420,7 +419,6 @@ About
 *   Clients
 *   Corporate &. Investor Information
 *   Careers &. HR
-*   Partners
 *   Contact Us
 
 Products+
@@ -449,7 +447,6 @@ About+
 *   Clients
 *   Corporate &. Investor Information
 *   Careers &. HR
-*   Partners
 *   Contact Us
 
 Contact Us
