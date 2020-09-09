@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   WSLConf returns this week with worldwide sessions
 *   How Canonical remotely delivers and supports customer cloud deployments
 *   Tutorial: Getting Started with ROS
-*   Design and Web team summary – 2nd September 2020
