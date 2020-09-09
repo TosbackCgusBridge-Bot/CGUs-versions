@@ -57,13 +57,13 @@ View more results
     *   Combat Strike 2
     *   Miami Crime Simulator 3D
     *   Apple Shooter
-    *   Super Buddy Kick
     *   Stickman Fighter: Epic Battle
+    *   Super Buddy Kick
     *   Pixel Gun Apocalypse 3
     *   AZ
     *   Mr. Bullet
-    *   Deer Hunter
     *   Shot Trigger
+    *   Deer Hunter
 *   Adventure
     
     Top Categories
@@ -89,8 +89,8 @@ View more results
     *   Build Craft
     *   Crowd City
     *   Hook
-    *   Mine Clone 4
     *   Troll Face Quest: Horror 2
+    *   Mine Clone 4
     *   Zombie Mission: 2 Player
     *   Money Mover Maker
 *   Puzzle
@@ -143,14 +143,14 @@ View more results
     *   Beach Kiss
     *   Mermaid Sauna Flirting
     *   Pizza Real Life Cooking
-    *   Cake Design
     *   Mommy BFFs: Pregnant Check-Up
+    *   Cake Design
     *   How To Become Popular at School with Princess
     *   Princess Hard Times
     *   Goldie: Lip Injections
     *   Bad Teeth Makeover
     *   Sweetland Salon
-    *   Floral Real Life Manicure
+    *   Cooking: Korean Lesson
 *   Racing
     
     Top Categories
@@ -178,8 +178,8 @@ View more results
     *   City Car Stunts 2
     *   Moto X3m 2
     *   Moto X3m 3
-    *   Off-Roader V6
     *   Two Punk Racing
+    *   Off-Roader V6
 *   Sports
     
     Top Categories
