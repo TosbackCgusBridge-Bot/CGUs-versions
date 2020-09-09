@@ -9,16 +9,15 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
-    *   Tenet
-    *   Honest Thief (2020)
-    *   The Argument (2020)
-    *   Critical Thinking (2020)
-    *   My Brothers' Crossing
+    *   The Broken Hearts Gallery
+    *   I Am Woman (2020)
+    *   Jimmy Carter: Rock &. Roll President
+    *   Rent-A-Pal
+    *   Sibyl
     *   See All Opening This Week
     
     Coming Soon
     
-    *   The Broken Hearts Gallery
     *   Wonder Woman 1984
     *   Candyman (2020)
     *   The War with Grandpa
@@ -51,7 +50,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
-    *   What to Watch on FandangoNOW: ‘Fatima,’ a New Robin Williams Documentary and More Read More
+    *   What to Watch on FandangoNOW: Willem Dafoe in ‘Tommaso,’ the Helen Reddy Biopic ‘I Am Woman’ and More Read More
     *   This Week in Movie News: Paul Thomas Anderson Casts Philip Seymour Hoffman’s Son and More Read More
     
     Explore Content
@@ -467,6 +466,14 @@ Offers
 *   Get a Retro Movie
     
     When you buy 3 specially marked General Mills items at Target between 8/29-10/3. SEE DETAILS
+    
+*   Get $5 Off Towards a Movie Download
+    
+    when you purchase 3 participating Suave products 9/1-10/31 at Walmart or Walmart.com. SEE DETAILS
+    
+*   Get a FandangoNOW $10 Movie Code
+    
+    when you purchase 2 participating Advil products 8/5- 9/30 at Walmart or Walmart.com. SEE DETAILS
     
 
 New + Coming soon
