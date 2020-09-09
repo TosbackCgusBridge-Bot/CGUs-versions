@@ -125,9 +125,9 @@ Lenovo Explore Close
         
         Shop deals on tablets and smart devices for home or work
         
-        Sitewide: 10% Off Tablets
+        Yoga Smart Tab
         
-        Save up to an additional 10% off almost all Tablets using the code LENOVOTAB10!
+        Premium 2-in-1 Tablet Exclusive to Lenovo.com
         
     *   Accessories &. Software
         
