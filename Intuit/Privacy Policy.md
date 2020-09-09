@@ -1,14 +1,15 @@
 Our COVID-19 response Details  
-Last day—Labor Day Sale! EXTRA 30% OFF w/ code: ACTNOW9 Shop All  
+EXTRA 25% OFF $75 or more with code: TOSAVE44 Details  
+EXTRA 20% OFF under $75 with code: TOSAVE44 Details  
 Free Shipping Over $49  DetailsOur COVID-19 response Details  
-Last day—Labor Day Sale! EXTRA 30% OFF w/ code: ACTNOW9 Shop All  
+EXTRA 25% OFF $75 or more with code: TOSAVE44 Details  
 
 Enable Accessibility
 
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   Back to School
 *   Home &. Lifestyle
@@ -22,21 +23,13 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-BeddingBring in a pop of print to the bedroom.WindowAdd some dimension with floor-length curtains.RugsSpruce up the floors with a statement rug.Kitchen &. DiningTreat yourself to chef-worthy cookware.**Time for a closet refresh!** Starting at $5.99select stylesTops For HerPants For HerShirts For HimPants For Him35-60% OFF Fine Jewelry+ EXTRA 35% OFF\* with **JCPenney Credit Card** &. coupon or code: **4JEWELS**  
-select styles\*Exclusions, details &. coupon
+**Prep, cook, store**  
+UP TO 30% OFF to get meal prepoff to a good start.  
+select styles
 
 *   Shop All
 
-*   Diamond Jewelry
-    
-*   Gemstone Jewelry
-    
-*   Gold &. Silver Jewelry
-    
-*   Modern Bride Jewelry
-    
-
-Shop AllJuniorsYoung MenKidsBackpacksHomeschoolDorm their wayCozy styles to create their own space, home or away.select styles
+Slow CookersFood StorageCookwarePressure CookersHome Office FurnitureDecorTech &. GadgetsStorage &. OrganizationJuniorsYoung MenKidsBackpacksHomeschoolDorm their wayCozy styles to create their own space, home or away.select styles
 
 *   Shop All
 
@@ -49,30 +42,69 @@ Shop AllJuniorsYoung MenKidsBackpacksHomeschoolDorm their wayCozy styles to crea
 *   Storage &. Organization
     
 
-Shop AllWomen's a.n.aMen's St. John's BayGirls' ArizonaBoys' Arizona25% OFF adidas &. Champion for the kiddos!select styles | Excluded from coupons. Boys' adidas apparelGirls' adidas apparelBoys' Champion apparelGirls' Champion apparel**Protect yourself &. others!**$9 Face masks**select styles**
+Shop AllShop GirlsShop JuniorsShop Young MenShop BoysUP TO 30% OFFFamily meal-time essentialsAn extra-special weeknight dinner.select styles
 
 *   Shop All
 
-Women's DressesWomen's CareerJuniorsWindowWomenMenBaby &. KidsShoes
+*   Furniture
+    
+*   Dinnerware
+    
+*   Glassware
+    
+*   Flatware
+    
 
-\*Buy one item at regular price, get the second item of equal or lesser value for either 50% off or free, as advertised in the specific offer. Some items must be same category of merchandise or same gender. See store associate or jcp.com for details.
+Shop AllUP TO 40% OFFEasy picks, plentiful optionsselect styles
 
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+*   Women's Tops
+*   Women's Jeans
 
-*   Home Expressions Tiles Complete Bedding Set with Sheets $34.99 - $55.99with code~$110 - $170~340
+Super-cool essentialsUP TO 40% OFF  
+select styles
+
+*   Men's Shirts
+*   Men's Jeans
+
+Baby &. Toddler Sale40% OFF clothing  
+select styles
+
+*   Shop All
+
+**UP TO 70% OFF Fine jewelry**After EXTRA 30% OFF\* with **JCPenney Credit Card** &. code: **SPARKLE6**select styles\*Exclusions, details &. coupon
+
+*   Shop All
+
+*   Diamond Jewelry
+    
+*   Gemstone Jewelry
+    
+*   Gold &. Silver Jewelry
+    
+*   Modern Bride Jewelry
+    
+
+Shop All  
+NEW brands to love!Available Now at Sephora inside JCPenneyExcluded from coupons.Introducing Ouidad!**Protect yourself &. others!**$9 Face masks**select styles**
+
+*   Shop All
+
+Women's DressesWomen's CareerJuniorsWindowWomenMenBaby &. KidsShoes Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   Home Expressions Tiles Complete Bedding Set with Sheets $82.50 - $127.50with code340
 *   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
     
     $29.99sale
     
     ~$85~4
-*   Skeleton Family Womens Pant Pajama Set 2-pc. Long Sleeve $17.49with code~$44~
 *   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
     
     $4.99 - $27.99sale
     
-    ~$16 - $40~1251
-*   JCPenney Home Emma Quilt $38.49 - $52.49with code~$100 - $140~435
-*   JCPenney Home™ Ultima Bath Rug Collection $13.99 - $41.99with code~$34 - $90~713
+    ~$16 - $40~1252
+*   JCPenney Home Emma Quilt $75 - $105with code435
+*   Liz Claiborne Womens Split Crew Neck Short Sleeve Blouse $14.39with code~$30~2
+*   JCPenney Home™ Ultima Bath Rug Collection $27.20 - $67.50with code713
 
 Shop and Save at JCPenney
 
