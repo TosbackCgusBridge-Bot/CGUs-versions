@@ -8,7 +8,7 @@ Skip to main content Open menu button Primary nav
 *   Players
 *   Stats
 *   Standings
-*   Training Camp
+*   Kickoff
 *   NFL Network
 *   Fantasy
 *   Tickets
