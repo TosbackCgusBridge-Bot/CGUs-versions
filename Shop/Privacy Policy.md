@@ -468,18 +468,21 @@ Lenovo Explore Close
         *   Price Match Guaranteed
         *   Easy Returns
         
-        *   Explore Smart Home
+        *   Smart Home Displays
+        *   Lenovo Smart Clock Essential
+        *   Lenovo Smart Frame
         *   Lenovo Smart Clock
+        *   Smart Tab with Amazon Alexa
+        *   Smart Tab with the Google Assistant
         *   Lenovo Smart Display
-        *   Lenovo Smart Tab
-        *   Yoga Smart Tab
         
-        *   Explore Smart Accessories
-        *   Smart Home Accessories
+        *   Smart Home Products
+        *   Lenovo Smart Accessories
+        *   Other Smart Products
         
-        Yoga Smart Tab Bundles
+        Yoga Smart Tab
         
-        Shop Now for Premium Yoga Smart Tab Bundle Offers
+        Shop the Premium Yoga Smart Tab with the Google Assistant!
         
         Smart Home Deals
         
@@ -509,31 +512,6 @@ Lenovo Explore Close
         Join for Free!
         
         Receive additional savings on any Smart Device or Tablet
-        
-    *   AR/VR
-        
-        *   Always Free Shipping
-        *   Earn 3% rewards on all purchases
-        *   Price Match Guaranteed
-        *   Easy Returns
-        
-        *   Explore AR/VR
-        *   Marvel: Dimension of Heroes
-        *   Star Wars: Jedi Challenges
-        *   Oculus Rift S
-        *   Mirage Headset &. Mirage Camera
-        
-        Marvel: Dimension of Heroes
-        
-        Defend Your Reality in MARVEL Dimension of Heroes.
-        
-        Star Wars: Jedi Challenges
-        
-        Bundle and Save with the Jedi Duel Bundle!
-        
-        Oculus Rift S
-        
-        Blast, slash and soar your way through our incredible VR gaming library.
         
     *   Support
         
@@ -1325,4 +1303,4 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacyCookie Consent ToolSite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Lenovo uses cookies to understand how you use our website, improve your experience, and offer you personalized advertisements. Visit our Cookie Consent Tool to manage your preferences, and visit our privacy policy for more information.AcceptOptions
+© 2019   Lenovo.All rights reserved Print this PagePrivacyCookie Consent ToolSite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement
