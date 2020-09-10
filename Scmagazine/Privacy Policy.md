@@ -245,23 +245,23 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   China pushes new global data security initiative, decrying US 'politicizing' the issue
+    *   Apple notarization process, meant to protect, approved Shlayer malware
     *   Homeland Security announces 5G strategy to manage the pending digital overhaul
-    *   Box security chief: Define your boundaries of trust
-    *   Why companies need to lock down IoT systems
-    *   Complex new attack targets managed service providers, hiding in Google traffic
+    *   Slack users unwittingly phished with malicious payloads
+    *   SC In Focus: Actionable threat intelligence
+    *   1,200 iOS apps unknowingly handing over dollars to Chinese ad platform
     
-    *   Socioeconomic status and cyber: the new 'digital divide'
-    *   Attackers could exploit flaws in MAGMI Magento plugin to hijack admin sessions
-    *   LinkedIn and Gusto security chiefs talk about their roles as 'social worker'
-    *   Carnival left to right the ship after breaches threaten travelers' trust
-    *   How, and when, to hand down consequences to employees for breaching security policy
+    *   Enlist the security community to safeguard our elections this fall
+    *   Apple notarization process, meant to protect, approved Shlayer malware
+    *   Hacker-for-hire groups profit from the commoditization of APTs
+    *   Tesla employee rejected a $1 million bribe to install malware
+    *   Homeland Security announces 5G strategy to manage the pending digital overhaul
     
-    *   Adobe patches for critical flaws should be applied right away
+    *   Hacker-for-hire groups profit by commoditizing APT tactics
+    *   Adobe releases update to patch critical flaws that could leave networks, data vulnerable
     *   Microsoft fixes 129 flaws, 23 critical, in massive Patch Tuesday
+    *   No more excuses: how to build a diverse workforce now
     *   Divisive political climate stirs up hacktivist activity, and businesses are not immune
-    *   How to use cybersecurity to accelerate growth
-    *   Socioeconomic status and cyber: the new 'digital divide'
 
 Back to Top
 
