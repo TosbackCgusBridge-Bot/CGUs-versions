@@ -139,3 +139,4 @@ Privacy policy change history
 *   Global Privacy Practices
 *   Data Retention and Deletion
 *   Privacy Policy Changes
+*   How to Submit Access and Deletion Requests
