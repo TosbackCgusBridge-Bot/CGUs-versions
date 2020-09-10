@@ -53,12 +53,12 @@ View more results
     *   Subway Clash 3D
     *   Stickman Archer 2
     *   Warbanner
-    *   Total Front
     *   Combat Strike 2
+    *   Total Front
     *   Miami Crime Simulator 3D
+    *   Super Buddy Kick
     *   Apple Shooter
     *   Stickman Fighter: Epic Battle
-    *   Super Buddy Kick
     *   Pixel Gun Apocalypse 3
     *   AZ
     *   Mr. Bullet
@@ -81,8 +81,8 @@ View more results
     All Adventure Best Games
     *   Square Bird
     *   Fireboy and Watergirl 5: Elements
-    *   Draw Climber
     *   World Craft 2
+    *   Draw Climber
     *   Miami Crime Simulator 3D
     *   Boeing Flight Simulator
     *   The Last Survivors: 2 Player Zombie Game
@@ -149,8 +149,8 @@ View more results
     *   Princess Hard Times
     *   Goldie: Lip Injections
     *   Bad Teeth Makeover
-    *   Sweetland Salon
     *   Cooking: Korean Lesson
+    *   Sweetland Salon
 *   Racing
     
     Top Categories
@@ -168,18 +168,18 @@ View more results
     All Racing Best Games
     *   Madalin Stunt Cars 2
     *   Hill Racing Challenge
-    *   Moto X3M: Motorcycle Racing Game
     *   Madalin Cars Multiplayer
+    *   Moto X3M: Motorcycle Racing Game
     *   Xcross Madness
     *   Drag Racing Rivals
     *   Maximum Acceleration
     *   Road Crash
     *   Cars 3D
-    *   City Car Stunts 2
     *   Moto X3m 2
+    *   City Car Stunts 2
     *   Moto X3m 3
     *   Two Punk Racing
-    *   Off-Roader V6
+    *   Murder
 *   Sports
     
     Top Categories
