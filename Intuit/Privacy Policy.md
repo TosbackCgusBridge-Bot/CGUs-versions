@@ -9,9 +9,9 @@ Enable Accessibility
 *   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
-*   Back to School
+*   School Essentials
 *   Home &. Lifestyle
 *   Women
 *   Men
@@ -29,20 +29,7 @@ select styles
 
 *   Shop All
 
-Slow CookersFood StorageCookwarePressure CookersHome Office FurnitureDecorTech &. GadgetsStorage &. OrganizationJuniorsYoung MenKidsBackpacksHomeschoolDorm their wayCozy styles to create their own space, home or away.select styles
-
-*   Shop All
-
-*   Comforters &. Bedding Sets
-    
-*   Sheets
-    
-*   Bedding Basics
-    
-*   Storage &. Organization
-    
-
-Shop AllShop GirlsShop JuniorsShop Young MenShop BoysUP TO 30% OFFFamily meal-time essentialsAn extra-special weeknight dinner.select styles
+Slow CookersFood StorageCookwarePressure CookersHome Office FurnitureDecorTech &. GadgetsStorage &. OrganizationUP TO 30% OFFFamily meal-time essentialsAn extra-special weeknight dinner.select styles
 
 *   Shop All
 
@@ -59,15 +46,30 @@ Shop AllUP TO 40% OFFEasy picks, plentiful optionsselect styles
 
 *   Women's Tops
 *   Women's Jeans
+*   Shop All
 
-Super-cool essentialsUP TO 40% OFF  
-select styles
+UP TO 40% OFF  
+Super-cool essentialsselect styles
 
 *   Men's Shirts
 *   Men's Jeans
+*   Shop All
 
-Baby &. Toddler Sale40% OFF clothing  
-select styles
+JuniorsYoung MenKidsBackpacksHomeschoolDorm their wayCozy styles to create their own space, home or away.select styles
+
+*   Shop All
+
+*   Comforters &. Bedding Sets
+    
+*   Sheets
+    
+*   Bedding Basics
+    
+*   Storage &. Organization
+    
+
+Shop AllShop GirlsShop JuniorsShop Young MenShop Boys40% OFF clothing  
+Baby &. Toddler Saleselect styles
 
 *   Shop All
 
@@ -91,20 +93,12 @@ NEW brands to love!Available Now at Sephora inside JCPenneyExcluded from coupons
 
 Women's DressesWomen's CareerJuniorsWindowWomenMenBaby &. KidsShoes Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Home Expressions Tiles Complete Bedding Set with Sheets $82.50 - $127.50with code340
-*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
-    
-    $29.99sale
-    
-    ~$85~4
-*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
-    
-    $4.99 - $27.99sale
-    
-    ~$16 - $40~1252
 *   JCPenney Home Emma Quilt $75 - $105with code435
-*   Liz Claiborne Womens Split Crew Neck Short Sleeve Blouse $14.39with code~$30~2
-*   JCPenney Home™ Ultima Bath Rug Collection $27.20 - $67.50with code713
+*   Liz Claiborne Classics Lolla 3-pc. Lightweight Reversible Comforter Set $74.99 - $89.99with code~$170 - $200~15
+*   JCPenney Home Sullivan Ombre Blackout Grommet-Top Single Curtain Panel $33.59 - $44.79with code~$60 - $80~32
+*   Home Expressions Tiles Complete Bedding Set with Sheets $82.50 - $127.50with code340
+*   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745 $19.99with code~$36~1794
+*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $33.59 - $50.39with code~$60 - $90~129
 
 Shop and Save at JCPenney
 
