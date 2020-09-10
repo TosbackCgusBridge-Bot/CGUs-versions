@@ -38,8 +38,6 @@ Search fidelity.com or get a quote
     *   Tax Forms &. Information
     *   Retirement DistributionsLog In Required
     *   Fidelity Rewards+Log In Required
-    *   Investor Community
-    *   Investor Community
 *   Planning &. Advice
     *   What We Offer
     *   My Goals
