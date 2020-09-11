@@ -245,23 +245,23 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
+    *   Five tips for managing information security in the post-COVID world
+    *   Complex new attack targets managed service providers, hiding in Google traffic
+    *   SC In Focus: Watch actionable threat intelligence
     *   Apple notarization process, meant to protect, approved Shlayer malware
-    *   Homeland Security announces 5G strategy to manage the pending digital overhaul
-    *   Slack users unwittingly phished with malicious payloads
-    *   SC In Focus: Actionable threat intelligence
-    *   1,200 iOS apps unknowingly handing over dollars to Chinese ad platform
-    
-    *   Enlist the security community to safeguard our elections this fall
-    *   Apple notarization process, meant to protect, approved Shlayer malware
-    *   Hacker-for-hire groups profit from the commoditization of APTs
     *   Tesla employee rejected a $1 million bribe to install malware
-    *   Homeland Security announces 5G strategy to manage the pending digital overhaul
     
+    *   Attackers could exploit flaws in MAGMI Magento plugin to hijack admin sessions
+    *   How to use cybersecurity to accelerate growth
+    *   Trump's agenda promises 'great cybersecurity.' What does that mean?
+    *   What's really changed three years after Equifax breach?
+    *   Is the electric grid closer to a devastating cyberattack that could mean lights out?
+    
+    *   What's really changed three years after Equifax breach?
+    *   New Zeppelin strand avoids AV detection with trojan downloader
     *   Hacker-for-hire groups profit by commoditizing APT tactics
     *   Adobe releases update to patch critical flaws that could leave networks, data vulnerable
     *   Microsoft fixes 129 flaws, 23 critical, in massive Patch Tuesday
-    *   No more excuses: how to build a diverse workforce now
-    *   Divisive political climate stirs up hacktivist activity, and businesses are not immune
 
 Back to Top
 
