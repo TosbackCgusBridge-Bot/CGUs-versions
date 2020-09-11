@@ -22,7 +22,10 @@ Skip to main content Open menu button Primary nav
     *   En Español
     *   Inspire Change
 
-Inspire Change Kickoff Action related nav
+*   Inspire Change
+*   Kickoff
+
+Action related nav
 
 *   NFL Network
 *   Fantasy
