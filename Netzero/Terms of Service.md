@@ -412,7 +412,7 @@ This section describes what rights you and NetZero possess if you and NetZero ha
 
 A list of ways to contact NetZero is available at https://www.netzero.net/support/support.html.  
   
-NetZero Home | My NetZero | Help | My Account | Corporate | Join Now | Site Map About NetZero | About United Online | Our Services | Investors | Press | Privacy Policy | Your Privacy Rights | About Ads | Terms of Service  
+NetZero Home | My NetZero | Help | My Account | Corporate | Join Now | Site Map About NetZero | About United Online | Our Services | Investors | Press | Privacy Policy | Your Privacy Rights: Do Not Sell My Info | About Ads | Terms of Service  
 United Online NetZero | Juno | MySite
 
 © 1998-2020NetZero, Inc. NetZero is a registered trademark, and the NetZero logo is a trademark of NetZero, Inc.
