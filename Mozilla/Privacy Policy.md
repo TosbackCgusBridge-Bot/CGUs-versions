@@ -28,12 +28,6 @@ Download Firefox — English (US)
 *   Android
 *   iOS
 
-Your system doesn't meet the requirements to run Firefox.
-
-Your system doesn't meet the requirements to run Firefox.
-
-Please follow these instructions to install Firefox.
-
 *   **Download Firefox**
 *   **Download Firefox**
 *   **Download Firefox**
