@@ -1,15 +1,14 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Save on the looks you have been eyeing all season long during Labor Day Sale. shop now. In style and on budget denim that is now an extra 10% off. shop now For the most up-to-date store information check here. Due to circumstances outside of our control you could potentially see impacts to deliveries.
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Falling for New arrivals. shop now Due to circumstances outside of our control you could potentially see impacts to deliveries. For the most up-to-date store information check here.
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
-*   Due to circumstances outside of our control you could potentially see impacts to deliveries.
-*   Save on the looks you have been eyeing all season long during Labor Day Sale. shop now.
-*   In style and on budget denim that is now an extra 10% off. shop now
 *   For the most up-to-date store information check here.
+*   Falling for New arrivals. shop now
 *   Due to circumstances outside of our control you could potentially see impacts to deliveries.
-*   Save on the looks you have been eyeing all season long during Labor Day Sale. shop now.
+*   For the most up-to-date store information check here.
+*   Falling for New arrivals. shop now
 
 *   Women
 *   Men
@@ -31,6 +30,7 @@
         *   Brill Boutique
         *   Buckle Exclusives
         *   Gift Cards
+        *   Rock Revival Collector's Series
         *   Shop by Outfits
         *   Special Offers
         *   The Comfy Shop
@@ -106,10 +106,12 @@
         *   SHOP ALL MEN'S
         *   New Arrivals
         *   Buckle Exclusives
-        *   Gift Cards
         *   Men's Brands
-        *   Shop by Outfit
+        *   Now Trending
         *   Special Offers
+        *   Shop by Outfit
+        *   Rock Revival Collector's Series
+        *   Gift Cards
         
         *   Clothing
         
