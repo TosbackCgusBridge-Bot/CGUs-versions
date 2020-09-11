@@ -29,7 +29,7 @@ select styles
 
 *   Shop All
 
-Slow CookersFood StorageCookwarePressure CookersHome Office FurnitureDecorTech &. GadgetsStorage &. OrganizationUP TO 30% OFFFamily meal-time essentialsAn extra-special weeknight dinner.select styles
+Slow CookersFood StorageCookwarePressure CookersSmall Space FurnitureDecorBeddingStorage &. OrganizationUP TO 30% OFFFamily meal-time essentialsAn extra-special weeknight dinner.select styles
 
 *   Shop All
 
@@ -55,20 +55,11 @@ Super-cool essentialsselect styles
 *   Men's Jeans
 *   Shop All
 
-JuniorsYoung MenKidsBackpacksHomeschoolDorm their wayCozy styles to create their own space, home or away.select styles
+Women's DressesWomen's CareerJuniorsWindowWomenMenBaby &. KidsShoesJuniorsYoung MenKidsBackpacksHomeschoolShop GirlsShop JuniorsShop Young MenShop Boys40% OFF Comfort shoesAll-around style, wherever you go!select styles I Clarks excluded from coupons.
 
 *   Shop All
 
-*   Comforters &. Bedding Sets
-    
-*   Sheets
-    
-*   Bedding Basics
-    
-*   Storage &. Organization
-    
-
-Shop AllShop GirlsShop JuniorsShop Young MenShop Boys40% OFF clothing  
+40% OFF clothing  
 Baby &. Toddler Saleselect styles
 
 *   Shop All
@@ -87,18 +78,27 @@ Baby &. Toddler Saleselect styles
     
 
 Shop All  
-NEW brands to love!Available Now at Sephora inside JCPenneyExcluded from coupons.Introducing Ouidad!**Protect yourself &. others!**$9 Face masks**select styles**
+NEW brands to love!Available Now at Sephora inside JCPenneyExcluded from coupons.Introducing Ouidad!Protect yourself &. others!$9 Face Masks  
+select styles
 
 *   Shop All
 
-Women's DressesWomen's CareerJuniorsWindowWomenMenBaby &. KidsShoes Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   JCPenney Home Emma Quilt $75 - $105with code435
-*   Liz Claiborne Classics Lolla 3-pc. Lightweight Reversible Comforter Set $74.99 - $89.99with code~$170 - $200~15
-*   JCPenney Home Sullivan Ombre Blackout Grommet-Top Single Curtain Panel $33.59 - $44.79with code~$60 - $80~32
-*   Home Expressions Tiles Complete Bedding Set with Sheets $82.50 - $127.50with code340
+*   Home Expressions Tiles Complete Bedding Set with Sheets $39.99 - $59.99with code~$110 - $170~340
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
+    
+    $29.99sale
+    
+    ~$85~4
+*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
+    
+    $4.99 - $27.99sale
+    
+    ~$16 - $40~1252
 *   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745 $19.99with code~$36~1794
-*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $33.59 - $50.39with code~$60 - $90~129
+*   JCPenney Home Emma Quilt $43.99 - $59.99with code~$100 - $140~435
+*   JCPenney Home™ Ultima Bath Rug Collection $27.20 - $67.50with code713
 
 Shop and Save at JCPenney
 
