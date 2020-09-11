@@ -182,21 +182,26 @@ privacy@support.juno.com.
   
 The information we collect from users is processed and maintained in the United States, where privacy laws may not be as protective as in your home country. If you are using our Sites or Services from outside of the United States, by providing information to us you are consenting to the transfer of the information to the United States for processing in a manner consistent with this Policy.If you are accessing this website from a European Union member state, you have the right to object to the collection and processing of your personal data as set forth in this Privacy Policy, and if you wish to do so please notify us at privacy@support.juno.com. Please bear in mind that if you object this may affect our ability to provide you with the Services.  
   
-**Opting Out of Targeted Advertisements** _Updated July 15, 2020_  
+**Opting Out of Targeted Advertisements** _Updated September 10, 2020_  
   
-Please click on the links below to identify those companies that have placed an advertising cookie on your computer, mobile device or other similar device, and to determine how to opt out from receiving targeted advertisements from those companies.  
+Please click on the links below to identify those companies that have placed an advertising cookie on your computer, mobile device or other similar device, and to determine how to opt out from receiving targeted advertisements from those companies.
+
+*   Digital Advertising Alliance: http://www.aboutads.info/choices  
+      
+    
+*   Network Advertising Initiative: http://www.networkadvertising.org/managing/opt\_out.asp  
+      
+    
+*   LiveRamp (People Based Marketing): https://optout.liveramp.com/opt\_out  
+      
+    
+*   Your Privacy Rights - Do Not Sell My Info: https://www.juno.com/start/landing.do?page=www/legal/yourprivacyrights  
+      
+    
+
   
-Digital Advertising Alliance: http://www.aboutads.info/choices  
   
-Network Advertising Initiative: http://www.networkadvertising.org/managing/opt\_out.asp  
-  
-Your Privacy Rights - Do Not Sell My Info: https://www.juno.com/start/landing.do?page=www/legal/yourprivacyrights  
-  
-  
-  
-  
-  
-Juno Home | My Juno | Help | My Account | Corporate | Join Now About Juno | About United Online | Our Services | Investors | Press | Privacy Policy | Your Privacy Rights | About Ads | Terms of Service  
+Juno Home | My Juno | Help | My Account | Corporate | Join Now About Juno | About United Online | Our Services | Investors | Press | Privacy Policy | Your Privacy Rights: Do Not Sell My Info | About Ads | Terms of Service  
 United Online NetZero | Juno | MySite
 
 © 1995-2020Juno Online Services, Inc. Juno is a registered trademark, and the Juno logo is a trademark of Juno Online Services, Inc.
