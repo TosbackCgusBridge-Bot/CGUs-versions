@@ -49,7 +49,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   Check Out This Behind the Scenes Look at 'Bad Boys For Life' Read More
+    *   2020 Toronto International Film Festival Preview Read More
     *   What to Watch on FandangoNOW: Willem Dafoe in ‘Tommaso,’ the Helen Reddy Biopic ‘I Am Woman’ and More Read More
     *   This Week in Movie News: Paul Thomas Anderson Casts Philip Seymour Hoffman’s Son and More Read More
     
