@@ -25,7 +25,6 @@ Close submenu ( Girls ) Girls
 *   Dresses + Jumpsuits
 *   Matching Sets
 *   Jackets
-*   Swimwear
 *   Accessories
 *   Shoes
 *   Bras + Undies
@@ -37,7 +36,6 @@ Close submenu ( Girls ) Girls
 Close submenu ( Collections ) Collections
 
 *   View All
-*   Summerbusters
 *   New Arrivals
 *   Lounge Life
 *   Seamless
@@ -60,6 +58,7 @@ Close submenu ( Guys ) Guys
 *   Jeans
 *   Jackets
 *   Accessories
+*   Flip Flops + Slides
 *   Underwear
 *   Cologne
 *   Clearance
@@ -69,7 +68,6 @@ Close submenu ( Guys ) Guys
 Close submenu ( Collections ) Collections
 
 *   View All
-*   Summerbusters
 *   New Arrivals
 *   Face Coverings
 *   New Aero Logo
@@ -201,7 +199,7 @@ Close submenu ( Guys ) Guys
 *   Bottoms
 *   Accessories
 
-Buy 5+ Uniform Styles, Get 15% Off + Free Ship Over $50 Details
+Buy 1 Get 1 Free Jeans + FS $50 Details
 
 *   Select Country
 *   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
@@ -218,7 +216,6 @@ Menu Find a Store Aeropostale
     *   Dresses + Jumpsuits
     *   Matching Sets
     *   Jackets
-    *   Swimwear
     *   Accessories
     *   Shoes
     *   Bras + Undies
@@ -227,7 +224,6 @@ Menu Find a Store Aeropostale
     
     *   Collections
         *   View All
-        *   Summerbusters
         *   New Arrivals
         *   Lounge Life
         *   Seamless
@@ -249,13 +245,13 @@ Menu Find a Store Aeropostale
     *   Jeans
     *   Jackets
     *   Accessories
+    *   Flip Flops + Slides
     *   Underwear
     *   Cologne
     *   Clearance
     
     *   Collections
         *   View All
-        *   Summerbusters
         *   New Arrivals
         *   Face Coverings
         *   New Aero Logo
@@ -401,175 +397,69 @@ More Inclusive Future. Learn More
 
 Next
 
-SUMMER BLOWOUT
+In Stores &. Online
 
-EXTENDED!
+50-70% OFF  
+NEW ARRIVALS!
+
+The freshest denim, softest hoodies  
+and coolest cropped sweaters.
+
+Girls New Arrivals Guys New Arrivals Shop Girls Shop Guys
 
 In Stores &. Online
 
-EXTRA 15% OFF
+50 - 70% OFF NEW ARRIVALS!
 
-$80 or more Including Tops &. Shorts Summerbusters $5.87 &. Up
+The freshest denim, softest hoodies, and coolest cropped sweaters.
 
-Online Code: **LNGWKND**
-
-In Store Code: **50046055**
-
-Girls Summerbusters Guys Summerbusters Shop Girls Shop Guys Store Locator
+Girls New Arrivals Guys New Arrivals Shop Girls Shop Guys
 
 AERO JEANS
 
-BUY 1 GET 1 FREE  
-\+ FREE SHIPPING
+BUY 1 GET 1 FREE\*  
+\+ FREE SHIPPING\*\*
 
-\* In store &. online. Add two to cart. Discount reflected at checkout. Excludes clearance.  
-\*\* Free shipping on your entire purchase when you buy Aero Jeans.
+**Denim All Day. Denim Always.**
 
-Shop Girls Shop Guys
+With A New &. Improved Booty-lifting  
+Fit For Her &. Extra Leg Room For Him.
 
 AERO JEANS
 
-BUY 1 GET 1 FREE  
-\+ FREE SHIPPING
+BUY 1 GET 1 FREE\*  
+\+ FREE SHIPPING\*\*
 
-\* In store &. online. Add two to cart. Discount reflected at checkout. Excludes clearance.  
+**Denim All Day. Denim Always.**
+
+With a new &. improved booty-lifting fit for her &. extra leg room for him.
+
+Shop Girls Jeans Shop Guys Jeans Shop Super High Rise Shop Athletic Skinny
+
+\* In store &. online only. Add two to cart. Discount reflected at checkout. Excludes clearance.
+
 \*\* Free shipping on your entire purchase when you buy Aero Jeans.
 
-Shop Girls Shop Guys Previous
+\* In store &. online only. Add two to cart. Discount reflected at checkout. Excludes clearance.
 
-Curvy
+\*\* Free shipping on your entire purchase when you buy Aero Jeans.
 
-High Rise Jeggings
+Shop Girls Jeans Shop Guys Jeans Shop Super High Rise Shop Athletic Skinny
 
-Boyfriend
+JUST CHILL
 
-Super High Rise
+Work Hard, Chill Harder.  
+Extreme Comfort  
+Meets Everyday Ease  
+In Our Softest-Ever  
+Leggings &. Fleece.
 
-Skinny
+JUST CHILL
 
-Cheeky  
-**Online Only**
+Work hard, chill harder. Extreme comfort meets  
+everyday ease in our softest-ever leggings &. fleece.
 
-Cheeky  
-**Online Only**
-
-Skater  
-**Online Only**
-
-Skater  
-**Online Only**
-
-Bootcut  
-**Online Only**
-
-Bootcut  
-**Online Only**
-
-Curvy
-
-High Rise Jeggings
-
-Boyfriend
-
-Super High Rise
-
-Skinny
-
-Cheeky  
-**Online Only**
-
-Cheeky  
-**Online Only**
-
-Next
-
-**PREMIUM SERIOUSLY  
-STRETCHY**
-
-**PREMIUM  
-SERIOUSLY STRETCHY**
-
-Eco-friendly stretch for feel-good do-good comfort.
-
-Shop Seriously Stretchy Shop Girls Jeans Seriously Stretchy Shop Girls Jeans
-
-**NEW!  
-COOLMAX®TECHNOLOGY**
-
-**NEW! COOLMAX®  
-TECHNOLOGY**
-
-Our NEW quick-dry denim moves moisture away from the  
-body, so you can stay cool and comfortable 24/7.
-
-Our NEW quick-dry denim moves  
-moisture away from the body, so you  
-can stay cool and comfortable 24/7.
-
-Shop COOLMAX® Shop Guys Jeans
-
-COOLMAX® is a trademark of the LYCRA Company
-
-COOLMAX® is a trademark of the LYCRA Company
-
-Previous
-
-90s Dad  
-**Online Only**
-
-Relaxed  
-**Online Only**
-
-Loose  
-**Online Only**
-
-Super Skinny
-
-Skinny
-
-Athletic Skinny  
-**NEW!**
-
-Ultra Stacked Skinny
-
-Slim
-
-Slim Straight
-
-Straight
-
-Slim Boot  
-**Online Only**
-
-90s Dad  
-**Online Only**
-
-Relaxed  
-**Online Only**
-
-Loose  
-**Online Only**
-
-Super Skinny
-
-Skinny
-
-Athletic Skinny  
-**NEW!**
-
-Next
-
-Short  
-Story
-
-Short Story
-
-With styles this comfortable,  
-It’s always shorts season.
-
-$11 .87 &. Up
-
-Shop Girls Shorts Shop Guys Shorts
+Girls Lounge Shop Guys Chill Zone
 
 **Order from our site and  
 pick up your purchase  
@@ -589,31 +479,16 @@ Notifications
 FREE Pick Up  
 At Aero
 
-In Stores &. Online
+GO GRAPHIC
 
-Aero  
-Tees
+Wear your heart on your tee in graphics that make a statement.
 
-Aero Tees
+Wear Your Heart On Your Tee In  
+Graphics That Make A Statement.
 
-New Aero graphic logos.  
-same Easy Aero Style. Effortlessly  
-soft and comfortable - in basics  
-and beyond
+$6.99 &. Up
 
-**$5.87 + Up**
-
-Shop Girls Tees Shop Guys Tees
-
-AERO UNIFORM  
-15% Off  
-\+ Free Shipping
-
-When you buy 5 or more  
-Uniform approved styles  
-**No Code Needed!**
-
-Shop Girls Uniform Shop Guys Uniform
+Girls Graphics Guys Graphics
 
 The future is on your ballot.
 
