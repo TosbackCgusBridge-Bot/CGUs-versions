@@ -24,11 +24,11 @@ View more results
     *   Family Barn
     *   Let's Fish!
     *   Backgammon
-    *   Harvest Honors
     *   Fireboy and Watergirl 5: Elements
+    *   Harvest Honors
     *   Fireboy and Watergirl: The Forest Temple
-    *   Subway Clash 3D
     *   Fireboy &. Watergirl 2: The Light Temple
+    *   Subway Clash 3D
     *   Family Relics
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Fireboy &. Watergirl 3: The Ice Temple
@@ -85,14 +85,14 @@ View more results
     *   Draw Climber
     *   Miami Crime Simulator 3D
     *   Boeing Flight Simulator
-    *   The Last Survivors: 2 Player Zombie Game
     *   Build Craft
+    *   The Last Survivors: 2 Player Zombie Game
     *   Crowd City
     *   Hook
-    *   Troll Face Quest: Horror 2
     *   Mine Clone 4
+    *   Troll Face Quest: Horror 2
     *   Zombie Mission: 2 Player
-    *   Money Mover Maker
+    *   Trap Adventure 2
 *   Puzzle
     
     Top Categories
@@ -146,10 +146,10 @@ View more results
     *   Mommy BFFs: Pregnant Check-Up
     *   Cake Design
     *   How To Become Popular at School with Princess
-    *   Princess Hard Times
     *   Goldie: Lip Injections
-    *   Bad Teeth Makeover
+    *   Princess Hard Times
     *   Cooking: Korean Lesson
+    *   Bad Teeth Makeover
     *   Sweetland Salon
 *   Racing
     
@@ -172,14 +172,14 @@ View more results
     *   Moto X3M: Motorcycle Racing Game
     *   Xcross Madness
     *   Drag Racing Rivals
-    *   Maximum Acceleration
     *   Road Crash
+    *   Maximum Acceleration
     *   Cars 3D
     *   Moto X3m 2
-    *   City Car Stunts 2
     *   Moto X3m 3
-    *   Two Punk Racing
+    *   City Car Stunts 2
     *   Murder
+    *   Two Punk Racing
 *   Sports
     
     Top Categories
@@ -200,14 +200,14 @@ View more results
     *   Archery World Tour
     *   Moto X3m 3
     *   Stunt Skateboard 3D
-    *   Baseball
     *   Basketball Stars 2019
+    *   Baseball
     *   8-Ball
     *   Table Tennis Challenge
     *   Table Tennis Pro
     *   Pool Clash: 8 Ball Billiards Snooker
     *   Carrom Pool
-    *   Penalty Shooters 2: Football Game
+    *   Off-Road Cycle 3D
 *   More
     
     *   Multiplayer
