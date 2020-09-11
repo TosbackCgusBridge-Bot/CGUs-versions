@@ -6,7 +6,7 @@ COVID-19 CUSTOMER SERVICE FAQS
 
 Live Chat CALL US: 1.800.777.0000  
   
-We're available 10am-10pm ET, 7 days a week. menu
+We're available 9am-12am ET, 7 days a week. menu
 
 *   My b Wallet
 *   In-Store Pickup
