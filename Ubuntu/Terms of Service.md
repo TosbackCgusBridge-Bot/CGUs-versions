@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Snap! Collaborate and listen!
+*   How Aldo’s passion for artificial intelligence and machine learning led to a role at Canonical
 *   WSLConf returns this week with worldwide sessions
-*   How Canonical remotely delivers and supports customer cloud deployments
-*   Tutorial: Getting Started with ROS
