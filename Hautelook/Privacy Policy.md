@@ -9,12 +9,30 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Limited Time Deals Up to 70% Off
+    *   Helmut Lang &. More Up to 70% Off
+    *   High Style: Turtlenecks &. Mock Necks Up to 65% Off
+    *   Shift &. Sheath Dresses Up to 80% Off
+    *   Pants &. More Up to 70% Off Incl. Plus
+    *   Sunglasses Under $50
+    *   Helmut Lang Men Up to 60% Off
+    *   Fun &. Function: Face Masks Starting at $15
+    *   Now &. Zen: Yogawear ft. Marika
+    *   BOSS Men's Shoes
+    *   Sterling Silver Jewelry Starting at $15
+    *   Casual Styles ft. Blu Pepper
+    *   Date Night In: Men's Shoes up to 65% Off
+    *   PAIGE Up to 80% Off
+    *   Suit Separates Up to 80% Off
+    *   Skincare ft. Exuviance &. Murad
+    *   Top Moda &. More from $15
+    *   Men's Great White Shirt Up to 60% Off
+    *   Toys Starting at $10
     *   Fall Shoe Shop: Women's Casual Boots &. Booties
     *   Fall Shoe Shop: Women's Weather &. Waterproof Boots
     *   Fall Shoe Shop: Women's Lifestyle Sneakers
     *   Fall Shoe Shop: Women's Comfort Styles
     *   Fall Shoe Shop: Men's Sneakers
+    
     *   Fall Shoe Shop: Women's Active Sneakers
     *   Fall Shoe Shop: Women's Loafers &. Flats
     *   Fall Shoe Shop: Men's Boots
@@ -31,54 +49,49 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   New Balance Activewear
     *   Pillows &. Home Decor Starting at $30
     *   Skincare Tools &. More ft. Zoe Ayla
-    
     *   New Balance Men Up to 50% Off
     *   Rain or Shine: Kid's Jackets Up to 65% Off
     *   Samuel B Jewelry Starting at $20
     *   Perfect Pair: Men's Denim Up to 65% Off
     *   Women's Fragrance Under $50
-    *   Fresh Fall Sweaters Under $35 Incl. Plus
     *   Free Shipping: Southshore Fine Linens
-    *   AllSaints
     *   Scotch &. Soda
-    *   New Fall Faves: BB Dakota &. More
-    *   Complete The Look: Blazers Up to 75% Off
-    *   Mad for Moto: Jackets &. More Up to 60% Off
-    *   Blouses &. Shirts Up to 70% Off Incl. Plus
+    
     *   AllSaints Men's Shoes
     *   On-Trend Jewelry Up to 60% Off
-    *   Fall Staples: Textured Booties &. More
     *   Men's Trousers Starting at $29.97
     *   Fall Dress Preview: Kid's Styles Up to 60% Off
     *   Kid's Rain Boots Up to 50% Off
-    *   Fall Styles ft. Scotch &. Soda
     *   Bareminerals under $25
     *   Philosophy, Whish &. More Under $35
-    
     *   Fall Sunglasses Starting at $25
-    *   Hudson Jeans Up to 70% Off
-    *   Hudson Men Up to 60% Off
     *   Work From Home: Men's Styles Up to 75% Off
-    *   Hudson Kids &. More Up to 60% Off
-    *   Last Call: Men's Shoes Up to 70% Off
-    *   Pearls starting at $15
-    *   Men's Shoes Up to 65% Off
-    *   Free Shipping: BergHOFF Kitchen
-    *   Men's Active Shoes ft. Mizuno
-    *   Free Shipping: Shun Cutlery
-    *   Johnston &. Murphy Men Up to 65% Off
-    *   Skincare Masks We Love
     *   Indoor &. Outdoor Cooking Essentials
     *   End of Summer Steals ft. Trina Turk
     *   Beach Towels at 50% Off
     *   Midi Dresses Under $60
-    *   Lazy Day Faves: Sleep &. Lounge Under $30
+    *   Skincare Masks We Love
     *   KIEHL'S Starting at $10
-    *   The North Face Men
-    *   DRYBAR up to 40% off
+    *   Last Call: Men's Shoes Up to 70% Off
+    *   Free Shipping: BergHOFF Kitchen
+    *   Free Shipping: Shun Cutlery
+    *   Complete The Look: Blazers Up to 75% Off
+    *   Fresh Fall Sweaters Under $35 Incl. Plus
+    *   Johnston &. Murphy Men Up to 65% Off
+    *   Lazy Day Faves: Sleep &. Lounge Under $30
 *   WomenShop Sale Events
     
-    *   Limited Time Deals Up to 70% Off
+    *   Helmut Lang &. More Up to 70% Off
+    *   High Style: Turtlenecks &. Mock Necks Up to 65% Off
+    *   Shift &. Sheath Dresses Up to 80% Off
+    *   Pants &. More Up to 70% Off Incl. Plus
+    *   Fun &. Function: Face Masks Starting at $15
+    *   Now &. Zen: Yogawear ft. Marika
+    *   Sterling Silver Jewelry Starting at $15
+    *   Casual Styles ft. Blu Pepper
+    *   PAIGE Up to 80% Off
+    *   Skincare ft. Exuviance &. Murad
+    *   Top Moda &. More from $15
     *   Fall Shoe Shop: Women's Casual Boots &. Booties
     *   Fall Shoe Shop: Women's Weather &. Waterproof Boots
     *   Fall Shoe Shop: Women's Lifestyle Sneakers
@@ -87,6 +100,7 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Fall Shoe Shop: Women's Loafers &. Flats
     *   Fall Shoe Shop: Women's Heels, Pumps &. Dress Boots
     *   Fall Shoe Shop: Women's Slippers &. Cozy
+    
     *   Wrap Dresses Up to 70% Off Incl. Plus
     *   Cozy Styles Under $40 Incl. Plus
     *   Knit Tops Under $20 Incl. Plus
@@ -96,25 +110,15 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Skincare Tools &. More ft. Zoe Ayla
     *   Samuel B Jewelry Starting at $20
     *   Women's Fragrance Under $50
-    
-    *   Fresh Fall Sweaters Under $35 Incl. Plus
-    *   AllSaints
-    *   New Fall Faves: BB Dakota &. More
-    *   Complete The Look: Blazers Up to 75% Off
-    *   Mad for Moto: Jackets &. More Up to 60% Off
-    *   Blouses &. Shirts Up to 70% Off Incl. Plus
     *   On-Trend Jewelry Up to 60% Off
-    *   Fall Staples: Textured Booties &. More
-    *   Fall Styles ft. Scotch &. Soda
     *   Bareminerals under $25
     *   Philosophy, Whish &. More Under $35
-    *   Hudson Jeans Up to 70% Off
-    *   Pearls starting at $15
-    *   Skincare Masks We Love
     *   Midi Dresses Under $60
-    *   Lazy Day Faves: Sleep &. Lounge Under $30
+    *   Skincare Masks We Love
     *   KIEHL'S Starting at $10
-    *   DRYBAR up to 40% off
+    *   Complete The Look: Blazers Up to 75% Off
+    *   Fresh Fall Sweaters Under $35 Incl. Plus
+    *   Lazy Day Faves: Sleep &. Lounge Under $30
     
     Shop By Category
     *   Clothing
@@ -122,58 +126,57 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Jewelry
     *   Lingerie &. Shapewear
     *   Accessories
-    *   Handbags
 *   MenShop Sale Events
     
-    *   Limited Time Deals Up to 70% Off
+    *   Sunglasses Under $50
+    *   Helmut Lang Men Up to 60% Off
+    *   BOSS Men's Shoes
+    *   Date Night In: Men's Shoes up to 65% Off
+    *   Suit Separates Up to 80% Off
+    *   Men's Great White Shirt Up to 60% Off
     *   Fall Shoe Shop: Men's Sneakers
     *   Fall Shoe Shop: Men's Boots
     *   Fall Shoe Shop: Men's Slippers &. Casual Styles
+    
     *   New Balance Men Up to 50% Off
     *   Perfect Pair: Men's Denim Up to 65% Off
     *   Scotch &. Soda
     *   AllSaints Men's Shoes
     *   Men's Trousers Starting at $29.97
-    
     *   Fall Sunglasses Starting at $25
-    *   Hudson Men Up to 60% Off
     *   Work From Home: Men's Styles Up to 75% Off
     *   Last Call: Men's Shoes Up to 70% Off
-    *   Men's Shoes Up to 65% Off
-    *   Men's Active Shoes ft. Mizuno
     *   Johnston &. Murphy Men Up to 65% Off
-    *   The North Face Men
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
 *   KidsShop Sale Events
     
-    *   Limited Time Deals Up to 70% Off
+    *   Toys Starting at $10
     *   Fall Shoe Shop: Girls' Styles
     *   Fall Shoe Shop: Boys' Styles
     *   Rain or Shine: Kid's Jackets Up to 65% Off
     *   Fall Dress Preview: Kid's Styles Up to 60% Off
     *   Kid's Rain Boots Up to 50% Off
-    *   Hudson Kids &. More Up to 60% Off
     
     Shop By Category
     *   Girls' Shoes
-    *   Girls
     *   Boys' Shoes
+    *   Girls
+    *   Toys
     *   Baby
     *   Boys
 *   HomeShop Sale Events
     
-    *   Limited Time Deals Up to 70% Off
     *   Pillows &. Home Decor Starting at $30
     *   Free Shipping: Southshore Fine Linens
-    *   Free Shipping: BergHOFF Kitchen
-    *   Free Shipping: Shun Cutlery
     *   Indoor &. Outdoor Cooking Essentials
     *   End of Summer Steals ft. Trina Turk
     *   Beach Towels at 50% Off
+    *   Free Shipping: BergHOFF Kitchen
+    *   Free Shipping: Shun Cutlery
     
     Shop By Category
     *   Kitchen &. Tabletop
@@ -183,23 +186,23 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Home Decor
 *   BeautyShop Sale Events
     
-    *   Limited Time Deals Up to 70% Off
+    *   Skincare ft. Exuviance &. Murad
     *   Skincare Tools &. More ft. Zoe Ayla
     *   Women's Fragrance Under $50
     *   Bareminerals under $25
     *   Philosophy, Whish &. More Under $35
     *   Skincare Masks We Love
-    *   DRYBAR up to 40% off
     
     Shop By Category
-    *   Fragrance
     *   Skin Care
+    *   Fragrance
     *   Tools &. Accessories
     *   Bath &. Body
     *   Makeup
-    *   Hair Care
-    *   Men’s Grooming
     *   Makeup Bags
+    *   Men’s Grooming
+    *   Nails
+    *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
