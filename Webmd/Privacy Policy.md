@@ -181,7 +181,7 @@ This Privacy Policy also applies to the consumer-facing version of the WebMD Hea
 
 Except where noted, statements in this Privacy Policy with respect to the WebMD Sites also apply to the Apps. If you do not want us to collect, use or disclose information about you and your use of the Services as described in this Privacy Policy, then you should not use the Services. By using the Services, you must agree to the WebMD Terms of Use, which is the contract between us and users of the Services.  By accepting the WebMD Terms of Use, you confirm that you have read and understand this Privacy Policy and the WebMD Cookie Policy and you acknowledge that we will store, use and otherwise process your information in the United States where we are located.
 
-References to "WebMD," “we” or “us” mean WebMD LLC, including any company that WebMD LLC controls (for example, a subsidiary that WebMD LLC owns). WebMD may share information among its subsidiaries or websites that it owns or controls, but information collected under this Privacy Policy is always protected under the terms of this Privacy Policy. Except as otherwise noted in this Privacy Policy, WebMD LLC is the data controller responsible for the processing of your personal information as described in this Privacy Policy.
+References to "WebMD," “we” or “us” mean WebMD LLC, including any company that WebMD LLC controls (for example, a subsidiary that WebMD LLC owns). WebMD may share information among its subsidiaries or websites that it owns or controls, but information collected under this Privacy Policy is always protected under the terms of this Privacy Policy. Except as otherwise noted in this Privacy Policy, WebMD LLC is the data controller responsible for the processing of your personal information as described in this Privacy Policy. WebMD LLC has appointed Aptus Health International France SAS, 5 place de la Pyramide, Tour Ariane, 92800 Puteaux, FRANCE, ("Aptus Health France") as its representative in the European Union.
 
 Information Collected About You
 
@@ -392,7 +392,7 @@ To view our certification status click here.
 
 WebMD.com, MedicineNet.com, eMedicineHealth.com, and RxList.com comply with the HONcode standard for trustworthy health information, which can be verified here.
 
-Last updated on July 31, 2020 © 2020 WebMD, LLC. All rights reserved. Today on WebMD Risky Mistakes Pet Owners Make
+Last updated on September 11, 2020 © 2020 WebMD, LLC. All rights reserved. Today on WebMD Risky Mistakes Pet Owners Make
 
 Some of these might surprise you.
 
