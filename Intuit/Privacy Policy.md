@@ -1,8 +1,9 @@
 Our COVID-19 response Details  
+3 days only! Home Event EXTRA 35% OFF w/ code: HOMEDEAL Shop All  
 EXTRA 25% OFF $75 or more with code: TOSAVE44 Details  
 EXTRA 20% OFF under $75 with code: TOSAVE44 Details  
 Free Shipping Over $49  DetailsOur COVID-19 response Details  
-EXTRA 25% OFF $75 or more with code: TOSAVE44 Details  
+3 days only! Home Event EXTRA 35% OFF w/ code: HOMEDEAL Shop All  
 
 Enable Accessibility
 
@@ -17,8 +18,7 @@ Enable Accessibility
 *   Men
 *   Juniors
 *   Baby &. Kids
-*   Shoes
-*   Accessories
+*   Shoes &. Accessories
 *   Jewelry
 *   Salon
 *   Sephora Beauty
@@ -55,16 +55,7 @@ Super-cool essentialsselect styles
 *   Men's Jeans
 *   Shop All
 
-Women's DressesWomen's CareerJuniorsWindowWomenMenBaby &. KidsShoesJuniorsYoung MenKidsBackpacksHomeschoolShop GirlsShop JuniorsShop Young MenShop Boys40% OFF Comfort shoesAll-around style, wherever you go!select styles I Clarks excluded from coupons.
-
-*   Shop All
-
-40% OFF clothing  
-Baby &. Toddler Saleselect styles
-
-*   Shop All
-
-**UP TO 70% OFF Fine jewelry**After EXTRA 30% OFF\* with **JCPenney Credit Card** &. code: **SPARKLE6**select styles\*Exclusions, details &. coupon
+HomeWomenMenShoesJuniorsBaby &. Kids**UP TO 70% OFF Fine jewelry**After EXTRA 30% OFF\* with **JCPenney Credit Card** &. code: **SPARKLE6**select styles\*Exclusions, details &. coupon
 
 *   Shop All
 
@@ -77,7 +68,16 @@ Baby &. Toddler Saleselect styles
 *   Modern Bride Jewelry
     
 
-Shop All  
+Shop AllJuniorsYoung MenKidsBackpacksHomeschool40% OFF Comfort shoesAll-around style, wherever you go!select styles I Clarks excluded from coupons.
+
+*   Shop All
+
+40% OFF clothing  
+Baby &. Toddler Saleselect styles
+
+*   Shop All
+
+  
 NEW brands to love!Available Now at Sephora inside JCPenneyExcluded from coupons.Introducing Ouidad!Protect yourself &. others!$9 Face Masks  
 select styles
 
@@ -85,20 +85,24 @@ select styles
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Home Expressions Tiles Complete Bedding Set with Sheets $39.99 - $59.99with code~$110 - $170~340
+*   Sealy® Beaumont Firm Mattress Only $149 - $288.99with code~$580 - $1,170~1
+*   Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set $8.44 - $19.49with code~$26 - $60~1746
+*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
+    
+    $4.99 - $27.99sale
+    
+    ~$16 - $40~1254
+*   JCPenney Home™ Ultima Bath Rug Collection $22.10 - $58.50with code713
+*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+    
+    $20sale
+    
+    ~$124.98~219
 *   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
     
     $29.99sale
     
     ~$85~4
-*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
-    
-    $4.99 - $27.99sale
-    
-    ~$16 - $40~1252
-*   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745 $19.99with code~$36~1794
-*   JCPenney Home Emma Quilt $43.99 - $59.99with code~$100 - $140~435
-*   JCPenney Home™ Ultima Bath Rug Collection $27.20 - $67.50with code713
 
 Shop and Save at JCPenney
 
