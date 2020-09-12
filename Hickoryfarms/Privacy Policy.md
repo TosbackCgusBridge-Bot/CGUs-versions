@@ -17,7 +17,7 @@ close
     *   Retirement Gifts
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular Summer Entertaining Wine Gift Baskets
+    *   Care PackagesMost Popular Fall Gift Baskets Wine Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
@@ -111,7 +111,7 @@ close
     *   Retirement Gifts
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular Summer Entertaining Wine Gift Baskets
+    *   Care PackagesMost Popular Fall Gift Baskets Wine Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
