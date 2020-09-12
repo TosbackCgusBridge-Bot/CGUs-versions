@@ -6,8 +6,6 @@ Change country/language X
 
 Autodesk logo
 
-*   0
-
 *   SIGN IN
 *   United States
     
