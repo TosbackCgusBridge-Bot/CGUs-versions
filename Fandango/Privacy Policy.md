@@ -18,10 +18,9 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Coming Soon
     
-    *   Wonder Woman 1984
-    *   Candyman (2020)
     *   The War with Grandpa
     *   Death on the Nile (2020)
+    *   Wonder Woman 1984
     *   See All Coming Soon
     
     Explore More
@@ -50,8 +49,8 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   2020 Toronto International Film Festival Preview Read More
-    *   What to Watch on FandangoNOW: Willem Dafoe in ‘Tommaso,’ the Helen Reddy Biopic ‘I Am Woman’ and More Read More
-    *   This Week in Movie News: Paul Thomas Anderson Casts Philip Seymour Hoffman’s Son and More Read More
+    *   What to Watch on FandangoNOW: ‘Fatima,’ a New Robin Williams Documentary and More Read More
+    *   This Week in Movie News: ‘Borat’ Sequel is Coming Soon, Neve Campbell Officially Joins ‘Scream 5’ and More Read More
     
     Explore Content
     *   Movie Reviews
