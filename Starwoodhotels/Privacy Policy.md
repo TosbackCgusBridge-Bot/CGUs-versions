@@ -1,4 +1,4 @@
-Contactless Services Travel with confidence during COVID-19. Travel with confidence during COVID-19:   Best Rate Guarantee   Flexible Cancellation   Commitment to Clean   Contactless Services Skip Main Navigation Menu Marriott Bonvoy
+Skip Main Navigation Menu Marriott Bonvoy
 
 *   *   English
 *   Help
@@ -13,7 +13,7 @@ Back
     
     Loading...
     
-            CLOSE
+    CLOSE
 *   Deals &. Packages
     
     Loading...
@@ -579,4 +579,4 @@ Loading...
 
 Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
     
-prod10,0E6D3E48-1C8B-5158-8D88-E095BDDD24AB
+prod8,1C04CDBD-096E-5B18-B76E-679E7B99E9A1
