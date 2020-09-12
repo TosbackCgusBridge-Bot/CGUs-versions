@@ -55,7 +55,7 @@ Visit Indeed
 
 **Privacy Policy**
 
-Last updated September 4, 2020
+Last updated September 11, 2020
 
 **Summary of Indeed’s Privacy Policy** **1\. Introduction**
 
@@ -73,7 +73,7 @@ The Indeed entity responsible for your information will depend on your location.
 
 _**Location of User**_ _**Data Controller **_ United StatesIndeed Inc.  
   
-Indeed Staff LLC, for users of Indeed StaffOutside of the United StatedIndeed Operations Ireland Limited **3\. What information do we collect about you?**
+Indeed Staff LLC, for users of Indeed StaffOutside of the United StatesIndeed Operations Ireland Limited **3\. What information do we collect about you?**
 
 Across the Sites we collect information:
 
