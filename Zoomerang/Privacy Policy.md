@@ -24,7 +24,17 @@ Having access to the latest research on consumer behavior and attitudes is more 
 
 **Find out how**
 
-Our solutions Advertising &. brand Product innovation Point-of-purchase influencers Pre-testing Customer value Packaging design Social insights Case stories Co-creating with Philips Edgewell measurement program Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights How beauty giants can become more sustainable
+Our solutions Advertising &. brand Product innovation Point-of-purchase influencers Pre-testing Customer value Packaging design Social insights Case stories Co-creating with Philips Edgewell measurement program Facebook video ads Amstel Bock pack design Philips concept test Yahoo ad testing Our latest research and insights Whitepaper: Efficiently reach users through visual media
+
+Consumers are growing more realistic. What does that mean for brands?
+
+5 examples of innovative brand actions today
+
+Understanding the New Normal consumer insights tracker program
+
+Delivering value is key for brands in a fragile economy
+
+How beauty giants can become more sustainable
 
 How to adapt to changing consumer needs
 
@@ -36,17 +46,7 @@ Make room, grocers: More brands are taking control of their category
 
 Video: The evolution of bartender recommendations: 2007-2019
 
-The future of creative testing is AI-powered
-
-Celebrating 2 years of being a top 3 fastest growing market research agency in the UK!
-
-4 key learnings from TMRE 2019
-
-What can you do within 24 hours?
-
 Power up your e-commerce success through personalization
-
-Question time: It’s all about innovation
 
 Our story
 
