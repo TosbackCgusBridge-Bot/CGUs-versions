@@ -6,8 +6,6 @@ Change country/language X
 
 Autodesk logo
 
-*   0
-
 *   SIGN IN
 *   United States
     
@@ -135,7 +133,7 @@ Integrated BIM tools, including Revit, AutoCAD, and Civil 3D Learn more Free tri
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products) Promo Data: Sept 8-11 2020 Promo Data: Sept 8-11 2020
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products) Promo Data: Sept 8-11 2020 LAST DAYS
 
 *   Subscribe for 3 years. Get 10% off.
     
@@ -158,9 +156,7 @@ Free trial
 
 Subscribe
 
-$1,521/year
-
-$1,690
+—/year
 
 Software for Building Information Modeling
 
@@ -170,7 +166,7 @@ Free trial
 
 Subscribe
 
-$2,425/year
+—/year
 
 Cost-effective 2D CAD
 
@@ -180,9 +176,9 @@ Free trial
 
 Subscribe
 
-$336/year
+—/year
 
-$420 Try, buy, or learn more about Autodesk products See all products Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
+Try, buy, or learn more about Autodesk products See all products Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
 
 We’ve combined advanced technology, a network of builders, and powerful predictive insights to connect all stages of the building lifecycle: design, plan, build, and operate.
 
@@ -197,7 +193,7 @@ See what's included
 
 Product details
 
-$2,965/year
+\---/year
 
 Subscribe
 
@@ -207,7 +203,7 @@ See what's included
 
 Product details
 
-$2,720/year
+\---/year
 
 Subscribe FOLLOW AUTODESK
 
