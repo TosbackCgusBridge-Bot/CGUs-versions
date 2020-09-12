@@ -245,23 +245,23 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   Five tips for managing information security in the post-COVID world
-    *   Complex new attack targets managed service providers, hiding in Google traffic
-    *   SC In Focus: Watch actionable threat intelligence
-    *   Apple notarization process, meant to protect, approved Shlayer malware
-    *   Tesla employee rejected a $1 million bribe to install malware
-    
-    *   Attackers could exploit flaws in MAGMI Magento plugin to hijack admin sessions
-    *   How to use cybersecurity to accelerate growth
-    *   Trump's agenda promises 'great cybersecurity.' What does that mean?
     *   What's really changed three years after Equifax breach?
+    *   Lessons from Uber: Be crystal clear on the law and your bug bounty policies
+    *   Complex new attack targets managed service providers, hiding in Google traffic
+    *   How to effectively combat RDP attacks for secure remote access
     *   Is the electric grid closer to a devastating cyberattack that could mean lights out?
     
+    *   G Suite flaw mitigated after disclosure, but Google Drive still vulnerable
+    *   12 checklist items for defeating Magecart attacks
+    *   Combat data breaches by using training and technology
+    *   NYSE not susceptible to takedown like New Zealand exchange
+    *   NCR confirms malware in lab environment, says clients not at risk
+    
+    *   Phishing attack targeted top financial pro at large company
+    *   History shows, transparency can ease the fallout from a cyberattack
+    *   Palo Alto fixes nine vulnerabilities in PAN-OS
     *   What's really changed three years after Equifax breach?
     *   New Zeppelin strand avoids AV detection with trojan downloader
-    *   Hacker-for-hire groups profit by commoditizing APT tactics
-    *   Adobe releases update to patch critical flaws that could leave networks, data vulnerable
-    *   Microsoft fixes 129 flaws, 23 critical, in massive Patch Tuesday
 
 Back to Top
 
@@ -295,4 +295,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
