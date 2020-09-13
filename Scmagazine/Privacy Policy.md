@@ -245,17 +245,17 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   What's really changed three years after Equifax breach?
-    *   Lessons from Uber: Be crystal clear on the law and your bug bounty policies
+    *   History shows, transparency can ease the fallout from a cyberattack
+    *   Tesla employee rejected a $1 million bribe to install malware
     *   Complex new attack targets managed service providers, hiding in Google traffic
-    *   How to effectively combat RDP attacks for secure remote access
-    *   Is the electric grid closer to a devastating cyberattack that could mean lights out?
-    
-    *   G Suite flaw mitigated after disclosure, but Google Drive still vulnerable
     *   12 checklist items for defeating Magecart attacks
-    *   Combat data breaches by using training and technology
-    *   NYSE not susceptible to takedown like New Zealand exchange
-    *   NCR confirms malware in lab environment, says clients not at risk
+    *   SC Product Reviews: Unified Threat Management
+    
+    *   Why companies need to lock down IoT systems
+    *   Phishing attack targeted top financial pro at large company
+    *   SC Product Reviews: Unified Threat Management
+    *   Complex new attack targets managed service providers, hiding in Google traffic
+    *   Threat gardening: What CISOs can learn from 'mystery seeds'
     
     *   Phishing attack targeted top financial pro at large company
     *   History shows, transparency can ease the fallout from a cyberattack
