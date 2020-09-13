@@ -6,7 +6,6 @@ Change country/language X
 
 Autodesk logo
 
-*   SIGN IN
 *   United States
     
     We have redirected you to an equivalent page on your local site where you can see local pricing and promotions and purchase online.
@@ -133,7 +132,7 @@ Integrated BIM tools, including Revit, AutoCAD, and Civil 3D Learn more Free tri
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products) Promo Data: Sept 8-11 2020 LAST DAYS
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products)
 
 *   Subscribe for 3 years. Get 10% off.
     
