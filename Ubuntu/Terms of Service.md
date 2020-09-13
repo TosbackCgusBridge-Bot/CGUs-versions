@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   The State of Robotics – August 2020
 *   Snap! Collaborate and listen!
 *   How Aldo’s passion for artificial intelligence and machine learning led to a role at Canonical
-*   WSLConf returns this week with worldwide sessions
