@@ -42,7 +42,11 @@ Slow CookersFood StorageCookwarePressure CookersSmall Space FurnitureDecorBeddin
 *   Flatware
     
 
-Shop AllUP TO 40% OFFEasy picks, plentiful optionsselect styles
+Shop AllUp To 40% off New Fall Styles, just for youSelect Styles
+
+*   Shop All
+
+TopsPantsDressesHandbags &. WalletsUP TO 40% OFFEasy picks, plentiful optionsselect styles
 
 *   Women's Tops
 *   Women's Jeans
@@ -85,24 +89,12 @@ select styles
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Sealy® Beaumont Firm Mattress Only $149 - $288.99with code~$580 - $1,170~1
-*   Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set $8.44 - $19.49with code~$26 - $60~1746
-*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
-    
-    $4.99 - $27.99sale
-    
-    ~$16 - $40~1254
-*   JCPenney Home™ Ultima Bath Rug Collection $22.10 - $58.50with code713
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~219
-*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
-    
-    $29.99sale
-    
-    ~$85~4
+*   JCPenney Home Wallace Blackout Grommet-Top Single Curtain Panel $22.74 - $40.94with code~$50 - $90~233
+*   JCPenney Home Leaf Bath Towel $6.50 - $10.40with code32
+*   a.n.a-Womens V Neck Short Sleeve T-Shirt $3.99with code~$13~16
+*   St. John's Bay Womens Mid Rise Straight Leg Jean $19.99 - $35.20with code2207
+*   JCPenney Home Emma Quilt $35.74 - $48.74with code~$100 - $140~436
+*   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745 $19.99with code~$36~1798
 
 Shop and Save at JCPenney
 
