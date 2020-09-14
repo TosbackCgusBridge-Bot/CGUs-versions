@@ -22,8 +22,8 @@ Skip to main content Open menu button Primary nav
     *   En Español
     *   Inspire Change
 
-*   Inspire Change
-*   Kickoff
+*   NFL Votes
+*   Scores
 
 Action related nav
 
