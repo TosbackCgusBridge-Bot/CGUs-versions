@@ -245,17 +245,17 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   History shows, transparency can ease the fallout from a cyberattack
-    *   Tesla employee rejected a $1 million bribe to install malware
-    *   Complex new attack targets managed service providers, hiding in Google traffic
-    *   12 checklist items for defeating Magecart attacks
-    *   SC Product Reviews: Unified Threat Management
+    *   Slack users unwittingly phished with malicious payloads
+    *   Is the electric grid closer to a devastating cyberattack that could mean lights out?
+    *   Adobe releases update to patch critical flaws that could leave networks, data vulnerable
+    *   Combat data breaches by using training and technology
+    *   What's really changed three years after Equifax breach?
     
-    *   Why companies need to lock down IoT systems
-    *   Phishing attack targeted top financial pro at large company
-    *   SC Product Reviews: Unified Threat Management
-    *   Complex new attack targets managed service providers, hiding in Google traffic
-    *   Threat gardening: What CISOs can learn from 'mystery seeds'
+    *   NYSE not susceptible to takedown like New Zealand exchange
+    *   12 checklist items for defeating Magecart attacks
+    *   How, and when, to hand down consequences to employees for breaching security policy
+    *   New ransomware threats leave victims scrambling to know how to respond
+    *   Watch: actionable threat intelligence
     
     *   Phishing attack targeted top financial pro at large company
     *   History shows, transparency can ease the fallout from a cyberattack
@@ -295,7 +295,7 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
 
 You can skip this ad in 1 seconds.
 
