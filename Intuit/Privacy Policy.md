@@ -1,9 +1,9 @@
 Our COVID-19 response Details  
-3 days only! Home Event EXTRA 35% OFF w/ code: HOMEDEAL Shop All  
-EXTRA 25% OFF $75 or more with code: TOSAVE44 Details  
+Last day! Home Event EXTRA 35% OFF w/ code: HOMEDEAL Shop All  
+Last day! EXTRA 25% OFF $75+ with code: TOSAVE44 Details  
 EXTRA 20% OFF under $75 with code: TOSAVE44 Details  
 Free Shipping Over $49  DetailsOur COVID-19 response Details  
-3 days only! Home Event EXTRA 35% OFF w/ code: HOMEDEAL Shop All  
+Last day! Home Event EXTRA 35% OFF w/ code: HOMEDEAL Shop All  
 
 Enable Accessibility
 
@@ -87,14 +87,22 @@ select styles
 
 *   Shop All
 
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Recommended for You
 
-*   JCPenney Home Wallace Blackout Grommet-Top Single Curtain Panel $22.74 - $40.94with code~$50 - $90~233
-*   JCPenney Home Leaf Bath Towel $6.50 - $10.40with code32
-*   a.n.a-Womens V Neck Short Sleeve T-Shirt $3.99with code~$13~16
-*   St. John's Bay Womens Mid Rise Straight Leg Jean $19.99 - $35.20with code2207
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
+    
+    $29.99sale
+    
+    ~$85~4
+*   Home Expressions Tiles Complete Bedding Set with Sheets $32.49 - $51.99with code~$110 - $170~340
+*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
+    
+    $4.99 - $27.99sale
+    
+    ~$16 - $40~1255
 *   JCPenney Home Emma Quilt $35.74 - $48.74with code~$100 - $140~436
-*   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745 $19.99with code~$36~1798
+*   Sealy® Beaumont Firm Mattress Only $149 - $288.99with code~$580 - $1,170~1
+*   a.n.a-Womens V Neck Short Sleeve T-Shirt $3.99with code~$13~16
 
 Shop and Save at JCPenney
 
