@@ -1,1 +1,1 @@
-403 Forbidden openresty
+Buy this domain.
