@@ -402,7 +402,7 @@ California's "Shine the Light" law (Civil Code Section § 1798.83) permits users
 
 If you have any questions about this Privacy Policy, please contact us at: 1500 Fourth Avenue, Suite 200, Seattle, WA, USA or by sending an email to privacy@maven.io.
 
-*   15
+*   16
     
 *   Comment
 
