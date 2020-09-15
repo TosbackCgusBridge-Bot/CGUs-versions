@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Monday, September 14, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Tuesday, September 15, 2020  
 
 DEBKAfile
 
@@ -44,6 +44,14 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Unexplained gas on Planet Venus may hint at life
+    
+    Sep 14, 2020 @ 21:36
+    
+*   Five days before lockdown, 529 serious covid-19 cases
+    
+    Sep 14, 2020 @ 13:17
+    
 *    Strict three-week lockdown in Israel from Sept 18 to Oct.9
     
     Sep 13, 2020 @ 21:29
@@ -67,16 +75,16 @@ Breaking news
 *   Bahrain expected to join UAE in normalizing ties with Israel
     
     Sep 11, 2020 @ 20:11
-    
-*   A full two-week lockdown starts next week subject to cabinet approval
-    
-    Sep 11, 2020 @ 11:29
-    
-*   Netanyahu will fly privately to the White House peace ceremony
-    
-    Sep 11, 2020 @ 11:01
     
 
+*   Ministers will fight to dilute full lockdown over the festivals
+    
+    Sep 13, 2020 @ 08:29
+    
+*   Egypt praises, Iran &. Palestinians slam Bahrain over Israel ties
+    
+    Sep 12, 2020 @ 11:16
+    
 *   Afghanistan peace talks open in Qatar
     
     Sep 12, 2020 @ 10:54
@@ -85,13 +93,13 @@ Breaking news
     
     Sep 11, 2020 @ 20:11
     
-*   A full two-week lockdown starts next week subject to cabinet approval
+*   Unexplained gas on Planet Venus may hint at life
     
-    Sep 11, 2020 @ 11:29
+    Sep 14, 2020 @ 21:36
     
-*   Netanyahu will fly privately to the White House peace ceremony
+*   Five days before lockdown, 529 serious covid-19 cases
     
-    Sep 11, 2020 @ 11:01
+    Sep 14, 2020 @ 13:17
     
 *    Strict three-week lockdown in Israel from Sept 18 to Oct.9
     
@@ -117,13 +125,13 @@ Breaking news
     
     Sep 11, 2020 @ 20:11
     
-*   A full two-week lockdown starts next week subject to cabinet approval
+*   Unexplained gas on Planet Venus may hint at life
     
-    Sep 11, 2020 @ 11:29
+    Sep 14, 2020 @ 21:36
     
-*   Netanyahu will fly privately to the White House peace ceremony
+*   Five days before lockdown, 529 serious covid-19 cases
     
-    Sep 11, 2020 @ 11:01
+    Sep 14, 2020 @ 13:17
     
 *    Strict three-week lockdown in Israel from Sept 18 to Oct.9
     
@@ -132,14 +140,6 @@ Breaking news
 *   Litzman resigns from government
     
     Sep 13, 2020 @ 13:16
-    
-*   Ministers will fight to dilute full lockdown over the festivals
-    
-    Sep 13, 2020 @ 08:29
-    
-*   Egypt praises, Iran &. Palestinians slam Bahrain over Israel ties
-    
-    Sep 12, 2020 @ 11:16
     
 
 12PrevNext
