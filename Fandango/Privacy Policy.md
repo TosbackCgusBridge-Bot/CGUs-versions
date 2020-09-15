@@ -9,17 +9,19 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
-    *   The Broken Hearts Gallery
-    *   I Am Woman (2020)
-    *   Jimmy Carter: Rock &. Roll President
-    *   Rent-A-Pal
-    *   Sibyl
+    *   Infidel (2020)
+    *   No Escape (2020)
+    *   The Secrets We Keep (2020)
+    *   The Way I See It (2020)
     *   See All Opening This Week
     
     Coming Soon
     
     *   The War with Grandpa
+    *   Honest Thief (2020)
     *   Death on the Nile (2020)
+    *   No Time to Die (2020)
+    *   Soul (2020)
     *   Wonder Woman 1984
     *   See All Coming Soon
     
