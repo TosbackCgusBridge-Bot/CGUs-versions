@@ -9,10 +9,8 @@ Skip to main content Open menu button Primary nav
 *   Stats
 *   Standings
 *   Kickoff
-*   NFL Network
+*   Watch Games
 *   Fantasy
-*   Tickets
-*   Shop
 *   Sign In
 *   *   Photos
     *   Super Bowl
@@ -22,15 +20,12 @@ Skip to main content Open menu button Primary nav
     *   En Español
     *   Inspire Change
 
-*   NFL Votes
-*   Scores
+*   Watch Games
 
 Action related nav
 
-*   NFL Network
+*   Watch Games
 *   Fantasy
-*   Tickets
-*   Shop
 *   Sign In
 
 *   Accessibility
