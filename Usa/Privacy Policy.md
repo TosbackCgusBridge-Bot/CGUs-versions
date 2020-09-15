@@ -6,6 +6,8 @@ Change country/language X
 
 Autodesk logo
 
+*   0
+
 *   United States
     
     We have redirected you to an equivalent page on your local site where you can see local pricing and promotions and purchase online.
@@ -133,6 +135,10 @@ MEDIA &.
 ENTERTAINMENT COLLECTION
 
 Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products)
+
+SPECIAL BUNDLE OFFER
+
+Get 5 subscriptions of AutoCAD LT for the price of 4Get the bundleOffer ends soon
 
 *   Subscribe for 3 years. Get 10% off.
     
