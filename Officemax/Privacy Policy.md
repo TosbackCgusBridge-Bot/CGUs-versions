@@ -44,7 +44,7 @@ $21.25
 
 Change
 
-\-0.64
+0
 
 Percent Change
 
