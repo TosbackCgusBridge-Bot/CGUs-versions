@@ -33,9 +33,9 @@ Lenovo Explore Close
         *   IdeaPad Slim 7
         *   New Arrivals
         
-        Labor Day
+        Sale
         
-        Save big on our top brands for work, school, gaming and much more while supplies last
+        Shop weekly deals on laptops for work, school gaming &. entertainment
         
     *   Desktops
         
@@ -66,9 +66,9 @@ Lenovo Explore Close
         *   M920 SFF
         *   New Arrivals
         
-        Labor Day
+        Sale
         
-        Get big savings when you shop desktops this holiday, including a special Nano offer up to 68% off
+        Shop weekly savings on AIOs to Tiny's &. Towers, plus a special a special Nano offer up to 68% off
         
     *   Workstations
         
@@ -95,9 +95,9 @@ Lenovo Explore Close
         *   ThinkStation P340 Tower
         *   ThinkStation P340 Tiny
         
-        Labor Day
+        Sale
         
-        Enjoy premium savings today on our selection of powerful and reliable workstations
+        Enjoy weekly deals on Lenovo's selection of reliable &. powerful workstations
         
     *   Tablets
         
@@ -121,9 +121,9 @@ Lenovo Explore Close
         *   Best Bargain
         *   Recommended Smart Product
         
-        Labor Day
+        Sale
         
-        Shop deals on tablets and smart devices for home or work
+        Enjoy weekly deals on smart devices &. tablets for the whole family
         
         Yoga Smart Tab
         
@@ -296,7 +296,7 @@ Lenovo Explore Close
         
         Things to consider when choosing a laptop
         
-    *   Labor Day
+    *   Sale
         
         *   Always Free Shipping
         *   Earn 3% rewards on all purchases
@@ -328,7 +328,7 @@ Lenovo Explore Close
         
         Sale
         
-        Save on Laptops, desktops &. all the accessories you need to stay productive wherever life takes you
+        Shop weekly deals on laptops, desktops, monitors &. much more
         
 *   Phones
 *   Data Center
@@ -612,7 +612,7 @@ Lenovo Explore Close
 1-855-253-6686 option #2
 
 *   Search
-*   icon-compare0 Compare Compare (0)
+
 *   LenovoPro
     *   Sign In To LenovoPRO For Small Business
     *   Learn more
@@ -700,13 +700,7 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
-
-Please add at least 2 products for compare
-
-Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
-
-Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
 
 Privacy Statement"/>.
 
