@@ -125,7 +125,7 @@ Play video: A Fresh Start for Romantics Everywhere Close video: A Fresh Start fo
 
 Marvel's Spider-Man came out two years ago. See how the creators brought Spidey to the PS4. #thelookback pic.twitter.com/ElzuhawGGD
 
-6 days ago View Tweet Instagram Post CEp6kHdltBq
+7 days ago View Tweet Instagram Post CEp6kHdltBq
 
 *   Share on Facebook: https://www.sony.com/electronics/mobile
 *   Share on Twitter: https://www.sony.com/electronics/mobile
