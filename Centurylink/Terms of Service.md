@@ -1,6 +1,5 @@
 *   Residential
 *   Small Business
-*   Enterprise
 
 *   Sign In
     *   Residential
@@ -8,26 +7,7 @@
     *   Small Business
     *   Enterprise
 
-Toggle navigation CenturyLink® CenturyLink ® Contact us
-
-*   ABOUT US Back
-    *   Our History
-    *   Leadership
-    *   Awards
-    *   Doing Business with CenturyLink
-*   INVESTORS Back
-    *   Financials
-    *   Events &. Presentations
-    *   Stock/Dividend Info
-*   NEWS
-*   SUSTAINABILITY Back
-    *   Environment
-    *   Social
-    *   Governance
-*   LEGAL
-*   CAREERS
-
-**Level 3 is now CenturyLink.**
+Toggle navigation CenturyLink® CenturyLink ® Contact us **Level 3 is now CenturyLink.**
 
 Get support, access resources, and explore products and services at CenturyLink.com.
 
@@ -89,9 +69,10 @@ Violations of this AUP may be reported to: abuse@centurylinkservices.net.
 
 Get Connected. See what's next for CenturyLink.
 
-*   About Us
+*       About Us
 *   Careers
 *   Investor Relations
+*   Newsroom
 *   Legal
 *   Legal Notices
 *   Privacy Policy
@@ -99,19 +80,12 @@ Get Connected. See what's next for CenturyLink.
 *   Tariffs
 *   Customers with Disabilities
 
-*   Yellow Pages
-*   Referral Program
+*       CenturyLink in Your Area
+*   White/Yellow Pages
 *   CenturyLink Retailer
-*   Guide to Home Technology
-*   Fed Govt
-*   State &. Local Govt
-*   Education
 
-*   Partners   
-    
-*   For Home
+*       Residential 
 *   Small Business
 *   Enterprise
-*   Wholesale
 
 © 2020 CenturyLink. All Rights Reserved. Third party marks are the property of their respective owners. Feedback
