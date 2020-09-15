@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   An Introduction to Testing Robot Code
 *   The State of Robotics – August 2020
 *   Snap! Collaborate and listen!
-*   How Aldo’s passion for artificial intelligence and machine learning led to a role at Canonical
