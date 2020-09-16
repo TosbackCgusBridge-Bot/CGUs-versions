@@ -245,17 +245,17 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   Divisive political climate stirs up hacktivist activity, and businesses are not immune
-    *   Lessons combating COVID-19 healthcare security challenges
-    *   Combat data breaches by using training and technology
-    *   Tesla employee rejected a $1 million bribe to install malware
-    *   Adobe releases update to patch critical flaws that could leave networks, data vulnerable
+    *   History shows, transparency can ease the fallout from a cyberattack
+    *   Massive Magecart attacks steal personal data from Magento 1 stores
+    *   Complex new attack targets managed service providers, hiding in Google traffic
+    *   How to Prevent Recruiting Scams During the Pandemic
+    *   Enlist the security community to safeguard our elections this fall
     
+    *   History shows, transparency can ease the fallout from a cyberattack
+    *   Maximize zero trust security by expanding beyond basic principles
+    *   LinkedIn and Gusto security chiefs talk about their roles as 'social worker'
+    *   SC Product Reviews: Unified Threat Management
     *   China pushes new global data security initiative, decrying US 'politicizing' the issue
-    *   How, and when, to hand down consequences to employees for breaching security policy
-    *   How to effectively combat RDP attacks for secure remote access
-    *   Five tips for managing information security in the post-COVID world
-    *   Watch: actionable threat intelligence
     
     *   Massive Magecart attacks steal personal data from Magento 1 stores
     *   Lessons combating COVID-19 healthcare security challenges
@@ -295,8 +295,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
