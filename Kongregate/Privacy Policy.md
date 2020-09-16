@@ -4,7 +4,7 @@ _Effective as of January 1, 2020._
 
 We, at Kongregate Inc. (**“Kongregate,”** the **“Company,”** **“we”** or **“us”**), are committed to respecting your privacy and the integrity and security of your personal information. As the data controller of certain of your personal information, we want you to know how we handle it, how we use it, process it and/or share it, as well as the ways in which you can protect your own privacy.
 
-This Privacy Policy applies to www.kongregate.com, www.kartridge.com and all other sites or online service that is owned or operated by Kongregate (each, a **“Site,”** and collectively, the **“Sites,”**), all mobile games published by Kongregate (each, an **“App,”** and collectively, the **“Apps,”** and together with the Sites, the “Platform”), and Kongregate games that can be played through third party platforms, e.g., via consoles, PCs and/or social media sites such as Facebook (**“3rd Party Platform Games”**).
+This Privacy Policy applies to www.kongregate.com, www.kartridge.com and all other sites or online service that is owned or operated by Kongregate (each, a **“Site,”** and collectively, the **“Sites,”**), all mobile games published or operated by Kongregate (each, an **“App,”** and collectively, the **“Apps,”** and together with the Sites, the “Platform”), and Kongregate games that can be played through third party platforms, e.g., via consoles, PCs and/or social media sites such as Facebook (**“3rd Party Platform Games”**).
 
 By visiting our Sites, using the Apps, playing 3rd Party Platform Games or otherwise access any of our other products, services or content through any of our Platform or through 3rd Party Platform Games (collectively, “Services”), you agree to and accept this Privacy Policy, our Cookie Policy (which is incorporated into the Privacy Policy) and our User Agreement (of which the Privacy Policy is a part). We reserve the right to change our practices and this Privacy Policy at any time.
 
@@ -151,10 +151,11 @@ When we disclose personal information for a business purpose, we enter a data pr
         
         With respect to onward transfers, we remain liable should the third parties to whom we transfer personal data process such information in a manner inconsistent with the Privacy Shield Principles.
         
-        **Disclosure under California Consumer Privacy Act of 2018 (“CCPA”).** In the preceding twelve (12) months, we have not sold any personal information, but we have disclosed the following categories of personal information for a business purpose:
+        **Disclosure under California Consumer Privacy Act of 2018 (“CCPA”).** We do not rent or sell personal information collected by or from any Service or portion of a Service that is directed to Children or where we know that the user is a Child. For the portions of our Services that are directed to audiences who are not Children, we do not sell identifying information such as name, email address, phone number, or postal address, but we may share identifiers such as cookies and the advertising identifier associated with your mobile device with our advertising partners, and those partners may use and share those identifiers to show ads that are targeted to your interests. If this takes place, these disclosures may constitute a “sale“ under California law.
+        
+        In the preceding twelve (12) months, we have not sold any personal information, but we have disclosed the following categories of personal information for a business purpose:
         
     *   **Category A:** Identifiers.
-        
     *   **Category B:** California Customer Records personal information categories.
     *   **Category D:** Commercial Information.
     *   **Category F:** Internet or other similar network activity.
@@ -184,7 +185,18 @@ It is important for you to protect against unauthorized access to any login or p
 
 6\. Our Policies Concerning Children
 
-**Our Services are Not Designed for Children.** Our Services, Platform and 3rd Party Platform Games are designed for and directed at people 18 years of age or older. No one under the age of 13 (or under 16 for children located in the European countries)(collectively, **“Children”**) may provide any personal information to us, and we do not knowingly collect information from Children. Children should not attempt to create an account or send any of your information to us, including your name, address, telephone number or email address. If Kongregate learns that we have collected personal information from Children without verification of parental consent in contravention of these measures, we will terminate access to the account immediately and will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or other as required or allowed by law). If you believe that we might have any information from or about Children, please contact us at 1-800-678-2319 or at support@kongregate.com.
+**Our Services are Not Designed for Children.** Our Services, Platform and 3rd Party Platform Games are generally designed for and directed at people 18 years of age or older. No one under the age of 13 within the United States (or up to the age of 16 for children located in certain European countries)(collectively, **“Children”**) may provide any personal information to us, and we do not knowingly collect information from Children except in connection with the following Apps which Kongregate has designated as directed to Children (collectively, our “**Kid-Appealing Games**“).
+
+For our limited collection of Kid-Appealing Games, we recognize a special obligation to further protect personal information collected from Children. We urge parents to instruct their children to never give out their real names, addresses or phone numbers without permission. Some of the features of our Kid-Appealing Games are age-gated so that they are not available for use by Children. When we intend to collect personal information from Children, we take additional steps to protect children’s privacy, including:
+
+*   Notifying  parents  about our information practices with regard to Children, including the types of personal information we may collect from Children, the uses to which we may put that information, and whether and with whom we may share that information;
+*   In accordance with applicable law, and our practices, obtaining consent from parents for the collection of personal information from their children, or for sending information about our Services directed to Children;
+*   Limiting our collection of personal information from Children to no more than is reasonably necessary to participate in an online activity. and
+*   Giving parents access or the ability to request access to personal information we have collected from their Children and the ability to request that the personal information be changed or deleted.
+
+For additional information about our practices regarding Children’s personal information, please read our **Children’s Privacy Policy**.
+
+With the exception of a handful or so of our Kid-Appealing Games, Children should not attempt to create an account or send any of your information to us, including your name, address, telephone number or email address. If Kongregate learns that we have collected personal information from Children without verification of parental consent in contravention of these measures, we will terminate access to the account immediately and will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or other as required or allowed by law). If you believe that we might have any information from or about Children, please contact us at 1-800-678-2319 or at support@kongregate.com.
 
 **Right to Remove Posted Information — California Minors.** If you are under 18 years of age, reside in California, and have a registered account on the Platform, or through the 3rd Party Platform Games, you have the right to request removal of unwanted information that you publicly post on the Platform, or through the 3rd Party Platform Games. To request removal of such information, you can contact Kongregate using the email address associated with your account at 1-800-678-2319 or support@kongregate.com stating that you reside in California. Upon receiving such a request, Kongregate will make sure that the information is not publicly available on our Platform, or through our 3rd Party Platform Games.
 
@@ -196,7 +208,7 @@ We understand that you may at times need further information from us regarding y
     
 *   **Right to rectification of personal data.** If you find that personal data that we process about you is inaccurate, you have the right to have us correct such personal data.
     
-*   **Right to erasure of personal data (right to be forgotten).** Under certain circumstances, such as if your personal data has been unlawfully processed or you have withdrawn your consent (if the processing of your personal data is based on consent), you have the right to request and obtain erasure of your personal data from us, subject to certain exceptions.
+*   **Right to erasure of personal data (right to be forgotten).** Under certain circumstances, such as if your personal data has been unlawfully processed or you have withdrawn your consent (if the processing of your personal data is based on consent), you have the right to request and obtain erasure of your personal data from us, subject to certain exceptions. Please also note that any requests for removal do not ensure complete or comprehensive removal of the content or information from the Services. For example, content that you have posted may be republished or reposted by another user or third party.
     
 *   **Right to restriction of processing.** Under certain circumstances, such as if you question the accuracy of your personal data or you have objected to our legitimate purpose to process your personal data, you have the right to request that we restrict the processing of your personal data until a solution has been found.
     
@@ -250,7 +262,7 @@ We offer you choices about the information we collect, how we use and disclose t
     
 *   **Contests, Sweepstakes and Promotions.** From time to time, we may provide you the opportunity to participate in contests, sweepstakes, surveys and/or other promotions on our site. If you participate, we will request certain personally identifiable information from you as provided in the terms of the corresponding promotion. We may use a third party service provider to conduct these surveys or contests. in those cases, that company will be prohibited from using our users’ personally identifiable information for any other purpose.
     
-*   **California Privacy Rights.** California Civil Code Section 1798 allows California residents to ask companies with whom they have an established business relationship to provide certain information about the companies’ sharing of personal information with third parties for direct marketing purposes. California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices may contact us at support@Kongregate.com or by writing to the address provided under **“Questions or Concerns”** below.
+*   **California Privacy Rights.** California Civil Code Section 1798 allows California residents to ask companies with whom they have an established business relationship to provide certain information about the companies’ sharing of personal information with third parties for direct marketing purposes. California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices may contact us at support@Kongregate.com or by writing to the address provided under **“Questions, Concerns or Requests”** below.
     
 *   **Do Not Track.** Do Not Track is a concept that has been promoted by regulatory agencies such as the U.S. Federal Trade Commission (FTC), for the Internet industry to develop and implement a mechanism for allowing Internet users to control the tracking of their online activities across websites by using browser settings. At this time, there is no general agreement on how companies such as ours should interpret Do Not Track signals. Kongregate does not currently respond to Do Not Track signals, whether that signal is received on a computer or on a mobile device. You can learn more about Do Not Track here.
     
@@ -276,4 +288,4 @@ Floor 4, Suite 321
 149 New Montgomery St  
 San Francisco, CA 94105
 
-_Last updated: February 21st, 2020_
+_Last updated: September 17th, 2020_
