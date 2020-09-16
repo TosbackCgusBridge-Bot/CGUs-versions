@@ -1,13 +1,15 @@
-Previous1 of 4Next
+Previous1 of 5Next
 
 *   UPS is open for business: Service impacts related to Coronavirus...More
+*   Wild Fires Impacting Areas in Oregon...More
+*   Severe Weather Impacting Service in the Southeast...More
 *   Wild Fires Impacting Areas in California...More
 *   Effects of Severe Weather Continue to Impact Areas in Louisiana...More
-*   Wild Fires Impacting Areas in Oregon...More
 *   UPS is open for business: Service impacts related to Coronavirus...More
+*   Wild Fires Impacting Areas in Oregon...More
+*   Severe Weather Impacting Service in the Southeast...More
 *   Wild Fires Impacting Areas in California...More
 *   Effects of Severe Weather Continue to Impact Areas in Louisiana...More
-*   Wild Fires Impacting Areas in Oregon...More
 *   UPS is open for business: Service impacts related to Coronavirus...More
 
 Close Skip To Main Content
