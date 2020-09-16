@@ -50,6 +50,7 @@ Violations of this AUP may be reported to: abuse@centurylinkservices.net.
 
 **LEGAL**
 
+*   Privacy Notice
 *   Acceptable Use Policy
 *   Privacy Policy
 *   Copyright Notices
@@ -69,19 +70,19 @@ Violations of this AUP may be reported to: abuse@centurylinkservices.net.
 
 Get Connected. See what's next for CenturyLink.
 
-*       About Us
+*       About Lumen
+*   About CenturyLink
 *   Careers
 *   Investor Relations
 *   Newsroom
 *   Legal
 *   Legal Notices
 *   Privacy Policy
-*   Site Map
 *   Tariffs
-*   Customers with Disabilities
 
-*       CenturyLink in Your Area
-*   White/Yellow Pages
+*       Customers with Disabilities
+*   Site Map
+*   CenturyLink in Your Area
 *   CenturyLink Retailer
 
 *       Residential 
