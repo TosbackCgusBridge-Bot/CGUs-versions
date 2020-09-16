@@ -51,7 +51,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   2020 Toronto International Film Festival Preview Read More
-    *   What to Watch on FandangoNOW: ‘Fatima,’ a New Robin Williams Documentary and More Read More
+    *   What to Watch on FandangoNOW: ‘The Grizzlies,’ ’Antebellum,’ Pro Football Movies and More Read More
     *   This Week in Movie News: ‘Borat’ Sequel is Coming Soon, Neve Campbell Officially Joins ‘Scream 5’ and More Read More
     
     Explore Content
