@@ -17,7 +17,7 @@ Primary navigation
 Select LanguageShqipالعربيةAzərbaycan diliBosanskiБългарски简体中文繁體中文HrvatskiČeskyDanskNederlandsEnglishEestiSuomiFrançais (Canada)Français (Européen)ქართულიDeutschΕλληνικάעבריתMagyarItaliano日本語한국어КыргызчаLatviešuLietuviųмакедонскиBahasa MelayuМонголNorskPolskiPortuguês (Brasil)Português (Portugal)RomânăРусскийSrpskiSlovenčinaSlovenščinaEspañolEspañol (España)SvenskaТоҷикӣภาษาไทยTürkçeTurkmenУкраїнськаاردوЎзбекчаTiếng Việt
 
 P&G Global Consumer Privacy Policy  
-_Date last updated: 09/09/2020_  
+_Date last updated: 09/15/2020_  
 
 We work hard to build and maintain a relationship of trust with you. So, when it comes to handling your information, we do so carefully and sensibly, and in ways that live up to that trust. This policy lets you know how we do that, including what information we collect, how we use and protect it, and how you can decide what we do with it. Our goal is to help you understand how we use your information to improve our content, products, advertisements, and services.
 
@@ -648,7 +648,7 @@ Under the CCPA, you may designate an authorized agent to make a request on your 
   
 Contact Us
 
-Please contact us directly with any questions or concerns you may have about your privacy and our data protection practices or if you are a consumer with a disability and need a copy of this notice in an alternative format.
+Please contact us directly with any questions or concerns you may have about your privacy and our data protection practices or if you are a consumer with a disability and need a copy of this notice in an alternative format. If you have an inquiry that is specific to our data protection officer, such as a suspected data breach, please state that in your message. You may also write to our Data Protection Officer at 1 Procter Gamble Plaza, Cincinnati, OH 45202, U.S.A.
 
   
 
