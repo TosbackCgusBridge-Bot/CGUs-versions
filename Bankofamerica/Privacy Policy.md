@@ -26,19 +26,71 @@ Other Privacy &. Security Links Other Privacy &. Security Links
 
 *   FAQs
 *   Fraud Prevention Checklist
-*   How to Avoid Bank Scams
-*   Bank Fraud Prevention
+*   How to Avoid Scams
+*   Fraud Prevention
 *   Privacy and Security Glossary
 *   Understand Merchant Compromise
 
 *   FAQs
 *   Fraud Prevention Checklist
-*   How to Avoid Bank Scams
-*   Bank Fraud Prevention
+*   How to Avoid Scams
+*   Fraud Prevention
 *   Privacy and Security Glossary
 *   Understand Merchant Compromise
 
-Bank of America Security CenterTogether, we  
+Bank of America Security CenterGet the Mobile Banking appSelect Your Device \*iPhoneiPadAndroidOther
+
+GoGet it on the App Store
+
+Before you leave our site, we want you to know your app store has its own privacy practices and level of security which may be different from ours, so please review their policies.
+
+Or we can text a download link directly to your phonePhone Number \* In 999-999-9999 Format
+
+Send Please enter a valid 10-digit phone number
+
+By providing your mobile number you are consenting to receive a text message. Text message fees may apply from your carrier. Text messages may be transmitted automatically.
+
+Apple, the Apple logo, iPhone, iPad, Apple Watch and Touch ID are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+
+Get it on the App Store
+
+Before you leave our site, we want you to know your app store has its own privacy practices and level of security which may be different from ours, so please review their policies.
+
+Or we can send you a link by emailEmail Address \*
+
+Send Please enter a valid email address
+
+Apple, the Apple logo, iPhone, iPad, Apple Watch and Touch ID are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
+
+Get it on Google Play
+
+Before you leave our site, we want you to know your app store has its own privacy practices and level of security which may be different from ours, so please review their policies.
+
+Or we can text a download link directly to your phonePhone Number \* In 999-999-9999 Format
+
+Send Please enter a phone number
+
+By providing your mobile number you are consenting to receive a text message. Text message fees may apply from your carrier. Text messages may be transmitted automatically.
+
+Android is a trademark of Google Inc. Samsung is a registered trademark of Samsung Electronics Co., Ltd.
+
+Our mobile app isn't available for all devices
+
+If you don't see an app for your device, you may still be able to access our mobile website by typing bankofamerica.com in your mobile web browser.
+
+Learn more about mobile banking options and supported devicesYou're going to your app store
+
+Before you leave our site, we want you to know your app store has its own privacy practices and level of security which may be different from ours, so please review their polices.
+
+Continue Go back to Bank of America
+
+We've sent you a download link
+
+We sent an email with the download link to
+
+We sent a text message with the download link to
+
+OKWe couldn't send the linkWe're sorry we weren't able to send you the download link. Please try again, or use your mobile device to get the app from its app store.OKTogether, we  
 can identify  
 and resolve  
 fraud events  
@@ -125,16 +177,14 @@ Review your privacy choices
 
 Opted out of promotional emails and  
 want to opt back in?  
-Sign in and update your email  
-preferences
+Update your email preferences
 
 You control how we market to you and  
 share your information. Review your  
 privacy choices
 
 Opted out of promotional emails and  
-want to opt back in? Sign in and update  
-your email preferences
+want to opt back in? Update your email preferences
 
 Customize your alerts
 
@@ -143,14 +193,16 @@ changes to personal information take
 place on your account.
 
 Learn more about alerts  
-Sign in and manage your alerts
+Sign in and manage your alerts  
+Download the mobile app layer to monitor your alerts on the go
 
 Know when irregular card activity or  
 changes to personal information take  
 place on your account.
 
 Learn more about alerts  
-Sign in and manage your alerts
+Sign in and manage your alerts  
+Download the mobile app layer to monitor your alerts on the go
 
 Expand all panelsAdditional fraud &. security resources Free products to increase your security Additional fraud &. security resources Free products to increase your security
 
