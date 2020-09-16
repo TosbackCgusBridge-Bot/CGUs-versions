@@ -125,7 +125,17 @@ Play video: A Fresh Start for Romantics Everywhere Close video: A Fresh Start fo
 
 Marvel's Spider-Man came out two years ago. See how the creators brought Spidey to the PS4. #thelookback pic.twitter.com/ElzuhawGGD
 
-7 days ago View Tweet Instagram Post CEp6kHdltBq
+8 days ago View Tweet
+
+Introducing the a7C
+
+Compact Camera
+
+*   Share on Facebook: Introducing the a7C
+*   Share on Twitter: Introducing the a7C
+*   Copy URL to Share: Introducing the a7C
+
+<img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-4:image:professional:a7ccamera-September-08-2020:pro:image" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Introducing the a7C a7c-camera" data-img1x="/content/dam/sony/homepage/2020-september/9-16/Alpha7C\_SEL2860\_600x600-2.jpg" data-img2x="/content/dam/sony/homepage/2020-september/9-16/Alpha7C\_SEL2860\_600x600-2.jpg" src="/content/dam/sony/homepage/2020-september/9-16/Alpha7C\_SEL2860\_600x600-2.jpg" alt="Introducing the a7C"/>. <img class="bg-img" data-linkname="en:set\_a:position\_1|\_1x1-4:image:professional:a7ccamera-September-08-2020:pro:image-mobile:" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Introducing the a7C a7c-camera" data-img1x="/content/dam/sony/homepage/2020-september/9-16/Alpha7C\_SEL2860\_600x600-2.jpg" data-img2x="/content/dam/sony/homepage/2020-september/9-16/Alpha7C\_SEL2860\_600x600-2.jpg" src="/content/dam/sony/homepage/2020-september/9-16/Alpha7C\_SEL2860\_600x600-2.jpg" alt="Introducing the a7C Mobile"/>.
 
 *   Share on Facebook: https://www.sony.com/electronics/mobile
 *   Share on Twitter: https://www.sony.com/electronics/mobile
