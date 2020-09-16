@@ -6,10 +6,10 @@ Free Shipping Over $49  DetailsExtra Reward Days! Earn a $10 Reward for every $
 
 Enable Accessibility
 
-*   StoresFind A StoreSign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   School Essentials
 *   Home &. Lifestyle
@@ -22,6 +22,87 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
+Women's TopsFashion JewelryWomen's ShoesMen's Dress Shirts &. Sport CoatsUP TO 50% OFF Healthy sleep essentials—you deserve it!select styles
+
+*   Healthy Sleep
+
+*   Air Purifiers
+    
+*   Weighted Blankets
+    
+*   Sheets
+    
+*   Blackout Curtains
+    
+
+Healthy SleepCooking essentials for yummy, good-for-you meals!Shop AllPressure CookersBlendersCookwareAir FryersHomeWomenMenShoesJuniorsBaby &. Kids**UP TO 70% OFF Fine jewelry**After EXTRA 30% OFF\* with **JCPenney Credit Card** &. code: **SPARKLE6**select styles\*Exclusions, details &. coupon
+
+*   Shop All
+
+*   Diamond Jewelry
+    
+*   Gemstone Jewelry
+    
+*   Gold &. Silver Jewelry
+    
+*   Modern Bride Jewelry
+    
+
+Shop AllJuniorsYoung MenKidsBackpacksHomeschool40% OFF Comfort shoesAll-around style, wherever you go!select styles I Clarks excluded from coupons.
+
+*   Shop All
+
+**UP TO 25% OFF ** **adidas &. Champion ** **activewear**select styles|Excluded from coupons.
+
+*   adidas
+*   Champion
+
+Savings you deserve, brands you loveselect styles | Nike &. athletic shoes excluded from coupons.Xersion for the FamilyAthletic ShoesSmartwatchesDuffle BagsCheck out what's NEW with Salon &. Sephora inside JCPenney!Sephora excluded from coupons.Available Now at Sephora inside JCPenneyExcluded from coupons.Introducing Ouidad!40% OFF clothing  
+Baby &. Todder Saleselect styles
+
+*   Shop All
+
+\*\*JCPenney Rewards members earn a $10 bonus Reward for every $50 spent on qualifying purchases 9/14/20-9/20/20. Limit 5 bonus Rewards per customer. Earned bonus Rewards will be delivered via emailed on 9/21/20 and will be valid 9/21/20-9/30/20.
+
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
+    
+    $29.99sale
+    
+    ~$85~4
+*   Home Expressions Tiles Complete Bedding Set with Sheets $82.50 - $127.50with code340
+*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
+    
+    $4.99 - $27.99sale
+    
+    ~$16 - $40~1256
+*   Sealy® Beaumont Firm Mattress Only $149 - $288.99with code~$580 - $1,170~1
+*   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745
+    
+    $24.99sale
+    
+    ~$36~1798
+*   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
+    
+    $10sale
+    
+    ~$49.98~239
+
+Shop and Save at JCPenney
+
+At JCPenney, we're always helping you find amazing deals on all your favorite spring fashion trends. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! We take pride in being a one-stop shop for all your needs, with as many options as you can imagine as well as your favorite brands such as Nike, Adidas, Levi’s, Dockers, and Vans. Shop the latest styles in women's clothing and check out the variety of women's blouses and sundresses available at amazing prices, including new floral dresses and polka dot dresses. Save on men's polos and khakis, girls dresses and capris, sunglasses, and Bermuda shorts for the family.
+
+  
+
+Shop our mattresses on sale and save on brands such as Sealy and Serta. You’ll find every size, from twin mattresses all the way to California king, and in the firmness you prefer. Don’t forget to stock up on sheets and adorn your bed with stylish comforter sets and the bright essentials you love. Buy stylish new furniture and home décor from brands you love and trust. Save on the best couches and coffee tables from Signature Design by Ashley. Find a myriad of options for lighting and rugs, as well as those small accent pieces for walls and shelves.
+
+  
+
+For the tech savvy, we have a wide selection of cool gadgets that will make excellent gifts for any occasion. From brands like Sharper Image and Brookstone, bring your home into the future with smart home tech that’s sure to make life a little easier. Discover games for kids, fitness trackers, and smartwatches for the family. And if having a piece of jewelry for every event is your thing, browse through our selection of fine jewelry. From engagement rings to diamond earrings, men’s watches to silver jewelry, save big on the finest collections today. JCPenney is your one-stop shop for fantastic savings. Your journey towards better value starts and ends with us – online or at your closest JCPenney store!
+
+  
+  
 Add To Cart My Account
 
 *   Track My Order
