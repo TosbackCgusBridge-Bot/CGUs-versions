@@ -9,17 +9,34 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Lamps For Every Room
+    *   Cozy Fall ft. Throws &. Pillows at 60% Off
+    *   Cuddle up with a Candle
+    *   Fall Home Decor at 60% Off
+    *   Cole Haan Up to 60% Off
+    *   Cole Haan Men's Shoes Up to 60% Off
+    *   Ray-Ban Under $100
+    *   Cole Haan Outerwear Up to 70% Off
+    *   Nina Leonard Incl. Plus
+    *   Dresses From Kensie &. More Up to 75% Off
+    *   Bobeau Under $40 Incl. Plus
+    *   Skirts Up to 70% Off Incl. Plus
+    *   Cole Haan Men's Apparel Up to 60% Off
+    *   Haircare We Love ft. Kerastase
+    *   Fall Finds: Kids' Styles Up to 60% Off
     *   Tissot Watches
     *   Billy Reid Men Up to 60% Off
     *   Billy Reid Up to 65% Off
     *   Persamman Starting at 60% Off
     *   Midi Dresses Under $50 Incl. Plus
     *   New Fall Arrivals Incl. Plus
+    
     *   Lush
     *   Flora Nikrooz Lingerie &. More
     *   14K Gold Jewelry &. More Starting at $20
     *   Boots ft. Marc Fisher LTD Up to 70% Off
     *   Men's Loafers Up to 70% Off
+    *   Warm &. Chic Outerwear Up to 70% Off
     *   Dressed to Impress: Kids' Styles Up to 70% Off
     *   Luxe Loafers Up to 60% Off
     *   Laura Mercier Makeup &. More Up to 50% off
@@ -29,55 +46,41 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Men's Shoes Under $100
     *   Espadrilles Up to 70% Off
     *   kate spade new york Up to 65% Off
-    *   kate spade new york Handbags &. More Up to 75% Off
-    *   Tops Under $25 Incl. Plus
-    
-    *   Maxis &. Midis Up to 65% Off Incl. Plus
     *   Bobsweep Vacuums at 75% Off
-    *   Warm &. Chic Outerwear Up to 70% Off
     *   Fall Sport Coats ft. Tommy Hilfiger
     *   Men's Lounge ft. Daniel Buchler
-    *   Linea Paolo Up to 60% Off
-    *   Sandals &. More Up to 70% Off
     *   Gear Up for Baby: Must-Haves for Moms to Be
     *   Keen Kids
     *   TOMS Men Starting at $30
-    *   Men's Fragrance up to 60% off
-    *   A.L.C. &. More Luxe Brands Up to 80% Off
-    *   Paul Green
-    *   Keep It Short: Mini Dresses Up to 70% Off
-    *   WFH Essentials Up to 70% Off Incl. Plus
-    *   Beautiful You: Plus Styles Up to 70% Off
-    *   Women's Styles at $30 Incl. Plus
-    *   Swarovski Statement Jewelry Up to 50% Off
-    *   Tie-Dye Active &. More ft. Sage Collective
-    *   Free Shipping: Home Essentials Ft. Cooling Pillows
-    *   Gemstones, Diamonds &. More Up to 80% Off
-    *   Summer Solutions: Bralettes Up to 60% Off
     
+    *   Men's Fragrance up to 60% off
+    *   Free Shipping: Home Essentials Ft. Cooling Pillows
     *   Bally Men
     *   Fresh Finds: Men's Sneakers Up to 65% Off
-    *   Fresh Finds: Sneakers Up to 60% Off
     *   Wedding Ready: Suiting &. More Up to 80% Off
-    *   Cool Looks for Kids ft. O'Neill
-    *   GEOX Kids
-    *   Denim Under $50
-    *   Kenneth Cole Men's Shoes Up to 65% Off
+    *   Free Shipping: Blue Ridge Home Bedding
     *   Free Shipping: Willow Row at 40% Off
     *   Skincare Under $25
-    *   Maceoo Up to 70% Off
     *   Pillows &. Home Decor Starting at $30
-    *   Free Shipping: Southshore Fine Linens
-    *   Indoor &. Outdoor Cooking Essentials
-    *   End of Summer Steals ft. Trina Turk
-    *   Beach Towels at 50% Off
-    *   Fall Bottoms Up to 70% Off Incl. Plus
     *   PMD Skincare Tools 50% Off
     *   Beauty Gift Sets Starting at $10
-    *   Skincare ft. Exuviance &. Murad
-    *   Free Shipping: Blue Ridge Home Bedding
+    *   Fall Bottoms Up to 70% Off Incl. Plus
+    *   Champion Men's Activewear
+    *   Tops Under $25 Incl. Plus
+    *   Maxis &. Midis Up to 65% Off Incl. Plus
+    *   A.L.C. &. More Luxe Brands Up to 80% Off
+    *   Beautiful You: Plus Styles Up to 70% Off
+    *   Women's Styles at $30 Incl. Plus
+    *   Denim Under $50
 *   WomenShop Sale Events
     
+    *   Cole Haan Up to 60% Off
+    *   Cole Haan Outerwear Up to 70% Off
+    *   Nina Leonard Incl. Plus
+    *   Dresses From Kensie &. More Up to 75% Off
+    *   Bobeau Under $40 Incl. Plus
+    *   Skirts Up to 70% Off Incl. Plus
+    *   Haircare We Love ft. Kerastase
     *   Tissot Watches
     *   Billy Reid Up to 65% Off
     *   Persamman Starting at 60% Off
@@ -87,117 +90,104 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Flora Nikrooz Lingerie &. More
     *   14K Gold Jewelry &. More Starting at $20
     *   Boots ft. Marc Fisher LTD Up to 70% Off
+    *   Warm &. Chic Outerwear Up to 70% Off
+    
     *   Luxe Loafers Up to 60% Off
     *   Laura Mercier Makeup &. More Up to 50% off
     *   Cozy Sweaters Up to 75% Off Incl. Plus
     *   Swim Up to 75% Off
     *   Espadrilles Up to 70% Off
     *   kate spade new york Up to 65% Off
-    *   kate spade new york Handbags &. More Up to 75% Off
-    *   Tops Under $25 Incl. Plus
-    *   Maxis &. Midis Up to 65% Off Incl. Plus
-    *   Warm &. Chic Outerwear Up to 70% Off
-    
-    *   Linea Paolo Up to 60% Off
-    *   Sandals &. More Up to 70% Off
     *   Men's Fragrance up to 60% off
-    *   A.L.C. &. More Luxe Brands Up to 80% Off
-    *   Paul Green
-    *   Keep It Short: Mini Dresses Up to 70% Off
-    *   WFH Essentials Up to 70% Off Incl. Plus
-    *   Beautiful You: Plus Styles Up to 70% Off
-    *   Women's Styles at $30 Incl. Plus
-    *   Swarovski Statement Jewelry Up to 50% Off
-    *   Tie-Dye Active &. More ft. Sage Collective
-    *   Gemstones, Diamonds &. More Up to 80% Off
-    *   Summer Solutions: Bralettes Up to 60% Off
-    *   Fresh Finds: Sneakers Up to 60% Off
     *   Skincare Under $25
-    *   Fall Bottoms Up to 70% Off Incl. Plus
     *   PMD Skincare Tools 50% Off
     *   Beauty Gift Sets Starting at $10
-    *   Skincare ft. Exuviance &. Murad
+    *   Fall Bottoms Up to 70% Off Incl. Plus
+    *   Tops Under $25 Incl. Plus
+    *   Maxis &. Midis Up to 65% Off Incl. Plus
+    *   A.L.C. &. More Luxe Brands Up to 80% Off
+    *   Beautiful You: Plus Styles Up to 70% Off
+    *   Women's Styles at $30 Incl. Plus
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Lingerie &. Shapewear
-    *   Handbags
     *   Watches
     *   Accessories
+    *   Lingerie &. Shapewear
+    *   Handbags
 *   MenShop Sale Events
     
+    *   Cole Haan Men's Shoes Up to 60% Off
+    *   Ray-Ban Under $100
+    *   Cole Haan Men's Apparel Up to 60% Off
     *   Billy Reid Men Up to 60% Off
     *   Men's Loafers Up to 70% Off
     *   Men's Shoes Under $100
     *   Fall Sport Coats ft. Tommy Hilfiger
+    
     *   Men's Lounge ft. Daniel Buchler
     *   TOMS Men Starting at $30
-    
     *   Bally Men
     *   Fresh Finds: Men's Sneakers Up to 65% Off
     *   Wedding Ready: Suiting &. More Up to 80% Off
+    *   Champion Men's Activewear
     *   Denim Under $50
-    *   Kenneth Cole Men's Shoes Up to 65% Off
-    *   Maceoo Up to 70% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Watches
+    *   Accessories
 *   KidsShop Sale Events
     
+    *   Fall Finds: Kids' Styles Up to 60% Off
     *   Dressed to Impress: Kids' Styles Up to 70% Off
     *   Leveret Kids' Pajamas &. More
     *   Gear Up for Baby: Must-Haves for Moms to Be
     *   Keen Kids
-    *   Cool Looks for Kids ft. O'Neill
-    *   GEOX Kids
     
     Shop By Category
-    *   Boys
-    *   Baby
     *   Girls
+    *   Baby
+    *   Boys
     *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Lamps For Every Room
+    *   Cozy Fall ft. Throws &. Pillows at 60% Off
+    *   Cuddle up with a Candle
+    *   Fall Home Decor at 60% Off
     *   Bobsweep Vacuums at 75% Off
     *   Free Shipping: Home Essentials Ft. Cooling Pillows
+    *   Free Shipping: Blue Ridge Home Bedding
     *   Free Shipping: Willow Row at 40% Off
     *   Pillows &. Home Decor Starting at $30
-    *   Free Shipping: Southshore Fine Linens
-    *   Indoor &. Outdoor Cooking Essentials
-    *   End of Summer Steals ft. Trina Turk
-    *   Beach Towels at 50% Off
-    *   Free Shipping: Blue Ridge Home Bedding
     
     Shop By Category
-    *   Bedding
     *   Home Decor
-    *   Kitchen &. Tabletop
-    *   Outdoor Living
-    *   Bath
+    *   Bedding
     *   Cleaning &. Organization
-    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
+    *   Haircare We Love ft. Kerastase
     *   Laura Mercier Makeup &. More Up to 50% off
     *   Men's Fragrance up to 60% off
     *   Skincare Under $25
     *   PMD Skincare Tools 50% Off
     *   Beauty Gift Sets Starting at $10
-    *   Skincare ft. Exuviance &. Murad
     
     Shop By Category
-    *   Skin Care
-    *   Men’s Grooming
-    *   Fragrance
     *   Makeup
+    *   Men’s Grooming
+    *   Skin Care
+    *   Fragrance
     *   Bath &. Body
     *   Tools &. Accessories
     *   Nails
+    *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
