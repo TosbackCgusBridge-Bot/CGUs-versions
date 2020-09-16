@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Security corner: snap interface &. snap connections
 *   An Introduction to Testing Robot Code
 *   The State of Robotics – August 2020
-*   Snap! Collaborate and listen!
