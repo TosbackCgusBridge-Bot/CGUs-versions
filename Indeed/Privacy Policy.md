@@ -55,7 +55,7 @@ Visit Indeed
 
 **Privacy Policy**
 
-Last updated September 11, 2020
+Last updated September 15, 2020
 
 **Summary of Indeed’s Privacy Policy** **1\. Introduction**
 
@@ -320,7 +320,7 @@ In order to optimize our services, products and features for you, we may use you
 
 **4.3 Your Contact Information**
 
-When you give the Sites contact information (such as your name and email address) and other forms of Personal and Non-Personal Data, you agree that we may utilize this information for the purposes outlined in sections 4, 5 and 9, to the extent applicable. In particular, you agree that we may, as part of our services to you, communicate with you, or initiate communication with you on behalf of a third party, through your account or through other means such as email, telephone (including mobile phone), text message or postal mail. This includes communication through the use of contact information that you may provide to us or that we may otherwise obtain from third-party resources. Should you apply to a job that is supported by our Indeed Hire product, a Hiring Specialist may use your contact information to conduct or coordinate interviews with you, and provide you with updates throughout the hiring process.
+When you give the Sites contact information (such as your name and email address) and other forms of Personal and Non-Personal Data, you agree that we may utilize this information for the purposes outlined in sections 4, 5 and 9, to the extent applicable. In particular, you agree that we may, as part of our services to you, communicate with you, or initiate communication with you on behalf of a third party, through your account or through other means such as email, telephone (including mobile phone), text message or postal mail. This includes communication through the use of contact information that you may provide to us or that we may otherwise obtain from third-party resources. Should you apply to a job that is supported by our Indeed Hire product, a Hiring Specialist may use your contact information to conduct or coordinate interviews with you, and provide you with updates throughout the hiring process. We may also analyze our users’ contact information in the aggregate to better understand our users and improve our products and services.
 
 **4.4 Your Resume Information**
 
