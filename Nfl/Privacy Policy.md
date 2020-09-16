@@ -8,9 +8,11 @@ Skip to main content Open menu button Primary nav
 *   Players
 *   Stats
 *   Standings
-*   Kickoff
-*   Watch Games
+*   Inspire Change
+*   NFL Network
 *   Fantasy
+*   Tickets
+*   Shop
 *   Sign In
 *   *   Photos
     *   Super Bowl
@@ -18,14 +20,16 @@ Skip to main content Open menu button Primary nav
     *   NFL Votes
     *   Ways to Watch
     *   En Español
-    *   Inspire Change
 
-*   Watch Games
+*   NFL Votes
+*   Scores
 
 Action related nav
 
-*   Watch Games
+*   NFL Network
 *   Fantasy
+*   Tickets
+*   Shop
 *   Sign In
 
 *   Accessibility
