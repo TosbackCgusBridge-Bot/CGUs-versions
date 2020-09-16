@@ -74,10 +74,11 @@ Toggle navigation
         *   Communications
         *   Credit Unions
         *   Debt Recovery
-        *   Energy
+        *   Energy/Utilities
         *   Fraud Management
         *   Health
-        *   FinTech
+        *   Fintech
+        *   Mortgage
         *   Regulatory Compliance
 *   Business Groups
     *   *   Automotive
@@ -114,10 +115,11 @@ Toggle navigation
         *   Communications
         *   Credit Unions
         *   Debt Recovery
-        *   Energy
+        *   Energy/Utilities
         *   Fraud Management
         *   Health
-        *   FinTech
+        *   Fintech
+        *   Mortgage
         *   Regulatory Compliance
 *   Business Groups
     *   *   Automotive
