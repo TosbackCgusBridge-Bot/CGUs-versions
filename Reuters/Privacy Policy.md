@@ -55,7 +55,7 @@ Thomson Reuters LEGAL
 
 Premium legal news
 
-**Westlaw Today** The stories that matter from the sources you trust Free trial **Stay informed on legal developments**
+**Westlaw Today** The stories that matter from the sources you trust Free demo **Stay informed on legal developments**
 
 Westlaw Today, powered by Reuters, provides timely and comprehensive news and exclusive analysis so you can know what happened and why it matters. By bringing together best-in-class legal content and award-winning journalism, you can confidently keep up with the latest developments and reinforce your value to clients.
 
@@ -63,7 +63,7 @@ Westlaw Today, powered by Reuters, provides timely and comprehensive news and ex
 
 *   Exclusive news and analysis from Reuters with 150 years of journalistic expertise
 *   Full access to all areas of coverage monitored by our team of attorneys and legal editors
-*   Editorally-curated alerts to get breaking news, follow your practice area, and track companies
+*   Editorially-curated alerts to get breaking news, follow your practice area, and track companies
 
 Useful links
 
@@ -116,7 +116,7 @@ Be the first to know with customized alerts delivered right to your mobile devic
 *   Stay informed and stay ahead with self-selected practice area alerts
 *   Get notified with company alerts to track your client or your client’s peers
 *   Sign up to receive breaking news as it becomes available
-*   Receive a daily newsletter to track the most relevant news of the day
+*   Receive _The Daily Docket_, a morning briefing with a smart look at the day’s most important legal news
 
 **Discover the benefits of a fresh news experience** **Proceed with confidence**
 
@@ -138,15 +138,37 @@ Save time with access to legal news fully integrated on Westlaw
 
 Leigh Jones  
 
-Editor-in-charge, Legal News, Reuters **Reuters wins 2020 Silver Gavel Award**
+Editor-in-charge, Legal News, Reuters Read more from Leigh
+
+**Related content**
+
+Article
+
+**Legal research isn't enough**
+
+Legal research isn't enough. It's critical, of course, and the right online tools are essential. But on its own, it won't give you all the insight that you need to provide the legal guidance your clients demand. 
+
+Article
+
+**How attorneys can keep up with change by working smarter, not harder**
+
+With increasing client demands, you need to work smart not harder. Get relevant legal news and information when you need it and how you want it.
+
+Article
+
+**4 ways attorneys can keep up - even when it feels impossible**
+
+Even under the best of circumstances, it's easy to feel like you're never quite getting ahead. Check out these four ways to keep up.
+
+**Reuters wins 2020 Silver Gavel Award**
 
 This award honors exemplary work in media and the arts that helps to foster the American public’s understanding of law and the legal system
 
 **Experience Westlaw Today**
 
-Analysis with Authority. Not just what happened, but why it matters.
+Analysis with authority. Not just what happened, but why it matters.
 
-Free trial Search
+Free demo Search
 
 *   Legal products
     *   Westlaw
