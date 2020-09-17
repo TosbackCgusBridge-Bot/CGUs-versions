@@ -1,4 +1,4 @@
-Free Shipping Over $49  DetailsExtra Reward Days! Earn a $10 Reward for every $50 you spend Details  
+chatFree Shipping Over $49  DetailsExtra Reward Days! Earn a $10 Reward for every $50 you spend Details  
 EXTRA 30% OFF w/ JCP Credit Card &. code: 4BEST Details  
 EXTRA 25% OFF any way you pay w/ code: 4BEST Details  
 EXTRA 35% OFF when you open  and use your JCP Credit Card Details  
@@ -6,7 +6,13 @@ Free Shipping Over $49  DetailsExtra Reward Days! Earn a $10 Reward for every $
 
 Enable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1stSign InSign InCreate Account
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1st
+    
+    My Account
+    
+    Sign In
+    
+    Sign InCreate Account
     *   Track My Orders
     *   Rewards
     *   JCP Credit CardCart
@@ -64,30 +70,24 @@ Baby &. Todder Saleselect styles
 
 \*\*JCPenney Rewards members earn a $10 bonus Reward for every $50 spent on qualifying purchases 9/14/20-9/20/20. Limit 5 bonus Rewards per customer. Earned bonus Rewards will be delivered via emailed on 9/21/20 and will be valid 9/21/20-9/30/20.
 
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 22 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 24 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
-    
-    $29.99sale
-    
-    ~$85~4
-*   Home Expressions Tiles Complete Bedding Set with Sheets $82.50 - $127.50with code340
+*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $26.99 - $40.49with code~$60 - $90~129
 *   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
     
     $4.99 - $27.99sale
     
     ~$16 - $40~1256
+*   JCPenney Home™ Ultima Bath Rug Collection $16.49 - $44.99with code~$34 - $90~713
+*   JCPenney Home Malone Blackout Grommet-Top Single Curtain Panel $31.49 - $52.49with code~$60 - $100~21
 *   Sealy® Beaumont Firm Mattress Only $149 - $288.99with code~$580 - $1,170~1
-*   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745
+*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
-    $24.99sale
+    LIMITED TIME SPECIAL!
     
-    ~$36~1798
-*   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
+    $20sale
     
-    $10sale
-    
-    ~$49.98~239
+    ~$124.98~219
 
 Shop and Save at JCPenney
 
@@ -131,6 +131,7 @@ Stores
 *   Optical
 *   JCP Custom Window
 *   Kids Zone
+*   Curbside Pickup
 
 About Us
 
