@@ -159,7 +159,7 @@ Close submenu (Working at USPS)Working at USPS
 *   Career development
 *   Diversity &. inclusion
 
-Powerful hurricane approaches Gulf Coast. For impacts to our operations, see Service Alerts. Jump to page content
+Powerful hurricane strikes Gulf Coast. For impacts to our operations, see Service Alerts. Jump to page content
 
 *   Who we are
     *   Postal profile
