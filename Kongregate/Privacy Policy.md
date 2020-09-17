@@ -1,14 +1,12 @@
-Privacy Policy
-
-_Effective as of January 1, 2020._
+Privacy Policy  
 
 We, at Kongregate Inc. (**“Kongregate,”** the **“Company,”** **“we”** or **“us”**), are committed to respecting your privacy and the integrity and security of your personal information. As the data controller of certain of your personal information, we want you to know how we handle it, how we use it, process it and/or share it, as well as the ways in which you can protect your own privacy.
 
-This Privacy Policy applies to www.kongregate.com, www.kartridge.com and all other sites or online service that is owned or operated by Kongregate (each, a **“Site,”** and collectively, the **“Sites,”**), all mobile games published or operated by Kongregate (each, an **“App,”** and collectively, the **“Apps,”** and together with the Sites, the “Platform”), and Kongregate games that can be played through third party platforms, e.g., via consoles, PCs and/or social media sites such as Facebook (**“3rd Party Platform Games”**).
+This Privacy Policy applies to www.kongregate.com, www.kartridge.com and all other sites or online services that are owned or operated by Kongregate (each, a **“Site,”** and collectively, the **“Sites,”**), all mobile games published or operated by Kongregate (each, an **“App,”** and collectively, the **“Apps,”** and together with the Sites, the “Platform”), and Kongregate games that can be played through third party platforms, e.g., via consoles, PCs and/or social media sites such as Facebook (**“3rd Party Platform Games”**).
 
 By visiting our Sites, using the Apps, playing 3rd Party Platform Games or otherwise access any of our other products, services or content through any of our Platform or through 3rd Party Platform Games (collectively, “Services”), you agree to and accept this Privacy Policy, our Cookie Policy (which is incorporated into the Privacy Policy) and our User Agreement (of which the Privacy Policy is a part). We reserve the right to change our practices and this Privacy Policy at any time.
 
-“Amendments to Privacy Policy.“ We reserve the right to amend this Privacy Policy at our discretion and at any time. When any changes are made, we will try to provide reasonable notice and will post the updated version on the Platform. We may also send an email or provide notice within some or all of our Services when this Privacy Policy changes. Each time a user accesses our Services, the Platform or 3rd Party Platform Games, the then current version of the Privacy Policy applies, and you agree that the information we collect will be subject to the Privacy Policy, as updated. We encourage you to check this page regularly so that you know our current practices. Should you have any questions about the changes, you are welcome to contact us at 1-800-678-2319, or support@kongregate.com. If you do not agree with the changes, then unfortunately, we must ask you to cease using our Platform and/or Services, as we must have all users under the same terms in order to provide equitable Services to all.
+**Amendments to Privacy Policy**. We reserve the right to amend this Privacy Policy at our discretion and at any time. When any changes are made, we will try to provide reasonable notice and will post the updated version on the Platform. We may also send an email or provide notice within some or all of our Services when this Privacy Policy changes. Each time a user accesses our Services, the Platform or 3rd Party Platform Games, the then current version of the Privacy Policy applies, and you agree that the information we collect will be subject to the Privacy Policy, as updated. We encourage you to check this page regularly so that you know our current practices. Should you have any questions about the changes, you are welcome to contact us at 1-800-678-2319, or support@kongregate.com. If you do not agree with the changes, then unfortunately, we must ask you to cease using our Platform and/or Services, as we must have all users under the same terms in order to provide equitable Services to all.
 
 Our Privacy Policy explains:
 
@@ -151,7 +149,7 @@ When we disclose personal information for a business purpose, we enter a data pr
         
         With respect to onward transfers, we remain liable should the third parties to whom we transfer personal data process such information in a manner inconsistent with the Privacy Shield Principles.
         
-        **Disclosure under California Consumer Privacy Act of 2018 (“CCPA”).** We do not rent or sell personal information collected by or from any Service or portion of a Service that is directed to Children or where we know that the user is a Child. For the portions of our Services that are directed to audiences who are not Children, we do not sell identifying information such as name, email address, phone number, or postal address, but we may share identifiers such as cookies and the advertising identifier associated with your mobile device with our advertising partners, and those partners may use and share those identifiers to show ads that are targeted to your interests. If this takes place, these disclosures may constitute a “sale“ under California law.
+        **Disclosure under California Consumer Privacy Act of 2018 (“CCPA”).** We do not rent or sell personal information collected by or from any Service or portion of a Service that is directed to Children or where we know that the user is a Child. For the portions of our Services that are directed to audiences who are not Children, we do not sell identifying information such as name, email address, phone number, or postal address, but we may share identifiers such as cookies and the advertising identifier associated with your mobile device with our advertising partners, and those partners may use and share those identifiers to show ads that are targeted to your interests. If this takes place, these disclosures may constitute a “sale” under California law.
         
         In the preceding twelve (12) months, we have not sold any personal information, but we have disclosed the following categories of personal information for a business purpose:
         
@@ -190,9 +188,13 @@ It is important for you to protect against unauthorized access to any login or p
 For our limited collection of Kid-Appealing Games, we recognize a special obligation to further protect personal information collected from Children. We urge parents to instruct their children to never give out their real names, addresses or phone numbers without permission. Some of the features of our Kid-Appealing Games are age-gated so that they are not available for use by Children. When we intend to collect personal information from Children, we take additional steps to protect children’s privacy, including:
 
 *   Notifying  parents  about our information practices with regard to Children, including the types of personal information we may collect from Children, the uses to which we may put that information, and whether and with whom we may share that information;
+    
 *   In accordance with applicable law, and our practices, obtaining consent from parents for the collection of personal information from their children, or for sending information about our Services directed to Children;
+    
 *   Limiting our collection of personal information from Children to no more than is reasonably necessary to participate in an online activity. and
+    
 *   Giving parents access or the ability to request access to personal information we have collected from their Children and the ability to request that the personal information be changed or deleted.
+    
 
 For additional information about our practices regarding Children’s personal information, please read our **Children’s Privacy Policy**.
 
@@ -219,7 +221,7 @@ We understand that you may at times need further information from us regarding y
 *   **Right to lodge a complaint with a supervisory authority.** You have the right to lodge a complaint regarding our processing of your personal data with the supervisory authority of your place of residence, place of work or place of the alleged infringement.
     
 
-Non-Discrimination.  At the risk of stating the obvious, we want to be clear that we will not discriminate against you for exercising any of your CCPA rights or other privacy rights. Unless permitted by CCPA, we will not take any discriminatory actions, including, denying you goods or services, charging you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties. providing you a different level or quality of goods or services. or suggesting that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+**Non-Discrimination**.  At the risk of stating the obvious, we want to be clear that we will not discriminate against you for exercising any of your CCPA rights or other privacy rights. Unless permitted by CCPA, we will not take any discriminatory actions, including, denying you goods or services, charging you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties. providing you a different level or quality of goods or services. or suggesting that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
 
 Please contact us at 1-800-678-2319 or at support@kongregate.com to make a request in respect of your rights. We will use commercially reasonable efforts to respond to your request within 30 days of receiving such request. If we cannot honor your request within the 30-day period, we will let you know the reasons why and when we expect to be able to fulfil your request.
 
@@ -284,8 +286,7 @@ In certain circumstances, the Privacy Shield Framework provides the right to inv
 For questions, concerns or requests regarding the Privacy Policy or the use of personal information you submit to us, please contact us at 1-800-678-2319 or at support@kongregate.com or at:
 
 Kongregate Inc.  
-Floor 4, Suite 321  
-149 New Montgomery St  
-San Francisco, CA 94105
+10680 Treena Street, Suite 155  
+San Diego, CA 92131  
 
-_Last updated: September 17th, 2020_
+_Last updated: September 17, 2020_
