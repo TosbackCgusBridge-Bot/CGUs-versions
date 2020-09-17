@@ -6,6 +6,8 @@ Change country/language X
 
 Autodesk logo
 
+*   0
+
 *   United States
     
     We have redirected you to an equivalent page on your local site where you can see local pricing and promotions and purchase online.
