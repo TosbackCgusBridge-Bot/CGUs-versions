@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Wednesday, September 16, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Thursday, September 17, 2020  
 
 DEBKAfile
 
@@ -44,6 +44,14 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*    Another covid-19 high: 5,527 new cases in Israel in a day
+    
+    Sep 16, 2020 @ 12:50
+    
+*   Prime minister flies out of US on way home
+    
+    Sep 16, 2020 @ 10:12
+    
 *   Iron Dome intercepts 8 of the 13-rocket barrage launched from Gaza
     
     Sep 16, 2020 @ 08:33
@@ -67,16 +75,16 @@ Breaking news
 *   Covid surge unabated -  4,973 new cases in 24 hours
     
     Sep 15, 2020 @ 12:57
-    
-*   UAE FM slams “non-Arab, nonstate players” for “perpetual resistance”
-    
-    Sep 15, 2020 @ 12:28
-    
-*   Unexplained gas on Planet Venus may hint at life
-    
-    Sep 14, 2020 @ 21:36
     
 
+*   Palestinian rockets fired at Ashkelon, Ashdod during UAE FM’s White House speech
+    
+    Sep 15, 2020 @ 20:21
+    
+*   Pompeo warns: Hizballah’s weaponry negates solution of Lebanese crisis
+    
+    Sep 15, 2020 @ 13:19
+    
 *   US helicopter made a safe emergency landing in northern Syria
     
     Sep 15, 2020 @ 13:08
@@ -85,13 +93,13 @@ Breaking news
     
     Sep 15, 2020 @ 12:57
     
-*   UAE FM slams “non-Arab, nonstate players” for “perpetual resistance”
+*    Another covid-19 high: 5,527 new cases in Israel in a day
     
-    Sep 15, 2020 @ 12:28
+    Sep 16, 2020 @ 12:50
     
-*   Unexplained gas on Planet Venus may hint at life
+*   Prime minister flies out of US on way home
     
-    Sep 14, 2020 @ 21:36
+    Sep 16, 2020 @ 10:12
     
 *   Iron Dome intercepts 8 of the 13-rocket barrage launched from Gaza
     
@@ -117,13 +125,13 @@ Breaking news
     
     Sep 15, 2020 @ 12:57
     
-*   UAE FM slams “non-Arab, nonstate players” for “perpetual resistance”
+*    Another covid-19 high: 5,527 new cases in Israel in a day
     
-    Sep 15, 2020 @ 12:28
+    Sep 16, 2020 @ 12:50
     
-*   Unexplained gas on Planet Venus may hint at life
+*   Prime minister flies out of US on way home
     
-    Sep 14, 2020 @ 21:36
+    Sep 16, 2020 @ 10:12
     
 *   Iron Dome intercepts 8 of the 13-rocket barrage launched from Gaza
     
@@ -132,14 +140,6 @@ Breaking news
 *   Two Israelis injured by Palestinian rockets during UAE FM’s White House speech
     
     Sep 15, 2020 @ 20:43
-    
-*   Palestinian rockets fired at Ashkelon, Ashdod during UAE FM’s White House speech
-    
-    Sep 15, 2020 @ 20:21
-    
-*   Pompeo warns: Hizballah’s weaponry negates solution of Lebanese crisis
-    
-    Sep 15, 2020 @ 13:19
     
 
 12PrevNext
