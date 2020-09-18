@@ -110,7 +110,7 @@ Were you trying to... Track a Package or Freight View UPS holiday shipping infor
 *   Help and Support Center
 *   Get Started with UPS
 *   Change Delivery
-*   Claims
+*   Claims Support
 
 This Site
 
