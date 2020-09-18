@@ -239,9 +239,13 @@ For users in the United States, any changes or modifications will be effective i
 
 For users in the EEA, any changes or modifications will be effective upon your express consent as you will be notified of any changes by virtue of a pop-up, banner, or other notification mechanism when you seek to access our services after we issue a change or modification. Upon consent, the revisions on the services shall apply to all use of our services and all acts or omissions occurring after the effective date of the revised Privacy Policy.
 
-UP FIRST THURSDAY at RiskSec: Microsoft, Google and NASA security leaders talk diversity
+CATCH WHAT YOU MISSED at RiskSec: Sessions available on demand
 
 Estonia ambassador speaks on being the canary in the coal mine, during RiskSec Digital
+
+Diversity metrics can bring potential pitfalls, says panel
+
+Former DoD CSO at RiskSec: The West must lead
 
 *   MOST POPULAR
     
@@ -249,23 +253,23 @@ Estonia ambassador speaks on being the canary in the coal mine, during RiskSec D
     *   Emailed
     *   Recent
     
-    *   Tesla employee rejected a $1 million bribe to install malware
-    *   Threat gardening: What CISOs can learn from 'mystery seeds'
-    *   New ransomware threats leave victims scrambling to know how to respond
-    *   Maximize zero trust security by expanding beyond basic principles
+    *   Five tips for managing information security in the post-COVID world
+    *   Slack users unwittingly phished with malicious payloads
+    *   CyberRisk Alliance acquires podcast and video company Security Weekly
+    *   Massive Magecart attacks steal personal data from Magento 1 stores
+    *   SC Product Reviews: Unified Threat Management
+    
+    *   All eyes on VA security measures after compromise of 46,000 accounts
+    *   Microsoft fixes 129 flaws, 23 critical, in massive Patch Tuesday
     *   Attackers could exploit flaws in MAGMI Magento plugin to hijack admin sessions
+    *   Free program blocks 10 million malicious domains from state and local governments
+    *   SonicWall vulnerability fixed, but researchers say the patch took 17 days
     
-    *   Maximize zero trust security by expanding beyond basic principles
-    *   Divisive political climate stirs up hacktivist activity, and businesses are not immune
-    *   Iranian hacker group selling server access on underground forums
-    *   Facebook announces new details on how it will disclose bugs found in third-party products
-    *   LinkedIn and Gusto security chiefs talk about their roles as 'social worker'
-    
+    *   All eyes on VA security measures after compromise of 46,000 accounts
+    *   Accidental Airbnb account takeover linked to recycled phone numbers
     *   Cyber leaders urge SCOTUS to narrow CFAA scope to protect vulnerability research tactics
     *   Exploit for critical Windows flaw allows access to admin rights
     *   Massive Magecart attacks steal personal data from Magento 1 stores
-    *   Lessons combating COVID-19 healthcare security challenges
-    *   George Floyd medical records breached. does 'VIP' data need bonus security?
 
 Back to Top
 
@@ -299,8 +303,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
