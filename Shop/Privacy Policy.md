@@ -107,7 +107,6 @@ Lenovo Explore Close
         
         *   Explore Tablets
         *   Android Tablets
-        *   Chrome Tablets
         *   Smart Tab with Google
         *   Smart Tab with Alexa
         *   Tablets for Education
@@ -184,9 +183,9 @@ Lenovo Explore Close
         *   Best Selling Monitors
         *   Legion Y27q 27” Gaming
         *   L24q 24” QHD
-        *   T22v 22” FHD with VoIP
+        *   T22v- 22" FHD with VOIP
         *   Y44w 44” Curved HDR 4K
-        *   P27u 27” 4K UHD USB-C
+        *   P27q-20 27" QHD
         *   T24i 24” FHD
         
         *   Quick Links
@@ -612,7 +611,7 @@ Lenovo Explore Close
 1-855-253-6686 option #2
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPRO For Small Business
     *   Learn more
@@ -700,7 +699,13 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
+
+Please add at least 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 Privacy Statement"/>.
 
