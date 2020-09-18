@@ -293,18 +293,32 @@ Many Starbucks stores support providing you access to wireless internet (WiFi) a
 
 16\. Additional Disclosures for California Residents
 
-This section applies solely to individuals who reside in the State of California. The purpose of this section is to inform California residents (“consumers” or “you”), at or before the time of collection of personal information, about our data collection practices and your privacy-related rights under California law, including the California Consumer Privacy Act, as amended (“CCPA”). Your “right to know” about personal information collected, used, and disclosed by Starbucks includes what categories of personal information we collect from you and the purpose for its collection. how we use those categories of personal information. and how we share the personal information you entrust to us.
-
 In the preceding twelve months we may have disclosed these categories of personal information for a business purpose:
 
 *   Identifiers
-*   Personal information categories listed in the CCPA
+    *   Sources of Information – We collect identifiers from the information you voluntarily provide to us. from the information we automatically collect. and from other sources, as outlined in Section 3(a)-(c) above.
+    *   Purpose of Information Collected – We collect identifiers to provide our services. to communicate with you. for research and development and services improvement. and to comply with applicable laws, and as otherwise outlined in Section 4 above.
+    *   How we share it – We share identifiers with our service providers. to protect lawful interests. and for any other purpose with your consent, as otherwise outlined in Section 5 above.
+*   Personal information under California Civil Code section 1798.80
+    *   Sources of Information – We collect Section 1798.80 information from the information you voluntarily provide to us. from the information we automatically collect. and from other sources, as outlined in Section 3(a)-(c) above.
+    *   Purpose of Information Collected – We collect Section 1798.80 information for the purposes outlined in Section 4(a)-(f) above.
+    *   How we share it – We share identifiers with our service providers. to protect lawful interests. and for any other purpose with your consent, as otherwise outlined in Section 5 above.
 *   Commercial information
-*   Internet or similar network activity
+    *   Sources of Information – We collect commercial information from the information you voluntarily provide to us. from the information we automatically collect. and from other sources, as outlined in Section 3(a)-(c) above.
+    *   Purpose of Information Collected – We collect commercial information to provide our services. to communicate with you. for research and development and services improvement. and to comply with applicable laws, and as otherwise outlined in Section 4 above.
+    *   How we share it – We share commercial information with our service providers and Starbucks affiliates, as outlined in Section 5(a), (b) and (e) above.
+*   Electronic network activity information
+    *   Sources of Information – We collect network information through the information you voluntarily provide to us. from the information we automatically collect. and from other sources, as outlined in Section 3(a)-(c) above.
+    *   Purpose of Information Collected – We collect network information to provide our services. to communicate with you. for research and development and services improvement. and to comply with applicable laws, and as otherwise outlined in Section 4 above.
+    *   How we share it – We share network information with our service providers. to protect lawful interests. and for any other purpose with your consent, as outlined in Section 5 above.
 *   Geolocation data
-*   Inferences drawn
-
-**Category of Information** **Sources of Information** **Purpose of Information Collection** **How we share it** **Identifiers** We collect identifiers from the information you voluntarily provide to us. from the information we automatically collect. and from other sources, as outlined in Section 3(a)-(c) above. We collect identifiers to provide our services. to communicate with you. for research and development and services improvement. and to comply with applicable laws, and as otherwise outlined in Section 4 above. We share identifiers with our service providers. to protect lawful interests. and for any other purpose with your consent, as otherwise outlined in Section 5 above. **Personal information under California Civil Code section 1798.80** We collect Section 1798.80 information from the information you voluntarily provide to us. from the information we automatically collect. and from other sources, as outlined in Section 3(a)-(c) above. We collect Section 1798.80 information for the purposes outlined in Section 4(a)-(f) above. We share identifiers with our service providers. to protect lawful interests. and for any other purpose with your consent, as otherwise outlined in Section 5 above. **Commercial information** We collect commercial information from the information you voluntarily provide to us. from the information we automatically collect. and from other sources, as outlined in Section 3(a)-(c) above. We collect commercial information to provide our services. to communicate with you. for research and development and services improvement. and to comply with applicable laws, and as otherwise outlined in Section 4 above. We share commercial information with our service providers and Starbucks affiliates, as outlined in Section 5(a), (b) and (e) above. **Electronic network activity information** We collect network information through the information you voluntarily provide to us. from the information we automatically collect. and from other sources, as outlined in Section 3(a)-(c) above. We collect network information to provide our services. to communicate with you. for research and development and services improvement. and to comply with applicable laws, and as otherwise outlined in Section 4 above. We share network information with our service providers. to protect lawful interests. and for any other purpose with your consent, as outlined in Section 5 above. **Geolocation data** We collect geolocation data through the information you voluntarily provide to us. from the information we automatically collect. and from other sources, as outlined in Section 3(a)-(c) above. We collect geolocation data to provide our services. to communicate with you. for research and development and services improvement. and to comply with applicable laws, and as otherwise outlined in Section 4 above. We share geolocation data with our service providers. to protect lawful interests. and for any other purpose with your consent, as outlined in Section 5 above. **Inferences** We develop inference data through the information you voluntarily provide to us. from the information we automatically collect. and from other sources, as outlined in Section 3(a)-(c) above. We develop inference data to provide our services. to communicate with you, and for research, development, and services improvement, as outlined in Section 4(a)-(c) above. We share inference data with our service providers and to protect lawful interests, as outlined in Section 5 above.
+    *   Sources of Information – We collect geolocation data through the information you voluntarily provide to us. from the information we automatically collect. and from other sources, as outlined in Section 3(a)-(c) above.
+    *   Purpose of Information Collected – We collect geolocation data to provide our services. to communicate with you. for research and development and services improvement. and to comply with applicable laws, and as otherwise outlined in Section 4 above.
+    *   How we share it – We share geolocation data with our service providers. to protect lawful interests. and for any other purpose with your consent, as outlined in Section 5 above.
+*   Inferences
+    *   Sources of Information – We develop inference data through the information you voluntarily provide to us. from the information we automatically collect. and from other sources, as outlined in Section 3(a)-(c) above.
+    *   Purpose of Information Collected – We develop inference data to provide our services. to communicate with you, and for research, development, and services improvement, as outlined in Section 4(a)-(c) above.
+    *   How we share it – We share inference data with our service providers and to protect lawful interests, as outlined in Section 5 above.
 
 **How We Sell Your Information** – In the preceding twelve months we have not sold personal information. We do not sell personal information, but we recognize that the CCPA defines “personal information” in such a way that making available identifiers linked to you for a benefit may be considered a “sale.”
 
@@ -347,17 +361,13 @@ This section provides general information about how Starbucks collects, stores, 
 **Lawful Bases of Processing** – Where a Starbucks entity is acting as a data controller that determines the purposes and means of processing your personal data, such as when we collect, use, and share personal data as described in the Information We Collect, How We Use Your Information, and How We Share Your Information sections above, we must have a lawful basis for processing for doing so. Our lawful bases for processing personal data include:
 
 *   to conclude or perform a contract with you, for example to:
-
-*   process your purchases of or requests for products and services, including delivering gift cards in accordance with your instructions.
-*   communicate with you about orders, purchases, returns, services, accounts, programs, contests, and sweepstakes.
-
+    *   process your purchases of or requests for products and services, including delivering gift cards in accordance with your instructions.
+    *   communicate with you about orders, purchases, returns, services, accounts, programs, contests, and sweepstakes.
 *   for our legitimate business purposes, including to:
-
-*   respond to your customer service inquiries and requests for information.
-*   maintain, improve, and analyze our websites, mobile applications, ads, and the products and services we offer.
-*   detect, prevent, or investigate security breaches or fraud. and
-*   facilitate the functionality of our websites and mobile applications.
-
+    *   respond to your customer service inquiries and requests for information.
+    *   maintain, improve, and analyze our websites, mobile applications, ads, and the products and services we offer.
+    *   detect, prevent, or investigate security breaches or fraud. and
+    *   facilitate the functionality of our websites and mobile applications.
 *   to comply with our legal obligations, for example to maintain appropriate records for internal administrative purposes and as required by applicable law, and provide important product safety information and notice of product recalls. and
 *   on the basis of your consent, for example to send you via email and other electronic means personalized promotions and special offers or informing you about our brands, products, events, or other promotional purposes.
 
@@ -403,26 +413,38 @@ You may reach our Global Privacy Department and our Data Protection Officer at p
 
 Additional contact information may be found below for various Starbucks entities.
 
-**Country** **Entity Name** **Entity Address** **Additional Contact (If Any)** Canada Starbucks Corporation (Canada) P.O. Box 93490 Albuquerque, NM 87199 Customer Service  
-  
-http://customerservice.starbucks.com  
-  
-tel.: 800-Starbuc (782-7282) France Starbucks Coffee France SAS 38 rue des Jeûneurs, 75002 Paris Customer Support:  
-  
-service.clientele@starbucks.fr,  
-  
-tel.: +33 01 44 76 72 00 Germany AmRest Coffee Deutschland Sp. Z oo &. Co. KG Dachauser Strasse 6, 80335, Munich Customer Relations:  
-  
-Starbucks.Gaesteservice@amrest.eu,  
-  
-tel.: +49 (0) 89.551.555.990 U.K. Starbucks Coffee Company (UK) Limited Building 4 Chiswick Park, 566 Chiswick High Road, London, W4 5YE Customer Support:  
-  
-UKInfo@support.starbucks.com,  
-  
-tel.: +443330050449 or  
-  
-+442088345050 (app) U.S. Starbucks Reserve. Princi P.O. Box 60650 San Angelo, TX 76906 Customer Service  
-  
-http://customerservice.starbucks.com  
-  
-tel.: 800-Starbuc (782-7282)
+*   Country – Canada
+    *   Entity Name – Starbucks Corporation (Canada)
+    *   Entity Address – P.O. Box 93490 Albuquerque, NM 87199
+    *   Additional Contact (If Any) –
+        *   Customer Service
+            *   800-Starbuc (782-7282)
+            *   tel.: 800-Starbuc (782-7282)
+*   Country – France
+    *   Entity Name – Starbucks Coffee France SAS
+    *   Entity Address – 38 rue des Jeûneurs, 75002 Paris
+    *   Additional Contact (If Any) –
+        *   Customer Support
+            *   service.clientele@starbucks.fr
+            *   tel.: +33 01 44 76 72 00
+*   Country – Germany
+    *   Entity Name – AmRest Coffee Deutschland Sp. Z oo &. Co. KG
+    *   Entity Address – Dachauser Strasse 6, 80335, Munich
+    *   Additional Contact (If Any) –
+        *   Customer Relations
+            *   Starbucks.Gaesteservice@amrest.eu
+            *   tel.: +49 (0) 89.551.555.990
+*   Country – U.K.
+    *   Entity Name – Starbucks Coffee Company (UK) Limited
+    *   Entity Address – Building 4 Chiswick Park, 566 Chiswick High Road, London, W4 5YE
+    *   Additional Contact (If Any) –
+        *   Customer Support
+            *   UKInfo@support.starbucks.com
+            *   tel.: +443330050449 or +442088345050 (app)
+*   Country – U.S.
+    *   Entity Name – Starbucks Reserve. Princi
+    *   Entity Address – P.O. Box 60650 San Angelo, TX 76906
+    *   Additional Contact (If Any) –
+        *   Customer Service
+            *   http://customerservice.starbucks.com
+            *   tel.: 800-Starbuc (782-7282)
