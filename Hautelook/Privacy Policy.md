@@ -9,72 +9,84 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   MAC Makeup &. More starting at $10
+    *   JOE'S Jeans Up to 70% Off
+    *   JOE'S Jeans Men Up to 60% Off
+    *   Rag &. Bone Shoes &. Bags Up to 60% Off
+    *   Bath &. Body Brands We Love Incl. Neutrogena
+    *   Feminine Dresses ft. Taylor Incl. Plus
+    *   Naturalizer Up to 60% Off
+    *   Cardigans Up to 70% Off Incl. Plus
+    *   Fall Faves: Sweaters Under $35 Incl. Plus
+    *   Free Shipping: Home Decor Starting at $20
+    *   Mask Sets Starting at $15
+    *   Men's Comfort Shoes Starting at $40
+    *   Swim Up to 70% Off
+    *   JOE'S Jeans Kids Up to 60% Off
+    *   Men's Golf Styles Up to 60% Off
+    *   Men's Sweaters Starting at $30
+    *   Top Toys Starting at $10
+    *   Utilize These: Trench Coats, Rain Jackets &. More
     *   P448 Men
     *   MOTHER Up to 65% Off
     *   Zoe Ayla Starting At $10
     *   Women's Fragrance Starting at $10
     *   Robert Graham Men Up to 55% Off
+    
     *   Dresses From Tahari &. More Up to 75% Off
     *   Exclusively Ours: Free Press, Shimera &. More
     *   Jacket's Up to 70% Off Incl. Plus
     *   Plaid Styles &. More Under $40 Incl. Plus
     *   Now Trending: Active Styles Under $35
-    *   Champion Men's Activewear
-    *   Men's Golf Styles Up to 60% Off
+    *   Cole Haan Outerwear Up to 70% Off
     *   Comfort Shoes ft. Skechers Up to 65% Off
     *   Slip on Sneakers Up to 60% Off
     *   Splendid Up to 60% Off
     *   Men's Sneakers &. More Up to 70% Off
     *   Coat Check: Kids' Outerwear
-    *   Huggies &. Studs: Earrings Starting at $10
     *   P448 Kids Up to 60% Off
     *   Girls' Flats ft. Mini Melissa
-    
-    *   Lamps For Every Room
-    *   Midi Dresses Under $50 Incl. Plus
-    *   Tissot Watches
+    *   Huggies &. Studs: Earrings Starting at $10
     *   Cole Haan Up to 60% Off
     *   Cole Haan Men's Shoes Up to 60% Off
     *   Ray-Ban Under $100
-    *   Cole Haan Outerwear Up to 70% Off
-    *   Nina Leonard Incl. Plus
-    *   Dresses From Kensie &. More Up to 75% Off
-    *   Haircare We Love ft. Kerastase
-    *   Bobeau Under $40 Incl. Plus
-    *   Skirts Up to 70% Off Incl. Plus
     *   Cole Haan Men's Apparel Up to 60% Off
+    *   Haircare We Love ft. Kerastase
     *   Fall Finds: Kids' Styles Up to 60% Off
     *   Billy Reid Men Up to 60% Off
-    *   14K Gold Jewelry &. More Starting at $20
     *   Men's Loafers Up to 70% Off
-    *   Dressed to Impress: Kids' Styles Up to 70% Off
-    *   Laura Mercier Makeup &. More Up to 50% off
-    *   Leveret Kids' Pajamas &. More
-    *   Men's Shoes Under $100
     
+    *   Laura Mercier Makeup &. More Up to 50% off
     *   Bobsweep Vacuums at 75% Off
-    *   Fall Sport Coats ft. Tommy Hilfiger
-    *   Men's Lounge ft. Daniel Buchler
-    *   TOMS Men Starting at $30
     *   Men's Fragrance up to 60% off
     *   Free Shipping: Home Essentials Ft. Cooling Pillows
     *   Free Shipping: Willow Row at 40% Off
     *   PMD Skincare Tools 50% Off
-    *   Beauty Gift Sets Starting at $10
+    *   Lamps For Every Room
     *   Cuddle up with a Candle
     *   Cozy Fall ft. Throws &. Pillows at 60% Off
-    *   Free Shipping: Blue Ridge Home Bedding
-    *   Fall Home Decor at 60% Off
-    *   Fall Bottoms Up to 70% Off Incl. Plus
     *   New Fall Arrivals Incl. Plus
-    *   Lush
+    *   Fall Home Decor at 60% Off
     *   Warm &. Chic Outerwear Up to 70% Off
-    *   Beautiful You: Plus Styles Up to 70% Off
-    *   Women's Styles at $30 Incl. Plus
+    *   MAC Makeup &. More starting at $10
+    *   Nina Leonard Incl. Plus
+    *   Bobeau Under $40 Incl. Plus
+    *   Skirts Up to 70% Off Incl. Plus
+    *   Champion Men's Activewear
+    *   Midi Dresses Under $50 Incl. Plus
+    *   Lush
+    *   Free Shipping: Blue Ridge Home Bedding
 *   WomenShop Sale Events
     
-    *   MAC Makeup &. More starting at $10
+    *   JOE'S Jeans Up to 70% Off
+    *   Rag &. Bone Shoes &. Bags Up to 60% Off
+    *   Bath &. Body Brands We Love Incl. Neutrogena
+    *   Feminine Dresses ft. Taylor Incl. Plus
+    *   Naturalizer Up to 60% Off
+    *   Cardigans Up to 70% Off Incl. Plus
+    *   Fall Faves: Sweaters Under $35 Incl. Plus
+    *   Mask Sets Starting at $15
+    *   Swim Up to 70% Off
+    *   Utilize These: Trench Coats, Rain Jackets &. More
     *   MOTHER Up to 65% Off
     *   Zoe Ayla Starting At $10
     *   Women's Fragrance Starting at $10
@@ -83,112 +95,105 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Jacket's Up to 70% Off Incl. Plus
     *   Plaid Styles &. More Under $40 Incl. Plus
     *   Now Trending: Active Styles Under $35
+    
+    *   Cole Haan Outerwear Up to 70% Off
     *   Comfort Shoes ft. Skechers Up to 65% Off
     *   Slip on Sneakers Up to 60% Off
     *   Splendid Up to 60% Off
     *   Huggies &. Studs: Earrings Starting at $10
-    *   Midi Dresses Under $50 Incl. Plus
-    *   Tissot Watches
     *   Cole Haan Up to 60% Off
-    *   Cole Haan Outerwear Up to 70% Off
-    
-    *   Nina Leonard Incl. Plus
-    *   Dresses From Kensie &. More Up to 75% Off
     *   Haircare We Love ft. Kerastase
-    *   Bobeau Under $40 Incl. Plus
-    *   Skirts Up to 70% Off Incl. Plus
-    *   14K Gold Jewelry &. More Starting at $20
     *   Laura Mercier Makeup &. More Up to 50% off
     *   Men's Fragrance up to 60% off
     *   PMD Skincare Tools 50% Off
-    *   Beauty Gift Sets Starting at $10
-    *   Fall Bottoms Up to 70% Off Incl. Plus
     *   New Fall Arrivals Incl. Plus
-    *   Lush
     *   Warm &. Chic Outerwear Up to 70% Off
-    *   Beautiful You: Plus Styles Up to 70% Off
-    *   Women's Styles at $30 Incl. Plus
+    *   MAC Makeup &. More starting at $10
+    *   Nina Leonard Incl. Plus
+    *   Bobeau Under $40 Incl. Plus
+    *   Skirts Up to 70% Off Incl. Plus
+    *   Midi Dresses Under $50 Incl. Plus
+    *   Lush
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
-    *   Watches
     *   Accessories
+    *   Jewelry
     *   Lingerie &. Shapewear
+    *   Handbags
 *   MenShop Sale Events
     
+    *   JOE'S Jeans Men Up to 60% Off
+    *   Men's Comfort Shoes Starting at $40
+    *   Men's Golf Styles Up to 60% Off
+    *   Men's Sweaters Starting at $30
     *   P448 Men
     *   Robert Graham Men Up to 55% Off
-    *   Champion Men's Activewear
-    *   Men's Golf Styles Up to 60% Off
     *   Men's Sneakers &. More Up to 70% Off
+    
     *   Cole Haan Men's Shoes Up to 60% Off
     *   Ray-Ban Under $100
-    
     *   Cole Haan Men's Apparel Up to 60% Off
     *   Billy Reid Men Up to 60% Off
     *   Men's Loafers Up to 70% Off
-    *   Men's Shoes Under $100
-    *   Fall Sport Coats ft. Tommy Hilfiger
-    *   Men's Lounge ft. Daniel Buchler
-    *   TOMS Men Starting at $30
+    *   Champion Men's Activewear
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Watches
     *   Accessories
 *   KidsShop Sale Events
     
+    *   JOE'S Jeans Kids Up to 60% Off
+    *   Top Toys Starting at $10
     *   Coat Check: Kids' Outerwear
     *   P448 Kids Up to 60% Off
     *   Girls' Flats ft. Mini Melissa
     *   Fall Finds: Kids' Styles Up to 60% Off
-    *   Dressed to Impress: Kids' Styles Up to 70% Off
-    *   Leveret Kids' Pajamas &. More
     
     Shop By Category
     *   Girls
+    *   Girls' Shoes
     *   Boys
     *   Baby
-    *   Girls' Shoes
+    *   Toys
 *   HomeShop Sale Events
     
-    *   Lamps For Every Room
+    *   Free Shipping: Home Decor Starting at $20
     *   Bobsweep Vacuums at 75% Off
     *   Free Shipping: Home Essentials Ft. Cooling Pillows
     *   Free Shipping: Willow Row at 40% Off
+    *   Lamps For Every Room
     *   Cuddle up with a Candle
     *   Cozy Fall ft. Throws &. Pillows at 60% Off
-    *   Free Shipping: Blue Ridge Home Bedding
     *   Fall Home Decor at 60% Off
+    *   Free Shipping: Blue Ridge Home Bedding
     
     Shop By Category
     *   Home Decor
     *   Bedding
+    *   Holiday Decorations
     *   Cleaning &. Organization
-    *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
-    *   MAC Makeup &. More starting at $10
+    *   Bath &. Body Brands We Love Incl. Neutrogena
     *   Zoe Ayla Starting At $10
     *   Women's Fragrance Starting at $10
     *   Haircare We Love ft. Kerastase
     *   Laura Mercier Makeup &. More Up to 50% off
     *   Men's Fragrance up to 60% off
     *   PMD Skincare Tools 50% Off
-    *   Beauty Gift Sets Starting at $10
+    *   MAC Makeup &. More starting at $10
     
     Shop By Category
     *   Makeup
     *   Fragrance
+    *   Bath &. Body
     *   Men’s Grooming
     *   Tools &. Accessories
-    *   Hair Care
     *   Skin Care
-    *   Bath &. Body
-    *   Nails
+    *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
