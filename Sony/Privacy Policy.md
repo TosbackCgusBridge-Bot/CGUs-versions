@@ -99,17 +99,17 @@ Main menuSONY
 
 Search Sony
 
-Featuring Professional Camera Controls Inspired by the Alpha Series
+Introducing the New Xperia 5 II Featuring Our Leading Technology in a Compact Size
 
-Create With the Xperia 1 II
+Learn More
 
-Play video: Featuring Professional Camera Controls Inspired by the Alpha Series Close video: Featuring Professional Camera Controls Inspired by the Alpha Series
+Play video: Introducing the New Xperia 5 II Featuring Our Leading Technology in a Compact Size Close video: Introducing the New Xperia 5 II Featuring Our Leading Technology in a Compact Size
 
-*   Share on Facebook: Featuring Professional Camera Controls Inspired by the Alpha Series
-*   Share on Twitter: Featuring Professional Camera Controls Inspired by the Alpha Series
-*   Copy URL to Share: Featuring Professional Camera Controls Inspired by the Alpha Series
+*   Share on Facebook: Introducing the New Xperia 5 II Featuring Our Leading Technology in a Compact Size
+*   Share on Twitter: Introducing the New Xperia 5 II Featuring Our Leading Technology in a Compact Size
+*   Copy URL to Share: Introducing the New Xperia 5 II Featuring Our Leading Technology in a Compact Size
 
-<img class="bg-img video-7QiYou2dkM0" data-linkname="en:set\_a:position\_1|\_3x2-1:video:mobile:Xperia1II-September-16-2020:gwt:image:7QiYou2dkM0" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Featuring Professional Camera Controls Inspired by the Alpha Series 7QiYou2dkM0 Xperia-1-II" data-img1x="/content/dam/sony/homepage/2020-september/9-16/Xperia-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-september/9-16/Xperia-1-II-745x500.jpg" src="/content/dam/sony/homepage/2020-september/9-16/Xperia-1-II-745x500.jpg" alt="Featuring Professional Camera Controls Inspired by the Alpha Series"/>. <img class="bg-img video-7QiYou2dkM0" alt="Featuring Professional Camera Controls Inspired by the Alpha Series Mobile" data-linkname="en:set\_a:position\_1|\_3x2-1:video:mobile:Xperia1II-September-16-2020:gwt:image-mobile:7QiYou2dkM0" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Featuring Professional Camera Controls Inspired by the Alpha Series 7QiYou2dkM0 Xperia-1-II" data-img1x="/content/dam/sony/homepage/2020-september/9-16/Xperia-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-september/9-16/Xperia-1-II-745x500.jpg" src="/content/dam/sony/homepage/2020-september/9-16/Xperia-600x600.jpg"/>.
+<img class="bg-img video-qsUzbjz8bz0" data-linkname="en:set\_a:position\_1|\_3x2-1:video:mobile:Xperia5II-September-16-2020:gwt:image:qsUzbjz8bz0" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Introducing the New Xperia 5 II Featuring Our Leading Technology in a Compact Size qsUzbjz8bz0 Xperia-5-II" data-img1x="/content/dam/sony/homepage/2020-september/9-16/206\_KV\_600\_600\_BLACK.jpg" data-img2x="/content/dam/sony/homepage/2020-september/9-16/206\_KV\_745\_500\_BLACK.jpg" src="/content/dam/sony/homepage/2020-september/9-16/206\_KV\_745\_500\_BLACK.jpg" alt="Introducing the New Xperia 5 II Featuring Our Leading Technology in a Compact Size"/>. <img class="bg-img video-qsUzbjz8bz0" alt="Introducing the New Xperia 5 II Featuring Our Leading Technology in a Compact Size Mobile" data-linkname="en:set\_a:position\_1|\_3x2-1:video:mobile:Xperia5II-September-16-2020:gwt:image-mobile:qsUzbjz8bz0" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Introducing the New Xperia 5 II Featuring Our Leading Technology in a Compact Size qsUzbjz8bz0 Xperia-5-II" data-img1x="/content/dam/sony/homepage/2020-september/9-16/206\_KV\_600\_600\_BLACK.jpg" data-img2x="/content/dam/sony/homepage/2020-september/9-16/206\_KV\_745\_500\_BLACK.jpg" src="/content/dam/sony/homepage/2020-september/9-16/206\_KV\_600\_600\_BLACK.jpg"/>.
 
 Celebrating 50 Years on the NYSE
 
@@ -121,11 +121,11 @@ Play video: Celebrating 50 Years on the NYSE Close video: Celebrating 50 Years o
 *   Share on Twitter: Celebrating 50 Years on the NYSE
 *   Copy URL to Share: Celebrating 50 Years on the NYSE
 
-<img class="bg-img video-jfJw7sGUGwE" data-linkname="en:set\_a:position\_1|\_2x1-2:video:electronics:NYSEHistoryVideo-September-16-2020:sca:image:jfJw7sGUGwE" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Celebrating 50 Years on the NYSE jfJw7sGUGwE NYSE-History-Video" data-img1x="/content/dam/sony/homepage/2020-september/9-16/Sony50\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-september/9-16/Sony50\_500x246.jpg" src="/content/dam/sony/homepage/2020-september/9-16/Sony50\_500x246.jpg" alt="Celebrating 50 Years on the NYSE"/>. <img class="bg-img video-jfJw7sGUGwE" alt="Celebrating 50 Years on the NYSE Mobile" data-linkname="en:set\_a:position\_1|\_2x1-2:video:electronics:NYSEHistoryVideo-September-16-2020:sca:image-mobile:jfJw7sGUGwE" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Celebrating 50 Years on the NYSE jfJw7sGUGwE NYSE-History-Video" data-img1x="/content/dam/sony/homepage/2020-september/9-16/Sony50\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-september/9-16/Sony50\_500x246.jpg" src="/content/dam/sony/homepage/2020-september/9-16/Sony50\_600x600.jpg"/>.
+<img class="bg-img video-UL0xaY420qc" data-linkname="en:set\_a:position\_1|\_2x1-2:video:electronics:NYSEHistoryVideo-September-16-2020:sca:image:UL0xaY420qc" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Celebrating 50 Years on the NYSE UL0xaY420qc NYSE-History-Video" data-img1x="/content/dam/sony/homepage/2020-september/9-16/Sony50\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-september/9-16/Sony50\_500x246.jpg" src="/content/dam/sony/homepage/2020-september/9-16/Sony50\_500x246.jpg" alt="Celebrating 50 Years on the NYSE"/>. <img class="bg-img video-UL0xaY420qc" alt="Celebrating 50 Years on the NYSE Mobile" data-linkname="en:set\_a:position\_1|\_2x1-2:video:electronics:NYSEHistoryVideo-September-16-2020:sca:image-mobile:UL0xaY420qc" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Celebrating 50 Years on the NYSE UL0xaY420qc NYSE-History-Video" data-img1x="/content/dam/sony/homepage/2020-september/9-16/Sony50\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-september/9-16/Sony50\_500x246.jpg" src="/content/dam/sony/homepage/2020-september/9-16/Sony50\_600x600.jpg"/>.
 
 Rev up for some automotive acrobatics — Rocket League goes free-to-play later this month:  http://play.st/35FRCzk  pic.twitter.com/1njOyxUkRO
 
-1 day ago View Tweet Instagram Post CEu\_2gPl8vq
+2 days ago View Tweet Instagram Post CEu\_2gPl8vq
 
 Introducing the a7C
 
