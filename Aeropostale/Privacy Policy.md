@@ -397,24 +397,6 @@ More Inclusive Future. Learn More
 
 Next
 
-In Stores &. Online
-
-50-70% OFF  
-NEW ARRIVALS!
-
-The freshest denim, softest hoodies  
-and coolest cropped sweaters.
-
-Girls New Arrivals Guys New Arrivals Shop Girls Shop Guys
-
-In Stores &. Online
-
-50 - 70% OFF NEW ARRIVALS!
-
-The freshest denim, softest hoodies, and coolest cropped sweaters.
-
-Girls New Arrivals Guys New Arrivals Shop Girls Shop Guys
-
 AERO JEANS
 
 BUY 1 GET 1 FREE\*  
@@ -434,7 +416,7 @@ BUY 1 GET 1 FREE\*
 
 With a new &. improved booty-lifting fit for her &. extra leg room for him.
 
-Shop Girls Jeans Shop Guys Jeans Shop Super High Rise Shop Athletic Skinny
+Shop Girls Jeans Shop Guys Jeans Shop Premium Seriously Stretchy Shop Premium Max Stretch
 
 \* In store &. online only. Add two to cart. Discount reflected at checkout. Excludes clearance.
 
@@ -445,6 +427,24 @@ Shop Girls Jeans Shop Guys Jeans Shop Super High Rise Shop Athletic Skinny
 \*\* Free shipping on your entire purchase when you buy Aero Jeans.
 
 Shop Girls Jeans Shop Guys Jeans Shop Super High Rise Shop Athletic Skinny
+
+In Stores &. Online
+
+50-70% OFF  
+NEW ARRIVALS!
+
+The freshest denim, softest hoodies  
+and coolest cropped sweaters.
+
+Girls New Arrivals Guys New Arrivals Shop Girls Shop Guys
+
+In Stores &. Online
+
+50 - 70% OFF NEW ARRIVALS!
+
+The freshest denim, softest hoodies, and coolest cropped sweaters.
+
+Girls New Arrivals Guys New Arrivals Shop Girls Shop Guys
 
 JUST CHILL
 
