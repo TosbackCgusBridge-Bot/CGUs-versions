@@ -55,7 +55,7 @@ Visit Indeed
 
 **Privacy Policy**
 
-Last updated September 16, 2020
+Last updated September 17, 2020
 
 **Summary of Indeed’s Privacy Policy** **1\. Introduction**
 
@@ -218,7 +218,7 @@ PLEASE NOTE THAT YOUR RELATIONSHIP WITH FACEBOOK OR GOOGLE OR ANY OTHER THIRD-PA
 
 **_– Indeed for Chrome and Our Mobile Software_**
 
-Indeed may also collect information about websites and web pages you visit through our mobile software or while using Indeed for Chrome. This could include information about Job Listings you save, notes or applications statuses that you save or update, or data regarding how you engage with websites or other actions you take on such websites, including URLs of websites you visit. We do this in order to allow a Job Seeker to keep a record of particular Job Listings of interest, to detect a job application on a third-party site to give a Job Seeker the option to auto-fill parts of the form using Indeed Resume, or to confirm an application. Indeed for Chrome also allows Indeed to learn about what types of jobs and Indeed product features are of interest to you, so that we can provide you with improved Job Listing searches, Job Listing recommendations and product features. 
+Indeed may also collect information about third-party websites you visit through our mobile software or while using Indeed for Chrome. This could include information about Job Listings, notes or application statuses that you submit, save, or update, or data regarding how you engage with websites or other actions you take on such websites, including URLs of websites you visit. We may also suggest information from your Indeed profile to include in applications you submit on third-party sites and see whether you make changes to these suggestions but not the changes themselves. We do this in order to allow a Job Seeker to keep a record of particular Job Listings of interest, to detect a job application on a third-party site to give a Job Seeker the option to auto-fill parts of the form using Indeed Resume, or to confirm an application. Indeed for Chrome also allows Indeed to learn about what types of jobs and Indeed product features are of interest to you, so that we can provide you with improved Job Listing searches, Job Listing recommendations and product features. 
 
 **_**_– When You Apply to Jobs on Some Third-Party Websites_**_**
 
@@ -324,7 +324,7 @@ When you give the Sites contact information (such as your name and email address
 
 **4.4 Your Resume Information**
 
-Your information, including Personal Data, gets placed on the Sites when you upload or edit a resume, which becomes part of your Job Seeker profile. We reserve the right to charge third parties a fee for accessing your information, including Personal Data, as part of the Sites’ services. At your direction, we may also send your resume to third parties if you choose to apply for a Job Listing. The extent to which your information is made available to third parties depends on the privacy settings you choose, in accordance with this Privacy Policy. When a Job Seeker creates a profile on Indeed, their resume is set to public by default, and the Job Seeker may change their resume privacy settings at any time. This is detailed below.
+Your information, including Personal Data, gets placed on the Sites when you upload or edit a resume, which becomes part of your Job Seeker profile. We reserve the right to charge third parties a fee for accessing your information, including Personal Data, as part of the Sites’ services. At your direction, we may also send your resume to third parties if you choose to apply for a Job Listing. We may also use information in your Job Seeker profile to offer suggestions to you when you apply for jobs on third party websites in our mobile software. The extent to which your information is made available to third parties depends on the privacy settings you choose, in accordance with this Privacy Policy. When a Job Seeker creates a profile on Indeed, their resume is set to public by default, and the Job Seeker may change their resume privacy settings at any time. This is detailed below.
 
 **_– Private Resumes_**
 
@@ -610,7 +610,7 @@ We will not discriminate against you for exercising any of your rights under the
 
 **Cookie Policy**
 
-Last Updated: September 4, 2020
+Last Updated: September 17, 2020
 
 By using or accessing Indeed’s websites (“Site”), you agree to Indeed’s use of Cookies as outlined below. 
 
@@ -628,9 +628,9 @@ Session cookies are temporary cookies that remain in the cookie file of your bro
 
 **2\. How We Use Cookies**
 
-We use cookies, web beacons, and other similar technologies, including from third-party partners such as Google and Facebook, for measurement services, better targeting advertisements, and for marketing purposes. This takes place from the Sites and when you download or install an Indeed App. These cookies, web beacons, and other similar technologies allow us to display our promotional material to you on other sites you visit across the Internet. We may also share information about your behavior on the Sites with third parties (including operators of third-party websites and/or social networking sites) in order to show you targeted advertisements and other content that has been customized for you. 
+We use cookies, web beacons, and other similar technologies, including from third-party partners such as Google and Facebook, for measurement services, better targeting advertisements, and for marketing purposes. This takes place from the Sites, when you download or install an Indeed App, and in some of our advertisements on third party websites. These cookies, web beacons, and other similar technologies allow us to display our promotional material to you on other sites you visit across the Internet and connect you with more Employers. We may also share information about your behavior on the Sites with third parties (including operators of third-party websites and/or social networking sites) in order to show you targeted advertisements and other content that has been customized for you. 
 
-We also use these cookies, web beacons, and other similar technologies to facilitate the Indeed Targeted Ads Program. In connection with this Program and other advertising, we use these cookies, web beacons, and other similar technologies to determine which advertisements users have seen, how many times users have seen a particular advertisement, and on which sites a particular advertisement appeared. 
+We also use these cookies, web beacons, and other similar technologies to facilitate the Indeed Targeted Ads Program and other advertisements to help us to determine which advertisements users have seen, how many times users have seen a particular advertisement, and on which sites a particular advertisement appeared. We may also allow Employers who participate in our Indeed Targeted Ads Program to place cookies, web beacons, and other similar technologies in advertisements we serve on our Site and on third party websites to help these Employers understand how individuals interact with our advertisements about their Job Listings.
 
 We may also use these cookies, web beacons, and other similar technologies on the Sites to understand and inform an Employer about which users saw a particular Job Listing, Company Page, Hiring Event, or other advertisement in which the Employer is identified.
 
