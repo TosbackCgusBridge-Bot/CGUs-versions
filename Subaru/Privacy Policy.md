@@ -67,11 +67,11 @@ Up to
 
 Forester Sport shown
 
-Impreza $18,695\* starting price 2020 Impreza
+Impreza $18,795\* starting price 2021 Impreza
 
 Starting at
 
-$18,695 MSRP
+$18,795 MSRP
 
 Up to
 
