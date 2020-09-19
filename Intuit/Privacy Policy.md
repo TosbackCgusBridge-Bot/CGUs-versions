@@ -6,7 +6,7 @@ Free Shipping Over $49  DetailsExtra Reward Days! Earn a $10 Reward for every $
 
 Enable Accessibility
 
-*   StoresStoneridge MallMore Stores1500 Stoneridge Mall Rd, Pleasanton, CA, 94588925-463-9780 Weekly Ads Engagement GuideValid Jan 24th - Sep 1st
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1st
     
     My Account
     
@@ -28,7 +28,11 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Women's TopsFashion JewelryWomen's ShoesMen's Dress Shirts &. Sport CoatsUP TO 50% OFF Healthy sleep essentials—you deserve it!select styles
+**UP TO 40% OFF** **New fall styles, just for you**select styles
+
+*   Shop All
+
+TopsPantsDressesHandbags &. WalletsUP TO 50% OFF Healthy sleep essentials—you deserve it!select styles
 
 *   Healthy Sleep
 
@@ -58,10 +62,12 @@ Shop AllJuniorsYoung MenKidsBackpacksHomeschool40% OFF Comfort shoesAll-around s
 
 *   Shop All
 
-Shop NowChampionPumaadidasCheck out what's NEW with Salon &. Sephora inside JCPenney!Sephora excluded from coupons.Available Now at Sephora inside JCPenneyExcluded from coupons.Introducing Ouidad!40% OFF clothing  
-Baby &. Todder Saleselect styles
+Shop NowChampionPumaadidas40% OFF clothing  
+Baby &. Toddler Saleselect styles
 
 *   Shop All
+
+Check out what's NEW with Salon &. Sephora inside JCPenney!Sephora excluded from coupons.Available Now at Sephora inside JCPenneyExcluded from coupons.Introducing Ouidad!
 
 \*\*JCPenney Rewards members earn a $10 bonus Reward for every $50 spent on qualifying purchases 9/14/20-9/20/20. Limit 5 bonus Rewards per customer. Earned bonus Rewards will be delivered via emailed on 9/21/20 and will be valid 9/21/20-9/30/20.
 
@@ -72,23 +78,27 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 24 total items loaded
     $29.99sale
     
     ~$85~4
-*   Sealy® Beaumont Firm Mattress Only $149 - $288.99with code~$580 - $1,170~1
 *   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
     
     $10sale
     
     ~$49.98~239
+*   Sealy® Beaumont Firm Mattress Only $149 - $288.99with code~$580 - $1,170~1
 *   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
     
     $20sale
     
-    ~$124.98~149
+    ~$124.98~150
+*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+    
+    $20sale
+    
+    ~$124.98~221
 *   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
     
     $4.99 - $27.99sale
     
     ~$16 - $40~1256
-*   Home Expressions Tiles Complete Bedding Set with Sheets $44.99 - $67.49with code~$110 - $170~340
 
 Shop and Save at JCPenney
 
