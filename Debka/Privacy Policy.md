@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Friday, September 18, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, September 19, 2020  
 
 DEBKAfile
 
@@ -44,6 +44,10 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Steady rise in seriously ill covid cases and patients on ventilators
+    
+    Sep 18, 2020 @ 10:37
+    
 *   To enforce the lockdown, 7,000 police mustered and 1,000 soldiers
     
     Sep 17, 2020 @ 22:38
@@ -71,12 +75,12 @@ Breaking news
 *   Israel counts 4,537 new coronavirus cases before lockdown
     
     Sep 17, 2020 @ 09:40
-    
-*    Another covid-19 high: 5,527 new cases in Israel in a day
-    
-    Sep 16, 2020 @ 12:50
     
 
+*   Netanyahu resolved to tighten lockdown against Gamzu’s objections
+    
+    Sep 17, 2020 @ 22:06
+    
 *   Clandestine Hizballah and Al Qods operations uncovered in Israel
     
     Sep 17, 2020 @ 14:46
@@ -89,9 +93,9 @@ Breaking news
     
     Sep 17, 2020 @ 09:40
     
-*    Another covid-19 high: 5,527 new cases in Israel in a day
+*   Steady rise in seriously ill covid cases and patients on ventilators
     
-    Sep 16, 2020 @ 12:50
+    Sep 18, 2020 @ 10:37
     
 *   To enforce the lockdown, 7,000 police mustered and 1,000 soldiers
     
@@ -121,9 +125,9 @@ Breaking news
     
     Sep 17, 2020 @ 09:40
     
-*    Another covid-19 high: 5,527 new cases in Israel in a day
+*   Steady rise in seriously ill covid cases and patients on ventilators
     
-    Sep 16, 2020 @ 12:50
+    Sep 18, 2020 @ 10:37
     
 *   To enforce the lockdown, 7,000 police mustered and 1,000 soldiers
     
@@ -136,10 +140,6 @@ Breaking news
 *   Edelstein produces alarming figures
     
     Sep 17, 2020 @ 22:10
-    
-*   Netanyahu resolved to tighten lockdown against Gamzu’s objections
-    
-    Sep 17, 2020 @ 22:06
     
 
 12PrevNext
