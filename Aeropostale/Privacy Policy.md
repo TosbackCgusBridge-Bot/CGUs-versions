@@ -37,6 +37,7 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
+*   Rock the Vote
 *   Lounge Life
 *   Seamless
 *   Destroyed Denim
@@ -69,6 +70,7 @@ Close submenu ( Collections ) Collections
 
 *   View All
 *   New Arrivals
+*   Rock the Vote
 *   Face Coverings
 *   New Aero Logo
 *   CHILL ZONE
@@ -146,6 +148,7 @@ Close submenu ( Girls ) Girls
 
 *   View All
 *   Just In
+*   Rock the Vote
 *   Face Coverings
 *   Tiny Tops
 *   Best Sellers
@@ -159,6 +162,7 @@ Close submenu ( Guys ) Guys
 
 *   View All
 *   Just In
+*   Rock the Vote
 *   Face Coverings
 *   New Aero Logo
 *   Best Sellers
@@ -225,6 +229,7 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
+        *   Rock the Vote
         *   Lounge Life
         *   Seamless
         *   Destroyed Denim
@@ -253,6 +258,7 @@ Menu Find a Store Aeropostale
     *   Collections
         *   View All
         *   New Arrivals
+        *   Rock the Vote
         *   Face Coverings
         *   New Aero Logo
         *   CHILL ZONE
@@ -315,6 +321,7 @@ Menu Find a Store Aeropostale
     *   Girls
         *   View All
         *   Just In
+        *   Rock the Vote
         *   Face Coverings
         *   Tiny Tops
         *   Best Sellers
@@ -327,6 +334,7 @@ Menu Find a Store Aeropostale
     *   Guys
         *   View All
         *   Just In
+        *   Rock the Vote
         *   Face Coverings
         *   New Aero Logo
         *   Best Sellers
@@ -400,7 +408,7 @@ Next
 AERO JEANS
 
 BUY 1 GET 1 FREE\*  
-\+ FREE SHIPPING\*\*
++FREE SHIPPING\*\*
 
 **Denim All Day. Denim Always.**
 
