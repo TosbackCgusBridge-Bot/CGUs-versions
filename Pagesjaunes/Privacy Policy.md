@@ -1,10 +1,10 @@
 Pages Blanches Annuaire Inversé Se référencer Conditions Générales d’Utilisation du site PagesJaunes
 
-Version du 30/04/2020
+Version du 18/09/2020
 
 Mentions légales
 
-Le site http://www.pagesjaunes.fr est édité par :
+Le site https://www.pagesjaunes.fr est édité par :
 
 Solocal  
 Citylights  
@@ -23,7 +23,7 @@ Directeur de rédaction et de publication : **Eric Boustouller**
 
 AVERTISSEMENT
 
-Le présent site a pour objet de mettre à disposition de ses utilisateurs la liste des abonnés au téléphone ayant accepté de figurer dans http://www.pagesjaunes.fr. L’utilisation du site implique l’adhésion aux termes du service tels que décrits dans le présent document.
+Le présent site a pour objet de mettre à disposition de ses utilisateurs la liste des abonnés au téléphone ayant accepté de figurer dans https://www.pagesjaunes.fr. L’utilisation du site implique l’adhésion aux termes du service tels que décrits dans le présent document.
 
 Solocal en sa qualité d’éditeur, définit et arrête la liste des rubriques retenues dans le présent annuaire de professionnels. La décision de faire paraître l’inscription de base d’un abonné professionnel appartient exclusivement à Solocal.
 
@@ -39,11 +39,11 @@ En accédant au présent site, vous reconnaissez que les données le composant s
 
 Prospection publicitaire et prospection illicite
 
-En vertu du respect des droits des abonnés inscrits en liste d’opposition à des opérations de prospection directe et des dispositions de l’article R10-1 du Code des Postes et Communications électroniques fixées par décret en Conseil d’Etat du 01/08/03, l’utilisation à des fins commerciales ou de diffusion dans le public de données téléchargées à partir de http://www.pagesjaunes.fr est formellement interdite, sous peine des sanctions pénales prévues par les articles 226-16 à 226-24 du Code pénal qui sanctionne notamment le délit de collecte illicite de données personnelles
+En vertu du respect des droits des abonnés inscrits en liste d’opposition à des opérations de prospection directe et des dispositions de l’article R10-1 du Code des Postes et Communications électroniques fixées par décret en Conseil d’Etat du 01/08/03, l’utilisation à des fins commerciales ou de diffusion dans le public de données téléchargées à partir de https://www.pagesjaunes.fr est formellement interdite, sous peine des sanctions pénales prévues par les articles 226-16 à 226-24 du Code pénal qui sanctionne notamment le délit de collecte illicite de données personnelles
 
 Contacts commerciaux
 
-Pour répondre aux besoins commerciaux des entreprises, la société Solocal Marketing Services et en particulier le site http://www.marketingconnect.fr/ permettent d’acquérir en toute légalité des données issues des annuaires  PagesJaunes.
+Pour répondre aux besoins commerciaux des entreprises, la société Solocal Marketing Services et en particulier le site https://www.marketingconnect.fr/ permettent d’acquérir en toute légalité des données issues des annuaires  PagesJaunes.
 
 Conditions d’utilisation : mentions particulières pour les Services éditoriaux et Services du Compte 1 – Définitions
 
@@ -62,7 +62,7 @@ Parmi les services concernés on retrouve les rubriques :
 
 « **Compte Utilisateur** » : désigne un compte sécurisé PagesJaunes propre à chaque Utilisateur. Ce compte permet à l’Utilisateur l’accès et l’utilisation des Services. Par exemple pour pouvoir écrire un avis sur un Professionnel, l’Utilisateur doit obligatoirement posséder un Compte.
 
-« **Professionnel** » : désigne tout professionnel (personne physique ou morale) qui apparaît dans les listes réponses du site Internet http://www.pagesjaunes.fr, et ce que ce celui-ci soit annonceur ou non.
+« **Professionnel** » : désigne tout professionnel (personne physique ou morale) qui apparaît dans les listes réponses du site Internet https://www.pagesjaunes.fr, et ce que ce celui-ci soit annonceur ou non.
 
 « **Utilisateur** » : désigne tout internaute se rendant sur le Site, y compris le Professionnel
 
@@ -237,7 +237,7 @@ La société Solocal informe tout Utilisateur du Service de Réservation de Tabl
 
 Concernant les Données personnelles, merci de vous reporter à l’onglet « Données personnelles » en cliquant ici
 
-Pour toute information sur la protection des données personnelles vous pouvez consulter le site de la CNIL à l’adresse suivante : http://www.cnil.fr/.
+Pour toute information sur la protection des données personnelles vous pouvez consulter le site de la CNIL à l’adresse suivante : https://www.cnil.fr/.
 
 Conditions d’utilisation : mentions particulières pour réserver un hôtel en ligne
 
