@@ -1,43 +1,44 @@
-games videos New Games Next in  00:00
+games videos New Games Next in  05:00
 
-*   Newest Games Next addition in 00:00
+*   Newest Games Next addition in 05:00
 
 *   Best New Games Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 00:00
-*   Best of new games 1426 games
-*   Most Popular Games 21682 games
+*   New Games Next in 05:00
+*   Best of new games 1410 games
+*   Most Popular Games 21690 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,540 games
-*   Driving &. Racing 6,469 games
+*   For Girls 24,543 games
+*   Driving &. Racing 6,470 games
 *   Strategy &. RPG 3,651 games
 *   Management &. Sim 4,311 games
-*   Thinking 12,993 games
-*   Action &. Adventure 14,936 games
-*   Sports 3,397 games
-*   Shooting 9,186 games
+*   Thinking 12,995 games
+*   Action &. Adventure 14,935 games
+*   Sports 3,398 games
+*   Shooting 9,188 games
 *   Fighting 2,089 games
-*   Skill 11,758 games
+*   Skill 11,760 games
 *   Arcade &. Classic 9,769 games
 *   Fun &. Crazy 5,014 games
 
 Play with friends  
-Powered by Y8 Account 149 Y8 Multiplayer Games 2,235 Y8 High Score Games 1,286 Y8 Achievements Games 916 Y8 Screenshots Games 1,738 Y8 Online Save Games 3,466 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 149 Y8 Multiplayer Games 2,236 Y8 High Score Games 1,287 Y8 Achievements Games 916 Y8 Screenshots Games 1,739 Y8 Online Save Games 3,466 All Y8 Games Games Last Highscore:
 
-**30,418** points on Hide Online by dirkmilesmradaza
+**5** points on Slope Y8 by mausback
 
 Help us improve Bad translation? Social
 
+*   All Tags
 *   Upload
 *   Game Publishers
-*   All Tags
+*   Download App
 *   Privacy Policy
 *   Cookie Policy
 *   Terms of Use
@@ -265,12 +266,12 @@ If You have any questions, queries, comments, or requests, We are happy to recei
 
 © 2020 Y8.COM. All rights reserved. Y8 Games
 
-*   All Games
 *   New Games
+*   Upload
+*   All Tags
 *   Best of New
 *   Most Popular
-*   All Tags
-*   Upload
+*   Download App
 
 Updates
 
