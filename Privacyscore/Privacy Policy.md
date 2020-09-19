@@ -31,41 +31,53 @@ I ACCEPT Close <div class="noscript-message">In order to view this page correctl
         *   Online Banking
         *   No Log Policy
 *   Download
+    *   Windows
+    *   macOS
+    *   Android
+    *   iOS
+    *   Linux
+    *   Routers
+    *   Apple TV
+    *   Android TV
+    *   icon/xbox copy@3xXbox
+    *   icon/playstation copy@3xPlaystation
 *   Help
 *   My account
 *   Get the app
 
-HMA! Free Privacy Tools
+HMA Free Privacy Tools
 
 We’ve got the best privacy tools in the biz to make sure you’re covering your ass even with a VPN in place. Your privacy choices matter. Don’t forget it.
 
-IP checker
+IP Checker
 
-Browsing without a VPN is risky. Websites can target you based on your location all because of your little old IP address. Find out if you are exposed and how to cover your ass (and true location) with our VPN.
+Find out if your IP address and location are exposed.
 
-Check my IP address DNS leak test
+CHECK MY IP ADDRESS DNS Leak Test
 
-A DNS leak happens when you're using a bad VPN. Fact. Once your DNS queries are leaked anyone and everyone can access everything you're browsing. Personal data, private messages, the whole shebang.
+A DNS leak happens when you're using a bad VPN. So see if yours is up to snuff.
 
-Check my VPN WebRTC test
+CHECK MY VPN WebRTC Test
 
-Did you know your browser can still betray you even with a VPN on? True story. It’s called a WebRTC leak and it’s one hell of a privacy risk. Luckily, we’ve got the lowdown on prevention within all kinds of browsers.
+Check your WebRTC isn’t revealing your actual IP address.
 
-Check my browser
+CHECK MY BROWSER
 
 Manage online privacy risks with our selection of handy and free (gotta love a freebie) web tools. They're the easiest way to straight-up check and fix your privacy online. Sharpish. We've also got some extra freebies like a speed checker and a proxy if you like that sort of thing.
 
 Want even better privacy?
 
-Free tools are swell and all, but if you won’t settle for less than the best (good for you, you deserve it), then you need HMA! VPN, which encrypts your data, hides your location, and generally kicks ass.  
+Free tools are swell and all, but if you won’t settle for less than the best (good for you, you deserve it), then you need HMA VPN, which encrypts your data, hides your location, and generally kicks ass.  
   
 It’s available for: PC, Android, iOS, Mac and Linux.
 
-Buy now Free Web Proxy
+  
+  
+Buy now Free trial Free Proxy
 
 Using a friend’s computer that doesn’t have a VPN? You need better friends. But for now there’s our free web proxy. It’ll let you access blocked content and surf the web privately in one tab of your browser. A quick fix? Yes. But a handy one.
 
-Try our free proxy Learn more about VPNs with Jack’s Guides
+TRY OUR FREE PROXY Learn more about VPNs with Jack’s Guides
 
 *   Browse privately
     
@@ -132,6 +144,7 @@ Learn about VPN
 *   Watch Bundesliga
 *   Watch English Premier League
 *   Watch Cricket
+*   Get Around Blackouts Restriction
 
 Help
 
@@ -154,7 +167,7 @@ About us
 
 Download our mobile apps
 
-Modern Slavery Statement     |     Copyright © 2005—2020 HMA. All Rights Reserved
+Modern Slavery Statement | Do not sell my info     |     Copyright © 2005—2020 HMA. All Rights Reserved
 
 This might suit you better
 
@@ -218,13 +231,3 @@ ASIA &. PACIFIC
 *   Worldwide (English)
 
 <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=497969107041437&amp;ev=PageView&amp;noscript=1">. <img src="https://trc.taboola.com/1262079/log/3/unip?en=page\_view" width="0" height="0" style="display:none">. HMA logoIcon HamburgerIcon HamburgerIcon closeIcon close accordeonSearchExpand / collapseIcon FacebookIcon TwiterIcon Google PlusIcon YoutubeWindows iconWindows icon fillAndroid iconAndroid icon fillMac iconMac icon fillIos iconiOS icon fillLinux iconLinux icon fillMultiDeviceMultiPlatformUnlimitedSuperspeedyBiggestNetworkEasy2useGuaranteedCareHideShieldReferringWebsite ownersMarketersDownload helpInstall helpBeginner’s guideWin guideLinux guideRouter setupApple tv iconAndroid tv iconCrossTechnologyBandwidth &. speedLimitsOnline privacyStreamingStreamingAccessAdvertsPublic WiFiResearchLocationsCheck MarkCheck MarkIcon checkmark tableEmail iconGmail iconShield iconDNS LeakIcon dashIcon infoDouble quotesCheckmark
-
-LIMITED OFFER 
-
-**SAVE UP TO 67%!  
-**
-
-Become untraceable online  
-with HMA VPN.
-
-Buy now HMA!’s Snowballin’ Sale: -67% OFF
