@@ -253,23 +253,23 @@ Former DoD CSO at RiskSec: The West must lead
     *   Emailed
     *   Recent
     
-    *   Five tips for managing information security in the post-COVID world
-    *   Slack users unwittingly phished with malicious payloads
-    *   CyberRisk Alliance acquires podcast and video company Security Weekly
-    *   Massive Magecart attacks steal personal data from Magento 1 stores
-    *   SC Product Reviews: Unified Threat Management
+    *   Complex new attack targets managed service providers, hiding in Google traffic
+    *   Will federal IoT legislation nudge business standards? Lawmakers say maybe
+    *   FBI opens China-related counterintelligence case every 10 hours
+    *   Lessons combating COVID-19 healthcare security challenges
+    *   Threat gardening: What CISOs can learn from 'mystery seeds'
     
-    *   All eyes on VA security measures after compromise of 46,000 accounts
-    *   Microsoft fixes 129 flaws, 23 critical, in massive Patch Tuesday
-    *   Attackers could exploit flaws in MAGMI Magento plugin to hijack admin sessions
-    *   Free program blocks 10 million malicious domains from state and local governments
-    *   SonicWall vulnerability fixed, but researchers say the patch took 17 days
-    
-    *   All eyes on VA security measures after compromise of 46,000 accounts
-    *   Accidental Airbnb account takeover linked to recycled phone numbers
-    *   Cyber leaders urge SCOTUS to narrow CFAA scope to protect vulnerability research tactics
+    *   What's really changed three years after Equifax breach?
     *   Exploit for critical Windows flaw allows access to admin rights
-    *   Massive Magecart attacks steal personal data from Magento 1 stores
+    *   Microsoft fixes 129 flaws, 23 critical, in massive Patch Tuesday
+    *   SonicWall vulnerability fixed, but researchers say the patch took 17 days
+    *   Collaboration tools make work-from-home easier, but they can cause costly breaches
+    
+    *   FBI opens China-related counterintelligence case every 10 hours
+    *   Oracle will inherit TikTok security, privacy headaches
+    *   To boost diversity, change cyber job descriptions and interview tactics
+    *   Diversity metrics incentivize inclusion, but bring potential pitfalls
+    *   Phishing campaign spoofs security awareness training notifications
 
 Back to Top
 
@@ -303,4 +303,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
+
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
