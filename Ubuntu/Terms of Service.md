@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   The Expandables – snapcraft extensions and the secret code
 *   Design and Web team summary – 16th September 2020
 *   Security corner: snap interface &. snap connections
-*   An Introduction to Testing Robot Code
