@@ -125,7 +125,7 @@ Play video: Celebrating 50 Years on the NYSE Close video: Celebrating 50 Years o
 
 Rev up for some automotive acrobatics — Rocket League goes free-to-play later this month:  http://play.st/35FRCzk  pic.twitter.com/1njOyxUkRO
 
-2 days ago View Tweet Instagram Post CEu\_2gPl8vq
+3 days ago View Tweet Instagram Post CEu\_2gPl8vq
 
 Introducing the a7C
 
