@@ -9,11 +9,29 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   7 For All Mankind Up to 65% Off
+    *   SLIP For Beauty Sleep Up to 50% Off
+    *   Hunter
+    *   90 Degree by Reflex Under $35
+    *   NEST Fragrances Starting at $10
+    *   Kids' Rain Boots ft. Hunter
+    *   Dresses Under $40 Incl. Plus
+    *   Long Sleeve Tops Up to 70% Off Incl. Plus
+    *   Women's Styles Under $25 Incl. Plus
+    *   Underneath It All: Shapewear We Love
+    *   Psycho Bunny Sleep &. Lingerie Under $20
+    *   Home Organization Essentials Starting at $20
+    *   Sneakers ft. ASH Up to 65% Off
+    *   Brooks Brothers Men Up to 60% Off
+    *   Hawke &. Co. Up to 70% Off
+    *   CZ by Kenneth Jay Lane Starting at $20
+    *   PUMA Kids' Activewear &. More
+    *   90 Degree by Reflex Men
     *   JOE'S Jeans Up to 70% Off
-    *   JOE'S Jeans Men Up to 60% Off
-    *   Rag &. Bone Shoes &. Bags Up to 60% Off
     *   Bath &. Body Brands We Love Incl. Neutrogena
+    
     *   Feminine Dresses ft. Taylor Incl. Plus
+    *   JOE'S Jeans Men Up to 60% Off
     *   Naturalizer Up to 60% Off
     *   Cardigans Up to 70% Off Incl. Plus
     *   Fall Faves: Sweaters Under $35 Incl. Plus
@@ -22,98 +40,66 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Men's Comfort Shoes Starting at $40
     *   Swim Up to 70% Off
     *   JOE'S Jeans Kids Up to 60% Off
-    *   Men's Golf Styles Up to 60% Off
     *   Men's Sweaters Starting at $30
     *   Top Toys Starting at $10
-    *   Utilize These: Trench Coats, Rain Jackets &. More
+    *   Rag &. Bone Shoes &. Bags Up to 60% Off
     *   P448 Men
-    *   MOTHER Up to 65% Off
     *   Zoe Ayla Starting At $10
     *   Women's Fragrance Starting at $10
     *   Robert Graham Men Up to 55% Off
-    
-    *   Dresses From Tahari &. More Up to 75% Off
-    *   Exclusively Ours: Free Press, Shimera &. More
-    *   Jacket's Up to 70% Off Incl. Plus
-    *   Plaid Styles &. More Under $40 Incl. Plus
-    *   Now Trending: Active Styles Under $35
-    *   Cole Haan Outerwear Up to 70% Off
-    *   Comfort Shoes ft. Skechers Up to 65% Off
-    *   Slip on Sneakers Up to 60% Off
-    *   Splendid Up to 60% Off
     *   Men's Sneakers &. More Up to 70% Off
     *   Coat Check: Kids' Outerwear
     *   P448 Kids Up to 60% Off
+    
     *   Girls' Flats ft. Mini Melissa
     *   Huggies &. Studs: Earrings Starting at $10
-    *   Cole Haan Up to 60% Off
-    *   Cole Haan Men's Shoes Up to 60% Off
     *   Ray-Ban Under $100
     *   Cole Haan Men's Apparel Up to 60% Off
     *   Haircare We Love ft. Kerastase
-    *   Fall Finds: Kids' Styles Up to 60% Off
-    *   Billy Reid Men Up to 60% Off
-    *   Men's Loafers Up to 70% Off
-    
     *   Laura Mercier Makeup &. More Up to 50% off
-    *   Bobsweep Vacuums at 75% Off
-    *   Men's Fragrance up to 60% off
-    *   Free Shipping: Home Essentials Ft. Cooling Pillows
-    *   Free Shipping: Willow Row at 40% Off
-    *   PMD Skincare Tools 50% Off
-    *   Lamps For Every Room
+    *   Utilize These: Trench Coats, Rain Jackets &. More
+    *   MAC Makeup &. More starting at $10
+    *   Men's Golf Styles Up to 60% Off
     *   Cuddle up with a Candle
     *   Cozy Fall ft. Throws &. Pillows at 60% Off
-    *   New Fall Arrivals Incl. Plus
     *   Fall Home Decor at 60% Off
-    *   Warm &. Chic Outerwear Up to 70% Off
-    *   MAC Makeup &. More starting at $10
-    *   Nina Leonard Incl. Plus
-    *   Bobeau Under $40 Incl. Plus
-    *   Skirts Up to 70% Off Incl. Plus
+    *   BCBGMaxazria &. More Up to 70% Off
+    *   Lamps For Every Room
     *   Champion Men's Activewear
-    *   Midi Dresses Under $50 Incl. Plus
-    *   Lush
     *   Free Shipping: Blue Ridge Home Bedding
+    *   Bobsweep Vacuums at 75% Off
+    *   Free Shipping: Home Essentials Ft. Cooling Pillows
 *   WomenShop Sale Events
     
+    *   7 For All Mankind Up to 65% Off
+    *   SLIP For Beauty Sleep Up to 50% Off
+    *   Hunter
+    *   90 Degree by Reflex Under $35
+    *   NEST Fragrances Starting at $10
+    *   Dresses Under $40 Incl. Plus
+    *   Long Sleeve Tops Up to 70% Off Incl. Plus
+    *   Women's Styles Under $25 Incl. Plus
+    *   Underneath It All: Shapewear We Love
+    *   Psycho Bunny Sleep &. Lingerie Under $20
+    *   Sneakers ft. ASH Up to 65% Off
+    *   CZ by Kenneth Jay Lane Starting at $20
     *   JOE'S Jeans Up to 70% Off
-    *   Rag &. Bone Shoes &. Bags Up to 60% Off
     *   Bath &. Body Brands We Love Incl. Neutrogena
+    
     *   Feminine Dresses ft. Taylor Incl. Plus
     *   Naturalizer Up to 60% Off
     *   Cardigans Up to 70% Off Incl. Plus
     *   Fall Faves: Sweaters Under $35 Incl. Plus
     *   Mask Sets Starting at $15
     *   Swim Up to 70% Off
-    *   Utilize These: Trench Coats, Rain Jackets &. More
-    *   MOTHER Up to 65% Off
+    *   Rag &. Bone Shoes &. Bags Up to 60% Off
     *   Zoe Ayla Starting At $10
     *   Women's Fragrance Starting at $10
-    *   Dresses From Tahari &. More Up to 75% Off
-    *   Exclusively Ours: Free Press, Shimera &. More
-    *   Jacket's Up to 70% Off Incl. Plus
-    *   Plaid Styles &. More Under $40 Incl. Plus
-    *   Now Trending: Active Styles Under $35
-    
-    *   Cole Haan Outerwear Up to 70% Off
-    *   Comfort Shoes ft. Skechers Up to 65% Off
-    *   Slip on Sneakers Up to 60% Off
-    *   Splendid Up to 60% Off
     *   Huggies &. Studs: Earrings Starting at $10
-    *   Cole Haan Up to 60% Off
     *   Haircare We Love ft. Kerastase
     *   Laura Mercier Makeup &. More Up to 50% off
-    *   Men's Fragrance up to 60% off
-    *   PMD Skincare Tools 50% Off
-    *   New Fall Arrivals Incl. Plus
-    *   Warm &. Chic Outerwear Up to 70% Off
+    *   Utilize These: Trench Coats, Rain Jackets &. More
     *   MAC Makeup &. More starting at $10
-    *   Nina Leonard Incl. Plus
-    *   Bobeau Under $40 Incl. Plus
-    *   Skirts Up to 70% Off Incl. Plus
-    *   Midi Dresses Under $50 Incl. Plus
-    *   Lush
     
     Shop By Category
     *   Clothing
@@ -124,19 +110,19 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Handbags
 *   MenShop Sale Events
     
+    *   Brooks Brothers Men Up to 60% Off
+    *   Hawke &. Co. Up to 70% Off
+    *   90 Degree by Reflex Men
     *   JOE'S Jeans Men Up to 60% Off
     *   Men's Comfort Shoes Starting at $40
-    *   Men's Golf Styles Up to 60% Off
     *   Men's Sweaters Starting at $30
     *   P448 Men
+    
     *   Robert Graham Men Up to 55% Off
     *   Men's Sneakers &. More Up to 70% Off
-    
-    *   Cole Haan Men's Shoes Up to 60% Off
     *   Ray-Ban Under $100
     *   Cole Haan Men's Apparel Up to 60% Off
-    *   Billy Reid Men Up to 60% Off
-    *   Men's Loafers Up to 70% Off
+    *   Men's Golf Styles Up to 60% Off
     *   Champion Men's Activewear
     
     Shop By Category
@@ -145,54 +131,56 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Kids' Rain Boots ft. Hunter
+    *   PUMA Kids' Activewear &. More
     *   JOE'S Jeans Kids Up to 60% Off
     *   Top Toys Starting at $10
     *   Coat Check: Kids' Outerwear
     *   P448 Kids Up to 60% Off
     *   Girls' Flats ft. Mini Melissa
-    *   Fall Finds: Kids' Styles Up to 60% Off
     
     Shop By Category
     *   Girls
     *   Girls' Shoes
+    *   Toys
+    *   Boys' Shoes
     *   Boys
     *   Baby
-    *   Toys
 *   HomeShop Sale Events
     
+    *   Home Organization Essentials Starting at $20
     *   Free Shipping: Home Decor Starting at $20
-    *   Bobsweep Vacuums at 75% Off
-    *   Free Shipping: Home Essentials Ft. Cooling Pillows
-    *   Free Shipping: Willow Row at 40% Off
-    *   Lamps For Every Room
     *   Cuddle up with a Candle
     *   Cozy Fall ft. Throws &. Pillows at 60% Off
     *   Fall Home Decor at 60% Off
+    *   Lamps For Every Room
     *   Free Shipping: Blue Ridge Home Bedding
+    *   Bobsweep Vacuums at 75% Off
+    *   Free Shipping: Home Essentials Ft. Cooling Pillows
     
     Shop By Category
     *   Home Decor
     *   Bedding
     *   Holiday Decorations
     *   Cleaning &. Organization
+    *   Bath
 *   BeautyShop Sale Events
     
+    *   SLIP For Beauty Sleep Up to 50% Off
+    *   NEST Fragrances Starting at $10
     *   Bath &. Body Brands We Love Incl. Neutrogena
     *   Zoe Ayla Starting At $10
     *   Women's Fragrance Starting at $10
     *   Haircare We Love ft. Kerastase
     *   Laura Mercier Makeup &. More Up to 50% off
-    *   Men's Fragrance up to 60% off
-    *   PMD Skincare Tools 50% Off
     *   MAC Makeup &. More starting at $10
     
     Shop By Category
     *   Makeup
-    *   Fragrance
     *   Bath &. Body
-    *   Men’s Grooming
-    *   Tools &. Accessories
+    *   Fragrance
     *   Skin Care
+    *   Tools &. Accessories
     *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
