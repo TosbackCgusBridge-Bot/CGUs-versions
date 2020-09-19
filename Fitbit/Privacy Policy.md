@@ -7,9 +7,9 @@
     *   Trackers
     *   Services
     *   Accessories
-    *   Designer Collections
     *   Scales
     *   What's New
+    *   Designer Collections
     *   Shop All Products
     
     *   EXPERIENCES
@@ -31,8 +31,10 @@
     
     *   HOW WE INNOVATE
     *   Sleep Technology
-    *   Fitbit Pay
+    *   Health Metrics + SpO2
+    *   ECG
     *   Voice
+    *   Fitbit Pay
     
     *   HOW WE CONNECT
     *   Compatible Devices
@@ -56,8 +58,10 @@ TECHNOLOGY
 
 *   HOW WE INNOVATE
 *   Sleep Technology
-*   Fitbit Pay
+*   Health Metrics + SpO2
+*   ECG
 *   Voice
+*   Fitbit Pay
 *   HOW WE CONNECT
 *   Compatible Devices
 *   Works with Fitbit
