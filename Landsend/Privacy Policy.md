@@ -15,9 +15,9 @@ Hi, Sign in My Account Sign In Create an Account Manage Account Track Order Orde
 *   Women
 *   Men
 *   Kids
-*   Swim
-*   Bags
 *   Outerwear
+*   Bags
+*   Swim
 *   School
 *   Home
 *   New
