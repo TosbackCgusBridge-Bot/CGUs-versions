@@ -106,7 +106,7 @@ Member Login en
 *   es
 *   More languages
 
-Donate ×search  Donate Online Trust Alliance (OTA) OTA Home Publications Best Practices IoT Committees All Resources
+Donate Donate Online Trust Alliance (OTA) OTA Home Publications Best Practices IoT Committees All Resources
 
 The Internet Society’s Online Trust Alliance (OTA) identifies and promotes security and privacy best practices that build consumer confidence in the Internet. Leading public and private organizations, vendors, researchers, and policymakers contribute to and follow OTA’s guidance to help make online transactions safer and better protect users’ data. **OTA Goals:**
 
