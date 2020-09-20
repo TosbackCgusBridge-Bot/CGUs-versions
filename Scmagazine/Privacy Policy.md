@@ -253,23 +253,23 @@ Former DoD CSO at RiskSec: The West must lead
     *   Emailed
     *   Recent
     
-    *   Complex new attack targets managed service providers, hiding in Google traffic
-    *   Will federal IoT legislation nudge business standards? Lawmakers say maybe
-    *   FBI opens China-related counterintelligence case every 10 hours
-    *   Lessons combating COVID-19 healthcare security challenges
     *   Threat gardening: What CISOs can learn from 'mystery seeds'
+    *   Hacker-for-hire groups profit by commoditizing APT tactics
+    *   Free program blocks 10 million malicious domains from state and local governments
+    *   To boost diversity, change cyber job descriptions and interview tactics
+    *   China pushes new global data security initiative, decrying US 'politicizing' the issue
     
-    *   What's really changed three years after Equifax breach?
-    *   Exploit for critical Windows flaw allows access to admin rights
-    *   Microsoft fixes 129 flaws, 23 critical, in massive Patch Tuesday
-    *   SonicWall vulnerability fixed, but researchers say the patch took 17 days
-    *   Collaboration tools make work-from-home easier, but they can cause costly breaches
+    *   The cyber digital divide: How to level the playing field
+    *   Free program blocks 10 million malicious domains from state and local governments
+    *   Accidental Airbnb account takeover linked to recycled phone numbers
+    *   FBI opens China-related counterintelligence case every 10 hours
+    *   Canary in the coal mine: Estonia ambassador on creating a security culture post cyberwar
     
+    *   Commerce imposes prohibitions on TikTok, WeChat
     *   FBI opens China-related counterintelligence case every 10 hours
     *   Oracle will inherit TikTok security, privacy headaches
     *   To boost diversity, change cyber job descriptions and interview tactics
     *   Diversity metrics incentivize inclusion, but bring potential pitfalls
-    *   Phishing campaign spoofs security awareness training notifications
 
 Back to Top
 
@@ -303,7 +303,7 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
 You can skip this ad in 1 seconds.
 
