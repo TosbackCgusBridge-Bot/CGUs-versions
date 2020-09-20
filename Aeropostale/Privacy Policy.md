@@ -375,35 +375,11 @@ Menu Find a Store Aeropostale
 *   Refer a Friend
 
 0 Your Shopping Cart is Empty FREE SHIPPING  
-ORDERS OVER $50 Search Catalog Search Previous
+ORDERS OVER $50 Search Catalog Search
 
-We’re STILL in this together. See the extra precautions we’re taking to protect our customers &. associates from COVID-19.Learn More
+The future is on your ballot.
 
-The quickest, easiest &. safest way to shop. Order online, pick up in-store FREE! Learn More
-
-Through donations, education and action, we pledge to do our part in the fight against systemic racism.
-
-Aero Oneness is a new generation coming together to a build a brighter, more inclusive future.Learn More
-
-Next Previous
-
-We’re STILL in this together.  
-See the extra precautions we’re taking to protect our  
-customers &. associates from COVID-19. Learn More
-
-The quickest, easiest &. safest way to shop.  
-Order online, pick up in-store FREE!  
-Learn More
-
-Through donations, education and action,  
-we pledge to do our part in the fight  
-against systemic racism.
-
-Oneness Is A New Generation  
-Coming Together To Build A Brighter,  
-More Inclusive Future. Learn More
-
-Next
+LEARN MORE SHOP ROCK THE VOTE Learn More Shop Rock The Vote
 
 AERO JEANS
 
