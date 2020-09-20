@@ -73,32 +73,16 @@ Check out what's NEW with Salon &. Sephora inside JCPenney!Sephora excluded from
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 24 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
-    
-    $29.99sale
-    
-    ~$85~4
-*   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
-    
-    $10sale
-    
-    ~$49.98~239
 *   Sealy® Beaumont Firm Mattress Only $149 - $288.99with code~$580 - $1,170~1
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+*   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745
     
-    $20sale
+    $24.99sale
     
-    ~$124.98~150
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
-    
-    $20sale
-    
-    ~$124.98~221
-*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
-    
-    $4.99 - $27.99sale
-    
-    ~$16 - $40~1256
+    ~$36~1808
+*   JCPenney Home™ Ultima Bath Rug Collection $16.49 - $44.99with code~$34 - $90~713
+*   Be Yourself Womens 2-pc. Capri Pajama Set Short Sleeve Round Neck $17.85with code~$34~4
+*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $26.99 - $40.49with code~$60 - $90~129
+*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $4.49with code~$13~71
 
 Shop and Save at JCPenney
 
