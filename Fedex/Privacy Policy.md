@@ -12,7 +12,7 @@ Sign Up or Log In User ID User ID PASSWORD SHOW PASSWORD Remember Me LOG IN Forg
 
 Get exclusive benefits when you open a FedEx account.
 
-CREATE ACCOUNT Menu Top Searched Door Tag Insight Supplies Claims Billing Home FedEx Trust Center FedEx Privacy Notice FedEx Privacy Notice FedEx Privacy Notice Global Privacy Policy Created with Sketch. Global privacy policy Privacy notice Cookie notice Binding corporate rules
+CREATE ACCOUNT Menu Top Searched Door Tag Insight Supplies Claims Billing Home FedEx Trust Center FedEx Privacy Notice FedEx Privacy Notice FedEx Privacy Notice Global Privacy Policy Global privacy policy Privacy notice Cookie notice Binding corporate rules
 
 Last update: July 1, 2020
 
