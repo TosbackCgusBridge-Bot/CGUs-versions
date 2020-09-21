@@ -73,16 +73,24 @@ Check out what's NEW with Salon &. Sephora inside JCPenney!Sephora excluded from
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 24 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Sealy® Beaumont Firm Mattress Only $149 - $288.99with code~$580 - $1,170~1
-*   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745
+*   JCPenney Home Casey Jacquard Light-Filtering Grommet-Top Single Curtain Panel $26.24 - $52.49with code~$50 - $100~121
+*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
+    
+    $4.99 - $27.99sale
+    
+    ~$16 - $40~1256
+*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+    
+    $20sale
+    
+    ~$124.98~223
+*   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693
     
     $24.99sale
     
-    ~$36~1808
+    ~$36~5638
 *   JCPenney Home™ Ultima Bath Rug Collection $16.49 - $44.99with code~$34 - $90~713
-*   Be Yourself Womens 2-pc. Capri Pajama Set Short Sleeve Round Neck $17.85with code~$34~4
-*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $26.99 - $40.49with code~$60 - $90~129
-*   a.n.a-Womens Round Neck Short Sleeve T-Shirt $4.49with code~$13~71
+*   a.n.a-Womens V Neck Short Sleeve T-Shirt $3.74with code~$13~17
 
 Shop and Save at JCPenney
 
