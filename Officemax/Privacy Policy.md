@@ -48,7 +48,7 @@ Change
 
 Percent Change
 
-(-0.46%)
+(0.00%)
 
 Data Provided by Refinitiv. Minimum 15 minutes delayed.
 
