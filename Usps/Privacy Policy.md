@@ -159,7 +159,7 @@ Close submenu (Working at USPS)Working at USPS
 *   Career development
 *   Diversity &. inclusion
 
-Powerful hurricane strikes Gulf Coast. For impacts to our operations, see Service Alerts. Jump to page content
+See how USPS is delivering for customers and employees. Jump to page content
 
 *   Who we are
     *   Postal profile
