@@ -5,10 +5,8 @@ We use cookies! By using this website you consent to the use of cookies, accordi
     *   About StepStone
     *   Mission and Vision
     *   Management
-    *   Values
     *   Timeline
     *   Press
-    *   Brand Assets
 *   For recruiters
     *   For recruiters
     *   Job Advertising
