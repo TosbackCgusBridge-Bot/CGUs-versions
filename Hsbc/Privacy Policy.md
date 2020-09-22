@@ -209,6 +209,7 @@ Menu
     *   Enterprise
     *   Future of work
     *   Green finance
+    *   International connectivity
     *   Making banking safer
     *   Personal finance
     *   Sustainability
