@@ -224,24 +224,25 @@ Please note: This privacy policy applies only to this on-line Web site and appli
 *   Banks
 *   Credit Unions
 *   Debt Collection
+*   Energy/Utilities
+*   Fintech
 *   Health
 *   Mortgage
-*   FinTech
 *   Public Sector
 *   Telecommunications
-*   Utilities
 
 *   Solutions and Services
 *   Account Aggregation
+*   Affinity Loyalty Products
+*   Consulting Services
 *   Data Breach Resolution
-*   Data Quality
 *   Decisioning
 *   Experian Marketing Services
 *   Fraud Management
 *   Partner Solutions
 *   Regulatory Compliance
 *   Risk Management
-*   Consulting Services
+*   Screening Services
 
 *   Data
 *   Big Data
@@ -252,16 +253,17 @@ Please note: This privacy policy applies only to this on-line Web site and appli
 *   Rental Data
 
 *   Additional Resources
-*   Business Resources
 *   Experian Social Media
 *   Reporting to Experian
+*   Thought Leadership
 
 *   Blogs
-*   Experian Insights
 *   Business Information
 *   Data Breach Resolution
 *   Data Quality Trends
+*   Experian Insights
 *   Healthcare
+*   Marketing Forward
 
 *   Legal Terms &. Conditions
 *   Privacy Policy
