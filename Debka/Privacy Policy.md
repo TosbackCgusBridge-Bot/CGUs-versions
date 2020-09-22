@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Monday, September 21, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Tuesday, September 22, 2020  
 
 DEBKAfile
 
@@ -44,6 +44,26 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   High-ranking Sudanese hold talks in UAE with Emirati and US officials
+    
+    Sep 21, 2020 @ 16:39
+    
+*   Researchers: Barring tighter restrictions, 2,000 new fatalities by November
+    
+    Sep 21, 2020 @ 12:55
+    
+*   Hizballah terrorists given life for deadly Bulgarian bus bombing
+    
+    Sep 21, 2020 @ 12:39
+    
+*   Gantz flies to Washington for Pentagon talks
+    
+    Sep 21, 2020 @ 12:27
+    
+*   Jerusalem court orders Malka Liefer's extradition to Australia
+    
+    Sep 21, 2020 @ 12:19
+    
 *   The government prepares to tighten Israel's lockdown
     
     Sep 20, 2020 @ 18:59
@@ -55,43 +75,11 @@ Breaking news
 *   Envelope with ricin addressed to Trump intercepted
     
     Sep 20, 2020 @ 09:52
-    
-*   The US restores UN arms embargo on Iran
-    
-    Sep 20, 2020 @ 09:43
-    
-*   Trump orders flags flown at half-mast in mourning for Judge Ginsburg
-    
-    Sep 19, 2020 @ 12:07
-    
-*   Ruth Bader Ginsburg, first Jewish woman, to serve on US Supreme Court, dies at 87
-    
-    Sep 19, 2020 @ 11:53
-    
-*   Steady rise in seriously ill covid cases and patients on ventilators
-    
-    Sep 18, 2020 @ 10:37
-    
-*   To enforce the lockdown, 7,000 police mustered and 1,000 soldiers
-    
-    Sep 17, 2020 @ 22:38
     
 
-*   Trump orders flags flown at half-mast in mourning for Judge Ginsburg
+*   Jerusalem court orders Malka Liefer's extradition to Australia
     
-    Sep 19, 2020 @ 12:07
-    
-*   Ruth Bader Ginsburg, first Jewish woman, to serve on US Supreme Court, dies at 87
-    
-    Sep 19, 2020 @ 11:53
-    
-*   Steady rise in seriously ill covid cases and patients on ventilators
-    
-    Sep 18, 2020 @ 10:37
-    
-*   To enforce the lockdown, 7,000 police mustered and 1,000 soldiers
-    
-    Sep 17, 2020 @ 22:38
+    Sep 21, 2020 @ 12:19
     
 *   The government prepares to tighten Israel's lockdown
     
@@ -105,25 +93,25 @@ Breaking news
     
     Sep 20, 2020 @ 09:52
     
-*   The US restores UN arms embargo on Iran
+*   High-ranking Sudanese hold talks in UAE with Emirati and US officials
     
-    Sep 20, 2020 @ 09:43
+    Sep 21, 2020 @ 16:39
     
-*   Trump orders flags flown at half-mast in mourning for Judge Ginsburg
+*   Researchers: Barring tighter restrictions, 2,000 new fatalities by November
     
-    Sep 19, 2020 @ 12:07
+    Sep 21, 2020 @ 12:55
     
-*   Ruth Bader Ginsburg, first Jewish woman, to serve on US Supreme Court, dies at 87
+*   Hizballah terrorists given life for deadly Bulgarian bus bombing
     
-    Sep 19, 2020 @ 11:53
+    Sep 21, 2020 @ 12:39
     
-*   Steady rise in seriously ill covid cases and patients on ventilators
+*   Gantz flies to Washington for Pentagon talks
     
-    Sep 18, 2020 @ 10:37
+    Sep 21, 2020 @ 12:27
     
-*   To enforce the lockdown, 7,000 police mustered and 1,000 soldiers
+*   Jerusalem court orders Malka Liefer's extradition to Australia
     
-    Sep 17, 2020 @ 22:38
+    Sep 21, 2020 @ 12:19
     
 *   The government prepares to tighten Israel's lockdown
     
@@ -137,9 +125,21 @@ Breaking news
     
     Sep 20, 2020 @ 09:52
     
-*   The US restores UN arms embargo on Iran
+*   High-ranking Sudanese hold talks in UAE with Emirati and US officials
     
-    Sep 20, 2020 @ 09:43
+    Sep 21, 2020 @ 16:39
+    
+*   Researchers: Barring tighter restrictions, 2,000 new fatalities by November
+    
+    Sep 21, 2020 @ 12:55
+    
+*   Hizballah terrorists given life for deadly Bulgarian bus bombing
+    
+    Sep 21, 2020 @ 12:39
+    
+*   Gantz flies to Washington for Pentagon talks
+    
+    Sep 21, 2020 @ 12:27
     
 
 12PrevNext
