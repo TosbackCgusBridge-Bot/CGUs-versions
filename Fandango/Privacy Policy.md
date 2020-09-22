@@ -9,10 +9,12 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
-    *   Infidel (2020)
-    *   No Escape (2020)
-    *   The Secrets We Keep (2020)
-    *   The Way I See It (2020)
+    *   The Artist's Wife (2020)
+    *   Ava (2020)
+    *   Kajillionaire
+    *   LX 2048 (2020)
+    *   Misbehaviour (2020)
+    *   Shortcut
     *   See All Opening This Week
     
     Coming Soon
