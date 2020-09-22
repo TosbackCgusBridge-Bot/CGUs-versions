@@ -85,7 +85,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 370 2407
+    1 800 213 4848
     
 
 *   Solutions By Function
@@ -157,10 +157,10 @@ Search
 
 *   Become a Client
     
-    1 855 370 2407
+    1 800 213 4848
     
 
-GARTNER PRIVACY POLICY Effective Date: December 2019
+GARTNER PRIVACY POLICY Effective Date: September 2020
 
 Gartner and its affiliates are committed to protecting your information. Please read this Privacy Policy ("**the Policy**") carefully as it sets out important information relating to how we handle your personal information.
 
@@ -228,13 +228,13 @@ This Policy will apply whether you have provided the information directly to us 
     *   Operate our business. and
 *   We have your consent (where required under applicable law) to use your information for marketing. Where we rely on your consent, you have the right to withdraw consent by contacting us. 
 
-**Information we collect when you attend one of our Conferences:**
+**Information we collect when you attend one of our virtual or destination conferences:**
 
 **Categories of information we collect about you include:**
 
-*   Information you provide during registration, such as name, business email address, profile photograph, job title, professional interests, and requested accommodation, and payment card information;
-*   Information you provide while attending the conference to receive additional Gartner research or materials (e.g. badge scan or QR scan);
-*   Geo-location information at the conference (if you attend a conference where we are using RFID-enabled badges and you do not request a non-RFID-enabled badge);
+*   Information you provide during registration, such as name, business email address, profile photograph, job title, professional interests, requested accommodation, and payment card information;
+*   Information you provide throughout the conference to receive additional Gartner research or materials (e.g. via badge scan or QR scan);
+*   Geo-location information at a destination conference (if you attend a conference where we are using RFID-enabled badges and you do not request a non-RFID-enabled badge);
 *   Information collected when we record one of our conferences.    
 
 **We use this information for certain activities, including:**
@@ -242,7 +242,7 @@ This Policy will apply whether you have provided the information directly to us 
 *   Enabling you to attend our conferences;
 *   Conducting our conferences;
 *    Sending Gartner research and material related to topics that may be of interest to you;
-*   Analyzing attendee interests in and interactions with the conference through geo-location data (in certain cases);
+*   Analyzing attendee interests in and interactions with the conference, including through geo-location data for destination conferences, where applicable;
 *   Marketing our conferences through the use of video;
 *   Providing recordings of certain conference sessions to interested business contacts, attendees, and online through our website or Gartner social media sites.    
 
@@ -322,6 +322,7 @@ This Policy will apply whether you have provided the information directly to us 
 **Categories of information we collect about you include:**
 
 *   Personal information such as name and title, contact details, and company name. and
+*   Demographic information provided by your employer and
 *   Responses to survey or diagnostic questions.
     
 
@@ -343,7 +344,7 @@ This Policy will apply whether you have provided the information directly to us 
 
 Certain types of personal information are more sensitive than others. This includes information about health, disability, race, ethnicity, criminal offences (or alleged offences), political opinions, biometric information or religion. It is voluntary for you to disclose this information, but where we collect and receive these types of information about you, we have identified the type of special information, how we will use it and why we will use it.
 
-**Information we collect when you attend one of our conferences**
+**Information we collect when you attend one of our virtual or destination conferences**
 
 **Categories of information we collect about you include:**
 
@@ -395,7 +396,7 @@ Gartner and its affiliates may use information disclosed through surveys or diag
 We may disclose your personal information to third parties as follows:
 
 *   To Gartner group companies in order to process the data for the above mentioned purposes;
-*   When we have your consent to do so, e.g., when you have allowed a conference exhibitor to scan your attendee badge;
+*   When we have your consent to do so, e.g., when you have provided your details to a conference exhibitor via badge scan or attended a virtual sponsored session;
 *   To third parties who work on our behalf to service or maintain business contact databases and other IT systems, e.g., suppliers of the IT systems which we use to process personal information, or who provide other technical services, such as printing;
 *   To third parties providing services to us or on our behalf who have a need to access your information, e.g., our professional advisors (e.g. auditors and lawyers) or venues for our conferences;
 *   To comply with applicable laws, protect rights, safety and property, and respond to lawful requests from public authorities (e.g., disclosing data in appropriate situations for national security or law enforcement purposes);
@@ -466,12 +467,6 @@ The countries to which we transfer data outside of the EEA may include any of th
 
 All Gartner entities have signed an Intragroup Agreement containing the European Union (“EU”) Commission Approved Standard Contractual Clauses for the transfer of data outside the European Economic Area. All Gartner entities have the same technical, physical, and administrative security controls and are required to comply with our data protection policies and procedures, applicable laws, and the terms of our client and member contracts governing the collection and use of information.
 
-**Privacy Shield.**  Gartner complies with the EU-US and US-Swiss Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of information from European Union member countries, and is subject to the investigatory and enforcement powers of the United States Federal Trade Commission. Gartner adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. 
-
-Gartner’s accountability for information that we receive under the Privacy Shield and subsequently transfer to a third party is described in the Privacy Shield Principles. In particular, we remain responsible and liable under the Privacy Shield Principles if third-party agents that we engage to process the information on our behalf do so in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage.
-
-More information about the Privacy Shield program can be found at https://www.privacyshield.gov/.
-
 5\. RETENTION PERIODS
 
 We will retain your personal information for as long as required to perform the purposes for which the data was collected, depending on the legal basis for which that data was obtained and/or whether additional legal/regulatory obligations require us to retain it.  
@@ -534,11 +529,11 @@ We provide links to other websites or resources that are not part of the product
 
 From time to time, we may change and/or update this Policy. If this Policy changes in any way, we will post an updated version on this website. We recommend you regularly review this website to ensure that you are always aware of our information practices and any changes to such. Any changes to this Policy will go into effect on posting to this page.
 
-11\. CALIFORNIA PRIVACY RIGHTS
+11\. California Privacy Rights &. Notice of Collection
 
 California law requires us to provide California residents with additional information regarding how we collect, use, and share your “personal information” (as defined in the California Consumer Privacy Act (“CCPA”)).
 
-**Categories of personal information we collect**.  Throughout this Policy, we discuss in detail the specific pieces of information we collect from and about users.  Below are the categories of personal information we collect: 
+**Categories of personal information we collect**. In Section 1 above, and otherwise throughout this Policy, we discuss in detail the specific pieces of information we collect from and about users.  Below are the categories of personal information we collect: 
 
 *   Identifiers (such as name and title, contact details, and company name);
 *   Internet or other network or device activity (such as browsing history or app usage); 
