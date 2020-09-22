@@ -1,6 +1,6 @@
 POPSUGAR Terms of Service
 
-Effective: June 10, 2019
+Effective: September 21, 2020
 
 POPSUGAR Inc., its subsidiaries and affiliates ("POPSUGAR," "we," "us," "our") owns and operates POPSUGAR and its network of websites including https://www.popsugar.com, mobile applications, and any other linked and related pages, content, features, products, software, video player and tools offered by POPSUGAR (the "Services").
 
@@ -149,7 +149,9 @@ POPSUGAR Inc., its subsidiaries and affiliates ("POPSUGAR," "we," "us," "our") o
     
 *   INTERACTION WITH THIRD PARTIES
     
-    The Services may contain links to third party websites that are not owned or controlled by POPSUGAR, or that may be accessible by logging in through a third party website, as described more fully in our Privacy Policy. You hereby represent and warrant that you have read and agree to be bound by all applicable policies of any third party website relating to your use of the Services and that you will act in accordance with those policies, in addition to your obligations under this Agreement. POPSUGAR has no control over, and assumes no responsibility for, the content, accuracy, privacy policies, or practices of, or opinions expressed in any third party websites. In addition, POPSUGAR will not and cannot monitor, verify, censor or edit the content of any third party site By using the Services, you expressly relieve and hold harmless POPSUGAR from any and all liability arising from your use of any third party website.
+    The Services may contain links to third party websites that are not owned or controlled by POPSUGAR, or that may be accessible by logging in through a third party website, as described more fully in our Privacy Policy. For example, portions of the Services utilize the YouTube API, and by using the Services, you agree to be bound by the YouTube Terms of Service available here.
+    
+    You hereby represent and warrant that you have read and agree to be bound by all applicable policies of any third party website relating to your use of the Services and that you will act in accordance with those policies, in addition to your obligations under this Agreement. POPSUGAR has no control over, and assumes no responsibility for, the content, accuracy, privacy policies, or practices of, or opinions expressed in any third party websites. In addition, POPSUGAR will not and cannot monitor, verify, censor or edit the content of any third party site By using the Services, you expressly relieve and hold harmless POPSUGAR from any and all liability arising from your use of any third party website.
     
     Your interactions with organizations and/or individuals found on or through the Service, including payment and delivery of goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such organizations and/or individuals. You should make whatever investigation you feel necessary or appropriate before proceeding with any online or offline transaction with any of these third parties. You agree that POPSUGAR shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings. If there is a dispute between participants on this site, or between users and any third party, you understand and agree that POPSUGAR is under no obligation to become involved.
     
