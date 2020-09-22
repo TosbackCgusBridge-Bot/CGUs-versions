@@ -62,5 +62,3 @@ The Site takes reasonable and appropriate measures to protect private informatio
 If you have any questions about this Privacy Policy or the privacy practices of the Site, please contact us at: privacy@blip.fm.?(c) 2009 Blip Inc. All rights reserved.
 
 Advertise • Feedback • Support • FAQ • Site Map • Widgets • Terms of Use • Privacy Policy    © 2010 Blip Inc. prev | play | next
-
-<img src="https://secure.quantserve.com/pixel/p-b0cBKofGeCYKg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>. <img src="https://secure.quantserve.com/pixel/p-c4o3JsfzdTxY6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>.
