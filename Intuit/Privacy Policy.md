@@ -1,8 +1,7 @@
-chatFree Shipping Over $49  DetailsExtra Reward Days! Earn a $10 Reward for every $50 you spend Details  
-EXTRA 30% OFF w/ JCP Credit Card &. code: 4BEST Details  
-EXTRA 25% OFF any way you pay w/ code: 4BEST Details  
-EXTRA 35% OFF when you open  and use your JCP Credit Card Details  
-Free Shipping Over $49  DetailsExtra Reward Days! Earn a $10 Reward for every $50 you spend Details  
+chatOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: FRESH4 Details  
+EXTRA 25% OFF under $75 with code: FRESH4 Details  
+Shoes Flash Sale EXTRA 40% OFF w/ code: DEAL34 Details  
+Free Shipping Over $49  DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: FRESH4 Details  
 
 Enable Accessibility
 
@@ -28,69 +27,48 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-**UP TO 40% OFF** **New fall styles, just for you**select styles
+Save on our quality brands, exclusively at JCPenneyselect styles$24.99 St. John's Bay sweaters$24.99 St. John's Bay jeans$27.99 a.n.a jeansSave on a.n.a topsUP TO 40% OFF Cool-weather styles built to lastselect styles
 
-*   Shop All
+*   Shop Men
 
-TopsPantsDressesHandbags &. WalletsUP TO 50% OFF Healthy sleep essentials—you deserve it!select styles
-
-*   Healthy Sleep
-
-*   Air Purifiers
+*   Flannel Shirts
     
-*   Weighted Blankets
+*   Shirts
     
-*   Sheets
+*   Jeans
     
-*   Blackout Curtains
+*   Hoodies &. Sweatshirts
     
 
-Healthy SleepCooking essentials for yummy, good-for-you meals!Shop AllPressure CookersBlendersCookwareAir FryersHomeWomenMenShoesJuniorsBaby &. Kids**UP TO 70% OFF Fine jewelry**After EXTRA 30% OFF\* with **JCPenney Credit Card** &. code: **SPARKLE6**select styles\*Exclusions, details &. coupon
-
-*   Shop All
-
-*   Diamond Jewelry
-    
-*   Gemstone Jewelry
-    
-*   Gold &. Silver Jewelry
-    
-*   Modern Bride Jewelry
-    
-
-Shop AllJuniorsYoung MenKidsBackpacksHomeschool40% OFF Comfort shoesAll-around style, wherever you go!select styles I Clarks excluded from coupons.
-
-*   Shop All
-
-Shop NowChampionPumaadidas40% OFF clothing  
+Shop MenGirls' Jeans &. Jeggings Girls' Tops &. TeesBoys' Pants &. JeansBoys' Shirts &. TeesUP TO 40% OFFselect stylesShop AllBeddingWindowBathHomeWomenMenShoesJuniorsBaby &. KidsAvailable Now at Sephora inside JCPenneyExcluded from coupons.UP TO 15% OFF Color protection shampooselect styles40% OFF clothing  
 Baby &. Toddler Saleselect styles
 
 *   Shop All
 
-Check out what's NEW with Salon &. Sephora inside JCPenney!Sephora excluded from coupons.Available Now at Sephora inside JCPenneyExcluded from coupons.Introducing Ouidad!
-
-\*\*JCPenney Rewards members earn a $10 bonus Reward for every $50 spent on qualifying purchases 9/14/20-9/20/20. Limit 5 bonus Rewards per customer. Earned bonus Rewards will be delivered via emailed on 9/21/20 and will be valid 9/21/20-9/30/20.
-
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 24 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   JCPenney Home Casey Jacquard Light-Filtering Grommet-Top Single Curtain Panel $26.24 - $52.49with code~$50 - $100~121
-*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
     
-    $4.99 - $27.99sale
+    $85
     
-    ~$16 - $40~1256
+    4
+*   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
+    
+    $49.98
+    
+    240
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+    
+    $124.98
+    
+    150
+*   Sealy® Beaumont Firm Mattress Only $253.99 - $398.99with code~$580 - $1,170~1
 *   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
     
-    $20sale
+    $124.98
     
-    ~$124.98~223
-*   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693
-    
-    $24.99sale
-    
-    ~$36~5638
-*   JCPenney Home™ Ultima Bath Rug Collection $16.49 - $44.99with code~$34 - $90~713
-*   a.n.a-Womens V Neck Short Sleeve T-Shirt $3.74with code~$13~17
+    224
+*   St. John's Bay Womens Mid Rise Straight Leg Jean $18.74with code~$44~2211
 
 Shop and Save at JCPenney
 
