@@ -73,8 +73,7 @@ This Privacy Policy covers information collected through the following websites 
 *   Deals of America
 *   Best Gifts
 *   PCMag Shop
-*   Mashable Shop
-*   Askmen Shop
+*   Offers Shop
 *   IGN Store
 
 Applications:
