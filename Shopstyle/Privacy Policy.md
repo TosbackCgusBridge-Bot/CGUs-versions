@@ -1,6 +1,6 @@
 POPSUGAR Privacy Policy
 
-**Effective Date: December 23, 2019**
+**Effective Date: September 21, 2020**
 
 **UPDATED PRIVACY POLICY**
 
@@ -143,7 +143,11 @@ In addition to receiving your User Information from us, our service providers ma
 *   Place or recognize a unique Cookie or other tracking mechanism on your browser.
 Third party partners and websites
 
-Our third party partners may sell items or provide services to you through our Services (either alone or jointly with us). In some of these cases, you will be routed through to the third party's website, where you will complete the purchase. When you make a purchase or activate the partner's service (for example, through our POPSUGAR Must Have Service) we may share your Personal Information, such as an email address, with that partner, who may use this Personal Information in accordance with its own privacy policy. Please note that we are not responsible for any applicable third party terms or policies and you should review them carefully.
+Our third party partners may sell items or provide services to you through our Services (either alone or jointly with us). In some of these cases, you will be routed through to the third party's website, where you will complete the purchase. When you make a purchase or activate the partner's service (for example, through our POPSUGAR Must Have Service) we may share your Personal Information, such as an email address, with that partner, who may use this Personal Information in accordance with its own privacy policy.
+
+For example, portions of the Services utilize the YouTube API, through which Google collects, stores and processes certain user data as described in its Privacy Policy, available here. You may revoke POPSUGAR's ability to access to your user data through the YouTube API via the Google security settings page found here.
+
+Please note that we are not responsible for any applicable third party terms or policies and you should review them carefully.
 
 Social plug-ins and embeds
 
