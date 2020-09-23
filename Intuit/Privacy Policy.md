@@ -27,7 +27,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Save on our quality brands, exclusively at JCPenneyselect styles$24.99 St. John's Bay sweaters$24.99 St. John's Bay jeans$27.99 a.n.a jeansSave on a.n.a topsUP TO 40% OFF Cool-weather styles built to lastselect styles
+Save on our quality brands, exclusively at JCPenneyselect styles40% OFF St. John's Bay sweaters &. tops$24.99 St. John's Bay jeans$27.99 a.n.a jeansSave on a.n.a topsUP TO 40% OFF Cool-weather styles built to lastselect styles
 
 *   Shop Men
 
@@ -47,28 +47,16 @@ Baby &. Toddler Saleselect styles
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 24 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
+*   JCPenney Home Mayer 10-pc. Jacquard Comforter Set $182 - $210with code36
+*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel $10.49 - $20.99with code~$20 - $40~1256
+*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $45 - $63with code129
+*   Liz Claiborne Womens Split Crew Neck Short Sleeve Blouse $13.49with code~$30~3
+*   LIMITED TIME SPECIAL! Lab Created White Sapphire Cocktail Ring in Sterling Silver
     
-    $85
+    $74.98
     
-    4
-*   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
-    
-    $49.98
-    
-    240
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $124.98
-    
-    150
-*   Sealy® Beaumont Firm Mattress Only $253.99 - $398.99with code~$580 - $1,170~1
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
-    
-    $124.98
-    
-    224
-*   St. John's Bay Womens Mid Rise Straight Leg Jean $18.74with code~$44~2211
+    35
+*   Home Expressions Tiles Complete Bedding Set with Sheets $77 - $119with code343
 
 Shop and Save at JCPenney
 
