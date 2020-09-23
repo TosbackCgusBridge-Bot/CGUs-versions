@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-13%  3% 
+6%  3% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-13%  Arrest Records &. Driving Infractions
+6%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -309,7 +309,7 @@ Myspace 3% 
     
 *   Show Less ...
 
-Social Profiles 13%  Pinterest 3% 
+Social Profiles 6%  Pinterest 3% 
 
 *   Privacy Policy - privacypolicyvino
     
@@ -350,7 +350,7 @@ Wikipedia 3% 
     
 *   Show Less ...
 
-Music 13%  Photo Albums 3% 
+Music 6%  Photo Albums 3% 
 
 *   Help
     
@@ -398,7 +398,7 @@ Music 13%  Photo Albums 3% 
     
 *   Show Less ...
 
-Web Search 13%  Images 3% 
+Web Search 6%  Images 3% 
 
 14
 
@@ -406,7 +406,7 @@ Web Search 13%  Images 3% 
 
 20
 
-4
+8
 
 facebookx
 
