@@ -253,23 +253,23 @@ Former DoD CSO at RiskSec: The West must lead
     *   Emailed
     *   Recent
     
-    *   George Floyd medical records breached. does 'VIP' data need bonus security?
-    *   Socioeconomic status and cyber: the new 'digital divide'
-    *   Commerce imposes prohibitions on TikTok, WeChat
-    *   Free program blocks 10 million malicious domains from state and local governments
-    *   Adobe releases update to patch critical flaws that could leave networks, data vulnerable
-    
+    *   Exploit for critical Windows flaw allows access to admin rights
+    *   Phishing campaign spoofs security awareness training notifications
     *   U.S. charges 7 alleged state-sanctioned Chinese hackers
-    *   To boost diversity, change cyber job descriptions and interview tactics
-    *   China pushes new global data security initiative, decrying US 'politicizing' the issue
-    *   Collaboration tools make work-from-home easier, but they can cause costly breaches
-    *   Complex new attack targets managed service providers, hiding in Google traffic
+    *   Canary in the coal mine: Estonia ambassador on creating a security culture post cyberwar
+    *   Amid Iranian hacker crackdown, CISOs should prep for retaliation
     
+    *   SonicWall vulnerability fixed, but researchers say the patch took 17 days
+    *   Oracle will inherit TikTok security, privacy headaches
+    *   Will federal IoT legislation nudge business standards? Lawmakers say maybe
+    *   U.S. charges 7 alleged state-sanctioned Chinese hackers
+    *   Palo Alto fixes nine vulnerabilities in PAN-OS
+    
+    *   Security teams strain to complete compliance audits under COVID
     *   Commerce imposes prohibitions on TikTok, WeChat
     *   FBI opens China-related counterintelligence case every 10 hours
     *   Oracle will inherit TikTok security, privacy headaches
     *   To boost diversity, change cyber job descriptions and interview tactics
-    *   Diversity metrics incentivize inclusion, but bring potential pitfalls
 
 Back to Top
 
@@ -303,8 +303,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
