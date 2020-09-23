@@ -52,9 +52,9 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     Find theaters + movie times near **find movie times + tickets**
 *   Movie News Featured Movie News
     
-    *   The Best Movies We Watched at the 2020 Toronto International Film Festival Read More
+    *   2020 Toronto International Film Festival Preview Read More
     *   What to Watch on FandangoNOW: ‘The Grizzlies,’ ’Antebellum,’ Pro Football Movies and More Read More
-    *   This Week in Movie News: Madonna to Direct Madonna Biopic, Jonathan Majors Joins ‘Ant-Man 3’ and More Read More
+    *   This Week in Movie News: Madonna to Directed Madonna Biopic, Jonathan Majors Joins ‘Ant-Man 3’ and More Read More
     
     Explore Content
     *   Movie Reviews
