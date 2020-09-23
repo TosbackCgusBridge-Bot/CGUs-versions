@@ -1,45 +1,4 @@
-Menu Mozilla
-
-Download Firefox — English (US)
-
-*   Windows 64-bit
-*   Windows 64-bit MSI
-*   Windows ARM64/AArch64
-*   Windows 32-bit
-*   Windows 32-bit MSI
-*   macOS
-*   Linux 64-bit
-*   Linux 32-bit
-*   Android
-*   iOS
-
-Your system may not meet the requirements for Firefox, but you can try one of these versions:
-
-Download Firefox — English (US)
-
-*   Windows 64-bit
-*   Windows 64-bit MSI
-*   Windows ARM64/AArch64
-*   Windows 32-bit
-*   Windows 32-bit MSI
-*   macOS
-*   Linux 64-bit
-*   Linux 32-bit
-*   Android
-*   iOS
-
-*   **Download Firefox**
-*   **Download Firefox**
-*   **Download Firefox**
-*   **Download Firefox**
-*   **Download Firefox**
-*   **Download Firefox**
-*   **Download Firefox**
-*   **Download Firefox**
-*   **Download Firefox**
-*   **Download Firefox**
-
-Firefox Privacy Notice Get a Firefox Account
+Menu Mozilla Download Firefox Firefox Privacy Notice Get a Firefox Account
 
 Check out the Benefits
 
