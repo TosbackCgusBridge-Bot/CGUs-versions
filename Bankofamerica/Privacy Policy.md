@@ -1,4 +1,4 @@
-<style>body{visibility:visible}</style>Skip to main content warning-icon You are using an unsupported browser version.Learn more or update your browser. close browser upgrade notice × Bank of America Privacy &. Security
+<style>body{visibility:visible}</style>Skip to main contentBank of America Privacy &. Security
 
 *   Sign in
 *   Sign in
@@ -206,7 +206,7 @@ Download the mobile app layer to monitor your alerts on the go
 
 Expand all panelsAdditional fraud &. security resources Free products to increase your security Additional fraud &. security resources Free products to increase your security
 
-**McAfee LiveSafe™** is award-winning virus, malware and phishing detection to keep all your devices protected. Shop, search and pay bills online worry-free. And for Bank of America customers, it's available at no costFootnote 1 for 12 month.
+**McAfee LiveSafe™** is award-winning virus, malware and phishing detection to keep all your devices protected. Shop, search and pay bills online worry-free. And for Bank of America customers, it's available at no cost for 12 month.
 
 *   Virus and threat protection: Keep your identity and data secure by avoiding risky websites and preventing risky downloads.
 *   Mobile security: Safeguard your Android and iOS devices from data loss and theft.
@@ -222,7 +222,7 @@ We've teamed up with IBM to offer Trusteer Rapport — online fraud protection s
 
 Learn more about Trusteer Rapport®
 
-SafePass is an extra layer of security that is required in Online and Mobile Banking to increase limits for certain transfer types. SafePass uses a 6-digit one-time code sent in a text message to your mobile phoneFootnote 2 to help verify your identity before authorizing the transfer of funds from your account.
+SafePass is an extra layer of security that is required in Online and Mobile Banking to increase limits for certain transfer types. SafePass uses a 6-digit one-time code sent in a text message to your mobile phone to help verify your identity before authorizing the transfer of funds from your account.
 
 Learn more about SafePass®
 
@@ -813,15 +813,6 @@ California Consumer Privacy Act Disclosure and personal information request form
 Employee/Contractor/Recruitment Data Protection Notices
 
 Legal Disclosures and Information
-
-1.  McAfee® LiveSafe™ is offered by McAfee, Inc. Bank of America doesn't own or operate the McAfee website. McAfee is solely responsible for the website's content, offerings (including, but not limited to McAfee® LiveSafe™), information collection, use and sharing practices and level of security. Please refer to McAfee's terms of use and privacy policy, which are located on the McAfee website and are administered by McAfee.
-    
-    This offer is available in the U.S. and Canada. When you sign up for this software subscription, Bank of America Online Banking customers will receive McAfee® LiveSafe™ as an online download at no cost (an $89.99 value) for the first 12 months. **Your subscription will automatically renew each year unless you choose to cancel. At the end of your 12-month trial period, you will be charged $44.99 (which is 50% off the full retail value) to continue using McAfee LiveSafe for another 12 month period. thereafter you will be charged $89.99 to continue using the software for each subsequent 12-month period.** Before this offer expires or at any time, you can cancel the automatic renewal by contacting McAfee Customer Support at 866-622-3911. Customers with a current McAfee subscription are not eligible for this offer. This offer and/or the eligibility requirements may be modified or terminated at any time.
-    
-    McAfee, McAfee LiveSafe and the McAfee logo are trademarks or registered trademarks of McAfee, LLC or its subsidiaries in the United States and other countries. Other names and brands may be claimed as the property of others. Copyright © 2017 McAfee, LLC.
-    
-    ← back to content
-2.  Your mobile service provider may charge for sending and receiving text messages on your mobile phone. Check with your service provider for details on specific fees and charges that may apply. ← back to content
 
 *   Home
 *   Privacy
