@@ -80,9 +80,9 @@ Skip Navigation
     *   California
     *   Maine
 *   _globe icon_ Global Approach
-    *   Website User GDPR/LGDP Privacy Notice
+    *   Website User GDPR/LGPD Privacy Notice
     *   ATT Business Customer GDPR Privacy Notice
-    *   ATT Business Customer LGDP Privacy Notice
+    *   ATT Business Customer LGPD Privacy Notice
     *   Aviso de Privacidade de Clientes Empresariais da AT&T nos termos da LGPD
 *   _stats icon_ Transparency Report
     *   View on the web
@@ -108,6 +108,8 @@ Thank you for choosing us,
 Tom Moore
 
 Chief Privacy Officer
+
+ 
 
  A computer, email, and phone icon take turns appearing and connecting to a green check mark. Data helps us create better, more reliable products, services and experiences.
 
