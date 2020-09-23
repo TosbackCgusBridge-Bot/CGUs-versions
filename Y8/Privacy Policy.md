@@ -1,37 +1,37 @@
-games videos New Games Next in  12:35
+games videos New Games Next in  15:09
 
-*   Newest Games Next addition in 12:35
+*   Newest Games Next addition in 15:09
 
 *   Best New Games Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 12:35
-*   Best of new games 1410 games
-*   Most Popular Games 21705 games
+*   New Games Next in 15:09
+*   Best of new games 1408 games
+*   Most Popular Games 21714 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,561 games
+*   For Girls 24,572 games
 *   Driving &. Racing 6,471 games
-*   Strategy &. RPG 3,651 games
-*   Management &. Sim 4,312 games
-*   Thinking 13,004 games
-*   Action &. Adventure 14,937 games
-*   Sports 3,399 games
-*   Shooting 9,192 games
+*   Strategy &. RPG 3,652 games
+*   Management &. Sim 4,311 games
+*   Thinking 13,002 games
+*   Action &. Adventure 14,938 games
+*   Sports 3,398 games
+*   Shooting 9,193 games
 *   Fighting 2,090 games
-*   Skill 11,777 games
+*   Skill 11,780 games
 *   Arcade &. Classic 9,783 games
-*   Fun &. Crazy 5,015 games
+*   Fun &. Crazy 5,016 games
 
 Play with friends  
-Powered by Y8 Account 149 Y8 Multiplayer Games 2,236 Y8 High Score Games 1,287 Y8 Achievements Games 916 Y8 Screenshots Games 1,739 Y8 Online Save Games 3,466 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 149 Y8 Multiplayer Games 2,236 Y8 High Score Games 1,288 Y8 Achievements Games 917 Y8 Screenshots Games 1,740 Y8 Online Save Games 3,467 All Y8 Games Games Last Highscore:
 
-**2,642** points on Slope Multiplayer by Ryu
+**11** points on DD Happy Glass by CLIBOTS
 
 Help us improve Bad translation? Social
 
