@@ -170,7 +170,6 @@ Close submenu ( Guys ) Guys
 *   Real Denim
 *   Music + Pop Culture
 *   Destroyed Denim
-*   Flip Flops + Slides
 
 Close submenu ( Clearance ) Clearance
 
@@ -342,7 +341,6 @@ Menu Find a Store Aeropostale
         *   Real Denim
         *   Music + Pop Culture
         *   Destroyed Denim
-        *   Flip Flops + Slides
 *   Clearance
     
     *   View Home
