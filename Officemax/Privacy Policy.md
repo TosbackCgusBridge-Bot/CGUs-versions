@@ -40,20 +40,20 @@ Stock Quote and Chart
 
 Price
 
-$20.58
+$20.74
 
 Change
 
-\-1.04
++0.16
 
 Percent Change
 
-(-4.81%)
+(+0.78%)
 
 Data Provided by Refinitiv. Minimum 15 minutes delayed.
 
 view details  
-Recent News Sep 17, 2020 Office Depot and Brit + Co Team Up to Launch Selfmade, a New Online Startup School for Women view more Recent News Sep 17, 2020 Office Depot and Brit + Co Team Up to Launch Selfmade, a New Online Startup School for Women view more Events Aug 5, 2020 at 9:00 AM EDT Q2 2020 Office Depot Inc Earnings Conference Call view more Events Aug 5, 2020 at 9:00 AM EDT Q2 2020 Office Depot Inc Earnings Conference Call view more Presentations Aug 05, 2020 Office Depot Second Quarter 2020 Earnings Webcast Presentation view more Presentations Aug 05, 2020 Office Depot Second Quarter 2020 Earnings Webcast Presentation view more
+Recent News Sep 22, 2020 The ODP Corporation to Participate in the Sidoti &. Company Fall Investor Conference Wednesday, September 23, 2020 view more Recent News Sep 22, 2020 The ODP Corporation to Participate in the Sidoti &. Company Fall Investor Conference Wednesday, September 23, 2020 view more Events Sep 23, 2020 at 8:30 AM EDT The ODP Corporation’s Discussion at Sidoti &. Company's Fall Investor Conference view more Events Sep 23, 2020 at 8:30 AM EDT The ODP Corporation’s Discussion at Sidoti &. Company's Fall Investor Conference view more Presentations Aug 05, 2020 Office Depot Second Quarter 2020 Earnings Webcast Presentation view more Presentations Aug 05, 2020 Office Depot Second Quarter 2020 Earnings Webcast Presentation view more
 
 *   Home
 *   News &. Events
