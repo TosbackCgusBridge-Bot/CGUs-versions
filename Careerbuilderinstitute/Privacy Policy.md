@@ -108,7 +108,7 @@ Instant Notifications
 
 You'll receive push notifications when your resume is viewed, or when new jobs appear in your most recent search. Making it easy for you to jump right back into your job search.
 
-see how you can up your career status Career Development &. Learning Apply to jobs and talk to employers in one app Read Article Find a job faster with new ways to optimize your candidate profile Read Article The Right Job Is customer service the job for you? Read Article Read More Articles Employers Looking to Post a Job?
+see how you can up your career status Career Development &. Learning 10 industries hiring thousands of workers right now Read Article Apply to jobs and talk to employers in one app Read Article Find a job faster with new ways to optimize your candidate profile Read Article Read More Articles Employers Looking to Post a Job?
 
 We have end-to-end solutions that can keep up with you and your standards.
 
