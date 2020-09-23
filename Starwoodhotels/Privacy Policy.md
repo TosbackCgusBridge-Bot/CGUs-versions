@@ -1,4 +1,4 @@
-Commitment to Clean Travel with confidence during COVID-19. Travel with confidence during COVID-19:   Best Rate Guarantee   Flexible Cancellation   Commitment to Clean   Contactless Services Skip Main Navigation Menu Marriott Bonvoy
+Contactless Services Travel with confidence during COVID-19. Travel with confidence during COVID-19:   Best Rate Guarantee   Flexible Cancellation   Commitment to Clean   Contactless Services Skip Main Navigation Menu Marriott Bonvoy
 
 *   *   English
 *   Help
@@ -519,7 +519,7 @@ RELATED LINKS
 
 Back to top
 
-Top Destinations
+Unlock your stay with the Marriott Bonvoy™ App Learn More Top Destinations
 
 *   Anaheim Hotels
 *   Atlanta Hotels
@@ -579,4 +579,4 @@ Loading...
 
 Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
     
-prod9,3422D4ED-0132-5331-A59D-49B766883609
+prod10,49F57813-8829-53D6-BFB4-EF7A8A6431D0
