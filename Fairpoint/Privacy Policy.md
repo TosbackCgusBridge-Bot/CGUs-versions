@@ -540,6 +540,7 @@ Residential
 *   Phone
 *   Bundles
 *   Home Security
+*   Energy Rewards
 
 Business
 
