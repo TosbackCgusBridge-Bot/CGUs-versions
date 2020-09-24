@@ -153,11 +153,11 @@ Lenovo Explore Close
         
         *   Software
         *   MS Office
+        *   Video Games
         *   Security &. Antivirus
         *   Explore Software at Lenovo
         *   Lenovo Vantage
-        *   Cloud Security Software
-        *   View All Software
+        *   Shop for Software
         
         *   Quick Links
         *   Home Office Solutions
@@ -211,6 +211,7 @@ Lenovo Explore Close
         *   Accessories
         *   Monitors
         *   Headsets &. Headphones
+        *   Video Games
         
         *   By Brand
         *   Legion
@@ -320,6 +321,7 @@ Lenovo Explore Close
         *   Clearance
         
         *   Additional Offers
+        *   Flex 5G - 2X Rewards!
         *   ThinkCentre M90n save 68%
         *   Discount Programs
         *   Trade In
