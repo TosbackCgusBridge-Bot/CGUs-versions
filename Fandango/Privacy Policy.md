@@ -483,6 +483,8 @@ New + Coming soon
 
 *   Tenet
     
+*   Shortcut
+    
 *   The New Mutants
     
 *   The Broken Hearts Gallery
@@ -494,8 +496,6 @@ New + Coming soon
 *   The Personal History of David Copperfield
     
 *   Words on Bathroom Walls
-    
-*   Trolls World Tour (2020)
     
 
 Experience + Explore
