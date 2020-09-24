@@ -1,6 +1,6 @@
 chatOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: FRESH4 Details  
 EXTRA 25% OFF under $75 with code: FRESH4 Details  
-Shoes Flash Sale EXTRA 40% OFF w/ code: DEAL34 Details  
+Last day! Shoes Flash Sale EXTRA 40% OFF w/ code: DEAL34 Details  
 Free Shipping Over $49  DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: FRESH4 Details  
 
 Enable Accessibility
@@ -14,7 +14,7 @@ Enable Accessibility
     Sign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   School Essentials
 *   Home &. Lifestyle
@@ -40,23 +40,35 @@ Save on our quality brands, exclusively at JCPenneyselect styles40% OFF St. John
 *   Hoodies &. Sweatshirts
     
 
-Shop MenGirls' Jeans &. Jeggings Girls' Tops &. TeesBoys' Pants &. JeansBoys' Shirts &. TeesUP TO 40% OFFselect stylesShop AllBeddingWindowBathHomeWomenMenShoesJuniorsBaby &. KidsAvailable Now at Sephora inside JCPenneyExcluded from coupons.UP TO 15% OFF Color protection shampooselect styles40% OFF clothing  
+Shop MenUP TO 40% OFFselect stylesShop AllBeddingWindowBathHomeWomenMenShoesJuniorsBaby &. KidsAvailable Now at Sephora inside JCPenneyExcluded from coupons.UP TO 15% OFF Color protection shampooselect styles40% OFF clothing  
 Baby &. Toddler Saleselect styles
 
 *   Shop All
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 24 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   JCPenney Home Mayer 10-pc. Jacquard Comforter Set $182 - $210with code36
-*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel $10.49 - $20.99with code~$20 - $40~1256
-*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $45 - $63with code129
-*   Liz Claiborne Womens Split Crew Neck Short Sleeve Blouse $13.49with code~$30~3
-*   LIMITED TIME SPECIAL! Lab Created White Sapphire Cocktail Ring in Sterling Silver
+*   a.n.a-Womens V Neck Short Sleeve T-Shirt $4.49with code~$13~18
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
     
-    $74.98
+    $85
     
-    35
-*   Home Expressions Tiles Complete Bedding Set with Sheets $77 - $119with code343
+    4
+*   JCPenney Home™ Ultima Bath Rug Collection $25.50 - $63with code713
+*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
+    
+    $4.99 - $27.99sale
+    
+    ~$16 - $40~1256
+*   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693
+    
+    $24.99sale
+    
+    ~$36~5641
+*   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745
+    
+    $24.99sale
+    
+    ~$36~1814
 
 Shop and Save at JCPenney
 
