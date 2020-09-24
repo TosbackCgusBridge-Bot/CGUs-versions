@@ -37,6 +37,7 @@ Close Navigation Menu
 *   Music Expand/collapse submenu for Music
     *   Tiny Desk
     *   All Songs Considered
+    *   We Insist: A Timeline Of Protest Music In 2020
     *   Music News
     *   New Music
     *   Music Features
@@ -64,6 +65,7 @@ Close Navigation Menu
 
 *   Tiny Desk
 *   All Songs Considered
+*   We Insist: A Timeline Of Protest Music In 2020
 *   Music News
 *   New Music
 *   Music Features
