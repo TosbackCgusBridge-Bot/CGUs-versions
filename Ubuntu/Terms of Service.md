@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   A ‘Connected’ Bank – The power of data and analytics
+*   Lenovo expand enterprise desktop range preinstalled with Ubuntu
 *   NoSQL databases: what is MongoDB and its use cases?
-*   The Expandables – snapcraft extensions and the secret code
-*   Design and Web team summary – 16th September 2020
