@@ -18,7 +18,7 @@
             *   Wolfram|Alpha Appliance
         *   Enterprise Solutions
             *   Corporate Consulting
-            *   Technical Services
+            *   Technical Consulting
             *   Wolfram|Alpha Business Solutions
         
         *   Resource System
@@ -105,7 +105,7 @@
         
         *   Premium Support
             *   Premier Service
-            *   Technical Services
+            *   Technical Consulting
     *   All Learning &. Support »
 *   Company
     *   *   About
@@ -352,7 +352,7 @@ Legal
 *   View all...
 
 *   Services
-*   Technical Services
+*   Technical Consulting
 *   Corporate Consulting
 
 *   For Customers
