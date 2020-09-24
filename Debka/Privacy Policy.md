@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Wednesday, September 23, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Thursday, September 24, 2020  
 
 DEBKAfile
 
@@ -44,6 +44,14 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   All-inclusive 16-day lockdown goes into effect on Friday
+    
+    Sep 23, 2020 @ 21:20
+    
+*   Another coronavirus high: 6,861 new cases in 24 hours
+    
+    Sep 23, 2020 @ 11:07
+    
 *   High-ranking Sudanese hold talks in UAE with Emirati and US officials
     
     Sep 21, 2020 @ 16:39
@@ -67,16 +75,16 @@ Breaking news
 *   The government prepares to tighten Israel's lockdown
     
     Sep 20, 2020 @ 18:59
-    
-*   Trump to appoint a woman to replace the late Justice Ginsburg
-    
-    Sep 20, 2020 @ 09:59
-    
-*   Envelope with ricin addressed to Trump intercepted
-    
-    Sep 20, 2020 @ 09:52
     
 
+*   Hizballah terrorists given life for deadly Bulgarian bus bombing
+    
+    Sep 21, 2020 @ 12:39
+    
+*   Gantz flies to Washington for Pentagon talks
+    
+    Sep 21, 2020 @ 12:27
+    
 *   Jerusalem court orders Malka Liefer's extradition to Australia
     
     Sep 21, 2020 @ 12:19
@@ -85,13 +93,13 @@ Breaking news
     
     Sep 20, 2020 @ 18:59
     
-*   Trump to appoint a woman to replace the late Justice Ginsburg
+*   All-inclusive 16-day lockdown goes into effect on Friday
     
-    Sep 20, 2020 @ 09:59
+    Sep 23, 2020 @ 21:20
     
-*   Envelope with ricin addressed to Trump intercepted
+*   Another coronavirus high: 6,861 new cases in 24 hours
     
-    Sep 20, 2020 @ 09:52
+    Sep 23, 2020 @ 11:07
     
 *   High-ranking Sudanese hold talks in UAE with Emirati and US officials
     
@@ -117,13 +125,13 @@ Breaking news
     
     Sep 20, 2020 @ 18:59
     
-*   Trump to appoint a woman to replace the late Justice Ginsburg
+*   All-inclusive 16-day lockdown goes into effect on Friday
     
-    Sep 20, 2020 @ 09:59
+    Sep 23, 2020 @ 21:20
     
-*   Envelope with ricin addressed to Trump intercepted
+*   Another coronavirus high: 6,861 new cases in 24 hours
     
-    Sep 20, 2020 @ 09:52
+    Sep 23, 2020 @ 11:07
     
 *   High-ranking Sudanese hold talks in UAE with Emirati and US officials
     
@@ -132,14 +140,6 @@ Breaking news
 *   Researchers: Barring tighter restrictions, 2,000 new fatalities by November
     
     Sep 21, 2020 @ 12:55
-    
-*   Hizballah terrorists given life for deadly Bulgarian bus bombing
-    
-    Sep 21, 2020 @ 12:39
-    
-*   Gantz flies to Washington for Pentagon talks
-    
-    Sep 21, 2020 @ 12:27
     
 
 12PrevNext
