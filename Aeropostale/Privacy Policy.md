@@ -73,6 +73,7 @@ Close submenu ( Collections ) Collections
 *   Rock the Vote
 *   Face Coverings
 *   New Aero Logo
+*   Tech Fleece
 *   CHILL ZONE
 *   Uniform
 *   Twisted for Tie Dye
@@ -163,6 +164,7 @@ Close submenu ( Guys ) Guys
 *   View All
 *   Just In
 *   Rock the Vote
+*   Tech Fleece
 *   Face Coverings
 *   New Aero Logo
 *   Best Sellers
@@ -260,6 +262,7 @@ Menu Find a Store Aeropostale
         *   Rock the Vote
         *   Face Coverings
         *   New Aero Logo
+        *   Tech Fleece
         *   CHILL ZONE
         *   Uniform
         *   Twisted for Tie Dye
@@ -334,6 +337,7 @@ Menu Find a Store Aeropostale
         *   View All
         *   Just In
         *   Rock the Vote
+        *   Tech Fleece
         *   Face Coverings
         *   New Aero Logo
         *   Best Sellers
