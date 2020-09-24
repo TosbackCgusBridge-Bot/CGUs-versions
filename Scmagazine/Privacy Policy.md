@@ -253,23 +253,23 @@ Former DoD CSO at RiskSec: The West must lead
     *   Emailed
     *   Recent
     
-    *   Exploit for critical Windows flaw allows access to admin rights
-    *   Phishing campaign spoofs security awareness training notifications
-    *   U.S. charges 7 alleged state-sanctioned Chinese hackers
-    *   Canary in the coal mine: Estonia ambassador on creating a security culture post cyberwar
-    *   Amid Iranian hacker crackdown, CISOs should prep for retaliation
+    *   Commerce imposes prohibitions on TikTok, WeChat
+    *   Adobe releases update to patch critical flaws that could leave networks, data vulnerable
+    *   FBI opens China-related counterintelligence case every 10 hours
+    *   Hacker-for-hire groups profit by commoditizing APT tactics
+    *   To boost diversity, change cyber job descriptions and interview tactics
     
-    *   SonicWall vulnerability fixed, but researchers say the patch took 17 days
-    *   Oracle will inherit TikTok security, privacy headaches
-    *   Will federal IoT legislation nudge business standards? Lawmakers say maybe
-    *   U.S. charges 7 alleged state-sanctioned Chinese hackers
+    *   Diversity metrics incentivize inclusion, but bring potential pitfalls
     *   Palo Alto fixes nine vulnerabilities in PAN-OS
+    *   Three strategies to defend remote workers from cyberattacks
+    *   Cyber Threat Alliance CEO and former White House cyber czar on playing well with others
+    *   Collaboration tools make work-from-home easier, but they can cause costly breaches
     
+    *   Lessons from the ransomware death: Prioritize cyber emergency preparedness
     *   Security teams strain to complete compliance audits under COVID
     *   Commerce imposes prohibitions on TikTok, WeChat
     *   FBI opens China-related counterintelligence case every 10 hours
     *   Oracle will inherit TikTok security, privacy headaches
-    *   To boost diversity, change cyber job descriptions and interview tactics
 
 Back to Top
 
@@ -303,4 +303,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
