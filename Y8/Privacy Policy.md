@@ -1,37 +1,37 @@
-games videos New Games Next in  15:09
+games videos New Games Next in  00:00
 
-*   Newest Games Next addition in 15:09
+*   Newest Games Next addition in 00:00
 
 *   Best New Games Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 15:09
+*   New Games Next in 00:00
 *   Best of new games 1408 games
-*   Most Popular Games 21714 games
+*   Most Popular Games 21721 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
 
 CATEGORIES
 
-*   For Girls 24,572 games
+*   For Girls 24,587 games
 *   Driving &. Racing 6,471 games
 *   Strategy &. RPG 3,652 games
-*   Management &. Sim 4,311 games
-*   Thinking 13,002 games
-*   Action &. Adventure 14,938 games
-*   Sports 3,398 games
+*   Management &. Sim 4,310 games
+*   Thinking 13,005 games
+*   Action &. Adventure 14,941 games
+*   Sports 3,399 games
 *   Shooting 9,193 games
 *   Fighting 2,090 games
 *   Skill 11,780 games
-*   Arcade &. Classic 9,783 games
+*   Arcade &. Classic 9,785 games
 *   Fun &. Crazy 5,016 games
 
 Play with friends  
-Powered by Y8 Account 149 Y8 Multiplayer Games 2,236 Y8 High Score Games 1,288 Y8 Achievements Games 917 Y8 Screenshots Games 1,740 Y8 Online Save Games 3,467 All Y8 Games Games Last Highscore:
+Powered by Y8 Account 150 Y8 Multiplayer Games 2,236 Y8 High Score Games 1,287 Y8 Achievements Games 917 Y8 Screenshots Games 1,740 Y8 Online Save Games 3,469 All Y8 Games Games Last Highscore:
 
-**11** points on DD Happy Glass by CLIBOTS
+**1,462** points on Orion Sandbox Enhanced by Josh
 
 Help us improve Bad translation? Social
 
