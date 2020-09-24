@@ -137,7 +137,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **RC**
 
-*   Starting at $41,2951\*
+*   Starting at $42,1202\*
 *   2.0L I-4 OR 3.5L V6
 
 *   Build
@@ -145,7 +145,7 @@ COMPARE **RC**
 
 **RC F**
 
-*   Starting at $64,9001\*
+*   Starting at $65,8752\*
 *   472-HP4\* 5.0L V8
 
 *   Build
@@ -229,7 +229,7 @@ SEE HOW LEXUS VEHICLES MATCH UP AGAINST THE COMPETITION
 
 COMPARE **RC F**
 
-*   Starting at $64,9001\*
+*   Starting at $65,8752\*
 *   472-HP4\* 5.0L V8
 
 *   Build
