@@ -9,120 +9,111 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Free Shipping: Bath &. Beach Towels Up to 80% Off
-    *   Fabulous Faux Fur Throws
+    *   Madewell Up to 60% Off Incl. Plus
+    *   Converse Men Starting at $40
+    *   Converse Starting at $40
+    *   Converse Kids Up to 60% Off
+    *   Women's Styles Under $25 Incl. Plus
+    *   Guest Of Dresses Incl. Plus
+    *   Fall Stripes Up to 70% Off Incl. Plus
+    *   In Bloom Lingerie &. Sleep Under $30
+    *   Wedding Ready: Shapewear Up to 60% Off
+    *   Scale Inspired Bags Starting at $25
+    *   Light Therapy Lamp- Plug it in &. Get Happy
+    *   Men's Active ft. New Balance
+    *   Top Drawer Refresh: Men' Lounge
+    *   Fun &. Fancy: Girls' Dresses Up to 60% Off
+    *   Fun &. Fancy: Kids Shoes Up to 60% Off
+    *   Kids Playground Shoes ft. Asics
+    *   BCBGeneration
     *   Aquatalia Up to 60% Off
+    
     *   Dyson Up to 50% Off
     *   Dresses From Trina Trina Turk &. More Incl. Plus
     *   Fall Refresh: 1.State &. More Incl. Plus
     *   The North Face &. More
-    *   Street-Chic Active Starting at $15
     *   Cozy &. Casual Dresses Incl. Plus
     *   The North Face Men
     *   Men's Fall Essentials Up to 70% Off
     *   Mix &. Match: Suit Separates Up to 70% Off
-    *   Crossbodies Under $100
     *   Citizen Watches ft Eco Drive
     *   Dress Up or Down: Men's Shoes Up to 70% Off
     *   Play All Day: Toys Under $20
     *   Kids Cold Weather Shoes ft. Bogs
+    *   Street-Chic Active Starting at $15
+    *   Crossbodies Under $100
     *   UGG
-    
     *   UGG Men
-    *   BCBGeneration
     *   Fragrance Gift Sets Up to 60% off
-    *   Basic to Bold: Tops Up to 70% Off Incl. Plus
-    *   High Waisted Styles Up to 70% Off Incl. Plus
-    *   Lancaster Paris Handbags Up to 55% Off
     *   UGG Kids
-    *   Next Swim Up to 65% Off
+    
     *   Men's Puffers &. More Up to 65% Off
     *   Kid's Fall Favorites Up to 60% Off
-    *   UGG Accessories Up to 50% Off
-    *   Dresses Up to 75% Off Incl. Plus
     *   Free Shipping: BergHOFF Kitchen Blowout at 70% Off
     *   Men's Shoes Under $40
-    *   Women's Shoes Under $25
-    *   Free People Starting at $25
     *   Ben Sherman Up to 70% Off
     *   Free Shipping: All Your Bedding Needs
-    
     *   Skincare From Top Brands Ft. WASO by Shiseido
-    *   Best for Baby: Footies, Sets &. More
-    *   Free People Accessories Starting at $15
-    *   Link It Up: Chain Jewelry Starting at $10
-    *   Fresh Finds: Men's Shoes Up to 70% Off
-    *   Weekend Wardrobe: Men's Styles Up to 70% Off
     *   Free Shipping: Window Treatments
     *   Makeup From Laura Geller &. More Starting at $10
-    *   NEST Fragrances Starting at $10
     *   Home Organization Essentials Starting at $20
     *   Free Shipping: Home Decor Starting at $20
     *   Shark Vacuums
-    *   Wacoal Up to 60% Off
-    *   On-Trend Jewelry Up to 70% Off
-    *   Free People FP Movement Starting at $25
-    *   Men's Suits ft. Soul of London
-    *   Z by Zella Starting at $15
-    *   Best Bags Up to 75% Off
+    *   Free Shipping: Bath &. Beach Towels Up to 80% Off
+    *   Fabulous Faux Fur Throws
+    *   Basic to Bold: Tops Up to 70% Off Incl. Plus
+    *   High Waisted Styles Up to 70% Off Incl. Plus
+    *   Dresses Up to 75% Off Incl. Plus
 *   WomenShop Sale Events
     
+    *   Madewell Up to 60% Off Incl. Plus
+    *   Converse Starting at $40
+    *   Women's Styles Under $25 Incl. Plus
+    *   Guest Of Dresses Incl. Plus
+    *   Fall Stripes Up to 70% Off Incl. Plus
+    *   In Bloom Lingerie &. Sleep Under $30
+    *   Wedding Ready: Shapewear Up to 60% Off
+    *   Scale Inspired Bags Starting at $25
+    *   BCBGeneration
     *   Aquatalia Up to 60% Off
     *   Dyson Up to 50% Off
     *   Dresses From Trina Trina Turk &. More Incl. Plus
     *   Fall Refresh: 1.State &. More Incl. Plus
+    
     *   The North Face &. More
-    *   Street-Chic Active Starting at $15
     *   Cozy &. Casual Dresses Incl. Plus
-    *   Crossbodies Under $100
     *   Citizen Watches ft Eco Drive
+    *   Street-Chic Active Starting at $15
+    *   Crossbodies Under $100
     *   UGG
-    *   BCBGeneration
     *   Fragrance Gift Sets Up to 60% off
+    *   Skincare From Top Brands Ft. WASO by Shiseido
+    *   Makeup From Laura Geller &. More Starting at $10
     *   Basic to Bold: Tops Up to 70% Off Incl. Plus
     *   High Waisted Styles Up to 70% Off Incl. Plus
-    *   Lancaster Paris Handbags Up to 55% Off
-    
-    *   Next Swim Up to 65% Off
-    *   UGG Accessories Up to 50% Off
     *   Dresses Up to 75% Off Incl. Plus
-    *   Women's Shoes Under $25
-    *   Free People Starting at $25
-    *   Skincare From Top Brands Ft. WASO by Shiseido
-    *   Free People Accessories Starting at $15
-    *   Link It Up: Chain Jewelry Starting at $10
-    *   Makeup From Laura Geller &. More Starting at $10
-    *   NEST Fragrances Starting at $10
-    *   Wacoal Up to 60% Off
-    *   On-Trend Jewelry Up to 70% Off
-    *   Free People FP Movement Starting at $25
-    *   Z by Zella Starting at $15
-    *   Best Bags Up to 75% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Jewelry
     *   Handbags
-    *   Lingerie &. Shapewear
-    *   Accessories
     *   Watches
+    *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
+    *   Converse Men Starting at $40
+    *   Men's Active ft. New Balance
+    *   Top Drawer Refresh: Men' Lounge
     *   The North Face Men
     *   Men's Fall Essentials Up to 70% Off
     *   Mix &. Match: Suit Separates Up to 70% Off
+    
     *   Citizen Watches ft Eco Drive
     *   Dress Up or Down: Men's Shoes Up to 70% Off
     *   UGG Men
     *   Men's Puffers &. More Up to 65% Off
-    
-    *   UGG Accessories Up to 50% Off
     *   Men's Shoes Under $40
     *   Ben Sherman Up to 70% Off
-    *   Fresh Finds: Men's Shoes Up to 70% Off
-    *   Weekend Wardrobe: Men's Styles Up to 70% Off
-    *   Men's Suits ft. Soul of London
     
     Shop By Category
     *   Clothing
@@ -131,29 +122,33 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Converse Kids Up to 60% Off
+    *   Fun &. Fancy: Girls' Dresses Up to 60% Off
+    *   Fun &. Fancy: Kids Shoes Up to 60% Off
+    *   Kids Playground Shoes ft. Asics
     *   Play All Day: Toys Under $20
     *   Kids Cold Weather Shoes ft. Bogs
     *   UGG Kids
     *   Kid's Fall Favorites Up to 60% Off
-    *   Best for Baby: Footies, Sets &. More
     
     Shop By Category
-    *   Baby
     *   Girls
     *   Girls' Shoes
-    *   Toys
-    *   Boys
     *   Boys' Shoes
+    *   Toys
+    *   Baby
+    *   Boys
 *   HomeShop Sale Events
     
-    *   Free Shipping: Bath &. Beach Towels Up to 80% Off
-    *   Fabulous Faux Fur Throws
+    *   Light Therapy Lamp- Plug it in &. Get Happy
     *   Free Shipping: BergHOFF Kitchen Blowout at 70% Off
     *   Free Shipping: All Your Bedding Needs
     *   Free Shipping: Window Treatments
     *   Home Organization Essentials Starting at $20
     *   Free Shipping: Home Decor Starting at $20
     *   Shark Vacuums
+    *   Free Shipping: Bath &. Beach Towels Up to 80% Off
+    *   Fabulous Faux Fur Throws
     
     Shop By Category
     *   Bedding
@@ -163,6 +158,7 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Holiday Decorations
     *   Bath
     *   Outdoor Living
+    *   Luggage &. Travel
     *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
@@ -170,7 +166,6 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Fragrance Gift Sets Up to 60% off
     *   Skincare From Top Brands Ft. WASO by Shiseido
     *   Makeup From Laura Geller &. More Starting at $10
-    *   NEST Fragrances Starting at $10
     
     Shop By Category
     *   Skin Care
