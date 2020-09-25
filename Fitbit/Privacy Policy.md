@@ -458,11 +458,11 @@ HEALTH SOLUTIONS
 
 ©2020 Fitbit, Inc. All rights reserved
 
-United States Cart summary (0) 0 Sorry, the code is invalid
+United States Sorry, the code is invalid
 
 Promo success
 
-The cart is empty Log In / Sign Up Checkout as Guest Remove Item
+Remove Item
 
 Proceed to remove item from shopping cart?
 
