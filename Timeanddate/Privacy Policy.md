@@ -42,8 +42,8 @@
 *   Weather
     *   Worldwide
     *   Local Weather
-    *   2-Week Forecast
     *   Hour-by-Hour
+    *   2-Week Forecast
     *   Past Week
     *   Climate
 *   Sun &. Moon
