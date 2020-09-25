@@ -1,12 +1,6 @@
-SPIEGEL+-Zugang wird gerade auf einem anderen Gerät genutzt
+Pfeil nach rechts
 
-SPIEGEL+ kann nur auf einem Gerät zur selben Zeit genutzt werden.
-
-Hier weiterlesen Pfeil nach rechts
-
-Klicken Sie auf den Button, spielen wir den Hinweis auf dem anderen Gerät aus und Sie können SPIEGEL+ weiter nutzen.
-
-Warum sehe ich diesen Hinweis? DER SPIEGEL Der Spiegel Der Spiegel Anmelden Pfeil nach rechts Abmelden Pfeil nach rechts Icon: Spiegel Icon: Warnung We were unfortunately unable to place the cookie that is necessary for the use of our site. Is your computer connected to the internet through a company network? We recommend that you ask your IT department for an exception for DER SPIEGEL content. Have you configured a browser extension or the browser itself such that cookies are blocked? Please add DER SPIEGEL to your list of exceptions.  
+DER SPIEGEL Der Spiegel Der Spiegel Anmelden Pfeil nach rechts Abmelden Pfeil nach rechts Icon: Spiegel Icon: Warnung We were unfortunately unable to place the cookie that is necessary for the use of our site. Is your computer connected to the internet through a company network? We recommend that you ask your IT department for an exception for DER SPIEGEL content. Have you configured a browser extension or the browser itself such that cookies are blocked? Please add DER SPIEGEL to your list of exceptions.  
 Should you continue to have problems, you can find more information here. Welcome! Continue reading with advertisements
 
 You may read our site as usual with advertisements and tracking (you may revoke your consent at any time).
