@@ -85,7 +85,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 353 2908
+    1 855 289 8562
     
 
 *   Solutions By Function
@@ -157,7 +157,7 @@ Search
 
 *   Become a Client
     
-    1 855 353 2908
+    1 855 289 8562
     
 
 GARTNER PRIVACY POLICY Effective Date: September 2020
@@ -453,9 +453,7 @@ In most cases, you have the right to receive all personal information you have p
 
 If you object to our processing of your personal information, you have the right to complain to the data protection authority (“DPA”) in the country where you reside, where you work, or where the alleged infringement of data protection laws has taken place.
 
-We agree that any disputes regarding our privacy policies and related actions regarding personal information from data subjects in the EU can be heard by a DPA and we will be subject to the determination of those bodies (as further explained in the Privacy Shield Principles). Please contact us to be directed to the relevant DPA.
-
-In certain circumstances after they have first tried to resolve the dispute directly with us and with the DPA, data subjects in the EU may be able to invoke binding arbitration of disputes by the Privacy Shield arbitration panel.
+We agree that any disputes regarding our privacy policies and related actions regarding personal information from data subjects in the EU can be heard by a DPA and we will be subject to the determination of those bodies. Please contact us to be directed to the relevant DPA.
 
 4\. INTERNATIONAL TRANSFERS
 
