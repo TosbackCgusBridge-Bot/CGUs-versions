@@ -33,9 +33,7 @@ Search Terms Please enter terms to search for. Search
 *   Quizzes
 *   Podcasts
 
-  HowStuffWorks Privacy Policy
-
- 
+HowStuffWorks Privacy Policy
 
 Control Your User Privacy Preferences
 
@@ -293,6 +291,18 @@ Advertisement
 Advertisement
 
 Print | Citation &. Date | Reprint
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Advertisement
 
 *   About
 *   Podcasts
