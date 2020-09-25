@@ -127,7 +127,7 @@ Play video: Celebrating 50 Years on the NYSE Close video: Celebrating 50 Years o
 
 Grab some ripe Wumpa Fruit and watch the new Crash Bandicoot 4: It's About Time launch trailer. Spins onto PS4 October 2:  http://play.st/Crash4  pic.twitter.com/ODExaf3mbC
 
-2 days ago View Tweet Instagram Post CEmFeVeBDfq
+3 days ago View Tweet Instagram Post CEmFeVeBDfq
 
 The Power You Need
 
