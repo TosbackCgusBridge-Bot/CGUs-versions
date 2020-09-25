@@ -108,7 +108,7 @@ Instant Notifications
 
 You'll receive push notifications when your resume is viewed, or when new jobs appear in your most recent search. Making it easy for you to jump right back into your job search.
 
-see how you can up your career status Career Development &. Learning How you can help Black-owned businesses impacted by coronavirus Read Article General What does the IT department actually do? Read Article 10 industries hiring thousands of workers right now Read Article Read More Articles Employers Looking to Post a Job?
+see how you can up your career status Career Development &. Learning Why this CareerBuilder employee came back to the team Read Article How you can help Black-owned businesses impacted by coronavirus Read Article General What does the IT department actually do? Read Article Read More Articles Employers Looking to Post a Job?
 
 We have end-to-end solutions that can keep up with you and your standards.
 
