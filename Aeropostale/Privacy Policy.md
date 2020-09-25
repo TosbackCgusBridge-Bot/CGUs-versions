@@ -383,69 +383,45 @@ The future is on your ballot.
 
 LEARN MORE SHOP ROCK THE VOTE Learn More Shop Rock The Vote
 
-AERO JEANS
+Early Acces: Online Only! In Store Next Week.
 
-BUY 1 GET 1 FREE\*  
-+FREE SHIPPING\*\*
+Fall Sale
 
-**Denim All Day. Denim Always.**
+50-70% Off
 
-With A New &. Improved Booty-lifting  
-Fit For Her &. Extra Leg Room For Him.
+Everything
 
-AERO JEANS
+Including 100s of New Arrivals!
 
-BUY 1 GET 1 FREE\*  
-\+ FREE SHIPPING\*\*
+Girls Fall Sale Guys Fall Sale
 
-**Denim All Day. Denim Always.**
+Aero Jeans  
+Buy 1 Get 1 Free\*
+
+Denim All Day. Denim Always.
 
 With a new &. improved booty-lifting fit for her &. extra leg room for him.
 
-Shop Girls Jeans Shop Guys Jeans Shop Premium Seriously Stretchy Shop Premium Max Stretch
-
-\* In store &. online only. Add two to cart. Discount reflected at checkout. Excludes clearance.
-
-\*\* Free shipping on your entire purchase when you buy Aero Jeans.
-
-\* In store &. online only. Add two to cart. Discount reflected at checkout. Excludes clearance.
-
-\*\* Free shipping on your entire purchase when you buy Aero Jeans.
+\*In store &. online. Add two to cart. Discount reflected at checkout. Excludes Clearance.
 
 Shop Girls Jeans Shop Guys Jeans Shop Super High Rise Shop Athletic Skinny
 
-In Stores &. Online
+\*In store &. online. Add two to cart. Discount reflected at checkout. Excludes Clearance.
 
-50-70% OFF  
-NEW ARRIVALS!
+Tees  
+Buy 1 Get  
+2 Free
 
-The freshest denim, softest hoodies  
-and coolest cropped sweaters.
+Tees  
+Buy 1 Get 2 Free
 
-Girls New Arrivals Guys New Arrivals Shop Girls Shop Guys
+vintage-inspired graphics take center stage  
+in signature Aero softness.
 
-In Stores &. Online
+vintage-inspired graphics take center  
+stage in signature Aero softness.
 
-50 - 70% OFF NEW ARRIVALS!
-
-The freshest denim, softest hoodies, and coolest cropped sweaters.
-
-Girls New Arrivals Guys New Arrivals Shop Girls Shop Guys
-
-JUST CHILL
-
-Work Hard, Chill Harder.  
-Extreme Comfort  
-Meets Everyday Ease  
-In Our Softest-Ever  
-Leggings &. Fleece.
-
-JUST CHILL
-
-Work hard, chill harder. Extreme comfort meets  
-everyday ease in our softest-ever leggings &. fleece.
-
-Girls Lounge Shop Guys Chill Zone
+Girls Graphics Guys Graphics
 
 **Order from our site and  
 pick up your purchase  
@@ -465,16 +441,16 @@ Notifications
 FREE Pick Up  
 At Aero
 
-GO GRAPHIC
+Hoodies  
+&. Joggers
 
-Wear your heart on your tee in graphics that make a statement.
+Effortless &. Ultra-soft.  
+Comfort never looked so cool.
 
-Wear Your Heart On Your Tee In  
-Graphics That Make A Statement.
+Effortless &. Ultra-soft. Comfort  
+never looked so cool.
 
-$6.99 &. Up
-
-Girls Graphics Guys Graphics
+Shop Girls Hoodies Shop Guys Hoodies Shop Girls Joggers Shop Guys Joggers
 
 The future is on your ballot.
 
