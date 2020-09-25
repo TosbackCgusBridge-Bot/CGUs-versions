@@ -6,7 +6,7 @@ We'd like to show you nearby Subaru retailers, special offers, pricing, and vehi
 
 Your Zip Code
 
-Invalid Zip Code. To connect with Subaru of Hawaii, please click here.
+Invalid Zip Code. Need to connect with a Hawaiian retailer? Visit Subaru of Hawaii.
 
 or Use my current location Your Subaru Retailer Subaru Retailers Near You More Subaru Retailers
 
@@ -633,7 +633,7 @@ GO
 
 Your location cannot be displayed.
 
-To connect with Subaru of Hawaii, please click here
+Need to connect with a Hawaiian retailer? Visit Subaru of Hawaii
 
 Find a Retailer Zip / City Selector for Zip code search or Retailer Search Retailer
 
@@ -641,7 +641,7 @@ Retailer not found.
 
 Your location cannot be displayed.
 
-To connect with Subaru of Hawaii, please click here
+Need to connect with a Hawaiian retailer? Visit Subaru of Hawaii
 
 or Use My Current Location
 
@@ -659,7 +659,7 @@ GO
 
 Your location cannot be displayed.
 
-To connect with Subaru of Hawaii, please click here
+Need to connect with a Hawaiian retailer? Visit Subaru of Hawaii
 
 Please Enter Zip
 
@@ -669,7 +669,7 @@ GO
 
 Your location cannot be displayed.
 
-To connect with Subaru of Hawaii, please click here
+Need to connect with a Hawaiian retailer? Visit Subaru of Hawaii
 
 <img height="1" width="1" style="display:none" alt="" src="https://www.facebook.com/tr?id=1139158252766221&ev=PageView&noscript=1" />. <div style="display:inline;">. <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1065529365/?value=0&guid=ON&script=0"/>. </div>. <img src="//bat.bing.com/action/0?ti=5066940&Ver=2" height="0" width="0" style="display:none. visibility: hidden;" alt="" />. By using this website, you consent to our use  
 of cookies as described in our privacy policy
