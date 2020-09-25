@@ -91,7 +91,7 @@
             *   Infographics
         *   Business Support
         *   Technology Partners
-        *   Agent Program
+        *   Channel Partners
         *   Small Business Resource Center
             *   Chamber of Commerce
             *   Driving Web Traffic
@@ -142,7 +142,7 @@
         *   Manuals &. User Guides
         *   Web Hosting &. Domain Support
         *   Business Support Portals
-        *   Agent Support Center
+        *   Channel Partners
     *   Account Support
         *   Check My Email
         *   View or Pay My Bill
@@ -289,7 +289,7 @@ Select Location
         *   Collateral
         *   Business Support
         *   Technology Partners
-        *   Agent Program
+        *   Channel Partners
         *   Small Business Resource Center
 *   Wholesale
     *   Data
@@ -324,7 +324,7 @@ Select Location
         *   Manuals &. User Guides
         *   Web Hosting &. Domain Support
         *   Business Support Portals
-        *   Agent Support Center
+        *   Channel Partners
     *   Account Support
         *   Check My Email
         *   View or Pay My Bill
@@ -374,7 +374,7 @@ Support
     *   Manuals &. User Guides
     *   Web Hosting &. Domain Support
     *   Business Support Portals
-    *   Agent Support Center
+    *   Channel Partners
 *   Account Support
     *   Check My Email
     *   View or Pay My Bill
