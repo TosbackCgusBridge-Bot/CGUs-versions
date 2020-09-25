@@ -386,6 +386,7 @@ Lenovo Explore Close
     *   Storage
         
         *   Explore Storage
+        *   Unified Storage
         *   Storage-Area Network
         *   Direct-Attached Storage
         *   Tape Storage
@@ -418,6 +419,7 @@ Lenovo Explore Close
         *   View All Software Defined
         
         *   Hyperconverged
+        *   ThinkAgile CP (with Cloudistics)
         *   ThinkAgile HX Series (with Nutanix)
         *   ThinkAgile MX Certified Node (with Microsoft)
         *   ThinkAgile VX Series (with VMware)
