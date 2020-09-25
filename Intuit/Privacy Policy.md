@@ -1,6 +1,6 @@
 chatOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: FRESH4 Details  
 EXTRA 25% OFF under $75 with code: FRESH4 Details  
-Last day! Shoes Flash Sale EXTRA 40% OFF w/ code: DEAL34 Details  
+Doorbusters! UP TO 60% OFF Limited time offer! Shop All  
 Free Shipping Over $49  DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: FRESH4 Details  
 
 Enable Accessibility
@@ -27,7 +27,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Save on our quality brands, exclusively at JCPenneyselect styles40% OFF St. John's Bay sweaters &. tops$24.99 St. John's Bay jeans$27.99 a.n.a jeansSave on a.n.a topsUP TO 40% OFF Cool-weather styles built to lastselect styles
+Women's DealsMen's DealsKids' DealsHome DealsSave on our quality brands, exclusively at JCPenneyselect styles40% OFF St. John's Bay sweaters &. tops$21.99 St. John's Bay jeans$21.99 a.n.a jeansSave on a.n.a topsUP TO 40% OFF Cool-weather styles built to lastselect styles
 
 *   Shop Men
 
@@ -47,13 +47,12 @@ Baby &. Toddler Saleselect styles
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 24 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   a.n.a-Womens V Neck Short Sleeve T-Shirt $4.49with code~$13~18
-*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
+*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $17.99with code~$6 - $48~686
+*   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745
     
-    $85
+    $17.99sale
     
-    4
-*   JCPenney Home™ Ultima Bath Rug Collection $25.50 - $63with code713
+    ~$36~1815
 *   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
     
     $4.99 - $27.99sale
@@ -61,14 +60,15 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 24 total items loaded
     ~$16 - $40~1256
 *   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693
     
-    $24.99sale
+    $17.99sale
     
-    ~$36~5641
-*   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745
+    ~$36~5644
+*   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
     
-    $24.99sale
+    $49.98
     
-    ~$36~1814
+    240
+*   Sealy® Beaumont Firm Mattress Only $253.99 - $398.99with code~$580 - $1,170~1
 
 Shop and Save at JCPenney
 
