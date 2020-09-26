@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Friday, September 25, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, September 26, 2020  
 
 DEBKAfile
 
@@ -44,6 +44,14 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   First formal Israel-Lebanese talks mediated by the US start next month
+    
+    Sep 25, 2020 @ 18:33
+    
+*   Arab aid to Palestinians slashed by 85pc - report
+    
+    Sep 25, 2020 @ 12:53
+    
 *   After 59 covid deaths in 24 hours, four Israeli leaders go on air
     
     Sep 24, 2020 @ 21:57
@@ -67,16 +75,16 @@ Breaking news
 *   Hizballah terrorists given life for deadly Bulgarian bus bombing
     
     Sep 21, 2020 @ 12:39
-    
-*   Gantz flies to Washington for Pentagon talks
-    
-    Sep 21, 2020 @ 12:27
-    
-*   Jerusalem court orders Malka Liefer's extradition to Australia
-    
-    Sep 21, 2020 @ 12:19
     
 
+*   Another coronavirus high: 6,861 new cases in 24 hours
+    
+    Sep 23, 2020 @ 11:07
+    
+*   High-ranking Sudanese hold talks in UAE with Emirati and US officials
+    
+    Sep 21, 2020 @ 16:39
+    
 *   Researchers: Barring tighter restrictions, 2,000 new fatalities by November
     
     Sep 21, 2020 @ 12:55
@@ -85,13 +93,13 @@ Breaking news
     
     Sep 21, 2020 @ 12:39
     
-*   Gantz flies to Washington for Pentagon talks
+*   First formal Israel-Lebanese talks mediated by the US start next month
     
-    Sep 21, 2020 @ 12:27
+    Sep 25, 2020 @ 18:33
     
-*   Jerusalem court orders Malka Liefer's extradition to Australia
+*   Arab aid to Palestinians slashed by 85pc - report
     
-    Sep 21, 2020 @ 12:19
+    Sep 25, 2020 @ 12:53
     
 *   After 59 covid deaths in 24 hours, four Israeli leaders go on air
     
@@ -117,13 +125,13 @@ Breaking news
     
     Sep 21, 2020 @ 12:39
     
-*   Gantz flies to Washington for Pentagon talks
+*   First formal Israel-Lebanese talks mediated by the US start next month
     
-    Sep 21, 2020 @ 12:27
+    Sep 25, 2020 @ 18:33
     
-*   Jerusalem court orders Malka Liefer's extradition to Australia
+*   Arab aid to Palestinians slashed by 85pc - report
     
-    Sep 21, 2020 @ 12:19
+    Sep 25, 2020 @ 12:53
     
 *   After 59 covid deaths in 24 hours, four Israeli leaders go on air
     
@@ -132,14 +140,6 @@ Breaking news
 *   All-inclusive 16-day lockdown goes into effect on Friday
     
     Sep 23, 2020 @ 21:20
-    
-*   Another coronavirus high: 6,861 new cases in 24 hours
-    
-    Sep 23, 2020 @ 11:07
-    
-*   High-ranking Sudanese hold talks in UAE with Emirati and US officials
-    
-    Sep 21, 2020 @ 16:39
     
 
 12PrevNext
