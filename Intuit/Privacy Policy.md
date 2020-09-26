@@ -14,7 +14,7 @@ Enable Accessibility
     Sign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   School Essentials
 *   Home &. Lifestyle
@@ -47,28 +47,28 @@ Baby &. Toddler Saleselect styles
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 24 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $17.99with code~$6 - $48~686
-*   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745
+*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $17.99with code~$6 - $48~688
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
     
-    $17.99sale
+    $85
     
-    ~$36~1815
-*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
-    
-    $4.99 - $27.99sale
-    
-    ~$16 - $40~1256
-*   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693
-    
-    $17.99sale
-    
-    ~$36~5644
+    5
 *   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
     
     $49.98
     
     240
-*   Sealy® Beaumont Firm Mattress Only $253.99 - $398.99with code~$580 - $1,170~1
+*   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693
+    
+    $17.99sale
+    
+    ~$36~5649
+*   Liz Claiborne Womens 3-pc. Capri Pajama Set Short Sleeve Round Neck $22.05with code~$42~
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+    
+    $124.98
+    
+    150
 
 Shop and Save at JCPenney
 
