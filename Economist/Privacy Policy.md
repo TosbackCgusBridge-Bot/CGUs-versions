@@ -34,6 +34,7 @@
     *   Ownership
     *   Board
     *   Trustees
+    *   Statement of Investment Principles
     *   Tax Governance and Risk Management Policy
 
 *   *   Press releases
@@ -60,6 +61,7 @@ The Economist Newspaper privacy statement
     *   Ownership
     *   Board
     *   Trustees
+    *   Statement of Investment Principles
     *   Tax Governance and Risk Management Policy
 
   
