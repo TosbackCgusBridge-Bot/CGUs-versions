@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Stepping Down Gracefully
 *   A ‘Connected’ Bank – The power of data and analytics
 *   Lenovo expand enterprise desktop range preinstalled with Ubuntu
-*   NoSQL databases: what is MongoDB and its use cases?
