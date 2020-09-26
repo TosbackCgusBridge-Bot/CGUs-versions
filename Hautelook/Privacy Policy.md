@@ -9,102 +9,98 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Cashmere Up to 65% Off Incl. Plus
+    *   Statement Makeup Ft. Urban Decay
+    *   Eileen Fisher Up to 65% Off
+    *   Steve Madden Up to 60% Off
+    *   Steve Madden Men Up to 60% Off
+    *   Calvin Klein Men Up to 60% Off
+    *   Boho Babe: Love Stitch &. More
+    *   Steve Madden Accessories Under $50
+    *   Pants Up to 70% Off Incl. Plus
+    *   Turtlenecks &. More Up to 70% Off Incl. Plus
+    *   Staying-In Styles: Sleep &. Lounge
+    *   Cozy Earth Bedding
+    *   Steve Madden Kids Up to 50% Off
+    *   Boys' Outerwear Up to 70% Off
+    *   Girls' Outwear Up to 70% Off
+    *   Fragrance Under $50
+    *   Cat-Eye &. Retro Sunglasses Up to 75% Off
+    *   Men's Outerwear Up to 70% Off
     *   Dooney &. Bourke Up to 55% Off
+    *   Cashmere Up to 65% Off Incl. Plus
     *   Mirenesse Makeup starting at $9.97
+    
     *   Polished Perfection: SUISTUDIO &. More
     *   New Fall Arrivals: Activewear Up to 70% Off
     *   Thomas Pink Up to 60% Off
     *   Feminine Flair: Dresses Up to 70% Off
     *   Luxe Fall Arrivals ft. LINE
     *   Honeydew Intimates Under $25
-    *   Eliza J Dresses Incl. Plus
     *   Protective Masks Up to 70% Off
     *   Men's Wear to Work Styles Up to 60% Off
     *   Marc Fisher LTD Up to 70% Off
     *   Born Men's Shoes
-    *   Kid's Active Styles Up to 60% Off
     *   Men's Luxe Shoes Up to 60% Off
-    *   Contemporary Shoes We Love
-    *   Keep Cozy Going: Slippers &. More
-    *   BCBGeneration
+    *   Kid's Active Styles Up to 60% Off
+    *   Eliza J Dresses Incl. Plus
     *   Madewell Up to 60% Off Incl. Plus
-    
     *   Converse Men Starting at $40
     *   Converse Starting at $40
-    *   Women's Styles Under $25 Incl. Plus
     *   Converse Kids Up to 60% Off
-    *   Guest Of Dresses Incl. Plus
-    *   Fall Stripes Up to 70% Off Incl. Plus
-    *   In Bloom Lingerie &. Sleep Under $30
-    *   Wedding Ready: Shapewear Up to 60% Off
-    *   Dresses Up to 75% Off Incl. Plus
     *   Light Therapy Lamp- Plug it in &. Get Happy
     *   Men's Active ft. New Balance
-    *   Top Drawer Refresh: Men' Lounge
+    *   Top Drawer Refresh: Men's Lounge
+    
     *   Fun &. Fancy: Girls' Dresses Up to 60% Off
     *   Fun &. Fancy: Kids Shoes Up to 60% Off
     *   Kids Playground Shoes ft. Asics
-    *   Scale Inspired Bags Starting at $25
-    *   Aquatalia Up to 60% Off
+    *   Free Shipping: Bath &. Beach Towels Up to 80% Off
+    *   Fabulous Faux Fur Throws
     *   Dyson Up to 50% Off
     *   The North Face Men
     *   Men's Fall Essentials Up to 70% Off
-    
     *   Mix &. Match: Suit Separates Up to 70% Off
     *   Dress Up or Down: Men's Shoes Up to 70% Off
-    *   Play All Day: Toys Under $20
-    *   Kids Cold Weather Shoes ft. Bogs
     *   Fragrance Gift Sets Up to 60% off
-    *   Men's Puffers &. More Up to 65% Off
     *   Free Shipping: BergHOFF Kitchen Blowout at 70% Off
-    *   Free Shipping: Bath &. Beach Towels Up to 80% Off
-    *   Fabulous Faux Fur Throws
     *   Free Shipping: All Your Bedding Needs
-    *   Skincare From Top Brands Ft. WASO by Shiseido
     *   Free Shipping: Window Treatments
-    *   Home Organization Essentials Starting at $20
     *   Shark Vacuums
-    *   Dresses From Trina Trina Turk &. More Incl. Plus
-    *   Fall Refresh: 1.State &. More Incl. Plus
-    *   Street-Chic Active Starting at $15
-    *   Cozy &. Casual Dresses Incl. Plus
-    *   High Waisted Styles Up to 70% Off Incl. Plus
+    *   Men's Boots Up to 65% Off
+    *   Fall Comfort Flats
+    *   Contemporary Shoes We Love
+    *   Keep Cozy Going: Slippers &. More
 *   WomenShop Sale Events
     
-    *   Cashmere Up to 65% Off Incl. Plus
+    *   Statement Makeup Ft. Urban Decay
+    *   Eileen Fisher Up to 65% Off
+    *   Steve Madden Up to 60% Off
+    *   Boho Babe: Love Stitch &. More
+    *   Steve Madden Accessories Under $50
+    *   Pants Up to 70% Off Incl. Plus
+    *   Turtlenecks &. More Up to 70% Off Incl. Plus
+    *   Staying-In Styles: Sleep &. Lounge
+    *   Fragrance Under $50
+    *   Cat-Eye &. Retro Sunglasses Up to 75% Off
     *   Dooney &. Bourke Up to 55% Off
+    *   Cashmere Up to 65% Off Incl. Plus
     *   Mirenesse Makeup starting at $9.97
     *   Polished Perfection: SUISTUDIO &. More
+    
     *   New Fall Arrivals: Activewear Up to 70% Off
     *   Feminine Flair: Dresses Up to 70% Off
     *   Luxe Fall Arrivals ft. LINE
     *   Honeydew Intimates Under $25
-    *   Eliza J Dresses Incl. Plus
     *   Protective Masks Up to 70% Off
     *   Marc Fisher LTD Up to 70% Off
-    *   Contemporary Shoes We Love
-    *   Keep Cozy Going: Slippers &. More
-    *   BCBGeneration
+    *   Eliza J Dresses Incl. Plus
     *   Madewell Up to 60% Off Incl. Plus
     *   Converse Starting at $40
-    
-    *   Women's Styles Under $25 Incl. Plus
-    *   Guest Of Dresses Incl. Plus
-    *   Fall Stripes Up to 70% Off Incl. Plus
-    *   In Bloom Lingerie &. Sleep Under $30
-    *   Wedding Ready: Shapewear Up to 60% Off
-    *   Dresses Up to 75% Off Incl. Plus
-    *   Scale Inspired Bags Starting at $25
-    *   Aquatalia Up to 60% Off
     *   Dyson Up to 50% Off
     *   Fragrance Gift Sets Up to 60% off
-    *   Skincare From Top Brands Ft. WASO by Shiseido
-    *   Dresses From Trina Trina Turk &. More Incl. Plus
-    *   Fall Refresh: 1.State &. More Incl. Plus
-    *   Street-Chic Active Starting at $15
-    *   Cozy &. Casual Dresses Incl. Plus
-    *   High Waisted Styles Up to 70% Off Incl. Plus
+    *   Fall Comfort Flats
+    *   Contemporary Shoes We Love
+    *   Keep Cozy Going: Slippers &. More
     
     Shop By Category
     *   Clothing
@@ -112,21 +108,25 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
     *   Lingerie &. Shapewear
     *   Handbags
+    *   Watches
 *   MenShop Sale Events
     
+    *   Steve Madden Men Up to 60% Off
+    *   Calvin Klein Men Up to 60% Off
+    *   Men's Outerwear Up to 70% Off
     *   Thomas Pink Up to 60% Off
     *   Men's Wear to Work Styles Up to 60% Off
     *   Born Men's Shoes
     *   Men's Luxe Shoes Up to 60% Off
     *   Converse Men Starting at $40
-    *   Men's Active ft. New Balance
     
-    *   Top Drawer Refresh: Men' Lounge
+    *   Men's Active ft. New Balance
+    *   Top Drawer Refresh: Men's Lounge
     *   The North Face Men
     *   Men's Fall Essentials Up to 70% Off
     *   Mix &. Match: Suit Separates Up to 70% Off
     *   Dress Up or Down: Men's Shoes Up to 70% Off
-    *   Men's Puffers &. More Up to 65% Off
+    *   Men's Boots Up to 65% Off
     
     Shop By Category
     *   Clothing
@@ -134,57 +134,56 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Steve Madden Kids Up to 50% Off
+    *   Boys' Outerwear Up to 70% Off
+    *   Girls' Outwear Up to 70% Off
     *   Kid's Active Styles Up to 60% Off
     *   Converse Kids Up to 60% Off
     *   Fun &. Fancy: Girls' Dresses Up to 60% Off
     *   Fun &. Fancy: Kids Shoes Up to 60% Off
     *   Kids Playground Shoes ft. Asics
-    *   Play All Day: Toys Under $20
-    *   Kids Cold Weather Shoes ft. Bogs
     
     Shop By Category
     *   Girls
     *   Girls' Shoes
     *   Boys' Shoes
-    *   Toys
     *   Baby
     *   Boys
 *   HomeShop Sale Events
     
+    *   Cozy Earth Bedding
     *   Light Therapy Lamp- Plug it in &. Get Happy
-    *   Free Shipping: BergHOFF Kitchen Blowout at 70% Off
     *   Free Shipping: Bath &. Beach Towels Up to 80% Off
     *   Fabulous Faux Fur Throws
+    *   Free Shipping: BergHOFF Kitchen Blowout at 70% Off
     *   Free Shipping: All Your Bedding Needs
     *   Free Shipping: Window Treatments
-    *   Home Organization Essentials Starting at $20
     *   Shark Vacuums
     
     Shop By Category
     *   Bedding
     *   Kitchen &. Tabletop
-    *   Cleaning &. Organization
     *   Bath
     *   Home Decor
+    *   Cleaning &. Organization
     *   Outdoor Living
     *   Luggage &. Travel
-    *   Electronic &. Tech Accessories
-    *   Holiday Decorations
 *   BeautyShop Sale Events
     
+    *   Statement Makeup Ft. Urban Decay
+    *   Fragrance Under $50
     *   Mirenesse Makeup starting at $9.97
     *   Dyson Up to 50% Off
     *   Fragrance Gift Sets Up to 60% off
-    *   Skincare From Top Brands Ft. WASO by Shiseido
     
     Shop By Category
-    *   Skin Care
-    *   Fragrance
-    *   Bath &. Body
     *   Makeup
-    *   Men’s Grooming
-    *   Hair Care
+    *   Fragrance
     *   Tools &. Accessories
+    *   Hair Care
+    *   Skin Care
+    *   Men’s Grooming
+    *   Bath &. Body
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
