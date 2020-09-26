@@ -44,7 +44,7 @@
         *   Board of Trustees
         *   Chapters
         *   Organization Members
-        *   Affiliates and Partners
+        *   Partners
         *   Team
         *   Action Plan: 2020
         *   Organization Reports &. Policies
