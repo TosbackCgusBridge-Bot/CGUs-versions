@@ -239,37 +239,29 @@ For users in the United States, any changes or modifications will be effective i
 
 For users in the EEA, any changes or modifications will be effective upon your express consent as you will be notified of any changes by virtue of a pop-up, banner, or other notification mechanism when you seek to access our services after we issue a change or modification. Upon consent, the revisions on the services shall apply to all use of our services and all acts or omissions occurring after the effective date of the revised Privacy Policy.
 
-CATCH WHAT YOU MISSED at RiskSec: Sessions available on demand
-
-Estonia ambassador speaks on being the canary in the coal mine, during RiskSec Digital
-
-Diversity metrics can bring potential pitfalls, says panel
-
-Former DoD CSO at RiskSec: The West must lead
-
 *   MOST POPULAR
     
     *   Popular
     *   Emailed
     *   Recent
     
+    *   Former DoD CSO: The West must lead
+    *   12 checklist items for defeating Magecart attacks
+    *   All eyes on VA security measures after compromise of 46,000 accounts
+    *   Three ways cloud security posture management helps security teams
+    *   Critical Zerologon bug uses weak cryptography to spoof network users
+    
+    *   Former DoD CSO: The West must lead
+    *   Commerce imposes prohibitions on TikTok, WeChat
+    *   What one company’s deal with the feds tells us about the long tail of data breaches
+    *   Federal watchdog agency pushes proposed White House cyber role into spotlight
     *   Security teams struggle with ransomware, cloud services
-    *   Build security by expanding cyber awareness
-    *   Former DoD CSO: The West must lead
-    *   To improve DevSecOps, set application security priorities
-    *   Phishing attack targeted top financial pro at large company
     
-    *   Canary in the coal mine: Estonia ambassador on creating a security culture post cyberwar
-    *   Former DoD CSO: The West must lead
-    *   Lessons combating COVID-19 healthcare security challenges
-    *   Navigating through the mind of a 2020 hacker
-    *   Exploit for critical Windows flaw allows access to admin rights
-    
+    *   Instagram flaw shows importance of managing third-party apps, images
     *   Shopify breach: Help center employees are a unique breed of insider threat
-    *   Supply chain weak security link for 92 percent of U.S. companies
+    *   Supply chain weak security link for 92 percent of US companies
     *   Leaked FinCEN files expose poor data security
     *   Lessons from the ransomware death: Prioritize cyber emergency preparedness
-    *   Security teams struggle to complete compliance audits under COVID
 
 Back to Top
 
@@ -305,6 +297,6 @@ Back to Top
 
 Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
-You can skip this ad in 1 seconds.
+You can skip this ad in 2 seconds.
 
 x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
