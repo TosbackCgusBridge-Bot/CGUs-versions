@@ -34,7 +34,7 @@ View more results
     *   Family Relics
     *   Fireboy &. Watergirl 3: The Ice Temple
     *   Knights of Fortune
-    *   Madalin Cars Multiplayer
+    *   Ono Card Game
 *   Action
     
     Top Categories
@@ -54,12 +54,12 @@ View more results
     *   Knights of Fortune
     *   Combat Strike 2
     *   Stickman Archer 2
-    *   Super Buddy Kick
     *   Miami Crime Simulator 3D
+    *   Super Buddy Kick
     *   Stickman Fighter: Epic Battle
-    *   Warbanner
-    *   Apple Shooter
     *   Super Escape Masters
+    *   Apple Shooter
+    *   Warbanner
     *   Total Front
     *   Pixel Gun Apocalypse 3
     *   Sniper Reloaded
@@ -114,9 +114,9 @@ View more results
     *   1001 Arabian Nights
     *   Mahjong Connect Classic
     *   MahJongCon
+    *   Skydom
     *   Candy Riddles: Free Match 3 Puzzle
     *   Bubble Machine: 2 Player Game
-    *   Skydom
     *   Snail Bob 1
     *   Water Flow 3D
     *   Sevenventure
@@ -145,11 +145,11 @@ View more results
     *   Coloring Bunny Book
     *   Mommy BFFs: Pregnant Check-Up
     *   Pizza Real Life Cooking
-    *   Beach Kiss
     *   Bad Teeth Makeover
+    *   Beach Kiss
     *   Goldie: Lip Injections
-    *   Foot Doctor
     *   Blondie Wedding Prep: Dress Up Game
+    *   Foot Doctor
     *   Cake Design
 *   Racing
     
@@ -176,10 +176,10 @@ View more results
     *   Drag Racing Rivals
     *   Maximum Acceleration
     *   Cars 3D
-    *   Moto X3m 3
     *   Drift Cars
-    *   City Car Stunts 2
+    *   Moto X3m 3
     *   Murder
+    *   City Car Stunts 2
 *   Sports
     
     Top Categories
