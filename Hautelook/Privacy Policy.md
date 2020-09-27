@@ -9,6 +9,25 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Max Studio Up to 75% Off Incl. Plus
+    *   Schutz Up to 60% Off
+    *   John Varvatos Star USA Up to 70% Off
+    *   Donald Pliner Up to 65% Off
+    *   Men's Boots Up to 65% Off
+    *   Virtual Date Night Ready: Styles Incl. Plus
+    *   Celebrate Fall: Plus Styles Starting at $20
+    *   Donald Pliner Men Up to 70% Off
+    *   All Day Comfort: Wire-Free Bras Starting at $15
+    *   Time to Get Organized- Up to 50% Off
+    *   On-Trend Jewelry Finds Starting at $15
+    *   Fresh Finds: Men's Shoes Up to 65% Off
+    *   Fresh Finds: Heeled Booties
+    *   Tommy Hilfiger Men's Shoes Up to 60% Off
+    *   Nordstrom Rack Exclusives ft. Harper Canyon
+    *   Sneaker Refresh: Kid's Styles Up to 60% Off
+    *   Sweater Dresses Up to 70% Off
+    *   Fall Comfort Flats
+    
     *   Statement Makeup Ft. Urban Decay
     *   Eileen Fisher Up to 65% Off
     *   Steve Madden Up to 60% Off
@@ -25,56 +44,42 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Girls' Outwear Up to 70% Off
     *   Fragrance Under $50
     *   Cat-Eye &. Retro Sunglasses Up to 75% Off
-    *   Men's Outerwear Up to 70% Off
-    *   Dooney &. Bourke Up to 55% Off
-    *   Cashmere Up to 65% Off Incl. Plus
     *   Mirenesse Makeup starting at $9.97
-    
-    *   Polished Perfection: SUISTUDIO &. More
-    *   New Fall Arrivals: Activewear Up to 70% Off
     *   Thomas Pink Up to 60% Off
-    *   Feminine Flair: Dresses Up to 70% Off
-    *   Luxe Fall Arrivals ft. LINE
-    *   Honeydew Intimates Under $25
+    
     *   Protective Masks Up to 70% Off
     *   Men's Wear to Work Styles Up to 60% Off
-    *   Marc Fisher LTD Up to 70% Off
     *   Born Men's Shoes
     *   Men's Luxe Shoes Up to 60% Off
     *   Kid's Active Styles Up to 60% Off
-    *   Eliza J Dresses Incl. Plus
-    *   Madewell Up to 60% Off Incl. Plus
-    *   Converse Men Starting at $40
-    *   Converse Starting at $40
-    *   Converse Kids Up to 60% Off
     *   Light Therapy Lamp- Plug it in &. Get Happy
     *   Men's Active ft. New Balance
     *   Top Drawer Refresh: Men's Lounge
-    
-    *   Fun &. Fancy: Girls' Dresses Up to 60% Off
-    *   Fun &. Fancy: Kids Shoes Up to 60% Off
-    *   Kids Playground Shoes ft. Asics
     *   Free Shipping: Bath &. Beach Towels Up to 80% Off
     *   Fabulous Faux Fur Throws
-    *   Dyson Up to 50% Off
-    *   The North Face Men
-    *   Men's Fall Essentials Up to 70% Off
-    *   Mix &. Match: Suit Separates Up to 70% Off
-    *   Dress Up or Down: Men's Shoes Up to 70% Off
-    *   Fragrance Gift Sets Up to 60% off
     *   Free Shipping: BergHOFF Kitchen Blowout at 70% Off
+    *   Men's Outerwear Up to 70% Off
+    *   Cashmere Up to 65% Off Incl. Plus
+    *   Polished Perfection: SUISTUDIO &. More
+    *   New Fall Arrivals: Activewear Up to 70% Off
     *   Free Shipping: All Your Bedding Needs
-    *   Free Shipping: Window Treatments
-    *   Shark Vacuums
-    *   Men's Boots Up to 65% Off
-    *   Fall Comfort Flats
-    *   Contemporary Shoes We Love
-    *   Keep Cozy Going: Slippers &. More
+    *   Dyson Up to 50% Off
 *   WomenShop Sale Events
     
+    *   Max Studio Up to 75% Off Incl. Plus
+    *   Schutz Up to 60% Off
+    *   Donald Pliner Up to 65% Off
+    *   Virtual Date Night Ready: Styles Incl. Plus
+    *   Celebrate Fall: Plus Styles Starting at $20
+    *   All Day Comfort: Wire-Free Bras Starting at $15
+    *   On-Trend Jewelry Finds Starting at $15
+    *   Fresh Finds: Heeled Booties
+    *   Sweater Dresses Up to 70% Off
+    *   Fall Comfort Flats
     *   Statement Makeup Ft. Urban Decay
     *   Eileen Fisher Up to 65% Off
     *   Steve Madden Up to 60% Off
+    
     *   Boho Babe: Love Stitch &. More
     *   Steve Madden Accessories Under $50
     *   Pants Up to 70% Off Incl. Plus
@@ -82,25 +87,12 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Staying-In Styles: Sleep &. Lounge
     *   Fragrance Under $50
     *   Cat-Eye &. Retro Sunglasses Up to 75% Off
-    *   Dooney &. Bourke Up to 55% Off
-    *   Cashmere Up to 65% Off Incl. Plus
     *   Mirenesse Makeup starting at $9.97
-    *   Polished Perfection: SUISTUDIO &. More
-    
-    *   New Fall Arrivals: Activewear Up to 70% Off
-    *   Feminine Flair: Dresses Up to 70% Off
-    *   Luxe Fall Arrivals ft. LINE
-    *   Honeydew Intimates Under $25
     *   Protective Masks Up to 70% Off
-    *   Marc Fisher LTD Up to 70% Off
-    *   Eliza J Dresses Incl. Plus
-    *   Madewell Up to 60% Off Incl. Plus
-    *   Converse Starting at $40
+    *   Cashmere Up to 65% Off Incl. Plus
+    *   Polished Perfection: SUISTUDIO &. More
+    *   New Fall Arrivals: Activewear Up to 70% Off
     *   Dyson Up to 50% Off
-    *   Fragrance Gift Sets Up to 60% off
-    *   Fall Comfort Flats
-    *   Contemporary Shoes We Love
-    *   Keep Cozy Going: Slippers &. More
     
     Shop By Category
     *   Clothing
@@ -108,25 +100,25 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
     *   Lingerie &. Shapewear
     *   Handbags
+    *   Jewelry
     *   Watches
 *   MenShop Sale Events
     
+    *   John Varvatos Star USA Up to 70% Off
+    *   Men's Boots Up to 65% Off
+    *   Donald Pliner Men Up to 70% Off
+    *   Fresh Finds: Men's Shoes Up to 65% Off
+    *   Tommy Hilfiger Men's Shoes Up to 60% Off
     *   Steve Madden Men Up to 60% Off
     *   Calvin Klein Men Up to 60% Off
-    *   Men's Outerwear Up to 70% Off
+    
     *   Thomas Pink Up to 60% Off
     *   Men's Wear to Work Styles Up to 60% Off
     *   Born Men's Shoes
     *   Men's Luxe Shoes Up to 60% Off
-    *   Converse Men Starting at $40
-    
     *   Men's Active ft. New Balance
     *   Top Drawer Refresh: Men's Lounge
-    *   The North Face Men
-    *   Men's Fall Essentials Up to 70% Off
-    *   Mix &. Match: Suit Separates Up to 70% Off
-    *   Dress Up or Down: Men's Shoes Up to 70% Off
-    *   Men's Boots Up to 65% Off
+    *   Men's Outerwear Up to 70% Off
     
     Shop By Category
     *   Clothing
@@ -134,31 +126,28 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Nordstrom Rack Exclusives ft. Harper Canyon
+    *   Sneaker Refresh: Kid's Styles Up to 60% Off
     *   Steve Madden Kids Up to 50% Off
     *   Boys' Outerwear Up to 70% Off
     *   Girls' Outwear Up to 70% Off
     *   Kid's Active Styles Up to 60% Off
-    *   Converse Kids Up to 60% Off
-    *   Fun &. Fancy: Girls' Dresses Up to 60% Off
-    *   Fun &. Fancy: Kids Shoes Up to 60% Off
-    *   Kids Playground Shoes ft. Asics
     
     Shop By Category
     *   Girls
     *   Girls' Shoes
-    *   Boys' Shoes
-    *   Baby
     *   Boys
+    *   Baby
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Time to Get Organized- Up to 50% Off
     *   Cozy Earth Bedding
     *   Light Therapy Lamp- Plug it in &. Get Happy
     *   Free Shipping: Bath &. Beach Towels Up to 80% Off
     *   Fabulous Faux Fur Throws
     *   Free Shipping: BergHOFF Kitchen Blowout at 70% Off
     *   Free Shipping: All Your Bedding Needs
-    *   Free Shipping: Window Treatments
-    *   Shark Vacuums
     
     Shop By Category
     *   Bedding
@@ -167,23 +156,21 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Home Decor
     *   Cleaning &. Organization
     *   Outdoor Living
-    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
     *   Statement Makeup Ft. Urban Decay
     *   Fragrance Under $50
     *   Mirenesse Makeup starting at $9.97
     *   Dyson Up to 50% Off
-    *   Fragrance Gift Sets Up to 60% off
     
     Shop By Category
     *   Makeup
     *   Fragrance
-    *   Tools &. Accessories
-    *   Hair Care
-    *   Skin Care
     *   Men’s Grooming
+    *   Tools &. Accessories
     *   Bath &. Body
+    *   Skin Care
+    *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
