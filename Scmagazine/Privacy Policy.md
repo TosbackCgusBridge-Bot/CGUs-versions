@@ -245,23 +245,23 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   Former DoD CSO: The West must lead
-    *   12 checklist items for defeating Magecart attacks
-    *   All eyes on VA security measures after compromise of 46,000 accounts
-    *   Three ways cloud security posture management helps security teams
-    *   Critical Zerologon bug uses weak cryptography to spoof network users
-    
-    *   Former DoD CSO: The West must lead
+    *   Build security by expanding cyber awareness
+    *   The Twitter hack exposed the need for more effective PAM security
+    *   FBI opens China-related counterintelligence case every 10 hours
     *   Commerce imposes prohibitions on TikTok, WeChat
-    *   What one company’s deal with the feds tells us about the long tail of data breaches
-    *   Federal watchdog agency pushes proposed White House cyber role into spotlight
-    *   Security teams struggle with ransomware, cloud services
+    *   Amid Iranian hacker crackdown, CISOs should prep for retaliation
     
+    *   Canary in the coal mine: Estonia ambassador on creating a security culture post cyberwar
+    *   Lessons from the ransomware death: Prioritize cyber emergency preparedness
+    *   Twitter bug may have exposed API keys, access tokens
+    *   Commerce imposes prohibitions on TikTok, WeChat
+    *   The Twitter hack exposed the need for more effective PAM security
+    
+    *   Twitter bug may have exposed API keys, access tokens
     *   Instagram flaw shows importance of managing third-party apps, images
     *   Shopify breach: Help center employees are a unique breed of insider threat
     *   Supply chain weak security link for 92 percent of US companies
     *   Leaked FinCEN files expose poor data security
-    *   Lessons from the ransomware death: Prioritize cyber emergency preparedness
 
 Back to Top
 
@@ -295,8 +295,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
 
-You can skip this ad in 2 seconds.
+You can skip this ad in 1 seconds.
 
 x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
