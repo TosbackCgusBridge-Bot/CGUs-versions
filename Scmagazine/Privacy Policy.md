@@ -245,17 +245,17 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   Build security by expanding cyber awareness
-    *   The Twitter hack exposed the need for more effective PAM security
-    *   FBI opens China-related counterintelligence case every 10 hours
-    *   Commerce imposes prohibitions on TikTok, WeChat
-    *   Amid Iranian hacker crackdown, CISOs should prep for retaliation
-    
-    *   Canary in the coal mine: Estonia ambassador on creating a security culture post cyberwar
     *   Lessons from the ransomware death: Prioritize cyber emergency preparedness
+    *   Navigating through the mind of a 2020 hacker
+    *   All eyes on VA security measures after compromise of 46,000 accounts
+    *   Google rolls out new automated threat detection tool
     *   Twitter bug may have exposed API keys, access tokens
-    *   Commerce imposes prohibitions on TikTok, WeChat
-    *   The Twitter hack exposed the need for more effective PAM security
+    
+    *   Three strategies to defend remote workers from cyberattacks
+    *   Canary in the coal mine: Estonia ambassador on creating a security culture post cyberwar
+    *   To improve DevSecOps, set application security priorities
+    *   Security teams struggle with ransomware, cloud services
+    *   Phishing attack targeted top financial pro at large company
     
     *   Twitter bug may have exposed API keys, access tokens
     *   Instagram flaw shows importance of managing third-party apps, images
@@ -295,7 +295,7 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. X
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
 
 You can skip this ad in 1 seconds.
 
