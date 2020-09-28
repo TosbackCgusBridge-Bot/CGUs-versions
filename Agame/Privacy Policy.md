@@ -54,8 +54,8 @@ View more results
     *   Knights of Fortune
     *   Combat Strike 2
     *   Stickman Archer 2
-    *   Miami Crime Simulator 3D
     *   Super Buddy Kick
+    *   Miami Crime Simulator 3D
     *   Stickman Fighter: Epic Battle
     *   Super Escape Masters
     *   Apple Shooter
@@ -82,8 +82,8 @@ View more results
     *   Square Bird
     *   Fireboy and Watergirl 5: Elements
     *   World Craft 2
-    *   Draw Climber
     *   Boeing Flight Simulator
+    *   Draw Climber
     *   Miami Crime Simulator 3D
     *   Super Escape Masters
     *   Build Craft
@@ -146,10 +146,10 @@ View more results
     *   Mommy BFFs: Pregnant Check-Up
     *   Pizza Real Life Cooking
     *   Bad Teeth Makeover
-    *   Beach Kiss
-    *   Goldie: Lip Injections
     *   Foot Doctor
     *   Blondie Wedding Prep: Dress Up Game
+    *   Beach Kiss
+    *   Goldie: Lip Injections
     *   Love Tester 3
 *   Racing
     
@@ -174,8 +174,8 @@ View more results
     *   Moto X3m 2
     *   Drag Racing Rivals
     *   Moto X3M: Motorcycle Racing Game
-    *   Maximum Acceleration
     *   Drift Cars
+    *   Maximum Acceleration
     *   Cars 3D
     *   Moto X3m 3
     *   City Car Stunts 2
@@ -206,8 +206,8 @@ View more results
     *   Table Tennis Pro
     *   Baseball
     *   Table Tennis Challenge
-    *   8-Ball
     *   Moto X3M: Winter - Motorbike Game
+    *   8-Ball
 *   More
     
     *   Multiplayer
