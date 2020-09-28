@@ -1,11 +1,11 @@
-chatOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: FRESH4 Details  
+chatOur COVID-19 response  DetailsLast day! EXTRA 30% OFF $75+ with code: FRESH4 Details  
 EXTRA 25% OFF under $75 with code: FRESH4 Details  
-Doorbusters! UP TO 60% OFF Limited time offer! Shop All  
-Free Shipping Over $49  DetailsOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: FRESH4 Details  
+Last day for Doorbusters! UP TO 60% OFF! Shop All  
+Free Shipping Over $49  DetailsOur COVID-19 response  DetailsLast day! EXTRA 30% OFF $75+ with code: FRESH4 Details  
 
 Enable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1st
+*   StoresNorth Point MallMore Stores2000 N Point Cir, Alpharetta, GA, 30022770-475-9850 Weekly Ads Engagement GuideValid Jan 24th - Sep 1st
     
     My Account
     
@@ -47,24 +47,16 @@ Baby &. Toddler Saleselect styles
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 24 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
-    
-    $4.99 - $27.99sale
-    
-    ~$16 - $40~1256
 *   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
     
     $49.98
     
     240
-*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
-    
-    $85
-    
-    5
-*   JCPenney Home Casey Jacquard Light-Filtering Grommet-Top Single Curtain Panel $37.50 - $70with code121
+*   St. John's Bay Womens Long Sleeve Open Front Cardigan $16.49with code~$44~
+*   JCPenney Home Wallace Blackout Grommet-Top Single Curtain Panel $26.24 - $47.24with code~$50 - $90~234
+*   St. John's Bay Womens Mid Rise Straight Leg Jean $16.49 - $33with code2214
+*   JCPenney Home Leaf Bath Towel $3.74 - $5.24with code~$10 - $16~35
 *   a.n.a-Womens V Neck Short Sleeve T-Shirt $3.74with code~$13~18
-*   St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt $11.24with code~$30~2
 
 Shop and Save at JCPenney
 
