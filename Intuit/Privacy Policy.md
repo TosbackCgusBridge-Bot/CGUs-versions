@@ -1,11 +1,9 @@
-chatOur COVID-19 response  DetailsLast day! EXTRA 30% OFF $75+ with code: FRESH4 Details  
-EXTRA 25% OFF under $75 with code: FRESH4 Details  
-Last day for Doorbusters! UP TO 60% OFF! Shop All  
-Free Shipping Over $49  DetailsOur COVID-19 response  DetailsLast day! EXTRA 30% OFF $75+ with code: FRESH4 Details  
+chatOur COVID-19 response  DetailsFriends &. Family Sale! EXTRA 30% OFF w/ code: FRIENDS4 Shop All  
+Free Shipping Over $49  DetailsOur COVID-19 response  DetailsFriends &. Family Sale! EXTRA 30% OFF w/ code: FRIENDS4 Shop All  
 
 Enable Accessibility
 
-*   StoresNorth Point MallMore Stores2000 N Point Cir, Alpharetta, GA, 30022770-475-9850 Weekly Ads Engagement GuideValid Jan 24th - Sep 1st
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1st
     
     My Account
     
@@ -14,7 +12,7 @@ Enable Accessibility
     Sign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   School Essentials
 *   Home &. Lifestyle
@@ -27,36 +25,53 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Women's DealsMen's DealsKids' DealsHome DealsSave on our quality brands, exclusively at JCPenneyselect styles40% OFF St. John's Bay sweaters &. tops$21.99 St. John's Bay jeans$21.99 a.n.a jeansSave on a.n.a topsUP TO 40% OFF Cool-weather styles built to lastselect styles
-
-*   Shop Men
-
-*   Flannel Shirts
-    
-*   Shirts
-    
-*   Jeans
-    
-*   Hoodies &. Sweatshirts
-    
-
-Shop MenUP TO 40% OFFselect stylesShop AllBeddingWindowBathHomeWomenMenShoesJuniorsBaby &. KidsAvailable Now at Sephora inside JCPenneyExcluded from coupons.UP TO 15% OFF Color protection shampooselect styles40% OFF clothing  
-Baby &. Toddler Saleselect styles
+Look cute &. confident in a.n.a  
+Also in women's plus &. petites' sizes.  
+$39 EA. Jeansselect styles$7.99 EA. Tees select styles UP TO 50% OFF Work-from-anywhere styles for him select stylesStaffordJF J. Ferrar Perfect picks for fall!  UP TO 40% OFF Arizonaselect stylesJuniorsYoung MenGirlsBoys 
 
 *   Shop All
 
-Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 24 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+*   Women
+    
+*   Men
+    
+*   Boys
+    
+*   Girls
+    
 
-*   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
+Shop AllHomeWomenMenShoesJuniorsBaby &. KidsUP TO 30% OFF Home brands only at JCPenneyselect stylesLiz ClaiborneLinden StreetCooksJCPenney Home35-60% OFF Fine jewelry+ EXTRA 35% OFF\*with **JCPenney Credit Card**&. coupon or code: **3CARATS**select styles | Ends 10/4 \*Coupon &. details
+
+*   Shop All
+
+The brands you know &. loveUP TO 25% OFF Activewearselect styles | Excluded from coupons.adidasPumaChampionReebokRare Beauty by Selena GomezAvailable Now at Sephora inside JCPenneyExcluded from coupons.Shop Ouidad
+
+\*"Our Biggest Jewelry Sale of the Season" refers to the most items on sale for the longest duration 9/28/20-10/25/20 during the period from 5/11/20-10/25/20. a future sale of shorter duration may have more items on sale.
+
+Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 26 total items loaded in Media GalleryFollow @jcpenney Recommended for You
+
+*   Liz Claiborne Womens 3-pc. Capri Pajama Set Short Sleeve Round Neck $20.58with code~$42~
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
     
-    $49.98
+    $29.99sale
     
-    240
-*   St. John's Bay Womens Long Sleeve Open Front Cardigan $16.49with code~$44~
-*   JCPenney Home Wallace Blackout Grommet-Top Single Curtain Panel $26.24 - $47.24with code~$50 - $90~234
-*   St. John's Bay Womens Mid Rise Straight Leg Jean $16.49 - $33with code2214
-*   JCPenney Home Leaf Bath Towel $3.74 - $5.24with code~$10 - $16~35
-*   a.n.a-Womens V Neck Short Sleeve T-Shirt $3.74with code~$13~18
+    ~$85~5
+*   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745
+    
+    $24.99sale
+    
+    ~$36~1825
+*   JCPenney Home Mayer 10-pc. Jacquard Comforter Set $97.99 - $118.99with code~$260 - $300~36
+*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
+    
+    $4.99 - $40
+    
+    1256
+*   St. John's Bay Womens Mid Rise Straight Leg Jean
+    
+    $8.79 - $44
+    
+    2215
 
 Shop and Save at JCPenney
 
