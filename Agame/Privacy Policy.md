@@ -52,17 +52,17 @@ View more results
     All Action Best Games
     *   Subway Clash 3D
     *   Knights of Fortune
-    *   Combat Strike 2
     *   Stickman Archer 2
+    *   Combat Strike 2
     *   Super Buddy Kick
     *   Miami Crime Simulator 3D
     *   Stickman Fighter: Epic Battle
     *   Super Escape Masters
     *   Apple Shooter
     *   Warbanner
+    *   Sniper Reloaded
     *   Total Front
     *   Pixel Gun Apocalypse 3
-    *   Sniper Reloaded
     *   Shot Trigger
 *   Adventure
     
@@ -87,8 +87,8 @@ View more results
     *   Miami Crime Simulator 3D
     *   Super Escape Masters
     *   Build Craft
-    *   The Last Survivors: 2 Player Zombie Game
     *   Mine Clone 4
+    *   The Last Survivors: 2 Player Zombie Game
     *   Crowd City
     *   Bob the Robber 4: Season 2 Russia
     *   Trap Adventure 2
@@ -117,8 +117,8 @@ View more results
     *   Skydom
     *   Candy Riddles: Free Match 3 Puzzle
     *   Bubble Machine: 2 Player Game
-    *   Snail Bob 1
     *   Water Flow 3D
+    *   Snail Bob 1
     *   Sevenventure
     *   Pyramid Solitaire Duel
     *   Crystical: 2 Player Puzzle Game
@@ -144,12 +144,12 @@ View more results
     *   Cooking: Korean Lesson
     *   Coloring Bunny Book
     *   Mommy BFFs: Pregnant Check-Up
-    *   Pizza Real Life Cooking
-    *   Bad Teeth Makeover
     *   Foot Doctor
+    *   Bad Teeth Makeover
+    *   Pizza Real Life Cooking
     *   Blondie Wedding Prep: Dress Up Game
-    *   Beach Kiss
     *   Goldie: Lip Injections
+    *   Beach Kiss
     *   Love Tester 3
 *   Racing
     
@@ -173,8 +173,8 @@ View more results
     *   Xcross Madness
     *   Moto X3m 2
     *   Drag Racing Rivals
-    *   Moto X3M: Motorcycle Racing Game
     *   Drift Cars
+    *   Moto X3M: Motorcycle Racing Game
     *   Maximum Acceleration
     *   Cars 3D
     *   Moto X3m 3
@@ -197,8 +197,8 @@ View more results
     *   Road Crash
     *   Xcross Madness
     *   Drag Racing Rivals
-    *   Archery World Tour
     *   Moto X3m 3
+    *   Archery World Tour
     *   Basketball Stars 2019
     *   Stunt Skateboard 3D
     *   Penalty Shooters 2: Football Game
