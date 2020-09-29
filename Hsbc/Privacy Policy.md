@@ -497,37 +497,3 @@ Learn about online security Close Close online banking panel Share
 *   Facebook Share on Facebook Open in new window
 *   Facebook Messenger Share on Facebook Messenger Open in new window
 *   Whatsapp Share on WhatsApp Open in new window
-
-Cookies on this website
-
-We use cookies to help ensure that our website and services are able to function properly. These cookies are necessary and so are set automatically.
-
-We would also like to use some cookies to:
-
-*   Make your visit more personal
-*   Improve our website based on how you use it
-*   Support our advertising online and on social media
-
-These cookies are optional and you can choose which types you’d like to accept. To do this, select ‘Manage cookie settings’.
-
-If you’d like to accept all optional cookies, select ‘Accept all cookies’.
-
-To learn more about how we use cookies, visit our Cookie notice.
-
-Accept all cookies Manage cookie settings Cookies on this website
-
-We use cookies to help ensure that our website and services are able to function properly. These cookies are necessary and so are set automatically.
-
-We would also like to use some cookies to:
-
-*   Make your visit more personal
-*   Improve our website based on how you use it
-*   Support our advertising online and on social media
-
-These cookies are optional and you can choose which types you’d like to accept. To do this, select ‘Manage cookie settings’.
-
-If you’d like to accept all optional cookies, select ‘Accept all cookies’.
-
-To learn more about how we use cookies, visit our Cookie notice.
-
-Accept all cookiesManage cookie settings
