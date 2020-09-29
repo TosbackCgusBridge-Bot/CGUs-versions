@@ -9,10 +9,27 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Franco Sarto Up to 65% Off
+    *   Designer Shop Up to 70% Off
+    *   AllSaints Men's Apparel &. Shoes
+    *   AllSaints Accessories Starting at $15
+    *   Calvin Klein Handbags &. More
+    *   Jackets Up to 70% Off Incl. Plus
+    *   WFH Essentials Up to 70% Off Incl. Plus
+    *   Athena Swim
+    *   Men's Bugatchi Up to 70% Off
+    *   Trunk Show: Carriere Jewelry Up to 60% Off
+    *   Must-have Face Masks &. Moisturizers for Fall
+    *   Oh Baby: Finds Up to 60% Off
+    *   Men's Outerwear Up to 70% Off
+    *   Panty Packs ft. AQS
+    *   PJs All Day: Kids' Sleep ft. Leveret
+    *   The Active Shop: Men's Styles Starting at $15
     *   Final Call: Women's Sandals
     *   Men's Slip-Ons Up to 70% Off
     *   Totes Under $60
     *   The Active Shop: Leggings &. More Up to 75% Off
+    
     *   The Active Shop: Bras, Tanks &. Tees Starting at $20
     *   The Active Shop: Jackets &. More Starting at $25
     *   The Active Shop: Athleisure Apparel Up to 65% Off
@@ -31,9 +48,9 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Create Your Own Personalized Jewelry ft. Savvy Cie
     *   John Varvatos Star USA Up to 70% Off
     *   Virtual Date Night Ready: Styles Incl. Plus
-    
     *   Celebrate Fall: Plus Styles Starting at $20
     *   Donald Pliner Men Up to 70% Off
+    
     *   All Day Comfort: Wire-Free Bras Starting at $15
     *   Time to Get Organized- Up to 50% Off
     *   On-Trend Jewelry Finds Starting at $15
@@ -45,46 +62,34 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Sneaker Refresh: Kid's Styles Up to 60% Off
     *   Max Studio Up to 75% Off Incl. Plus
     *   Sweater Dresses Up to 70% Off
-    *   Statement Makeup Ft. Urban Decay
-    *   Eileen Fisher Up to 65% Off
-    *   Steve Madden Up to 60% Off
-    *   Steve Madden Men Up to 60% Off
     *   Calvin Klein Men Up to 60% Off
-    *   Boho Babe: Love Stitch &. More
-    *   Steve Madden Accessories Under $50
-    *   Pants Up to 70% Off Incl. Plus
-    *   Turtlenecks &. More Up to 70% Off Incl. Plus
-    
-    *   Staying-In Styles: Sleep &. Lounge
     *   Cozy Earth Bedding
-    *   Steve Madden Kids Up to 50% Off
-    *   Boys' Outerwear Up to 70% Off
-    *   Girls' Outwear Up to 70% Off
-    *   Fragrance Under $50
-    *   Cat-Eye &. Retro Sunglasses Up to 75% Off
     *   Mirenesse Makeup starting at $9.97
-    *   Thomas Pink Up to 60% Off
-    *   Men's Wear to Work Styles Up to 60% Off
-    *   Schutz Up to 60% Off
-    *   Men's Luxe Shoes Up to 60% Off
-    *   Kid's Active Styles Up to 60% Off
     *   Light Therapy Lamp- Plug it in &. Get Happy
+    *   Schutz Up to 60% Off
+    *   Sunglasses Up to 75% Off
     *   Men's Boots Up to 65% Off
     *   Free Shipping: Bath &. Beach Towels Up to 80% Off
     *   Fabulous Faux Fur Throws
-    *   Sunglasses Up to 75% Off
-    *   The Active Shop: Men's Styles Starting at $15
-    *   Fall Comfort Flats
-    *   Men's Outerwear Up to 70% Off
-    *   Born Men's Shoes
 *   WomenShop Sale Events
     
+    *   Franco Sarto Up to 65% Off
+    *   Designer Shop Up to 70% Off
+    *   AllSaints Accessories Starting at $15
+    *   Calvin Klein Handbags &. More
+    *   Jackets Up to 70% Off Incl. Plus
+    *   WFH Essentials Up to 70% Off Incl. Plus
+    *   Athena Swim
+    *   Trunk Show: Carriere Jewelry Up to 60% Off
+    *   Must-have Face Masks &. Moisturizers for Fall
+    *   Panty Packs ft. AQS
     *   Final Call: Women's Sandals
     *   Totes Under $60
     *   The Active Shop: Leggings &. More Up to 75% Off
     *   The Active Shop: Bras, Tanks &. Tees Starting at $20
     *   The Active Shop: Jackets &. More Starting at $25
     *   The Active Shop: Athleisure Apparel Up to 65% Off
+    
     *   The Active Shop: Women's Sneakers
     *   Fall Plaid &. More Up to 70% Off Incl. Plus
     *   Women's Styles Up to 75% Off Incl. Plus
@@ -96,76 +101,58 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   On-Trend Jewelry Finds Starting at $15
     *   Donald Pliner Up to 65% Off
     *   Fresh Finds: Heeled Booties
-    
     *   Max Studio Up to 75% Off Incl. Plus
     *   Sweater Dresses Up to 70% Off
-    *   Statement Makeup Ft. Urban Decay
-    *   Eileen Fisher Up to 65% Off
-    *   Steve Madden Up to 60% Off
-    *   Boho Babe: Love Stitch &. More
-    *   Steve Madden Accessories Under $50
-    *   Pants Up to 70% Off Incl. Plus
-    *   Turtlenecks &. More Up to 70% Off Incl. Plus
-    *   Staying-In Styles: Sleep &. Lounge
-    *   Fragrance Under $50
-    *   Cat-Eye &. Retro Sunglasses Up to 75% Off
     *   Mirenesse Makeup starting at $9.97
     *   Schutz Up to 60% Off
     *   Sunglasses Up to 75% Off
-    *   Fall Comfort Flats
     
     Shop By Category
     *   Clothing
     *   Shoes
-    *   Lingerie &. Shapewear
     *   Jewelry
-    *   Accessories
+    *   Lingerie &. Shapewear
     *   Handbags
-    *   Watches
+    *   Accessories
 *   MenShop Sale Events
     
+    *   AllSaints Men's Apparel &. Shoes
+    *   Men's Bugatchi Up to 70% Off
+    *   Men's Outerwear Up to 70% Off
+    *   The Active Shop: Men's Styles Starting at $15
     *   Men's Slip-Ons Up to 70% Off
     *   The Active Shop: Men's Running &. Training Sneakers
     *   The Active Shop: Men's Lifestyle Sneakers
     *   The Active Shop: Men's Golf Styles Up to 60% Off
+    
     *   The Active Shop: Men's Athleisure Starting at $20
     *   John Varvatos Star USA Up to 70% Off
     *   Donald Pliner Men Up to 70% Off
     *   Fresh Finds: Men's Shoes Up to 65% Off
     *   Tommy Hilfiger Men's Shoes Up to 60% Off
-    *   Steve Madden Men Up to 60% Off
-    
     *   Calvin Klein Men Up to 60% Off
-    *   Thomas Pink Up to 60% Off
-    *   Men's Wear to Work Styles Up to 60% Off
-    *   Men's Luxe Shoes Up to 60% Off
-    *   Men's Boots Up to 65% Off
     *   Sunglasses Up to 75% Off
-    *   The Active Shop: Men's Styles Starting at $15
-    *   Men's Outerwear Up to 70% Off
-    *   Born Men's Shoes
+    *   Men's Boots Up to 65% Off
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Oh Baby: Finds Up to 60% Off
+    *   PJs All Day: Kids' Sleep ft. Leveret
     *   The Active Shop: Girls' Styles Starting at $15
     *   The Active Shop: Boys' Active Styles Starting at $15
     *   Nordstrom Rack Exclusives ft. Harper Canyon
     *   Sneaker Refresh: Kid's Styles Up to 60% Off
-    *   Steve Madden Kids Up to 50% Off
-    *   Boys' Outerwear Up to 70% Off
-    *   Girls' Outwear Up to 70% Off
-    *   Kid's Active Styles Up to 60% Off
     
     Shop By Category
+    *   Baby
     *   Girls
+    *   Boys
     *   Girls' Shoes
     *   Boys' Shoes
-    *   Boys
-    *   Baby
 *   HomeShop Sale Events
     
     *   Free Shipping: Picnic Time Starting at $20
@@ -178,23 +165,22 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     Shop By Category
     *   Cleaning &. Organization
     *   Home Decor
-    *   Bath
     *   Kitchen &. Tabletop
-    *   Bedding
+    *   Bath
     *   Outdoor Living
+    *   Bedding
+    *   Luggage &. Travel
+    *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
-    *   Statement Makeup Ft. Urban Decay
-    *   Fragrance Under $50
+    *   Must-have Face Masks &. Moisturizers for Fall
     *   Mirenesse Makeup starting at $9.97
     
     Shop By Category
     *   Makeup
-    *   Fragrance
-    *   Men’s Grooming
+    *   Skin Care
     *   Tools &. Accessories
     *   Bath &. Body
-    *   Skin Care
     *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
