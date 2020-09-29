@@ -33,9 +33,9 @@ Lenovo Explore Close
         *   IdeaPad Slim 7
         *   New Arrivals
         
-        Sale
+        Semi-Annual Sale
         
-        Shop weekly deals on laptops for work, school gaming &. entertainment
+        Enjoy savings on laptops for you &. the whole family during this special savings event
         
     *   Desktops
         
@@ -66,9 +66,9 @@ Lenovo Explore Close
         *   M920 SFF
         *   New Arrivals
         
-        Sale
+        Semi-Annual Sale
         
-        Shop weekly savings on AIOs to Tiny's &. Towers, plus a special a special Nano offer up to 68% off
+        Get special savings on desktops during our semi-annual sale
         
     *   Workstations
         
@@ -95,9 +95,9 @@ Lenovo Explore Close
         *   ThinkStation P340 Tower
         *   ThinkStation P340 Tiny
         
-        Sale
+        Semi-Annual Sale
         
-        Enjoy weekly deals on Lenovo's selection of reliable &. powerful workstations
+        Shop &. save on our selection of powerful workstations that get the job done
         
     *   Tablets
         
@@ -120,9 +120,9 @@ Lenovo Explore Close
         *   Best Bargain
         *   Recommended Smart Product
         
-        Sale
+        Semi-Annual Sale
         
-        Enjoy weekly deals on smart devices &. tablets for the whole family
+        Shop deals on tablets &. smart devices for home or work
         
         Yoga Smart Tab
         
@@ -252,7 +252,7 @@ Lenovo Explore Close
         *   Higher Education
         *   K-12 Education
         *   Large Enterprise
-        *   Solutions Resources
+        *   All Solutions
         
         *   Best Sellers for Business
         *   Business Laptops
@@ -328,9 +328,9 @@ Lenovo Explore Close
         *   Outlet
         *   Lenovo Coupons
         
-        Sale
+        Save Now!
         
-        Shop weekly deals on laptops, desktops, monitors &. much more
+        Shop this special event today &. enjoy savings on laptops, desktops &. much more
         
 *   Phones
 *   Data Center
