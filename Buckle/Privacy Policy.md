@@ -1,14 +1,15 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Falling for New arrivals. shop now Due to circumstances outside of our control you could potentially see impacts to deliveries. For the most up-to-date store information check here.
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Friends that grew into family. ‌Places that became home. ‌That's what led us here. discover now Where cold-weather days meet effortless season essentials.shop new arrivals Due to circumstances outside of our control you could potentially see impacts to deliveries. For the most up-to-date store information check here.
 
 *   United States
 *   FIND A STORE
 *   800.607.9788
 
 *   For the most up-to-date store information check here.
-*   Falling for New arrivals. shop now
+*   Friends that grew into family. ‌Places that became home. ‌That's what led us here. discover now
+*   Where cold-weather days meet effortless season essentials.shop new arrivals
 *   Due to circumstances outside of our control you could potentially see impacts to deliveries.
 *   For the most up-to-date store information check here.
-*   Falling for New arrivals. shop now
+*   Friends that grew into family. ‌Places that became home. ‌That's what led us here. discover now
 
 *   Women
 *   Men
