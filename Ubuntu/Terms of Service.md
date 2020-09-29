@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical at OSM Hackfest MR#9
 *   Stepping Down Gracefully
 *   A ‘Connected’ Bank – The power of data and analytics
-*   Lenovo expand enterprise desktop range preinstalled with Ubuntu
