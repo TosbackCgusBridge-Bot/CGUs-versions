@@ -245,17 +245,17 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   Lessons from the ransomware death: Prioritize cyber emergency preparedness
-    *   Navigating through the mind of a 2020 hacker
-    *   All eyes on VA security measures after compromise of 46,000 accounts
-    *   Google rolls out new automated threat detection tool
+    *   Amid Iranian hacker crackdown, CISOs should prep for retaliation
     *   Twitter bug may have exposed API keys, access tokens
-    
-    *   Three strategies to defend remote workers from cyberattacks
+    *   Build security by expanding cyber awareness
+    *   FBI opens China-related counterintelligence case every 10 hours
     *   Canary in the coal mine: Estonia ambassador on creating a security culture post cyberwar
-    *   To improve DevSecOps, set application security priorities
-    *   Security teams struggle with ransomware, cloud services
-    *   Phishing attack targeted top financial pro at large company
+    
+    *   Lessons from the ransomware death: Prioritize cyber emergency preparedness
+    *   FBI opens China-related counterintelligence case every 10 hours
+    *   Former DoD CSO: The West must lead
+    *   It’s finally time to go passwordless
+    *   Three ways cloud security posture management helps security teams
     
     *   Twitter bug may have exposed API keys, access tokens
     *   Instagram flaw shows importance of managing third-party apps, images
