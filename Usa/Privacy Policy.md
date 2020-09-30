@@ -6,8 +6,6 @@ Change country/language X
 
 Autodesk logo
 
-*   0
-
 *   United States
     
     We have redirected you to an equivalent page on your local site where you can see local pricing and promotions and purchase online.
@@ -95,6 +93,7 @@ Autodesk logo
     *   Find a reseller
     *   Special offers
     *   Renewal options
+    *   Autodesk plans
     *   Options
     *   Subscriber benefits
     *   Educational institutions
@@ -241,7 +240,8 @@ Buying
 *   Download your software
 *   Returns &. refunds
 *   Renewal options
-*   Autodesk Financing
+*   Autodesk financing
+*   Autodesk plans
 
 Support &. Learning
 
