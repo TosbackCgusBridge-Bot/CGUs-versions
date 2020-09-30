@@ -23,7 +23,7 @@ Active
 
 Always Active
 
-Save SettingsAllow All Open navigation Bankrate
+Save SettingsAllow All <link rel="stylesheet" href="//assets.brstatic.com/css/brcom/rebrand-nav.css?id=1012d78c2377f8de516e">. Open navigation Bankrate
 
 *   BR Mortgages
 *   BR Banking
