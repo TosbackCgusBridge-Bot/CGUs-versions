@@ -31,8 +31,8 @@ View more results
     *   Harvest Honors
     *   Fireboy &. Watergirl 4: Crystal Temple
     *   Subway Clash 3D
-    *   Family Relics
     *   Fireboy &. Watergirl 3: The Ice Temple
+    *   Family Relics
     *   Knights of Fortune
     *   Ono Card Game
 *   Action
@@ -61,8 +61,8 @@ View more results
     *   Apple Shooter
     *   Warbanner
     *   Sniper Reloaded
-    *   Total Front
     *   Pixel Gun Apocalypse 3
+    *   Total Front
     *   Shot Trigger
 *   Adventure
     
@@ -148,9 +148,9 @@ View more results
     *   Bad Teeth Makeover
     *   Pizza Real Life Cooking
     *   Blondie Wedding Prep: Dress Up Game
-    *   Goldie: Lip Injections
-    *   Beach Kiss
     *   Love Tester 3
+    *   Beach Kiss
+    *   Goldie: Lip Injections
 *   Racing
     
     Top Categories
@@ -170,16 +170,16 @@ View more results
     *   Road Crash
     *   Hill Racing Challenge
     *   Madalin Cars Multiplayer
-    *   Xcross Madness
     *   Moto X3m 2
+    *   Xcross Madness
     *   Drag Racing Rivals
     *   Drift Cars
     *   Moto X3M: Motorcycle Racing Game
     *   Maximum Acceleration
     *   Cars 3D
     *   Moto X3m 3
-    *   City Car Stunts 2
     *   Murder
+    *   City Car Stunts 2
 *   Sports
     
     Top Categories
