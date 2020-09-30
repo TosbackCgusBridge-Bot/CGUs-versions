@@ -383,7 +383,7 @@ The future is on your ballot.
 
 LEARN MORE SHOP ROCK THE VOTE Learn More Shop Rock The Vote
 
-Early Acces: Online Only! In Store Next Week.
+In Stores &. Online!
 
 Fall Sale
 
