@@ -52,7 +52,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   2020 Toronto International Film Festival Preview Read More
-    *   What to Watch on FandangoNOW: ‘The Grizzlies,’ ’Antebellum,’ Pro Football Movies and More Read More
+    *   What to Watch on FandangoNOW: ‘John Lewis: Good Trouble,’ ‘The Comey Rule,’ ‘2067’ and More Read More
     *   This Week in Movie News: Ryan Gosling to Play a Stuntman Again, Tiffany Haddish Meets Nicolas Cage and More Read More
     
     Explore Content
