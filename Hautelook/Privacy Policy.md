@@ -110,10 +110,11 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     Shop By Category
     *   Clothing
     *   Shoes
+    *   Handbags
     *   Jewelry
     *   Lingerie &. Shapewear
-    *   Handbags
     *   Accessories
+    *   Watches
 *   MenShop Sale Events
     
     *   AllSaints Men's Apparel &. Shoes
@@ -138,6 +139,7 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Clothing
     *   Shoes
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
     *   Oh Baby: Finds Up to 60% Off
@@ -148,8 +150,8 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Sneaker Refresh: Kid's Styles Up to 60% Off
     
     Shop By Category
-    *   Baby
     *   Girls
+    *   Baby
     *   Boys
     *   Girls' Shoes
     *   Boys' Shoes
@@ -163,14 +165,13 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Fabulous Faux Fur Throws
     
     Shop By Category
-    *   Cleaning &. Organization
     *   Home Decor
+    *   Cleaning &. Organization
     *   Kitchen &. Tabletop
-    *   Bath
-    *   Outdoor Living
     *   Bedding
-    *   Luggage &. Travel
+    *   Outdoor Living
     *   Electronic &. Tech Accessories
+    *   Luggage &. Travel
 *   BeautyShop Sale Events
     
     *   Must-have Face Masks &. Moisturizers for Fall
@@ -179,9 +180,7 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     Shop By Category
     *   Makeup
     *   Skin Care
-    *   Tools &. Accessories
     *   Bath &. Body
-    *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
