@@ -93,6 +93,7 @@ Autodesk logo
     *   Find a reseller
     *   Special offers
     *   Renewal options
+    *   Autodesk plans
     *   Options
     *   Subscriber benefits
     *   Educational institutions
@@ -409,7 +410,8 @@ Buying
 *   Download your software
 *   Returns &. refunds
 *   Renewal options
-*   Autodesk Financing
+*   Autodesk financing
+*   Autodesk plans
 
 Support &. Learning
 
@@ -470,7 +472,8 @@ Buying
 *   Download your software
 *   Returns &. refunds
 *   Renewal options
-*   Autodesk Financing
+*   Autodesk financing
+*   Autodesk plans
 
 Support &. Learning
 
@@ -531,7 +534,8 @@ Buying
 *   Download your software
 *   Returns &. refunds
 *   Renewal options
-*   Autodesk Financing
+*   Autodesk financing
+*   Autodesk plans
 
 Support &. Learning
 
