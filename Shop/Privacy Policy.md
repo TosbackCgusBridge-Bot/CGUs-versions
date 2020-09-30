@@ -321,7 +321,6 @@ Lenovo Explore Close
         *   Clearance
         
         *   Additional Offers
-        *   Flex 5G - 2X Rewards!
         *   ThinkCentre M90n save 68%
         *   Discount Programs
         *   Trade In
