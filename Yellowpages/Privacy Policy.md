@@ -36,7 +36,6 @@ Skip Navigation
         *   Environment
         *   Society
         *   Governance
-        *   Workforce
         *   AT&T Believes℠
         *   WarnerMedia CSR
         *   AT&T Mexico CSR
