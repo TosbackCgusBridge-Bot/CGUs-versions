@@ -44,34 +44,22 @@ Shop AllHomeWomenMenShoesJuniorsBaby &. KidsUP TO 30% OFF Home brands only at JC
 
 *   Shop All
 
-The brands you know &. loveUP TO 25% OFF Activewearselect styles | Excluded from coupons.adidasPumaChampionReebokRare Beauty by Selena GomezAvailable Now at Sephora inside JCPenneyExcluded from coupons.Shop Ouidad
+The brands you know &. loveUP TO 25% OFF Activewearselect styles | Excluded from coupons.adidasChampionRare Beauty by Selena GomezAvailable Now at Sephora inside JCPenneyExcluded from coupons.Shop Ouidad
 
 \*"Our Biggest Jewelry Sale of the Season" refers to the most items on sale for the longest duration 9/28/20-10/25/20 during the period from 5/11/20-10/25/20. a future sale of shorter duration may have more items on sale.
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 26 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   Liz Claiborne Womens 3-pc. Capri Pajama Set Short Sleeve Round Neck $20.58with code~$42~
-*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
-    
-    $29.99sale
-    
-    ~$85~5
-*   Playtex 18 Hour Ultimate Lift &. Support Wireless Full Coverage Bra-4745
+*   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693
     
     $24.99sale
     
-    ~$36~1825
-*   JCPenney Home Mayer 10-pc. Jacquard Comforter Set $97.99 - $118.99with code~$260 - $300~36
-*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
-    
-    $4.99 - $40
-    
-    1256
-*   St. John's Bay Womens Mid Rise Straight Leg Jean
-    
-    $8.79 - $44
-    
-    2215
+    ~$36~5660
+*   Worthington Womens Long Sleeve Cardigan $17.49with code~$44~1
+*   St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt $12.59with code~$30~2
+*   St. John's Bay Womens Long Sleeve Open Front Cardigan $17.49with code~$44~
+*   Liz Claiborne Womens 3-pc. Capri Pajama Set Short Sleeve Round Neck $20.58with code~$42~
+*   St. John's Bay-Womens Crew Neck Long Sleeve T-Shirt $11.90with code
 
 Shop and Save at JCPenney
 
