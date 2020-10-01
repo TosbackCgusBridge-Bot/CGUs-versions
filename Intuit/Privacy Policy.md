@@ -1,5 +1,7 @@
 chatOur COVID-19 response  DetailsFriends &. Family Sale! EXTRA 30% OFF w/ code: FRIENDS4 Shop All  
-Free Shipping Over $49  DetailsOur COVID-19 response  DetailsFriends &. Family Sale! EXTRA 30% OFF w/ code: FRIENDS4 Shop All  
+Free Shipping Over $49  DetailsContact-free curbside pickup Learn More  
+2-hour buy online pickup &. go Get Details  
+Our COVID-19 response  DetailsFriends &. Family Sale! EXTRA 30% OFF w/ code: FRIENDS4 Shop All  
 
 Enable Accessibility
 
@@ -25,9 +27,7 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Look cute &. confident in a.n.a  
-Also in women's plus &. petites' sizes.  
-$39 EA. Jeansselect styles$7.99 EA. Tees select styles UP TO 50% OFF Work-from-anywhere styles for him select stylesStaffordJF J. Ferrar Perfect picks for fall!  UP TO 40% OFF Arizonaselect stylesJuniorsYoung MenGirlsBoys 
+Perfect picks for fall!  UP TO 40% OFF Arizonaselect stylesJuniorsYoung MenGirlsBoys 
 
 *   Shop All
 
@@ -44,7 +44,9 @@ Shop AllHomeWomenMenShoesJuniorsBaby &. KidsUP TO 30% OFF Home brands only at JC
 
 *   Shop All
 
-The brands you know &. loveUP TO 25% OFF Activewearselect styles | Excluded from coupons.adidasChampionRare Beauty by Selena GomezAvailable Now at Sephora inside JCPenneyExcluded from coupons.Shop Ouidad
+Look cute &. confident in a.n.a  
+Also in women's plus &. petites' sizes.  
+$39 EA. Jeansselect styles$7.99 EA. Tees select styles UP TO 50% OFF Work-from-anywhere styles for him select stylesStaffordJF J. Ferrar The brands you know &. loveUP TO 25% OFF Activewearselect styles | Excluded from coupons.adidasChampionRare Beauty by Selena GomezAvailable Now at Sephora inside JCPenneyExcluded from coupons.Shop Ouidad
 
 \*"Our Biggest Jewelry Sale of the Season" refers to the most items on sale for the longest duration 9/28/20-10/25/20 during the period from 5/11/20-10/25/20. a future sale of shorter duration may have more items on sale.
 
@@ -55,11 +57,23 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 26 total items loaded
     $24.99sale
     
     ~$36~5660
-*   Worthington Womens Long Sleeve Cardigan $17.49with code~$44~1
-*   St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt $12.59with code~$30~2
-*   St. John's Bay Womens Long Sleeve Open Front Cardigan $17.49with code~$44~
-*   Liz Claiborne Womens 3-pc. Capri Pajama Set Short Sleeve Round Neck $20.58with code~$42~
-*   St. John's Bay-Womens Crew Neck Long Sleeve T-Shirt $11.90with code
+*   Home Expressions Tiles Complete Bedding Set with Sheets $41.99 - $62.99with code~$110 - $170~344
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
+    
+    $29.99sale
+    
+    ~$85~6
+*   LIMITED TIME SPECIAL! 2.5 CT.T.W. Lab-Created White Sapphire Stud Earrings in Sterling Silver
+    
+    $10sale
+    
+    ~$49.98~240
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+    
+    $25sale
+    
+    ~$124.98~151
+*   JCPenney Home Mayer 10-pc. Jacquard Comforter Set $97.99 - $118.99with code~$260 - $300~37
 
 Shop and Save at JCPenney
 
