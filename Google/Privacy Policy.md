@@ -10,7 +10,7 @@ Quer mudar suas configurações de privacidade?
 
 Faça o Check-up de privacidade
 
-Em vigor a partir de 28 de agosto de 2020 | Versões arquivadas | Fazer o download do PDFÍndiceIntroduçãoInformações coletadas pelo GooglePor que o Google coleta dadosSeus controles de privacidadeCompartilhamento de informaçõesManter suas informações segurasExportar e excluir informaçõesRetenção das suas informaçõesCompliance e cooperação com regulamentadoresSobre esta políticaPráticas de privacidade relacionadas
+Em vigor a partir de 30 de setembro de 2020 | Versões arquivadas | Fazer o download do PDFÍndiceIntroduçãoInformações coletadas pelo GooglePor que o Google coleta dadosSeus controles de privacidadeCompartilhamento de informaçõesManter suas informações segurasExportar e excluir informaçõesRetenção das suas informaçõesCompliance e cooperação com regulamentadoresSobre esta políticaPráticas de privacidade relacionadas
 
 Criamos uma gama de serviços que ajudam diariamente milhões de pessoas a descobrir e interagir com o mundo de novas maneiras. Nossos serviços incluem:
 
@@ -169,12 +169,6 @@ Escolha se seu nome e sua foto devem aparecer ao lado de atividades, como avalia
 
 Ir para Recomendações compartilhadas
 
-Informações que o usuário compartilha
-
-Se você é um usuário do G Suite, controle com quem compartilha informações pela conta do Google+.
-
-Ir para Informações que você compartilha
-
 Modos de avaliar e atualizar suas informaçõesMinha atividade
 
 Minha atividade permite que você avalie e controle os dados criados quando usa os serviços do Google, como pesquisas realizadas ou visitas ao Google Play. Você pode procurar por data e tópico e excluir todas as atividades ou parte delas.
@@ -239,7 +233,7 @@ Compartilharemos informações pessoais fora do Google quando tivermos seu conse
 
 Com administradores de domínios
 
-Se você estuda ou trabalha em uma organização que usa os serviços do Google (como o G Suite), o administrador do domínio e os revendedores que gerenciam a conta terão acesso à sua Conta do Google. É provável que eles possam:
+Se você estuda ou trabalha em uma organização que usa os Serviços do Google, seu administrador do domínio e os revendedores que gerenciam a conta terão acesso à sua Conta do Google. É provável que eles possam:
 
 *   acessar e manter informações armazenadas na sua conta, como seu e-mail;
 *   visualizar estatísticas da sua conta, como quantos apps você instalou;
@@ -314,7 +308,7 @@ Revisamos regularmente esta Política de Privacidade e nos certificamos de que p
 
 Transferências de dados
 
-Temos servidores em todo o mundo e suas informações podem ser processadas em servidores localizados fora do país em que você vive. As leis de proteção de dados variam de acordo com o país, sendo que algumas oferecem mais proteção que outras. Independentemente do local onde suas informações são processadas, aplicamos as mesmas proteções descritas nesta política. Também atuamos em conformidade com determinadas estruturas legais relacionadas à transferência de dados, como as estruturas do EU-U.S. e Swiss-U.S. Privacy Shield (Escudo de Proteção da Privacidade entre os Estados Unidos e a União Europeia e entre os Estados Unidos e a Suíça).
+Temos servidores em todo o mundo, e suas informações podem ser processadas em servidores localizados fora do país em que você vive. As leis de proteção de dados variam dependendo do país, sendo que algumas oferecem mais proteção que outras. Independentemente do local onde suas informações são processadas, aplicamos as mesmas proteções descritas nesta política. Também atuamos em conformidade com determinadas estruturas legais relacionadas à transferência de dados.
 
 Quando recebemos reclamações formais por escrito, respondemos entrando em contato com o requerente. Trabalhamos com as autoridades reguladoras apropriadas, inclusive autoridades locais de proteção de dados, para resolver quaisquer reclamações referentes à transferência de dados que não possamos resolver diretamente com você.
 
