@@ -127,7 +127,7 @@ Play video: Let the Ritual Begin With "The Craft: Legacy" Close video: Let the R
 
 All aboard Call of Duty: Modern Warfare and Warzone Season Six. Earn and equip 100 new items from weapons to operators with the new Battle Pass. Live today:  http://play.st/3kZ4tkz  pic.twitter.com/IK5AgAZCQk
 
-13 hours ago View Tweet Instagram Post CEmFeVeBDfq
+1 day ago View Tweet Instagram Post CEmFeVeBDfq
 
 The Power You Need
 
