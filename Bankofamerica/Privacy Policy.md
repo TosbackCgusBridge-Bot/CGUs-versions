@@ -96,13 +96,12 @@ and resolve
 fraud events  
 fasterTogether, we can  
 identify and resolve  
-fraud events fasterTogether, we can  
-identify and resolve  
 fraud events fasterTrending topic
 
-See why you should never share your access codes – with anyone.
+See how to maintain security in the age of connected devices
 
-Read more about this topicYour security is our top priorityKnow fraud when you see it
+Read more about this topic See how to maintain security in the age of connected devicesTrending topicRead more about  
+Cybersecurity awarness layerYour security is our top priorityKnow fraud when you see it
 
 Knowledge is a powerful defense against fraud.  
 See how to identify fraud  
