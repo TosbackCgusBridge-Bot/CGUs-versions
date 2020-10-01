@@ -137,7 +137,7 @@ If you need any help with your account please email support@asw.com
 
 Forgot Login Details?
 
-If you are registered with ASMALLWORLD, please enter your email address below and we will send you your login credentials.
+If you are registered with ASMALLWORLD, please enter your username or email address below and we will send you your login credentials.
 
 Email Address The email address that you have provided does not match any in our database. Please try a different address or contact support@asmallworld.net.
 
