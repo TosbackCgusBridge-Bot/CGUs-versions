@@ -10,7 +10,7 @@ Wil je je privacyinstellingen wijzigen?
 
 Voer de Privacycheck uit
 
-Datum van inwerkingtreding 28 augustus 2020 | Gearchiveerde versies | Pdf downloadenInhoudsopgaveInleidingGegevens die Google verzameltWaarom Google gegevens verzameltUw privacyoptiesUw gegevens delenUw gegevens veilig houdenUw gegevens exporteren en verwijderenJe gegevens bewarenNaleving en samenwerking met regelgevende instantiesOver dit beleidGerelateerde privacyprocedures
+Datum van inwerkingtreding 30 september 2020 | Gearchiveerde versies | Pdf downloadenInhoudsopgaveInleidingGegevens die Google verzameltWaarom Google gegevens verzameltUw privacyoptiesUw gegevens delenUw gegevens veilig houdenUw gegevens exporteren en verwijderenJe gegevens bewarenNaleving en samenwerking met regelgevende instantiesOver dit beleidGerelateerde privacyprocedures
 
 We bouwen een reeks services waarmee miljoenen mensen dagelijks de wereld op nieuwe manieren kunnen verkennen en er interactie mee kunnen hebben. Onze services bestaan onder meer uit:
 
@@ -169,12 +169,6 @@ Kies of uw naam en foto worden weergegeven naast uw activiteiten, zoals recensie
 
 Naar 'Aanbevelingen uit uw kringen'
 
-Gegevens die u deelt
-
-Als je G Suite gebruikt, kun je beheren met wie je gegevens deelt via je account op Google+.
-
-Naar 'Gegevens die u deelt'
-
 Manieren om gegevens te bekijken en te updatenMijn activiteit
 
 Met 'Mijn activiteit' kunt u gegevens bekijken en controleren die worden gemaakt wanneer u Google-services gebruikt, zoals zoekopdrachten die u heeft uitgevoerd of uw bezoeken aan Google Play. U kunt browsen op datum en op onderwerp en uw activiteiten gedeeltelijk of volledig verwijderen.
@@ -239,7 +233,7 @@ We delen persoonlijke informatie buiten Google als we uw toestemming hebben. Als
 
 Met domeinbeheerders
 
-Als u student bent of werkt voor een organisatie die gebruikmaakt van Google-services (zoals G Suite), hebben uw domeinbeheerder en resellers die uw account beheren toegang tot uw Google-account. Ze kunnen mogelijk het volgende doen:
+Als u student bent of werkt voor een organisatie die gebruikmaakt van Google-services, hebben uw domeinbeheerder en resellers die uw account beheren toegang tot uw Google-account. Ze kunnen mogelijk het volgende doen:
 
 *   Informatie bekijken en bewaren die is opgeslagen in uw account, zoals uw e-mail.
 *   Statistieken over uw account bekijken, zoals bijvoorbeeld hoeveel apps u installeert.
@@ -314,7 +308,7 @@ We evalueren dit privacybeleid regelmatig en zorgen ervoor dat we uw gegevens ve
 
 Gegevensdoorgiften
 
-We hebben servers over de hele wereld en uw informatie kan worden verwerkt op servers die zich bevinden buiten het land waar u woont. Gegevensbeschermingswetgeving verschilt per land en sommige landen bieden meer bescherming dan andere. Ongeacht waar uw informatie wordt verwerkt, passen we dezelfde bescherming toe zoals beschreven in dit beleid. We voldoen ook aan bepaalde juridische kaders die verband houden met de overdracht van gegevens, zoals het EU-U.S. Privacy Shield (EU-VS privacyschild) en het Swiss-U.S. Privacy Shield (Zwitserland-VS privacyschild).
+We hebben servers over de hele wereld en uw informatie kan worden verwerkt op servers die zich bevinden buiten het land waar u woont. Gegevensbeschermingswetgeving verschilt per land en sommige landen bieden meer bescherming dan andere. Ongeacht waar uw informatie wordt verwerkt, passen we dezelfde bescherming toe zoals beschreven in dit beleid. We voldoen ook aan bepaalde juridische kaders die verband houden met de doorgifte van gegevens.
 
 Wanneer we formele schriftelijke klachten ontvangen, reageren we door contact op te nemen met de persoon die de klacht heeft ingediend. We werken samen met de betreffende regelgevende instanties, waaronder lokale autoriteiten voor gegevensbescherming, om klachten over de overdracht van uw gegevens te verhelpen die we niet rechtstreeks met u kunnen oplossen.
 
