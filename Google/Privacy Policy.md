@@ -10,7 +10,7 @@ Vous souhaitez modifier vos paramètres de confidentialité ?
 
 Faire un Check-up Confidentialité
 
-À compter du 28 août 2020 | Versions archivées | Télécharger au format PDFSommaireIntroductionInformations collectées par GoogleRaisons pour lesquelles nous collectons des informationsVos paramètres de confidentialitéPartager vos informationsSécuriser vos informationsExporter et supprimer vos informationsConservation de vos informationsConformité et coopération avec des organismes de réglementationÀ propos des présentes règlesPratiques similaires en matière de confidentialité
+À compter du 30 septembre 2020 | Versions archivées | Télécharger au format PDFSommaireIntroductionInformations collectées par GoogleRaisons pour lesquelles nous collectons des informationsVos paramètres de confidentialitéPartager vos informationsSécuriser vos informationsExporter et supprimer vos informationsConservation de vos informationsConformité et coopération avec des organismes de réglementationÀ propos des présentes règlesPratiques similaires en matière de confidentialité
 
 Notre gamme de services permet tous les jours à des millions de personnes d'explorer le monde et d'interagir avec celui-ci de manière innovante. Voici certains des services que nous proposons :
 
@@ -169,12 +169,6 @@ Déterminez si votre nom et votre photo doivent apparaître à côté de votre a
 
 Accédez aux recommandations partagées
 
-Données que vous partagez
-
-Si vous comptez parmi les utilisateurs de G Suite, contrôlez avec quelles personnes partager vos informations dans votre compte Google+.
-
-Accéder à la section "Données que vous partagez"
-
 Vérifier et mettre à jour vos informationsMon activité
 
 "Mon activité" vous permet de vérifier et de contrôler les données créées lorsque vous utilisez les services Google, comme les recherches que vous avez effectuées ou vos accès à Google Play. Vous pouvez parcourir cette page par date et par thème, ainsi que supprimer une partie ou la totalité de votre activité.
@@ -239,7 +233,7 @@ Nous ne communiquons vos informations personnelles à des tiers qu'avec votre co
 
 Avec des administrateurs de domaines
 
-Si vous êtes étudiant ou que vous travaillez pour une organisation qui a recours aux services Google (G Suite, par exemple), l'administrateur de domaine et les revendeurs qui gèrent votre compte ont accès à votre compte Google. Ils peuvent effectuer les opérations suivantes :
+Si vous êtes étudiant ou que vous travaillez pour une organisation qui a recours aux services Google, l'administrateur de domaine et les revendeurs qui gèrent votre compte ont accès à votre compte Google. Ils peuvent effectuer les opérations suivantes :
 
 *   Accéder aux informations stockées dans votre compte, telles que votre adresse e-mail, et les conserver
 *   Consulter les statistiques relatives à votre compte, telles que le nombre d'applications que vous installez
@@ -314,7 +308,7 @@ Nous révisons régulièrement les présentes Règles de confidentialité et nou
 
 Transferts de données
 
-Nous disposons de serveurs aux quatre coins du monde. Il est donc possible que vos informations soient traitées par des serveurs situés en dehors de votre pays de résidence. Les lois sur la protection des données varient en fonction des pays. Dans certains pays, les données sont mieux protégées que dans d'autres. Quel que soit l'endroit où vos informations sont traitées, nous appliquons les mêmes protections, qui sont décrites dans les présentes règles. Nous nous conformons également à certains cadres légaux en lien avec le transfert de données, tels que les EU-U.S. et Swiss-U.S. Privacy Shield Frameworks.
+Nous disposons de serveurs aux quatre coins du monde. Il est donc possible que vos informations soient traitées par des serveurs situés en dehors de votre pays de résidence. Les lois sur la protection des données varient en fonction des pays. Dans certains pays, les données sont mieux protégées que dans d'autres. Quel que soit l'endroit où vos informations sont traitées, nous appliquons les mêmes protections, qui sont décrites dans les présentes règles. Nous nous conformons également à certains cadres légaux en lien avec le transfert de données.
 
 Lorsque nous recevons une réclamation écrite officielle, nous y répondons en prenant contact avec l'utilisateur qui l'a formulée. Nous coopérons avec les autorités compétentes, y compris les autorités locales chargées de la protection des données, pour résoudre tout litige concernant le transfert de vos données que nous ne pouvons pas régler directement avec vous.
 
