@@ -10,7 +10,7 @@ Sie möchten Ihre Datenschutzeinstellungen ändern?
 
 Privatsphärecheck machen
 
-Wirksam ab dem 28. August 2020 | Archivierte Versionen | PDF herunterladenInhaltEinführungVon Google erhobene DatenGründe für die Datenerhebung durch GoogleDatenschutzeinstellungenDatenweitergabeGewährleistung der DatensicherheitLöschen und Exportieren Ihrer DatenAufbewahrung Ihrer InformationenCompliance und Zusammenarbeit mit RegierungsbehördenInformationen über diese DatenschutzerklärungWeitere Informationen zum Datenschutz
+Wirksam ab dem 30. September 2020 | Archivierte Versionen | PDF herunterladenInhaltEinführungVon Google erhobene DatenGründe für die Datenerhebung durch GoogleDatenschutzeinstellungenDatenweitergabeGewährleistung der DatensicherheitLöschen und Exportieren Ihrer DatenAufbewahrung Ihrer InformationenCompliance und Zusammenarbeit mit RegierungsbehördenInformationen über diese DatenschutzerklärungWeitere Informationen zum Datenschutz
 
 Wir entwickeln eine Vielzahl von Diensten, die Millionen von Menschen Tag für Tag helfen, die Welt ganz neu zu entdecken und mit ihr zu interagieren. Zu unseren Diensten zählen:
 
@@ -169,12 +169,6 @@ Hier können Sie auswählen, ob Ihr Name und Ihr Foto neben Ihren Aktivitäten w
 
 Zu "Soziale Empfehlungen"
 
-Informationen, die Sie anderen mitteilen
-
-Wenn Sie die G Suite nutzen, können Sie in Ihrem Konto festlegen, mit wem Sie Daten auf Google+ teilen.
-
-Zu den von Ihnen freigegebenen Daten
-
 Möglichkeiten zur Überprüfung und Aktualisierung Ihrer DatenMeine Aktivitäten
 
 In "Meine Aktivitäten" können Sie überprüfen und festlegen, welche Daten bei der Verwendung von Google-Diensten erstellt werden, wie etwa vergangene Suchanfragen oder Besuche auf Google Play. Sie können sich die Inhalte nach Datum und Thema sortiert ansehen und Teile Ihrer Aktivitäten oder alle löschen.
@@ -239,7 +233,7 @@ Wir geben personenbezogene Daten außerhalb von Google weiter, wenn wir Ihre Ein
 
 Im Falle von Domain-Administratoren
 
-Wenn Sie Mitglied einer Bildungseinrichtung oder Mitarbeiter einer Organisation sind, die Google-Dienste nutzt, wie etwa die G Suite, haben der Domainadministrator und Reseller, die Ihr Konto verwalten, Zugriff auf Ihr Google-Konto. Diese haben folgende Möglichkeiten:
+Wenn Sie Mitglied einer Bildungseinrichtung oder Mitarbeiter einer Organisation sind, die Google-Dienste nutzt, haben der Domainadministrator und Reseller, die Ihr Konto verwalten, Zugriff auf Ihr Google-Konto. Diese haben folgende Möglichkeiten:
 
 *   Auf die in Ihrem Konto gespeicherten Daten zugreifen und diese speichern, z. B. Ihre E-Mail
 *   Statistiken zu Ihrem Konto ansehen, z. B. wie viele Apps Sie installieren
@@ -314,7 +308,7 @@ Wir überprüfen die vorliegende Datenschutzerklärung regelmäßig und verarbei
 
 Datenübermittlung
 
-Wir betreiben Server auf der ganzen Welt. Deshalb können Ihre Daten auf Servern verarbeitet werden, die außerhalb des Landes liegen, in dem Sie leben. Datenschutzgesetze sind von Land zu Land unterschiedlich und einige bieten mehr Schutz als andere. Unabhängig davon, wo Ihre Daten verarbeitet werden, wenden wir grundsätzlich dieselben, in der Datenschutzerklärung beschriebenen Schutzmaßnahmen an. Ferner halten wir bestimmte rechtliche Rahmenbedingungen zu Datenübermittlungen ein, beispielsweise die Privacy Shield-Abkommen EU-U.S. Privacy Shield (EU-U.S.-Datenschutzschild) und Swiss-U.S. Privacy Shield (CH-U.S.-Datenschutzschild).
+Wir betreiben Server auf der ganzen Welt. Deshalb können Ihre Daten auf Servern verarbeitet werden, die außerhalb des Landes liegen, in dem Sie leben. Datenschutzgesetze sind von Land zu Land unterschiedlich und einige bieten mehr Schutz als andere. Unabhängig davon, wo Ihre Daten verarbeitet werden, wenden wir grundsätzlich dieselben, in der Datenschutzerklärung beschriebenen Schutzmaßnahmen an. Ferner halten wir bestimmte rechtliche Rahmenbedingungen zu Datenübermittlungen ein.
 
 Sobald wir formale schriftliche Beschwerden erhalten, nehmen wir mit der Person, die die Beschwerde eingereicht hat, Kontakt auf. Wir arbeiten mit den jeweils zuständigen Regulierungsbehörden einschließlich der lokalen Datenschutzaufsichtsbehörden zusammen, um alle Beschwerden bezüglich der Übermittlung Ihrer Daten beizulegen, die wir nicht direkt mit Ihnen klären können.
 
