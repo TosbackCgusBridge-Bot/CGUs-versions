@@ -389,7 +389,7 @@ click here Important Info Important Info
 
 \[6\] Ratings achieved using premium unleaded gasoline with an octane rating of 91 or higher. If premium fuel is not used, performance will decrease.
 
-\[7\] UXAWDSPEED
+\[7\] UX AWD system operates at speeds up to 43 mph.
 
 \[8\] EPA-estimated 41city/38hwy/39comb MPG for 2020 Lexus UX 250h AWD. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 
