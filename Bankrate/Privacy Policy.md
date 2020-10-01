@@ -58,26 +58,26 @@ Main Menu BR Mortgages Mortgages overview
 *   VA refinance rates
 *   Jumbo refinance rates
 
-*   Use calculators
+*   Calculate and get advice
 *   Mortgage calculator
 *   Mortgage refinance calculator
 *   How much house can you afford?
 *   Amortization calculator
 *   Mortgage payment calculator
-*   Interest only mortgage calculator
-*   Mortgage tax deduction calculator
-*   Loan to value calculator
 *   All mortgage calculators
-
-*   Learn &. get advice
-*   Understanding current interest rates
 *   Where rates are trending
-*   How to get the best mortgage rate
-*   APR vs. Interest rate
-*   First time homebuyer loans and programs
+*   Understanding current interest rates
 *   When to pay off your mortgage early
-*   How to refinance your mortgage
-*   Mortgage lender reviews
+
+*   Lender Reviews
+*   Amerisave Mortgage Corporation
+*   Wells Fargo Home Mortgage
+*   Better Mortgage
+*   Quicken Loans Mortgage
+*   Loandepot Mortgage
+*   Citi Bank Mortgage
+*   Sebonic Financial Mortgage
+*   All mortgage lender reviews
 
 Elevate your Bankrate experience
 
