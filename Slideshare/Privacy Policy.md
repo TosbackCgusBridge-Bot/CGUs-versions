@@ -16,7 +16,7 @@ Submit Search
 *   **Home**
 *   **Explore**
 
-Scribd will begin operating the SlideShare business on September 24, 2020 As of this date, Scribd will manage your SlideShare account and any content you may have on SlideShare, and Scribd's General Terms of Use and Privacy Policy will apply. If you wish to opt out, please close your SlideShare account. Learn more.
+**Scribd will begin operating the SlideShare business on December 1, 2020** As of this date, Scribd will manage your SlideShare account and any content you may have on SlideShare, and Scribd's General Terms of Use and Privacy Policy will apply. If you wish to opt out, please close your SlideShare account. Learn more.
 
 × × × × × × Privacy Policy  
 
