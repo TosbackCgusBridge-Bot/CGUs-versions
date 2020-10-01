@@ -49,7 +49,7 @@ Lenovo Explore Close
         *   Gaming Desktops
         *   Tiny Desktops
         *   All In Ones
-        *   View All Desktops
+        *   Towers
         *   Filter Desktops by Specs
         
         *   By Brand
@@ -63,7 +63,7 @@ Lenovo Explore Close
         *   M720 Tiny
         *   IdeaCentre AIO 3i 24”
         *   A540 27 inch AIO
-        *   M920 SFF
+        *   M920 Tiny
         *   New Arrivals
         
         Semi-Annual Sale
@@ -153,7 +153,7 @@ Lenovo Explore Close
         
         *   Software
         *   MS Office
-        *   Video Games
+        *   PC Games
         *   Security &. Antivirus
         *   Explore Software at Lenovo
         *   Lenovo Vantage
@@ -211,7 +211,7 @@ Lenovo Explore Close
         *   Accessories
         *   Monitors
         *   Headsets &. Headphones
-        *   Video Games
+        *   PC Games
         
         *   By Brand
         *   Legion
