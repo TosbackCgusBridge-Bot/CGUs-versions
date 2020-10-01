@@ -59,6 +59,7 @@ Search
     
     *   Benchmarking
     *   Cost Optimization
+    *   Gartner Business Quarterly
     *   Strategic Planning
     *   Top Insights
     
@@ -85,7 +86,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 855 812 1530
+    1 855 360 7509
     
 
 *   Solutions By Function
@@ -132,6 +133,7 @@ Search
     
     *   Benchmarking
     *   Cost Optimization
+    *   Gartner Business Quarterly
     *   Strategic Planning
     *   Top Insights
     
@@ -157,7 +159,7 @@ Search
 
 *   Become a Client
     
-    1 855 812 1530
+    1 855 360 7509
     
 
 GARTNER PRIVACY POLICY Effective Date: September 2020
@@ -603,6 +605,7 @@ About Careers Contact Gartner Glossary Newsroom Smarter With Gartner About Caree
     
     *   Benchmarking
     *   Cost Optimization
+    *   Gartner Business Quarterly
     *   Strategic Planning
     *   Top Insights
     
@@ -647,6 +650,7 @@ Insights Featured Insights
 
 *   Benchmarking
 *   Cost Optimization
+*   Gartner Business Quarterly
 *   Strategic Planning
 *   Top Insights
 
