@@ -35,6 +35,8 @@ Search Terms Please enter terms to search for. Search
 
 HowStuffWorks Privacy Policy
 
+Apr 1, 2000
+
 Control Your User Privacy Preferences
 
 Last modified: January 31, 2020
