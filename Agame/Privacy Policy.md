@@ -88,8 +88,8 @@ View more results
     *   Super Escape Masters
     *   Build Craft
     *   Mine Clone 4
-    *   The Last Survivors: 2 Player Zombie Game
     *   Crowd City
+    *   The Last Survivors: 2 Player Zombie Game
     *   Bob the Robber 4: Season 2 Russia
     *   Trap Adventure 2
     *   World Crafts
@@ -116,8 +116,8 @@ View more results
     *   MahJongCon
     *   Skydom
     *   Candy Riddles: Free Match 3 Puzzle
-    *   Bubble Machine: 2 Player Game
     *   Water Flow 3D
+    *   Bubble Machine: 2 Player Game
     *   Snail Bob 1
     *   Sevenventure
     *   Pyramid Solitaire Duel
@@ -143,13 +143,13 @@ View more results
     *   Mermaid Sauna Flirting
     *   Cooking: Korean Lesson
     *   Coloring Bunny Book
-    *   Mommy BFFs: Pregnant Check-Up
     *   Foot Doctor
+    *   Mommy BFFs: Pregnant Check-Up
     *   Bad Teeth Makeover
     *   Pizza Real Life Cooking
-    *   Blondie Wedding Prep: Dress Up Game
-    *   Love Tester 3
     *   Beach Kiss
+    *   Love Tester 3
+    *   Blondie Wedding Prep: Dress Up Game
     *   Goldie: Lip Injections
 *   Racing
     
@@ -178,8 +178,8 @@ View more results
     *   Maximum Acceleration
     *   Cars 3D
     *   Moto X3m 3
-    *   Murder
     *   City Car Stunts 2
+    *   Off-Roader V6
 *   Sports
     
     Top Categories
@@ -202,11 +202,11 @@ View more results
     *   Basketball Stars 2019
     *   Stunt Skateboard 3D
     *   Penalty Shooters 2: Football Game
-    *   Off-Road Cycle 3D
     *   Table Tennis Pro
+    *   Off-Road Cycle 3D
     *   Baseball
-    *   Table Tennis Challenge
     *   Moto X3M: Winter - Motorbike Game
+    *   Table Tennis Challenge
     *   8-Ball
 *   More
     
