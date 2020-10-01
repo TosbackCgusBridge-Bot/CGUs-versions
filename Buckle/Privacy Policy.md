@@ -70,7 +70,6 @@
         *   Curvy Jeans
         *   KanCan Kurvy
         *   Vintage Jeans
-        *   Denim Style Guide
         *   Shop All
         
         *   Shoes
@@ -141,7 +140,6 @@
         *   Bootcut
         *   Denim Shorts
         *   Jeans Under $75
-        *   Denim Style Guide
         *   Shop All
         
         *   Shoes
@@ -245,7 +243,7 @@
         *   REPREVE®
         *   Shop All
         
-        *   Kid's Jeans
+        *   Youth Jeans
         
         *   Girls' Jeans
         *   Boys' Jeans
@@ -341,7 +339,7 @@
         *   Hats
         *   Shop All
         
-        *   Kids' Sale
+        *   Youth Sale
         
         *   Girls' Sale Tops
         *   Girls' Sale Jeans
@@ -589,4 +587,4 @@ Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
 
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">.
