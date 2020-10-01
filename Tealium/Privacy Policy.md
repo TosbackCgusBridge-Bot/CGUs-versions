@@ -30,6 +30,7 @@
     *   Adobe + Tealium
     *   Amazon Web Services + Tealium
     *   Facebook + Tealium
+    *   Google + Tealium
 *   Integrations
 *   Resources
     *   Resource Library (hub)
@@ -86,6 +87,7 @@
     *   Adobe + Tealium
     *   Amazon Web Services + Tealium
     *   Facebook + Tealium
+    *   Google + Tealium
 *   Integrations
 *   Resources
     *   Resource Library (hub)
