@@ -245,23 +245,23 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   Critical Zerologon bug uses weak cryptography to spoof network users
-    *   Amid Iranian hacker crackdown, CISOs should prep for retaliation
-    *   What one company’s deal with the feds tells us about the long tail of data breaches
-    *   Phishing campaign spoofs security awareness training notifications
-    *   Instagram flaw shows importance of managing third-party apps, images
+    *   Google rolls out new automated threat detection tool
+    *   Threat intelligence starts with strong relationships
+    *   Tracking the cutting edge of software security initiatives
+    *   Big or small, organizations typically remediate 1 of 10 discovered vulnerabilities
+    *   It’s finally time to go passwordless
     
-    *   Twitter bug may have exposed API keys, access tokens
-    *   What one company’s deal with the feds tells us about the long tail of data breaches
-    *   Why does this have to be so hard? The tradeoff between speed and security
-    *   Instagram flaw shows importance of managing third-party apps, images
-    *   Phishing campaign spoofs security awareness training notifications
+    *   Diversity metrics incentivize inclusion, but bring potential pitfalls
+    *   Federal watchdog agency pushes proposed White House cyber role into spotlight
+    *   Former DoD CSO: The West must lead
+    *   Building an intelligent cybersecurity strategy
+    *   Shopify breach: Help center employees are a unique breed of insider threat
     
+    *   New report suggests the bug bounty business is recession-proof
+    *   As tech reaches end of life, hackers are watching
     *   Cloudflare announces free, privacy-focused website analytics
     *   'Insensitive' phishing test stirs debate over ethics of security training
     *   Twitter bug may have exposed API keys, access tokens
-    *   Instagram flaw shows importance of managing third-party apps, images
-    *   Shopify breach: Help center employees are a unique breed of insider threat
 
 Back to Top
 
@@ -295,8 +295,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 2 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
