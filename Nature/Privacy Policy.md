@@ -4,8 +4,8 @@
 *   Español
 
 *   Donate
-*   ABOUT US
-    *   ABOUT US
+*   About Us
+    *   About Us
     *   Who We Are
         *   Our People
         *   Our Science
@@ -13,6 +13,7 @@
         *   How We Work
         *   Our History
     *   Where We Work
+        *   Local: Colorado
         *   Africa
         *   Asia Pacific
         *   Canada
