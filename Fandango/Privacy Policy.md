@@ -465,17 +465,9 @@ We have separate policies for workforce data, which is governed by the policies 
 
 Offers
 
-*   Get a Retro Movie
-    
-    When you buy 3 specially marked General Mills items at Target between 8/29-10/3. SEE DETAILS
-    
 *   Get $5 Off Towards a Movie Download
     
     when you purchase 3 participating Suave products 9/1-10/31 at Walmart or Walmart.com. SEE DETAILS
-    
-*   Get a FandangoNOW $10 Movie Code
-    
-    when you purchase 2 participating Advil products 8/5- 9/30 at Walmart or Walmart.com. SEE DETAILS
     
 
 New + Coming soon
