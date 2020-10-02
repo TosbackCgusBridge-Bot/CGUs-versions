@@ -18,7 +18,7 @@ close
     *   Retirement Gifts
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular Fall Gift Baskets Wine Gift Baskets
+    *   Care PackagesMost Popular New Gifts Wine Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
@@ -74,7 +74,8 @@ close
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Christmas Gifts
+    View All Categories Shop by Category*   Thanksgiving Gifts
+    *   Christmas Gifts
     
     Occasions*   Game Day
     *   Fall Gift Baskets
@@ -114,7 +115,7 @@ close
     *   Retirement Gifts
     *   Thinking of You
     *   Sympathy Gifts
-    *   Care PackagesMost Popular Fall Gift Baskets Wine Gift Baskets
+    *   Care PackagesMost Popular New Gifts Wine Gift Baskets
 *   Meat &. Cheese
     
     View All Categories Shop by Category*   Meat &. Cheese Gifts
@@ -170,7 +171,8 @@ close
     *   DessertsMost Popular Chocolates
 *   Holiday
     
-    View All Categories Shop by Category*   Christmas Gifts
+    View All Categories Shop by Category*   Thanksgiving Gifts
+    *   Christmas Gifts
     
     Occasions*   Game Day
     *   Fall Gift Baskets
