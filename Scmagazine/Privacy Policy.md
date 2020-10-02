@@ -245,23 +245,23 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   Google rolls out new automated threat detection tool
-    *   Threat intelligence starts with strong relationships
-    *   Tracking the cutting edge of software security initiatives
     *   Big or small, organizations typically remediate 1 of 10 discovered vulnerabilities
+    *   New report suggests the bug bounty business is recession-proof
+    *   Three strategies to defend remote workers from cyberattacks
+    *   The Twitter hack exposed the need for more effective PAM security
+    *   Build security by expanding cyber awareness
+    
+    *   Big or small, organizations typically remediate 1 of 10 discovered vulnerabilities
+    *   Three strategies to defend remote workers from cyberattacks
+    *   Phishing pages leverage CAPTCHAs to fool users, evade detection
+    *   Cloudflare announces free, privacy-focused website analytics
     *   It’s finally time to go passwordless
     
-    *   Diversity metrics incentivize inclusion, but bring potential pitfalls
-    *   Federal watchdog agency pushes proposed White House cyber role into spotlight
-    *   Former DoD CSO: The West must lead
-    *   Building an intelligent cybersecurity strategy
-    *   Shopify breach: Help center employees are a unique breed of insider threat
-    
+    *   Phishing pages leverage CAPTCHAs to fool users, evade detection
     *   New report suggests the bug bounty business is recession-proof
     *   As tech reaches end of life, hackers are watching
     *   Cloudflare announces free, privacy-focused website analytics
     *   'Insensitive' phishing test stirs debate over ethics of security training
-    *   Twitter bug may have exposed API keys, access tokens
 
 Back to Top
 
