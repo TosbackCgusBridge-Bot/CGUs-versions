@@ -133,7 +133,7 @@ Winner best use of AI, machine learning &. data-driven marketing
 —Comscore Ranked #1 transactional &. behavioral data in the industry Leader email marketing and loyalty  
 —Forrester Privacy always at the forefront Please turn on javascript to use our site Latest News See how we help brands like yours View our customer stories Some of the savvy marketers that rely on us
 
-We work with 15 of the top 20 global brands and 8 of the top Fortune  500 companies
+We work with 15 of the top 20 global brands and 8 of the top Fortune 500 companies
 
 Ready to talk? Contact us CloseClose the video overlay CloseClose the video overlay share fbIcon twIcon linkedin mailIcon Copied to clipboard COPY COPY LINK Copied Copied to clipboard **CORE** is a content series for marketers who are open to being inspired by experts, leaders and rebels in our field. Read, listen, browse—and challenge your marketing beliefs. CloseClose the video overlay CloseClose the video overlay share fbIcon twIcon linkedin mailIcon Copied to clipboard COPY COPY LINK Copied Copied to clipboard CloseClose the video overlay CloseClose the video overlay share fbIcon twIcon linkedin mailIcon Copied to clipboard COPY COPY LINK Copied Copied to clipboard
 
