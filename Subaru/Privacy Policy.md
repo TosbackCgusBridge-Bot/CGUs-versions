@@ -595,7 +595,7 @@ Legal Disclaimers
   
 ‡$1 helps provide at least 10 meals secured by Feeding America on behalf of local member food banks.
 
-^Now through September 30, 2020 get 0% APR Financing for 63 months on select new 2020 Ascent, Impreza, Forester, Legacy, and Outback Models. No down payment required.  Monthly payment of $15.87 per $1,000 financed.  Offer may vary by location. Other rates and payment terms available. Cannot be combined with any other coupon, direct/email offer or promotional offer unless allowed by that offer. Financing for well-qualified applicants only. Length of contract is limited. Subject to credit approval, vehicle insurance approval and vehicle availability. See participating retailers for details. Must take delivery from retailer stock by September 30, 2020.
+^Now through November 2, 2020 get 0% APR Financing for 63 months on select new 2020 Ascent, Impreza, Forester, Legacy, and Outback Models. No down payment required.  Monthly payment of $15.87 per $1,000 financed.  Offer may vary by location. Other rates and payment terms available. Cannot be combined with any other coupon, direct/email offer or promotional offer unless allowed by that offer. Financing for well-qualified applicants only. Length of contract is limited. Subject to credit approval, vehicle insurance approval and vehicle availability. See participating retailers for details. Must take delivery from retailer stock by November 2, 2020.
 
 Subaru has the utmost respect for the environment and is a proud partner of Leave No Trace. Care was taken not to harm the environment when taking this photo.
 
@@ -614,7 +614,7 @@ Subaru of America, Inc. reserves the right to make changes at any time without n
 
 \*\*\*Limited warranties are contingent on age and mileage. Whatever comes first concludes the warranty.
 
-^Now through September 30, 2020 get 0% APR Financing for 63 months on select new 2020 Ascent, Impreza, Forester, Legacy, and Outback Models. No down payment required.  Monthly payment of $15.87 per $1,000 financed.  Offer may vary by location. Other rates and payment terms available. Cannot be combined with any other coupon, direct/email offer or promotional offer unless allowed by that offer. Financing for well-qualified applicants only. Length of contract is limited. Subject to credit approval, vehicle insurance approval and vehicle availability. See participating retailers for details. Must take delivery from retailer stock by September 30, 2020.
+^Now through November 2, 2020 get 0% APR Financing for 63 months on select new 2020 Ascent, Impreza, Forester, Legacy, and Outback Models. No down payment required.  Monthly payment of $15.87 per $1,000 financed.  Offer may vary by location. Other rates and payment terms available. Cannot be combined with any other coupon, direct/email offer or promotional offer unless allowed by that offer. Financing for well-qualified applicants only. Length of contract is limited. Subject to credit approval, vehicle insurance approval and vehicle availability. See participating retailers for details. Must take delivery from retailer stock by November 2, 2020.
 
 Subaru has the utmost respect for the environment and is a proud partner of Leave No Trace. Care was taken not to harm the environment when taking this photo.
 
