@@ -281,7 +281,7 @@ Report or track a claim
 *   Log In to Policy
 *   Or, call 1-800-776-4737
 
-Not a Customer? Track claim here
+No account? View your claim here
 
 About Us
 
