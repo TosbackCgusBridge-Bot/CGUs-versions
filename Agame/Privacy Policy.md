@@ -54,10 +54,10 @@ View more results
     *   Knights of Fortune
     *   Stickman Archer 2
     *   Combat Strike 2
-    *   Super Buddy Kick
-    *   Miami Crime Simulator 3D
     *   Stickman Fighter: Epic Battle
+    *   Super Buddy Kick
     *   Super Escape Masters
+    *   Miami Crime Simulator 3D
     *   Apple Shooter
     *   Warbanner
     *   Sniper Reloaded
@@ -84,8 +84,8 @@ View more results
     *   World Craft 2
     *   Boeing Flight Simulator
     *   Draw Climber
-    *   Miami Crime Simulator 3D
     *   Super Escape Masters
+    *   Miami Crime Simulator 3D
     *   Build Craft
     *   Mine Clone 4
     *   Crowd City
@@ -115,13 +115,13 @@ View more results
     *   Mahjong Connect Classic
     *   MahJongCon
     *   Skydom
-    *   Candy Riddles: Free Match 3 Puzzle
     *   Water Flow 3D
+    *   Candy Riddles: Free Match 3 Puzzle
     *   Bubble Machine: 2 Player Game
     *   Snail Bob 1
     *   Sevenventure
-    *   Pyramid Solitaire Duel
     *   Crystical: 2 Player Puzzle Game
+    *   Pyramid Solitaire Duel
 *   Girls
     
     Top Categories
@@ -145,9 +145,9 @@ View more results
     *   Coloring Bunny Book
     *   Foot Doctor
     *   Mommy BFFs: Pregnant Check-Up
+    *   Beach Kiss
     *   Bad Teeth Makeover
     *   Pizza Real Life Cooking
-    *   Beach Kiss
     *   Love Tester 3
     *   Blondie Wedding Prep: Dress Up Game
     *   Goldie: Lip Injections
@@ -200,9 +200,9 @@ View more results
     *   Moto X3m 3
     *   Archery World Tour
     *   Basketball Stars 2019
-    *   Stunt Skateboard 3D
-    *   Penalty Shooters 2: Football Game
     *   Table Tennis Pro
+    *   Penalty Shooters 2: Football Game
+    *   Stunt Skateboard 3D
     *   Off-Road Cycle 3D
     *   Baseball
     *   Moto X3M: Winter - Motorbike Game
