@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Dell brings new Intel 11th gen Core processors to the XPS 13 Developer Edition
+*   How to make snaps and configuration management tools work together
 *   Canonical at OSM Hackfest MR#9
-*   Stepping Down Gracefully
-*   A ‘Connected’ Bank – The power of data and analytics
