@@ -114,7 +114,15 @@ Excessive use means bandwidth or data usage that is significantly higher than ty
 
 In order to ensure an optimized Internet experience for all customers, data plans have been assigned to many Internet services plans:
 
-Internet Service Plan Name Data Plan Standard Internet 1000GB Data Plan 10Mbps HSD Plan 1000GB Data Plan 15Mbps HSD Plan 1000GB Data Plan 20Mbps HSD Plan 1000GB Data Plan 30Mbps HSD Plan 1000GB Data Plan 50Mbps HSD Plan 1000GB Data Plan 100Mbps HSD Plan 1000GB Data Plan 200Mbps HSD Plan 1000GB Data Plan Lite Plan 50GB Data Plan 1.5,Mbps, 5Mbps, 8Mbps, 10Mbps,12Mbps 300GB Data Plan Starter Plan 300GB Data Plan Family Plan 800GB Data Plan Streamer &. Gamer Plan Unlimited\* Data Plan Roommate Plan Unlimited\* Data Plan Power Home Plan Unlimited\* Data Plan GigaONE ® Unlimited\* Data Plan
+NewWave Communications Legacy/Grandfathered Plans
+
+Internet Service Plan Name Data Plan Standard Internet 1000GB Data Plan 10Mbps HSD Plan 1000GB Data Plan 15Mbps HSD Plan 1000GB Data Plan 20Mbps HSD Plan 1000GB Data Plan 30Mbps HSD Plan 1000GB Data Plan 50Mbps HSD Plan 1000GB Data Plan 100Mbps HSD Plan 1000GB Data Plan 200Mbps HSD Plan 1000GB Data Plan
+
+Data Policy
+
+Customers who exceed the above data plans associated with their Internet service plan 3 or more times in a rolling 12-month period may be required to upgrade to an Internet service plan that contains a data plan more suitable for their usage. The Internet service plan will be determined on the average of the months that customer usage exceeded the Internet service plan and a customer must maintain the new Internet service plan for a minimum of 3 months.
+
+Internet Service Plan Name Data Plan Lite Plan 50GB Data Plan 1.5,Mbps, 5Mbps, 8Mbps, 10Mbps,12Mbps 300GB Data Plan Starter Plan 300GB Data Plan Family Plan 800GB Data Plan Streamer &. Gamer Plan Unlimited\* Data Plan Roommate Plan Unlimited\* Data Plan Power Home Plan Unlimited\* Data Plan GigaONE ® Unlimited\* Data Plan
 
 Names, speeds, and data plans are subject to change
 
