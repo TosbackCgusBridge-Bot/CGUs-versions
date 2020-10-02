@@ -101,17 +101,17 @@ Main menuSONY
 
 Search Sony
 
-Crash into a Time-Shattering Adventure With "Crash Bandicoot 4: It's About Time”
+Experience CNCO’s Hit Song “Beso” Like Never Before With 360 Reality Audio
 
-Play October 2 on PS4™
+Watch More Collaborations With Sony Music Artists
 
-Play video: Crash into a Time-Shattering Adventure With "Crash Bandicoot 4: It's About Time” Close video: Crash into a Time-Shattering Adventure With "Crash Bandicoot 4: It's About Time”
+Play video: Experience CNCO’s Hit Song “Beso” Like Never Before With 360 Reality Audio Close video: Experience CNCO’s Hit Song “Beso” Like Never Before With 360 Reality Audio
 
-*   Share on Facebook: Crash into a Time-Shattering Adventure With "Crash Bandicoot 4: It's About Time”
-*   Share on Twitter: Crash into a Time-Shattering Adventure With "Crash Bandicoot 4: It's About Time”
-*   Copy URL to Share: Crash into a Time-Shattering Adventure With "Crash Bandicoot 4: It's About Time”
+*   Share on Facebook: Experience CNCO’s Hit Song “Beso” Like Never Before With 360 Reality Audio
+*   Share on Twitter: Experience CNCO’s Hit Song “Beso” Like Never Before With 360 Reality Audio
+*   Copy URL to Share: Experience CNCO’s Hit Song “Beso” Like Never Before With 360 Reality Audio
 
-<img class="bg-img video-375dqL15O9E" data-linkname="en:set\_a:position\_1|\_3x2-1:video:playstation:CrashBandicootTrailer-September-29-2020:ps:image:375dqL15O9E" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Crash into a Time-Shattering Adventure With &#34;Crash Bandicoot 4: It&#39;s About Time” 375dqL15O9E Crash-Bandicoot-Trailer" data-img1x="/content/dam/sony/homepage/2020-september/9-29/CrashBandicoot4-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-september/9-29/CrashBandicoot-745x500.jpg" src="/content/dam/sony/homepage/2020-september/9-29/CrashBandicoot-745x500.jpg" alt="Crash into a Time-Shattering Adventure With &#34;Crash Bandicoot 4: It&#39;s About Time”"/>. <img class="bg-img video-375dqL15O9E" alt="Crash into a Time-Shattering Adventure With &#34;Crash Bandicoot 4: It&#39;s About Time” Mobile" data-linkname="en:set\_a:position\_1|\_3x2-1:video:playstation:CrashBandicootTrailer-September-29-2020:ps:image-mobile:375dqL15O9E" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Crash into a Time-Shattering Adventure With &#34;Crash Bandicoot 4: It&#39;s About Time” 375dqL15O9E Crash-Bandicoot-Trailer" data-img1x="/content/dam/sony/homepage/2020-september/9-29/CrashBandicoot4-600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-september/9-29/CrashBandicoot-745x500.jpg" src="/content/dam/sony/homepage/2020-september/9-29/CrashBandicoot4-600x600.jpg"/>.
+<img class="bg-img video-KHhxSt5vOpg" data-linkname="en:set\_a:position\_1|\_3x2-1:video:music:CNCO360RA-September-29-2020:sca:image:KHhxSt5vOpg" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Experience CNCO’s Hit Song “Beso” Like Never Before With 360 Reality Audio KHhxSt5vOpg CNCO-360-RA" data-img1x="/content/dam/sony/homepage/2020-september/9-29/CNCO\_SiteImage\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-september/9-29/CNCO\_SiteImage\_745x500.jpg" src="/content/dam/sony/homepage/2020-september/9-29/CNCO\_SiteImage\_745x500.jpg" alt="Experience CNCO’s Hit Song “Beso” Like Never Before With 360 Reality Audio"/>. <img class="bg-img video-KHhxSt5vOpg" alt="Experience CNCO’s Hit Song “Beso” Like Never Before With 360 Reality Audio Mobile" data-linkname="en:set\_a:position\_1|\_3x2-1:video:music:CNCO360RA-September-29-2020:sca:image-mobile:KHhxSt5vOpg" data-analytics-event="content" data-analytics-category="tile" data-analytics-action="click" data-analytics-name="Experience CNCO’s Hit Song “Beso” Like Never Before With 360 Reality Audio KHhxSt5vOpg CNCO-360-RA" data-img1x="/content/dam/sony/homepage/2020-september/9-29/CNCO\_SiteImage\_600x600.jpg" data-img2x="/content/dam/sony/homepage/2020-september/9-29/CNCO\_SiteImage\_745x500.jpg" src="/content/dam/sony/homepage/2020-september/9-29/CNCO\_SiteImage\_600x600.jpg"/>.
 
 Let the Ritual Begin With "The Craft: Legacy"
 
@@ -127,7 +127,7 @@ Play video: Let the Ritual Begin With "The Craft: Legacy" Close video: Let the R
 
 All aboard Call of Duty: Modern Warfare and Warzone Season Six. Earn and equip 100 new items from weapons to operators with the new Battle Pass. Live today:  http://play.st/3kZ4tkz  pic.twitter.com/IK5AgAZCQk
 
-1 day ago View Tweet Instagram Post CEmFeVeBDfq
+2 days ago View Tweet Instagram Post CEmFeVeBDfq
 
 The Power You Need
 
@@ -278,7 +278,7 @@ News &. Info
 *   Product Manuals
 *   Electronics Registration
 *   Electronics Newsletter
-*   Accessibility and Usability
+*   Accessibility
 
 Other Sites
 
