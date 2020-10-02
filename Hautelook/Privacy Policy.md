@@ -9,9 +9,33 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Pumpkin Spice
+    *   Rebecca Minkoff
+    *   Rebecca Minkoff Handbags &. More
+    *   Designer Dresses Up to 75% Off
+    *   Designer Tops Up to 70% Off
+    *   Women's Styles at $40 Incl. Plus
+    *   Women's Styles at $30 Incl. Plus
+    *   Women's Styles at $50 Incl. Plus
+    *   We Wore What
+    *   Lingerie &. Sleep Finds Under $25
+    *   Sugarfina Holiday Treats Up to 60% Off
+    *   Mask Sets Starting at $15
+    *   Boots ft. Cole Haan, Donald Pliner &. Via Spiga
+    *   English Laundry Men's Shoes Up to 70% Off
+    *   Metal Frames Starting at $20
+    *   Men's Lucky Brand &. More Up to 60% Off
+    *   PUMA Men's Active Starting at $15
+    *   Sport These: Active Sock Packs Under $15
+    *   Men's Boots Up to 70% Off
+    *   Sperry
+    *   Wear It All: Stackable Bracelets &. More
+    *   DAENG GI MEO RI Haircare &. More Up to 50% Off
+    *   Bring on the Fun: Toys, Books &. More
+    *   Toddler Sneaker Refresh ft. Carters
     *   Everything Nice
+    *   Pumpkin Spice
     *   Gucci Sunglasses
+    
     *   Dr. Martens
     *   Dr. Martens Men
     *   TOPSHOP
@@ -30,14 +54,6 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Kid's Boots ft. Dr. Martens
     *   Diane von Furstenberg Up to 70% Off
     *   Tailored Perfection ft. Ralph Lauren
-    *   Diamond Watches Up to 70% Off
-    
-    *   FRAME Up to 70%
-    *   Cardigans Up to 70% Off Incl. Plus
-    *   Snuggle Up: Sleep Sets Under $40
-    *   Outdoor Shoes ft. Keen
-    *   Marc Jacobs Bags &. Shoes Up to 60% Off
-    *   Jackets Up to 70% Off Incl. Plus
     *   Fall Favorites for Girls Up to 60% Off
     *   Fall Favorites for Boys Up to 60% Off
     *   Play Outside: Kid's Shoes ft. Crocs
@@ -46,15 +62,11 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Men's Outdoor Shoes ft. Keen
     *   Lorac Cosmetics &. More Starting at $10
     *   Free Shipping: Canvas Art Prints &. Wall Art
+    
     *   Apple Watch Bands Starting at $15
     *   AllSaints Men's Apparel &. Shoes
-    *   AllSaints Accessories Starting at $15
     *   Men's Bugatchi Up to 70% Off
-    *   Trunk Show: Carriere Jewelry Up to 60% Off
     *   Must-have Face Masks &. Moisturizers for Fall
-    *   Oh Baby: Finds Up to 60% Off
-    *   Men's Slip-Ons Up to 70% Off
-    
     *   The Active Shop: Leggings &. More Up to 75% Off
     *   The Active Shop: Bras, Tanks &. Tees Starting at $20
     *   The Active Shop: Jackets &. More Starting at $25
@@ -69,19 +81,38 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Free Shipping: Picnic Time Starting at $20
     *   Time to Get Organized- Up to 50% Off
     *   The Active Shop: Men's Styles Starting at $15
-    *   PJs All Day: Kids' Sleep ft. Leveret
     *   Sheet Sets Under $30
     *   Brookstone, RING Doorbells, Google Home &. More
     *   Heating Pads Under $30 &. More Wellness Gear
+    *   FRAME Up to 70%
+    *   Cardigans Up to 70% Off Incl. Plus
     *   Designer Shop Up to 70% Off
+    *   Jackets Up to 70% Off Incl. Plus
     *   WFH Essentials Up to 70% Off Incl. Plus
 *   WomenShop Sale Events
     
-    *   Pumpkin Spice
+    *   Rebecca Minkoff
+    *   Rebecca Minkoff Handbags &. More
+    *   Designer Dresses Up to 75% Off
+    *   Designer Tops Up to 70% Off
+    *   Women's Styles at $40 Incl. Plus
+    *   Women's Styles at $30 Incl. Plus
+    *   Women's Styles at $50 Incl. Plus
+    *   We Wore What
+    *   Lingerie &. Sleep Finds Under $25
+    *   Mask Sets Starting at $15
+    *   Boots ft. Cole Haan, Donald Pliner &. Via Spiga
+    *   Metal Frames Starting at $20
+    *   Sport These: Active Sock Packs Under $15
+    *   Sperry
+    *   Wear It All: Stackable Bracelets &. More
+    *   DAENG GI MEO RI Haircare &. More Up to 50% Off
     *   Everything Nice
+    *   Pumpkin Spice
     *   Gucci Sunglasses
     *   Dr. Martens
     *   TOPSHOP
+    
     *   Tops Under $20 Incl. Plus
     *   Fall Styles Up to 70% Off Incl. Plus
     *   Timeless Trenches: Raincoats &. More Up to 70% Off
@@ -90,50 +121,47 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Layered Necklaces &. Rings
     *   Aimee Kestenberg Crossbodies &. More Starting at $30
     *   Diane von Furstenberg Up to 70% Off
-    *   Diamond Watches Up to 70% Off
-    *   FRAME Up to 70%
-    *   Cardigans Up to 70% Off Incl. Plus
-    
-    *   Snuggle Up: Sleep Sets Under $40
-    *   Outdoor Shoes ft. Keen
-    *   Marc Jacobs Bags &. Shoes Up to 60% Off
-    *   Jackets Up to 70% Off Incl. Plus
     *   Lorac Cosmetics &. More Starting at $10
-    *   AllSaints Accessories Starting at $15
-    *   Trunk Show: Carriere Jewelry Up to 60% Off
     *   Must-have Face Masks &. Moisturizers for Fall
     *   The Active Shop: Leggings &. More Up to 75% Off
     *   The Active Shop: Bras, Tanks &. Tees Starting at $20
     *   The Active Shop: Jackets &. More Starting at $25
     *   The Active Shop: Athleisure Apparel Up to 65% Off
     *   The Active Shop: Women's Sneakers
+    *   FRAME Up to 70%
+    *   Cardigans Up to 70% Off Incl. Plus
     *   Designer Shop Up to 70% Off
+    *   Jackets Up to 70% Off Incl. Plus
     *   WFH Essentials Up to 70% Off Incl. Plus
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Handbags
     *   Accessories
+    *   Handbags
     *   Lingerie &. Shapewear
     *   Watches
 *   MenShop Sale Events
     
+    *   English Laundry Men's Shoes Up to 70% Off
+    *   Metal Frames Starting at $20
+    *   Men's Lucky Brand &. More Up to 60% Off
+    *   PUMA Men's Active Starting at $15
+    *   Men's Boots Up to 70% Off
     *   Gucci Sunglasses
     *   Dr. Martens Men
     *   Work From Home: Men's Styles up to 65% Off
     *   Saturdays NYC Up to 60% Off
     *   ECCO Men
     *   David Donahue Up to 65% Off
+    
     *   Tailored Perfection ft. Ralph Lauren
     *   Men's FRAME Denim &. More
     *   Red Wing Men Up to 60% Off
-    
     *   Men's Outdoor Shoes ft. Keen
     *   AllSaints Men's Apparel &. Shoes
     *   Men's Bugatchi Up to 70% Off
-    *   Men's Slip-Ons Up to 70% Off
     *   The Active Shop: Men's Running &. Training Sneakers
     *   The Active Shop: Men's Lifestyle Sneakers
     *   The Active Shop: Men's Golf Styles Up to 60% Off
@@ -147,24 +175,26 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Watches
 *   KidsShop Sale Events
     
+    *   Bring on the Fun: Toys, Books &. More
+    *   Toddler Sneaker Refresh ft. Carters
     *   Joe Fresh Kids &. More Starting at $10
     *   Kid's Boots ft. Dr. Martens
     *   Fall Favorites for Girls Up to 60% Off
     *   Fall Favorites for Boys Up to 60% Off
     *   Play Outside: Kid's Shoes ft. Crocs
-    *   Oh Baby: Finds Up to 60% Off
     *   The Active Shop: Girls' Styles Starting at $15
     *   The Active Shop: Boys' Active Styles Starting at $15
-    *   PJs All Day: Kids' Sleep ft. Leveret
     
     Shop By Category
     *   Girls
-    *   Baby
-    *   Boys
     *   Girls' Shoes
+    *   Boys
+    *   Baby
     *   Boys' Shoes
+    *   Toys
 *   HomeShop Sale Events
     
+    *   Sugarfina Holiday Treats Up to 60% Off
     *   Free Shipping: Canvas Art Prints &. Wall Art
     *   Apple Watch Bands Starting at $15
     *   Free Shipping: Picnic Time Starting at $20
@@ -179,18 +209,20 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Bedding
     *   Kitchen &. Tabletop
     *   Cleaning &. Organization
-    *   Outdoor Living
     *   Luggage &. Travel
+    *   Outdoor Living
     *   Holiday Decorations
 *   BeautyShop Sale Events
     
-    *   Pumpkin Spice
+    *   DAENG GI MEO RI Haircare &. More Up to 50% Off
     *   Everything Nice
+    *   Pumpkin Spice
     *   Lorac Cosmetics &. More Starting at $10
     *   Must-have Face Masks &. Moisturizers for Fall
     
     Shop By Category
     *   Makeup
+    *   Hair Care
     *   Skin Care
     *   Bath &. Body
     *   Fragrance
