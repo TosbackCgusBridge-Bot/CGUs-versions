@@ -385,15 +385,13 @@ LEARN MORE SHOP ROCK THE VOTE Learn More Shop Rock The Vote
 
 In Stores &. Online!
 
-Fall Sale
+100s of New Fall Arrivals!
 
 50-70% Off
 
-Everything
+Including Our Freshest-Ever Fleece Hoodies.
 
-Including 100s of New Arrivals!
-
-Girls Fall Sale Guys Fall Sale
+Girls Fleece Hoodies Guys Fleece Hoodies Shop Girls Shop Guys
 
 Aero Jeans  
 Buy 1 Get 1 Free\*
@@ -402,9 +400,7 @@ Denim All Day. Denim Always.
 
 With a new &. improved booty-lifting fit for her &. extra leg room for him.
 
-\*In store &. online. Add two to cart. Discount reflected at checkout. Excludes Clearance.
-
-Shop Girls Jeans Shop Guys Jeans Shop Super High Rise Shop Athletic Skinny
+Shop Girls Jeans Shop Guys Jeans Shop Gilrs Destroyed Denim Shop Guys Destroyed Denim
 
 \*In store &. online. Add two to cart. Discount reflected at checkout. Excludes Clearance.
 
@@ -440,17 +436,6 @@ Notifications
 
 FREE Pick Up  
 At Aero
-
-Hoodies  
-&. Joggers
-
-Effortless &. Ultra-soft.  
-Comfort never looked so cool.
-
-Effortless &. Ultra-soft. Comfort  
-never looked so cool.
-
-Shop Girls Hoodies Shop Guys Hoodies Shop Girls Joggers Shop Guys Joggers
 
 The future is on your ballot.
 
