@@ -92,10 +92,6 @@ Financial Times Close drawer menu
 *   Subscribe
 *   Sign In
 
-Important announcement
-
-We're sorry - Our contact centre is experiencing connectivity problems due to essential maintenance. It may take us longer than usual to answer your calls and chats.
-
 Search our Help Centre
 
 1.  Information we collect
