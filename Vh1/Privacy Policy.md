@@ -7,10 +7,10 @@
     *   Brunch With Tiffany
     *   Canada's Drag Race
     *   Love &. Listings
+    *   Martha &. Snoop's Potluck Party Challenge
     *   RuPaul's Drag Race: Vegas Revue
     *   Scared Famous
     *   Scream: Resurrection
-    *   T.I. &. Tiny: Friends &. Family Hustle
     *   To Catch A BeauticianSee all Shows
 *   App
 *   VH100 PODCAST
@@ -19,7 +19,7 @@
 
 VH1 MenuVH1
 
-*   ShowsFull EpisodesShows A-ZTV ScheduleSpotlight on Black Voices &. Black StoriesBrunch With TiffanyCanada's Drag RaceLove &. ListingsRuPaul's Drag Race: Vegas RevueScared FamousScream: ResurrectionT.I. &. Tiny: Friends &. Family HustleTo Catch A Beauticiansee all Shows
+*   ShowsFull EpisodesShows A-ZTV ScheduleSpotlight on Black Voices &. Black StoriesBrunch With TiffanyCanada's Drag RaceLove &. ListingsMartha &. Snoop's Potluck Party ChallengeRuPaul's Drag Race: Vegas RevueScared FamousScream: ResurrectionTo Catch A Beauticiansee all Shows
 *   App
 *   VH100 PODCAST
 *   Watch Live TV
