@@ -23,7 +23,7 @@ Active
 
 Always Active
 
-Save SettingsAllow All <link rel="stylesheet" href="https://assets.brstatic.com/v0.63.0/css/brcom/rebrand-nav.css?id=1012d78c2377f8de516e">. Open navigation Bankrate
+Save SettingsAllow All <link rel="stylesheet" href="https://assets.brstatic.com/v0.68.0/css/brcom/rebrand-nav.css?id=1012d78c2377f8de516e">. Open navigation Bankrate
 
 *   BR Mortgages
 *   BR Banking
@@ -645,7 +645,7 @@ Government entities, law enforcement, lawyers, auditors, consultants and other p
 
 None
 
-August 5, 2020 6:21:50 PM EDT <link rel="stylesheet" href="https://assets.brstatic.com/v0.63.0/css/brcom/footer.css?id=8b863dccc364236b815c">. Bankrate About
+August 5, 2020 6:21:50 PM EDT <link rel="stylesheet" href="https://assets.brstatic.com/v0.68.0/css/brcom/footer.css?id=8b863dccc364236b815c">. Bankrate About
 
 *   About us
 *   Press room
