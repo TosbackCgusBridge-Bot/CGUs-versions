@@ -5,7 +5,7 @@ Our COVID-19 response  DetailsFriends &. Family Sale! EXTRA 30% OFF w/ code: FR
 
 Enable Accessibility
 
-*   StoresCollin Creek MallMore Stores821 N Central Expwy, Plano, TX, 75075972-578-8666 Weekly Ads Engagement GuideValid Jan 24th - Sep 1st
+*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1st
     
     My Account
     
@@ -17,6 +17,7 @@ Enable Accessibility
     *   JCP Credit CardCart
 
 *   School Essentials
+*   Home &. Lifestyle
 *   Women
 *   Men
 *   Juniors
@@ -26,7 +27,33 @@ Enable Accessibility
 *   Salon
 *   Sephora Beauty
 
-Perfect picks for fall!  UP TO 40% OFF Arizonaselect stylesJuniorsYoung MenGirlsBoys 
+**_Fall_ the layers to love!** **UP TO 40% OFF Women's fall apparel**select styles
+
+*   Shop All
+
+*   Sweaters &. Cardigans
+    
+*   Tops
+    
+*   Blazers
+    
+*   Jeans
+    
+
+Shop All**UP TO 40% OFF Men's fall clothing** **Amazing comfort. All-around versatility.**select styles
+
+*   Shop All
+
+*   Shirts
+    
+*   Hoodies &. Sweatshirts
+    
+*   Coats &. Jackets
+    
+*   Jeans
+    
+
+Shop AllPerfect picks for fall!  UP TO 40% OFF Arizonaselect stylesJuniorsYoung MenGirlsBoys 
 
 *   Shop All
 
@@ -43,7 +70,7 @@ Shop AllHomeWomenMenShoesJuniorsBaby &. KidsUP TO 30% OFF Home brands only at JC
 
 *   Shop All
 
-Look cute &. confident in a.n.aAlso in women's plus &. petites' sizes.$27.99 EA.  Jeansselect styles$7.99 EA. Tees select styles UP TO 50% OFF Work-from-anywhere styles for him select stylesStaffordJF J. Ferrar The brands you know &. loveUP TO 25% OFF Activewearselect styles | Excluded from coupons.adidasChampionRare Beauty by Selena GomezAvailable Now at Sephora inside JCPenneyExcluded from coupons.Shop Ouidad
+The brands you know &. loveUP TO 25% OFF Activewearselect styles | Excluded from coupons.adidasChampionRare Beauty by Selena GomezAvailable Now at Sephora inside JCPenneyExcluded from coupons.Shop Ouidad
 
 \*"Our Biggest Jewelry Sale of the Season" refers to the most items on sale for the longest duration 9/28/20-10/25/20 during the period from 5/11/20-10/25/20. a future sale of shorter duration may have more items on sale.
 
@@ -53,20 +80,16 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 26 total items loaded
     
     $24.99sale
     
-    ~$36~5667
-*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
-    
-    $4.99 - $40
-    
-    1256
+    ~$36~5669
+*   St. John's Bay Womens Long Sleeve Open Front Cardigan $17.49with code~$44~2
+*   Home Expressions Solid or Stripe Bath Towel Collection $2.09 - $16.79with code~$6 - $48~694
 *   Worthington Womens Long Sleeve Cardigan $20.99with code~$44~1
-*   Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set $9.09 - $20.99with code~$26 - $60~1758
+*   St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt $12.59with code~$30~2
 *   St. John's Bay Womens Mid Rise Straight Leg Jean $15.39 - $30.80with code2218
-*   Home Expressions Tiles Complete Bedding Set with Sheets $41.99 - $62.99with code~$110 - $170~344
 
 Shop and Save at JCPenney
 
-At JCPenney, we're always helping you find amazing deals on all your favorite spring fashion trends. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! We take pride in being a one-stop shop for all your needs, with as many options as you can imagine as well as your favorite brands such as Nike, Adidas, Levi’s, Dockers, and Vans. Shop the latest styles in women's clothing and check out the variety of women's blouses and sundresses available at amazing prices, including new floral dresses and polka dot dresses. Save on men's polos and khakis, girls dresses and capris, sunglasses, and Bermuda shorts for the family.
+At JCPenney, we're always helping you find amazing deals on all your favorite fall and winter fashion trends. Shop with us and enjoy an unbeatable selection of jewelry, clothing, shoes and more! We take pride in being a one-stop shop for all your needs, with as many options as you can imagine as well as your favorite brands such as Nike, Adidas, Levi’s, Dockers, and Vans. Shop the latest styles in women's clothing and check out the variety of women's dresses available at amazing prices. Save on men's hoodies and sweatshirts, women's sweaters and cardigans, an assortment fall and winter accessories like hats and scarves, and cozy clothing for kids.
 
   
 
