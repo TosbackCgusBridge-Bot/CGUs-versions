@@ -1,4 +1,4 @@
-HR Tech Privacy
+HR Tech Privacy Back to Indeed
 
 *   Home
 *   Our Sites
@@ -51,7 +51,7 @@ Visit Indeed
 
 1 comScore Total Visits, March 2018
 
-2 Google Analytics, Unique Visitors, September 2018
+2 Google Analytics, Unique Visitors, February 2020
 
 **Privacy Policy**
 
