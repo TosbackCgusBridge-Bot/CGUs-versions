@@ -9,164 +9,140 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Effy Jewelry Up to 70% Off
+    *   Velvet Torch
+    *   Fall Finds Incl. Plus
+    *   T Tahari Incl. Plus
+    *   Fall Pants Up to 70% Off Incl. Plus
+    *   Free Shipping: Overstock Fall Art Blowout
+    *   Layer Up: Faux Fur Outerwear &. More
+    *   Splendid Swim
+    *   Bundle Up: Kids' Outerwear Up to 70% Off
+    *   Men's Luxe Shoes ft. Magnanni
+    *   Men's Leather Shoes Up to 70% Off
+    *   Born &. B.O.C. By Born Up to 50% Off
+    *   Men's Luxe Sweaters Up to 65% Off
     *   Rebecca Minkoff
     *   Rebecca Minkoff Handbags &. More
     *   Designer Dresses Up to 75% Off
     *   Designer Tops Up to 70% Off
+    *   Women's Styles at $50 Incl. Plus
     *   Women's Styles at $40 Incl. Plus
     *   Women's Styles at $30 Incl. Plus
-    *   Women's Styles at $50 Incl. Plus
     *   We Wore What
     *   Lingerie &. Sleep Finds Under $25
+    
     *   Sugarfina Holiday Treats Up to 60% Off
     *   Mask Sets Starting at $15
+    *   PUMA Men's Active Starting at $15
     *   Boots ft. Cole Haan, Donald Pliner &. Via Spiga
     *   English Laundry Men's Shoes Up to 70% Off
-    *   Metal Frames Starting at $20
-    *   Men's Lucky Brand &. More Up to 60% Off
-    *   PUMA Men's Active Starting at $15
-    *   Sport These: Active Sock Packs Under $15
     *   Men's Boots Up to 70% Off
+    *   Sport These: Active Sock Packs Under $15
+    *   Men's Lucky Brand &. More Up to 60% Off
     *   Sperry
     *   Wear It All: Stackable Bracelets &. More
     *   DAENG GI MEO RI Haircare &. More Up to 50% Off
     *   Bring on the Fun: Toys, Books &. More
     *   Toddler Sneaker Refresh ft. Carters
+    *   Metal Frames Starting at $20
     *   Everything Nice
     *   Pumpkin Spice
-    *   Gucci Sunglasses
-    
     *   Dr. Martens
     *   Dr. Martens Men
-    *   TOPSHOP
-    *   Tops Under $20 Incl. Plus
-    *   Fall Styles Up to 70% Off Incl. Plus
     *   Work From Home: Men's Styles up to 65% Off
-    *   Timeless Trenches: Raincoats &. More Up to 70% Off
     *   Saturdays NYC Up to 60% Off
-    *   Tommy Hilfiger &. More
-    *   Make Waves: Swim Starting at $20
     *   Layered Necklaces &. Rings
     *   ECCO Men
+    
     *   David Donahue Up to 65% Off
-    *   Aimee Kestenberg Crossbodies &. More Starting at $30
     *   Joe Fresh Kids &. More Starting at $10
     *   Kid's Boots ft. Dr. Martens
-    *   Diane von Furstenberg Up to 70% Off
     *   Tailored Perfection ft. Ralph Lauren
-    *   Fall Favorites for Girls Up to 60% Off
-    *   Fall Favorites for Boys Up to 60% Off
-    *   Play Outside: Kid's Shoes ft. Crocs
-    *   Men's FRAME Denim &. More
     *   Red Wing Men Up to 60% Off
     *   Men's Outdoor Shoes ft. Keen
     *   Lorac Cosmetics &. More Starting at $10
     *   Free Shipping: Canvas Art Prints &. Wall Art
-    
     *   Apple Watch Bands Starting at $15
-    *   AllSaints Men's Apparel &. Shoes
-    *   Men's Bugatchi Up to 70% Off
     *   Must-have Face Masks &. Moisturizers for Fall
-    *   The Active Shop: Leggings &. More Up to 75% Off
-    *   The Active Shop: Bras, Tanks &. Tees Starting at $20
-    *   The Active Shop: Jackets &. More Starting at $25
-    *   The Active Shop: Athleisure Apparel Up to 65% Off
-    *   The Active Shop: Men's Running &. Training Sneakers
-    *   The Active Shop: Women's Sneakers
-    *   The Active Shop: Men's Lifestyle Sneakers
-    *   The Active Shop: Girls' Styles Starting at $15
-    *   The Active Shop: Boys' Active Styles Starting at $15
-    *   The Active Shop: Men's Golf Styles Up to 60% Off
-    *   The Active Shop: Men's Athleisure Starting at $20
     *   Free Shipping: Picnic Time Starting at $20
     *   Time to Get Organized- Up to 50% Off
-    *   The Active Shop: Men's Styles Starting at $15
     *   Sheet Sets Under $30
     *   Brookstone, RING Doorbells, Google Home &. More
     *   Heating Pads Under $30 &. More Wellness Gear
-    *   FRAME Up to 70%
+    *   FOREO &. More Up to 60% Off
+    *   LaFonn Simulated Diamond Jewelry Up to 70% Off
+    *   Fall for These Suede Shoes
+    *   Gucci Sunglasses
+    *   Fall Styles Up to 70% Off Incl. Plus
     *   Cardigans Up to 70% Off Incl. Plus
-    *   Designer Shop Up to 70% Off
-    *   Jackets Up to 70% Off Incl. Plus
-    *   WFH Essentials Up to 70% Off Incl. Plus
 *   WomenShop Sale Events
     
+    *   Velvet Torch
+    *   Fall Finds Incl. Plus
+    *   T Tahari Incl. Plus
+    *   Fall Pants Up to 70% Off Incl. Plus
+    *   Layer Up: Faux Fur Outerwear &. More
+    *   Splendid Swim
+    *   Born &. B.O.C. By Born Up to 50% Off
     *   Rebecca Minkoff
     *   Rebecca Minkoff Handbags &. More
     *   Designer Dresses Up to 75% Off
     *   Designer Tops Up to 70% Off
+    *   Women's Styles at $50 Incl. Plus
     *   Women's Styles at $40 Incl. Plus
     *   Women's Styles at $30 Incl. Plus
-    *   Women's Styles at $50 Incl. Plus
     *   We Wore What
     *   Lingerie &. Sleep Finds Under $25
     *   Mask Sets Starting at $15
     *   Boots ft. Cole Haan, Donald Pliner &. Via Spiga
-    *   Metal Frames Starting at $20
+    
     *   Sport These: Active Sock Packs Under $15
     *   Sperry
     *   Wear It All: Stackable Bracelets &. More
     *   DAENG GI MEO RI Haircare &. More Up to 50% Off
+    *   Metal Frames Starting at $20
     *   Everything Nice
     *   Pumpkin Spice
-    *   Gucci Sunglasses
     *   Dr. Martens
-    *   TOPSHOP
-    
-    *   Tops Under $20 Incl. Plus
-    *   Fall Styles Up to 70% Off Incl. Plus
-    *   Timeless Trenches: Raincoats &. More Up to 70% Off
-    *   Tommy Hilfiger &. More
-    *   Make Waves: Swim Starting at $20
     *   Layered Necklaces &. Rings
-    *   Aimee Kestenberg Crossbodies &. More Starting at $30
-    *   Diane von Furstenberg Up to 70% Off
     *   Lorac Cosmetics &. More Starting at $10
     *   Must-have Face Masks &. Moisturizers for Fall
-    *   The Active Shop: Leggings &. More Up to 75% Off
-    *   The Active Shop: Bras, Tanks &. Tees Starting at $20
-    *   The Active Shop: Jackets &. More Starting at $25
-    *   The Active Shop: Athleisure Apparel Up to 65% Off
-    *   The Active Shop: Women's Sneakers
-    *   FRAME Up to 70%
+    *   FOREO &. More Up to 60% Off
+    *   LaFonn Simulated Diamond Jewelry Up to 70% Off
+    *   Fall for These Suede Shoes
+    *   Gucci Sunglasses
+    *   Fall Styles Up to 70% Off Incl. Plus
     *   Cardigans Up to 70% Off Incl. Plus
-    *   Designer Shop Up to 70% Off
-    *   Jackets Up to 70% Off Incl. Plus
-    *   WFH Essentials Up to 70% Off Incl. Plus
     
     Shop By Category
     *   Clothing
-    *   Shoes
     *   Jewelry
+    *   Shoes
     *   Accessories
     *   Handbags
     *   Lingerie &. Shapewear
     *   Watches
 *   MenShop Sale Events
     
-    *   English Laundry Men's Shoes Up to 70% Off
-    *   Metal Frames Starting at $20
-    *   Men's Lucky Brand &. More Up to 60% Off
+    *   Men's Luxe Shoes ft. Magnanni
+    *   Men's Leather Shoes Up to 70% Off
+    *   Men's Luxe Sweaters Up to 65% Off
     *   PUMA Men's Active Starting at $15
+    *   English Laundry Men's Shoes Up to 70% Off
     *   Men's Boots Up to 70% Off
-    *   Gucci Sunglasses
+    *   Men's Lucky Brand &. More Up to 60% Off
+    *   Metal Frames Starting at $20
     *   Dr. Martens Men
+    
     *   Work From Home: Men's Styles up to 65% Off
     *   Saturdays NYC Up to 60% Off
     *   ECCO Men
     *   David Donahue Up to 65% Off
-    
     *   Tailored Perfection ft. Ralph Lauren
-    *   Men's FRAME Denim &. More
     *   Red Wing Men Up to 60% Off
     *   Men's Outdoor Shoes ft. Keen
-    *   AllSaints Men's Apparel &. Shoes
-    *   Men's Bugatchi Up to 70% Off
-    *   The Active Shop: Men's Running &. Training Sneakers
-    *   The Active Shop: Men's Lifestyle Sneakers
-    *   The Active Shop: Men's Golf Styles Up to 60% Off
-    *   The Active Shop: Men's Athleisure Starting at $20
-    *   The Active Shop: Men's Styles Starting at $15
+    *   Gucci Sunglasses
     
     Shop By Category
     *   Clothing
@@ -175,25 +151,23 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Watches
 *   KidsShop Sale Events
     
+    *   Effy Jewelry Up to 70% Off
+    *   Bundle Up: Kids' Outerwear Up to 70% Off
     *   Bring on the Fun: Toys, Books &. More
     *   Toddler Sneaker Refresh ft. Carters
     *   Joe Fresh Kids &. More Starting at $10
     *   Kid's Boots ft. Dr. Martens
-    *   Fall Favorites for Girls Up to 60% Off
-    *   Fall Favorites for Boys Up to 60% Off
-    *   Play Outside: Kid's Shoes ft. Crocs
-    *   The Active Shop: Girls' Styles Starting at $15
-    *   The Active Shop: Boys' Active Styles Starting at $15
     
     Shop By Category
     *   Girls
     *   Girls' Shoes
     *   Boys
     *   Baby
-    *   Boys' Shoes
     *   Toys
+    *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Free Shipping: Overstock Fall Art Blowout
     *   Sugarfina Holiday Treats Up to 60% Off
     *   Free Shipping: Canvas Art Prints &. Wall Art
     *   Apple Watch Bands Starting at $15
@@ -209,8 +183,8 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Bedding
     *   Kitchen &. Tabletop
     *   Cleaning &. Organization
-    *   Luggage &. Travel
     *   Outdoor Living
+    *   Luggage &. Travel
     *   Holiday Decorations
 *   BeautyShop Sale Events
     
@@ -219,14 +193,15 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Pumpkin Spice
     *   Lorac Cosmetics &. More Starting at $10
     *   Must-have Face Masks &. Moisturizers for Fall
+    *   FOREO &. More Up to 60% Off
     
     Shop By Category
     *   Makeup
     *   Hair Care
     *   Skin Care
+    *   Tools &. Accessories
     *   Bath &. Body
     *   Fragrance
-    *   Tools &. Accessories
     *   Nails
     *   Makeup Bags
 
