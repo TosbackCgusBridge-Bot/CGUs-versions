@@ -55,8 +55,8 @@ View more results
     *   Stickman Archer 2
     *   Combat Strike 2
     *   Stickman Fighter: Epic Battle
-    *   Super Buddy Kick
     *   Super Escape Masters
+    *   Super Buddy Kick
     *   Miami Crime Simulator 3D
     *   Apple Shooter
     *   Warbanner
@@ -114,14 +114,14 @@ View more results
     *   1001 Arabian Nights
     *   Mahjong Connect Classic
     *   MahJongCon
-    *   Skydom
     *   Water Flow 3D
+    *   Skydom
     *   Candy Riddles: Free Match 3 Puzzle
     *   Bubble Machine: 2 Player Game
     *   Snail Bob 1
     *   Sevenventure
     *   Crystical: 2 Player Puzzle Game
-    *   Pyramid Solitaire Duel
+    *   Butterfly Kyodai
 *   Girls
     
     Top Categories
@@ -137,20 +137,20 @@ View more results
     *   Make Up
     
     All Girls Best Games
-    *   Family Relics
     *   Funny Throat Doctor
+    *   Family Relics
     *   BFFs Dressing Room
     *   Mermaid Sauna Flirting
+    *   Foot Doctor
     *   Cooking: Korean Lesson
     *   Coloring Bunny Book
-    *   Foot Doctor
     *   Mommy BFFs: Pregnant Check-Up
     *   Beach Kiss
     *   Bad Teeth Makeover
     *   Pizza Real Life Cooking
     *   Love Tester 3
-    *   Blondie Wedding Prep: Dress Up Game
     *   Goldie: Lip Injections
+    *   Cake Design
 *   Racing
     
     Top Categories
@@ -198,8 +198,8 @@ View more results
     *   Xcross Madness
     *   Drag Racing Rivals
     *   Moto X3m 3
-    *   Archery World Tour
     *   Basketball Stars 2019
+    *   Archery World Tour
     *   Table Tennis Pro
     *   Penalty Shooters 2: Football Game
     *   Stunt Skateboard 3D
