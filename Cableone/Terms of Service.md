@@ -25,7 +25,7 @@ But we're still here to help, contact our friends at SmartMove.us to find servic
 
 See Offers Call 1-866-270-9684 Choose another location to see local deals and information Set Location Set Location Acceptable Use Policy ACCEPTABLE USE POLICY
 
-Effective July 1, 2020
+Effective October 1, 2020
 
 Important Note: Sparklight®, may revise this Acceptable Use Policy from time to time without notice by editing the information on this page. Accordingly, users of the Sparklight residential services should consult this page regularly to ensure that their activities conform to the most recent version. In the event of a conflict between any subscriber agreement and this policy, the terms of this policy will govern. Questions regarding this policy can be directed to legal@cableone.biz. Complaints of violations of this policy by Sparklight users can be directed to abuse@cableone.biz. Visit http://www.Sparklight.com/legal/open-internet to review Sparklight's Network Management Disclosure Statement.
 
