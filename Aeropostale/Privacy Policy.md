@@ -400,7 +400,7 @@ Denim All Day. Denim Always.
 
 With a new &. improved booty-lifting fit for her &. extra leg room for him.
 
-Shop Girls Jeans Shop Guys Jeans Shop Gilrs Destroyed Denim Shop Guys Destroyed Denim
+Shop Girls Jeans Shop Guys Jeans Shop Girls Destroyed Denim Shop Guys Destroyed Denim
 
 \*In store &. online. Add two to cart. Discount reflected at checkout. Excludes Clearance.
 
