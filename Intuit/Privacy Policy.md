@@ -76,16 +76,16 @@ The brands you know &. loveUP TO 25% OFF Activewearselect styles | Excluded from
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 26 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
+*   St. John's Bay Womens Long Sleeve Open Front Cardigan $17.49with code~$44~2
 *   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693
     
     $24.99sale
     
-    ~$36~5669
-*   St. John's Bay Womens Long Sleeve Open Front Cardigan $17.49with code~$44~2
-*   Home Expressions Solid or Stripe Bath Towel Collection $2.09 - $16.79with code~$6 - $48~694
+    ~$36~5674
 *   Worthington Womens Long Sleeve Cardigan $20.99with code~$44~1
 *   St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt $12.59with code~$30~2
 *   St. John's Bay Womens Mid Rise Straight Leg Jean $15.39 - $30.80with code2218
+*   Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set $9.09 - $20.99with code~$26 - $60~1761
 
 Shop and Save at JCPenney
 
