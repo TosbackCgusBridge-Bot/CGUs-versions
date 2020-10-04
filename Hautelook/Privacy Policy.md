@@ -9,170 +9,150 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Vince Camuto Up to 75% Off Incl. Plus
+    *   Vince Camuto Up to 60% Off
+    *   Barbour Up to 60% Off
+    *   Barbour Men Up to 60% Off
+    *   Vince Camuto Men Up to 75% Off
+    *   X by Gottex Under $35
+    *   Vince Camuto Accessories
+    *   Vince Camuto Handbags Starting at $25
+    *   Sweaters Under $30 Incl. Plus
+    *   Tees &. Tanks Up to 65% Off Incl. Plus
+    *   Bring Galaxy Indoors: Lights Starting at $19.97
+    *   Free Shipping: Wall Art Up to $60% Off
+    *   SmartWool Socks &. More
+    *   Fresh Finds: Sneakers Up to 60% Off
+    *   Men's Dress Shoes Up to 60% Off
+    *   Fresh Finds: Men's Sneakers Up to 65% Off
+    *   Barbour Starting at $15
+    *   All Dressed Up: Kids' Dresswear
+    *   Kids' Dress Shoes Up to 55% Off
+    
     *   Effy Jewelry Up to 70% Off
     *   Velvet Torch
-    *   Fall Finds Incl. Plus
     *   T Tahari Incl. Plus
-    *   Fall Pants Up to 70% Off Incl. Plus
-    *   Free Shipping: Overstock Fall Art Blowout
+    *   Men's Luxe Shoes ft. Magnanni
+    *   Sugarfina Holiday Treats Up to 60% Off
     *   Layer Up: Faux Fur Outerwear &. More
     *   Splendid Swim
-    *   Bundle Up: Kids' Outerwear Up to 70% Off
-    *   Men's Luxe Shoes ft. Magnanni
+    *   Fall Finds Incl. Plus
+    *   Fall Pants Up to 70% Off Incl. Plus
+    *   Free Shipping: Overstock Fall Art Blowout
     *   Men's Leather Shoes Up to 70% Off
     *   Born &. B.O.C. By Born Up to 50% Off
-    *   Men's Luxe Sweaters Up to 65% Off
-    *   Rebecca Minkoff
-    *   Rebecca Minkoff Handbags &. More
-    *   Designer Dresses Up to 75% Off
-    *   Designer Tops Up to 70% Off
-    *   Women's Styles at $50 Incl. Plus
-    *   Women's Styles at $40 Incl. Plus
-    *   Women's Styles at $30 Incl. Plus
-    *   We Wore What
-    *   Lingerie &. Sleep Finds Under $25
-    
-    *   Sugarfina Holiday Treats Up to 60% Off
+    *   Bundle Up: Kids' Outerwear Up to 70% Off
     *   Mask Sets Starting at $15
     *   PUMA Men's Active Starting at $15
-    *   Boots ft. Cole Haan, Donald Pliner &. Via Spiga
+    *   Men's Luxe Sweaters Up to 65% Off
     *   English Laundry Men's Shoes Up to 70% Off
     *   Men's Boots Up to 70% Off
-    *   Sport These: Active Sock Packs Under $15
     *   Men's Lucky Brand &. More Up to 60% Off
-    *   Sperry
+    
     *   Wear It All: Stackable Bracelets &. More
     *   DAENG GI MEO RI Haircare &. More Up to 50% Off
     *   Bring on the Fun: Toys, Books &. More
     *   Toddler Sneaker Refresh ft. Carters
-    *   Metal Frames Starting at $20
-    *   Everything Nice
-    *   Pumpkin Spice
-    *   Dr. Martens
-    *   Dr. Martens Men
     *   Work From Home: Men's Styles up to 65% Off
     *   Saturdays NYC Up to 60% Off
-    *   Layered Necklaces &. Rings
     *   ECCO Men
-    
     *   David Donahue Up to 65% Off
-    *   Joe Fresh Kids &. More Starting at $10
-    *   Kid's Boots ft. Dr. Martens
-    *   Tailored Perfection ft. Ralph Lauren
-    *   Red Wing Men Up to 60% Off
-    *   Men's Outdoor Shoes ft. Keen
     *   Lorac Cosmetics &. More Starting at $10
     *   Free Shipping: Canvas Art Prints &. Wall Art
     *   Apple Watch Bands Starting at $15
-    *   Must-have Face Masks &. Moisturizers for Fall
     *   Free Shipping: Picnic Time Starting at $20
-    *   Time to Get Organized- Up to 50% Off
     *   Sheet Sets Under $30
     *   Brookstone, RING Doorbells, Google Home &. More
     *   Heating Pads Under $30 &. More Wellness Gear
+    *   Mirenesse Starting from $10
     *   FOREO &. More Up to 60% Off
     *   LaFonn Simulated Diamond Jewelry Up to 70% Off
     *   Fall for These Suede Shoes
-    *   Gucci Sunglasses
-    *   Fall Styles Up to 70% Off Incl. Plus
-    *   Cardigans Up to 70% Off Incl. Plus
 *   WomenShop Sale Events
     
+    *   Vince Camuto Up to 75% Off Incl. Plus
+    *   Vince Camuto Up to 60% Off
+    *   Barbour Up to 60% Off
+    *   X by Gottex Under $35
+    *   Vince Camuto Accessories
+    *   Vince Camuto Handbags Starting at $25
+    *   Sweaters Under $30 Incl. Plus
+    *   Tees &. Tanks Up to 65% Off Incl. Plus
+    *   SmartWool Socks &. More
+    *   Fresh Finds: Sneakers Up to 60% Off
+    *   Barbour Starting at $15
     *   Velvet Torch
-    *   Fall Finds Incl. Plus
     *   T Tahari Incl. Plus
-    *   Fall Pants Up to 70% Off Incl. Plus
+    
     *   Layer Up: Faux Fur Outerwear &. More
     *   Splendid Swim
+    *   Fall Finds Incl. Plus
+    *   Fall Pants Up to 70% Off Incl. Plus
     *   Born &. B.O.C. By Born Up to 50% Off
-    *   Rebecca Minkoff
-    *   Rebecca Minkoff Handbags &. More
-    *   Designer Dresses Up to 75% Off
-    *   Designer Tops Up to 70% Off
-    *   Women's Styles at $50 Incl. Plus
-    *   Women's Styles at $40 Incl. Plus
-    *   Women's Styles at $30 Incl. Plus
-    *   We Wore What
-    *   Lingerie &. Sleep Finds Under $25
     *   Mask Sets Starting at $15
-    *   Boots ft. Cole Haan, Donald Pliner &. Via Spiga
-    
-    *   Sport These: Active Sock Packs Under $15
-    *   Sperry
     *   Wear It All: Stackable Bracelets &. More
     *   DAENG GI MEO RI Haircare &. More Up to 50% Off
-    *   Metal Frames Starting at $20
-    *   Everything Nice
-    *   Pumpkin Spice
-    *   Dr. Martens
-    *   Layered Necklaces &. Rings
     *   Lorac Cosmetics &. More Starting at $10
-    *   Must-have Face Masks &. Moisturizers for Fall
+    *   Mirenesse Starting from $10
     *   FOREO &. More Up to 60% Off
     *   LaFonn Simulated Diamond Jewelry Up to 70% Off
     *   Fall for These Suede Shoes
-    *   Gucci Sunglasses
-    *   Fall Styles Up to 70% Off Incl. Plus
-    *   Cardigans Up to 70% Off Incl. Plus
     
     Shop By Category
     *   Clothing
-    *   Jewelry
     *   Shoes
+    *   Jewelry
     *   Accessories
     *   Handbags
     *   Lingerie &. Shapewear
-    *   Watches
 *   MenShop Sale Events
     
+    *   Barbour Men Up to 60% Off
+    *   Vince Camuto Men Up to 75% Off
+    *   Men's Dress Shoes Up to 60% Off
+    *   Fresh Finds: Men's Sneakers Up to 65% Off
     *   Men's Luxe Shoes ft. Magnanni
     *   Men's Leather Shoes Up to 70% Off
-    *   Men's Luxe Sweaters Up to 65% Off
     *   PUMA Men's Active Starting at $15
+    *   Men's Luxe Sweaters Up to 65% Off
+    
     *   English Laundry Men's Shoes Up to 70% Off
     *   Men's Boots Up to 70% Off
     *   Men's Lucky Brand &. More Up to 60% Off
-    *   Metal Frames Starting at $20
-    *   Dr. Martens Men
-    
     *   Work From Home: Men's Styles up to 65% Off
     *   Saturdays NYC Up to 60% Off
     *   ECCO Men
     *   David Donahue Up to 65% Off
-    *   Tailored Perfection ft. Ralph Lauren
-    *   Red Wing Men Up to 60% Off
-    *   Men's Outdoor Shoes ft. Keen
-    *   Gucci Sunglasses
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   All Dressed Up: Kids' Dresswear
+    *   Kids' Dress Shoes Up to 55% Off
     *   Effy Jewelry Up to 70% Off
     *   Bundle Up: Kids' Outerwear Up to 70% Off
     *   Bring on the Fun: Toys, Books &. More
     *   Toddler Sneaker Refresh ft. Carters
-    *   Joe Fresh Kids &. More Starting at $10
-    *   Kid's Boots ft. Dr. Martens
     
     Shop By Category
     *   Girls
     *   Girls' Shoes
+    *   Toys
     *   Boys
     *   Baby
-    *   Toys
     *   Boys' Shoes
 *   HomeShop Sale Events
     
-    *   Free Shipping: Overstock Fall Art Blowout
+    *   Bring Galaxy Indoors: Lights Starting at $19.97
+    *   Free Shipping: Wall Art Up to $60% Off
     *   Sugarfina Holiday Treats Up to 60% Off
+    *   Free Shipping: Overstock Fall Art Blowout
     *   Free Shipping: Canvas Art Prints &. Wall Art
     *   Apple Watch Bands Starting at $15
     *   Free Shipping: Picnic Time Starting at $20
-    *   Time to Get Organized- Up to 50% Off
     *   Sheet Sets Under $30
     *   Brookstone, RING Doorbells, Google Home &. More
     *   Heating Pads Under $30 &. More Wellness Gear
@@ -182,28 +162,21 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Electronic &. Tech Accessories
     *   Bedding
     *   Kitchen &. Tabletop
-    *   Cleaning &. Organization
     *   Outdoor Living
     *   Luggage &. Travel
-    *   Holiday Decorations
 *   BeautyShop Sale Events
     
     *   DAENG GI MEO RI Haircare &. More Up to 50% Off
-    *   Everything Nice
-    *   Pumpkin Spice
     *   Lorac Cosmetics &. More Starting at $10
-    *   Must-have Face Masks &. Moisturizers for Fall
+    *   Mirenesse Starting from $10
     *   FOREO &. More Up to 60% Off
     
     Shop By Category
     *   Makeup
     *   Hair Care
-    *   Skin Care
     *   Tools &. Accessories
+    *   Skin Care
     *   Bath &. Body
-    *   Fragrance
-    *   Nails
-    *   Makeup Bags
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
