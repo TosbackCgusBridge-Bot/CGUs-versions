@@ -4,49 +4,43 @@ Skip to main content Main menu
 *   Episodes &. Videos
 *   News
 *   Podcasts
-*   Detective's Den
+*   Oxygen Insider
 *   Schedule
 
 Toggle menu
 
-*   Apps
-*   Shop
+*   Sign Up / Log In
 
 Main menu
 
 *   Shows
     *   All Shows
-        *   Accident, Suicide, or Murder
+        *   Buried in the Backyard
         *   Chicago P.D.
         *   Dark Web Exposed
         *   Dateline: Secrets Uncovered
-        *   Deadly Cults
         *   Famous Cases Explained
         *   How To Stay Safe
-        *   Killer Couples
+        *   Injustice with Nancy Grace
         *   License to Kill
-        *   Mark of a Killer
         *   Martinis &. Murder
         *   Searching For
         *   Snapped
+        *   The Real Murders of Orange County
     *   Channel Finder
 *   Episodes &. Videos
     *   Full Episodes
     *   Trending Videos
     *   Watch Live TV
+    *   Peacock
 *   News
     *   Crime News
     *   True Crime Buzz
 *   Podcasts
-*   Detective's Den
+*   Oxygen Insider
 *   Schedule
 
-Get More Oxygen
-
-*   Apps
-*   Shop
-
-Page Not Found
+TV Provider Oxygen Insider Sign Up / Log In Profile Manage Profile Email Preferences Sign Out Page Not Found
 
 Sorry we couldn’t find what you were looking for.
 
@@ -87,4 +81,4 @@ Get Involved
 *   Corporate Info
 *   AdChoices
 
-Stay Connected Facebook Twitter Instagram YouTube Newsletter Stay Connected Facebook Twitter Instagram YouTube Newsletter ©2020 Oxygen Media LLC. A Division of NBCUniversal
+Stay Connected Facebook Twitter Instagram YouTube Newsletter Stay Connected Facebook Twitter Instagram YouTube Newsletter ©2020 Oxygen Media LLC. A Division of NBCUniversal advertisementadvertisementadvertisement
