@@ -1,14 +1,14 @@
-games videos New Games Next in  11:51
+games videos New Games Next in  14:05
 
-*   Newest Games Next addition in 11:51
+*   Newest Games Next addition in 14:05
 
 *   Best New Games Best games from last 2 months
 
 Categories &. more LIBRARY
 
-*   New Games Next in 11:51
+*   New Games Next in 14:05
 *   Best of new games 1382 games
-*   Most Popular Games 21767 games
+*   Most Popular Games 21771 games
 *   Played Games 0 games
 *   Liked Games 0 games
 *   Recommended Games 0 games
@@ -19,19 +19,19 @@ CATEGORIES
 *   Driving &. Racing 6,483 games
 *   Strategy &. RPG 3,650 games
 *   Management &. Sim 4,302 games
-*   Thinking 13,015 games
-*   Action &. Adventure 14,903 games
-*   Sports 3,399 games
-*   Shooting 9,163 games
+*   Thinking 13,017 games
+*   Action &. Adventure 14,907 games
+*   Sports 3,400 games
+*   Shooting 9,165 games
 *   Fighting 2,088 games
-*   Skill 11,777 games
-*   Arcade &. Classic 9,767 games
+*   Skill 11,783 games
+*   Arcade &. Classic 9,774 games
 *   Fun &. Crazy 5,005 games
 
 Play with friends  
 Powered by Y8 Account 149 Y8 Multiplayer Games 2,234 Y8 High Score Games 1,285 Y8 Achievements Games 916 Y8 Screenshots Games 1,740 Y8 Online Save Games 3,471 All Y8 Games Games Last Highscore:
 
-**39,600** points on Smilodon Rampage by abdulla2005
+**680,536** points on Hide Online by SWAT-LTK\_Snow
 
 Help us improve Bad translation? Social
 
