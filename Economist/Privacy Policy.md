@@ -67,7 +67,6 @@ The Economist Newspaper privacy statement
   
 
 **The Economist Group’s Privacy Policy  
-  
 **
 
 The Economist Group strives for transparency and trust when it comes to protecting your privacy and we aim to clearly explain how we collect and process your information. It’s important to us that you should enjoy using our products, services and website(s) without compromising your privacy in any way. This policy outlines how we collect and use different types of personal and behavioural information, and the reasons for doing so. You have the right to access, change or delete your personal information at any time and you can find out more about this and your rights in our FAQ section. Alternatively, you can get in touch directly with our Data Privacy Team. their details included in our “Contact Us” section.
@@ -364,9 +363,10 @@ Charity Registration Number: 293709
 
 Address: The Adelphi 1-11 John Adam Street London WC2N 6HT
 
-**  
   
-Contact Us**
+  
+
+**Contact Us**
 
 If you have questions about this policy or about your personal information, please complete our enquiry form, or email dataprivacy@economist.com.
 
