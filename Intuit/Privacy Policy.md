@@ -1,7 +1,7 @@
-chatOur COVID-19 response  DetailsFriends &. Family Sale! EXTRA 30% OFF w/ code: FRIENDS4 Shop All  
+chatOur COVID-19 response  DetailsLast Day—Friends &. Family Sale EXTRA 30% OFF w/ code: FRIENDS4 Shop All  
 Free Shipping Over $49  DetailsContact-free curbside pickup Learn More  
 2-hour buy online pickup &. go Get Details  
-Our COVID-19 response  DetailsFriends &. Family Sale! EXTRA 30% OFF w/ code: FRIENDS4 Shop All  
+Our COVID-19 response  DetailsLast Day—Friends &. Family Sale EXTRA 30% OFF w/ code: FRIENDS4 Shop All  
 
 Enable Accessibility
 
@@ -14,7 +14,7 @@ Enable Accessibility
     Sign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardCart
+    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
 *   School Essentials
 *   Home &. Lifestyle
@@ -81,11 +81,11 @@ Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 26 total items loaded
     
     $24.99sale
     
-    ~$36~5674
-*   Worthington Womens Long Sleeve Cardigan $20.99with code~$44~1
+    ~$36~5676
+*   Worthington Womens Long Sleeve Cardigan $20.99with code~$44~2
 *   St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt $12.59with code~$30~2
-*   St. John's Bay Womens Mid Rise Straight Leg Jean $15.39 - $30.80with code2218
-*   Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set $9.09 - $20.99with code~$26 - $60~1761
+*   St. John's Bay Womens Mid Rise Straight Leg Jean $15.39 - $30.80with code2219
+*   St. John's Bay-Womens Crew Neck 3/4 Sleeve T-Shirt $11.90with code
 
 Shop and Save at JCPenney
 
