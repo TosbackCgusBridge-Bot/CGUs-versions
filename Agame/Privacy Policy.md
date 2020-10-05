@@ -33,8 +33,8 @@ View more results
     *   Subway Clash 3D
     *   Fireboy &. Watergirl 3: The Ice Temple
     *   Knights of Fortune
-    *   Family Relics
     *   Ono Card Game
+    *   Stickman Fighter: Epic Battle
 *   Action
     
     Top Categories
@@ -52,15 +52,15 @@ View more results
     All Action Best Games
     *   Subway Clash 3D
     *   Knights of Fortune
-    *   Stickman Archer 2
     *   Stickman Fighter: Epic Battle
-    *   Combat Strike 2
+    *   Stickman Archer 2
     *   Super Escape Masters
+    *   Combat Strike 2
     *   Miami Crime Simulator 3D
     *   Super Buddy Kick
     *   Apple Shooter
-    *   Warbanner
     *   Sniper Reloaded
+    *   Warbanner
     *   Pixel Gun Apocalypse 3
     *   Total Front
     *   Shot Trigger
@@ -92,7 +92,7 @@ View more results
     *   The Last Survivors: 2 Player Zombie Game
     *   Bob the Robber 4: Season 2 Russia
     *   Trap Adventure 2
-    *   World Crafts
+    *   Troll Face Quest: Horror 2
 *   Puzzle
     
     Top Categories
@@ -139,8 +139,8 @@ View more results
     All Girls Best Games
     *   Funny Throat Doctor
     *   Family Relics
-    *   BFFs Dressing Room
     *   Foot Doctor
+    *   BFFs Dressing Room
     *   Mermaid Sauna Flirting
     *   Cooking: Korean Lesson
     *   Coloring Bunny Book
@@ -207,7 +207,7 @@ View more results
     *   Baseball
     *   Moto X3M: Winter - Motorbike Game
     *   Table Tennis Challenge
-    *   8-Ball
+    *   Ultimate Boxing
 *   More
     
     *   Multiplayer
