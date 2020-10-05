@@ -9,10 +9,30 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Sweater Dresses Up to 70% Off
+    *   Lazy Day Faves: Sleep &. Lounge Under $30
+    *   Women's Comfort Shoe Blowout
+    *   Men's Denim Under $50
+    *   Men's Comfort Shoes Blowout
+    *   BergHOFF Kitchen Blowout Up to 60% Off
+    *   Weekend Warrior: Weekenders &. Duffles Up to 60% Off
+    *   ALLSAINTS
+    *   Roberto Cavalli Men Up to 80% Off
+    *   French Connection Incl. Plus
+    *   Autumn Arrivals Up to 70% Off Incl. Plus
+    *   Fall Ready ft. Blu Pepper
+    *   Fall Fit Favorites: Active Up to 75% Off
+    *   Women's Shoes Under $30
+    *   Men's Lounge Shoes Up to 60% Off
+    *   Men's Lounge Styles Up to 55% Off
+    *   Baby Essentials: Footies, Gear &. More
+    *   Cozy Up: Women's Slippers
+    *   Men &. Women's Belts Starting at $15
     *   Vince Camuto Up to 75% Off Incl. Plus
     *   Vince Camuto Up to 60% Off
     *   Barbour Up to 60% Off
     *   Barbour Men Up to 60% Off
+    
     *   Vince Camuto Men Up to 75% Off
     *   X by Gottex Under $35
     *   Vince Camuto Accessories
@@ -28,7 +48,6 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Barbour Starting at $15
     *   All Dressed Up: Kids' Dresswear
     *   Kids' Dress Shoes Up to 55% Off
-    
     *   Effy Jewelry Up to 70% Off
     *   Velvet Torch
     *   T Tahari Incl. Plus
@@ -37,45 +56,49 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Layer Up: Faux Fur Outerwear &. More
     *   Splendid Swim
     *   Fall Finds Incl. Plus
+    
     *   Fall Pants Up to 70% Off Incl. Plus
     *   Free Shipping: Overstock Fall Art Blowout
     *   Men's Leather Shoes Up to 70% Off
     *   Born &. B.O.C. By Born Up to 50% Off
     *   Bundle Up: Kids' Outerwear Up to 70% Off
-    *   Mask Sets Starting at $15
-    *   PUMA Men's Active Starting at $15
     *   Men's Luxe Sweaters Up to 65% Off
     *   English Laundry Men's Shoes Up to 70% Off
     *   Men's Boots Up to 70% Off
-    *   Men's Lucky Brand &. More Up to 60% Off
-    
-    *   Wear It All: Stackable Bracelets &. More
     *   DAENG GI MEO RI Haircare &. More Up to 50% Off
     *   Bring on the Fun: Toys, Books &. More
-    *   Toddler Sneaker Refresh ft. Carters
-    *   Work From Home: Men's Styles up to 65% Off
-    *   Saturdays NYC Up to 60% Off
-    *   ECCO Men
-    *   David Donahue Up to 65% Off
-    *   Lorac Cosmetics &. More Starting at $10
     *   Free Shipping: Canvas Art Prints &. Wall Art
     *   Apple Watch Bands Starting at $15
-    *   Free Shipping: Picnic Time Starting at $20
     *   Sheet Sets Under $30
     *   Brookstone, RING Doorbells, Google Home &. More
     *   Heating Pads Under $30 &. More Wellness Gear
+    *   False Eyelashes &. Eyeliner From $9.97
+    *   Kid's Slippers Starting at $15
     *   Mirenesse Starting from $10
     *   FOREO &. More Up to 60% Off
     *   LaFonn Simulated Diamond Jewelry Up to 70% Off
     *   Fall for These Suede Shoes
 *   WomenShop Sale Events
     
+    *   Sweater Dresses Up to 70% Off
+    *   Lazy Day Faves: Sleep &. Lounge Under $30
+    *   Women's Comfort Shoe Blowout
+    *   Weekend Warrior: Weekenders &. Duffles Up to 60% Off
+    *   ALLSAINTS
+    *   French Connection Incl. Plus
+    *   Autumn Arrivals Up to 70% Off Incl. Plus
+    *   Fall Ready ft. Blu Pepper
+    *   Fall Fit Favorites: Active Up to 75% Off
+    *   Women's Shoes Under $30
+    *   Cozy Up: Women's Slippers
+    *   Men &. Women's Belts Starting at $15
     *   Vince Camuto Up to 75% Off Incl. Plus
     *   Vince Camuto Up to 60% Off
     *   Barbour Up to 60% Off
     *   X by Gottex Under $35
     *   Vince Camuto Accessories
     *   Vince Camuto Handbags Starting at $25
+    
     *   Sweaters Under $30 Incl. Plus
     *   Tees &. Tanks Up to 65% Off Incl. Plus
     *   SmartWool Socks &. More
@@ -83,16 +106,13 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Barbour Starting at $15
     *   Velvet Torch
     *   T Tahari Incl. Plus
-    
     *   Layer Up: Faux Fur Outerwear &. More
     *   Splendid Swim
     *   Fall Finds Incl. Plus
     *   Fall Pants Up to 70% Off Incl. Plus
     *   Born &. B.O.C. By Born Up to 50% Off
-    *   Mask Sets Starting at $15
-    *   Wear It All: Stackable Bracelets &. More
     *   DAENG GI MEO RI Haircare &. More Up to 50% Off
-    *   Lorac Cosmetics &. More Starting at $10
+    *   False Eyelashes &. Eyeliner From $9.97
     *   Mirenesse Starting from $10
     *   FOREO &. More Up to 60% Off
     *   LaFonn Simulated Diamond Jewelry Up to 70% Off
@@ -102,57 +122,58 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Clothing
     *   Shoes
     *   Jewelry
-    *   Accessories
     *   Handbags
+    *   Accessories
     *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
+    *   Men's Denim Under $50
+    *   Men's Comfort Shoes Blowout
+    *   Roberto Cavalli Men Up to 80% Off
+    *   Men's Lounge Shoes Up to 60% Off
+    *   Men's Lounge Styles Up to 55% Off
+    *   Men &. Women's Belts Starting at $15
     *   Barbour Men Up to 60% Off
     *   Vince Camuto Men Up to 75% Off
+    
     *   Men's Dress Shoes Up to 60% Off
     *   Fresh Finds: Men's Sneakers Up to 65% Off
     *   Men's Luxe Shoes ft. Magnanni
     *   Men's Leather Shoes Up to 70% Off
-    *   PUMA Men's Active Starting at $15
     *   Men's Luxe Sweaters Up to 65% Off
-    
     *   English Laundry Men's Shoes Up to 70% Off
     *   Men's Boots Up to 70% Off
-    *   Men's Lucky Brand &. More Up to 60% Off
-    *   Work From Home: Men's Styles up to 65% Off
-    *   Saturdays NYC Up to 60% Off
-    *   ECCO Men
-    *   David Donahue Up to 65% Off
     
     Shop By Category
-    *   Clothing
     *   Shoes
+    *   Clothing
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Baby Essentials: Footies, Gear &. More
     *   All Dressed Up: Kids' Dresswear
     *   Kids' Dress Shoes Up to 55% Off
     *   Effy Jewelry Up to 70% Off
     *   Bundle Up: Kids' Outerwear Up to 70% Off
     *   Bring on the Fun: Toys, Books &. More
-    *   Toddler Sneaker Refresh ft. Carters
+    *   Kid's Slippers Starting at $15
     
     Shop By Category
-    *   Girls
-    *   Girls' Shoes
-    *   Toys
-    *   Boys
     *   Baby
+    *   Girls
+    *   Boys
+    *   Toys
+    *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   BergHOFF Kitchen Blowout Up to 60% Off
     *   Bring Galaxy Indoors: Lights Starting at $19.97
     *   Free Shipping: Wall Art Up to $60% Off
     *   Sugarfina Holiday Treats Up to 60% Off
     *   Free Shipping: Overstock Fall Art Blowout
     *   Free Shipping: Canvas Art Prints &. Wall Art
     *   Apple Watch Bands Starting at $15
-    *   Free Shipping: Picnic Time Starting at $20
     *   Sheet Sets Under $30
     *   Brookstone, RING Doorbells, Google Home &. More
     *   Heating Pads Under $30 &. More Wellness Gear
@@ -162,18 +183,17 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Electronic &. Tech Accessories
     *   Bedding
     *   Kitchen &. Tabletop
-    *   Outdoor Living
     *   Luggage &. Travel
 *   BeautyShop Sale Events
     
     *   DAENG GI MEO RI Haircare &. More Up to 50% Off
-    *   Lorac Cosmetics &. More Starting at $10
+    *   False Eyelashes &. Eyeliner From $9.97
     *   Mirenesse Starting from $10
     *   FOREO &. More Up to 60% Off
     
     Shop By Category
-    *   Makeup
     *   Hair Care
+    *   Makeup
     *   Tools &. Accessories
     *   Skin Care
     *   Bath &. Body
