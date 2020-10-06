@@ -23,7 +23,7 @@ Active
 
 Always Active
 
-Save SettingsAllow All <link rel="stylesheet" href="https://assets.brstatic.com/v0.68.0/css/brcom/rebrand-nav.css?id=1012d78c2377f8de516e">. Open navigation Bankrate
+Save SettingsAllow All <link rel="stylesheet" href="https://assets.brstatic.com/v0.73.1/css/brcom/rebrand-nav.css?id=6e8550121ff077b07fdb">. Open navigation Bankrate
 
 *   BR Mortgages
 *   BR Banking
@@ -161,11 +161,11 @@ Get started Main Menu BR Credit cards Credit cards overview
 *   All credit card calculators
 *   Improving your credit
 
-Elevate your Bankrate experience
+Looking for the perfect credit card?
 
-Get insider access to our best financial tools and content
+Narrow your search with CardMatch™
 
-Get started Main Menu BR Loans Loans overview
+Find your match Main Menu BR Loans Loans overview
 
 *   Get the best rates
 *   Best personal loan rates
@@ -645,7 +645,7 @@ Government entities, law enforcement, lawyers, auditors, consultants and other p
 
 None
 
-August 5, 2020 6:21:50 PM EDT <link rel="stylesheet" href="https://assets.brstatic.com/v0.68.0/css/brcom/footer.css?id=8b863dccc364236b815c">. Bankrate About
+August 5, 2020 6:21:50 PM EDT <link rel="stylesheet" href="https://assets.brstatic.com/v0.73.1/css/brcom/footer.css?id=8b863dccc364236b815c">. Bankrate About
 
 *   About us
 *   Press room
