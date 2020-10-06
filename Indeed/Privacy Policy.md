@@ -1,4 +1,4 @@
-HR Tech Privacy Back to Indeed
+HR Tech Privacy
 
 *   Home
 *   Our Sites
@@ -538,7 +538,7 @@ Finally, please note that we may still send other messages to you, such as admin
 
 **10.4 The Rights of Access to and Portability of Your Personal Data**
 
-Users of these Sites are able to access most of their Personal Data provided to each Site on the Site in question, and if you have any queries or complaints we encourage you to contact us.Alternatively, if you do not wish to do this you may make a formal request to access your Personal Data held by Indeed. In order to do so, please fill out this form. Each specific Site will provide your Personal Data to you in a portable format. If you have interacted with the Site in question using more than one email address, please submit a subsequent request with the additional email addresses so that we may provide this personal data as well.
+Users of these Sites are able to access most of their Personal Data provided to each Site on the Site in question, and if you have any queries or complaints we encourage you to contact us. Alternatively, if you do not wish to do this you may make a formal request to access your Personal Data held by Indeed. In order to do so, please fill out this form. Each specific Site will provide your Personal Data to you in a portable format. If you have interacted with the Site in question using more than one email address, please submit a subsequent request with the additional email addresses so that we may provide this personal data as well.
 
 **10.5 The Right to Delete Your Personal Data**
 
