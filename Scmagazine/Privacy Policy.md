@@ -245,23 +245,23 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   What makes the threat actors tick?
-    *   Cloudflare announces free, privacy-focused website analytics
-    *   Threat intelligence starts with strong relationships
-    *   Microsoft: Ransomware attacks grow more dynamic, human-oriented
-    *   To improve DevSecOps, set application security priorities
-    
-    *   It’s finally time to go passwordless
+    *   Zoom tries to make good on security, privacy promises
+    *   CounterCraft Cyber Deception Platform v2.6.0
+    *   Nudging your employees towards better cyber hygiene
+    *   Tracking the cutting edge of software security initiatives
     *   As tech reaches end of life, hackers are watching
-    *   Why the $26 billion in BEC scams are worse than you think
-    *   What one company’s deal with the feds tells us about the long tail of data breaches
-    *   Security teams struggle with ransomware, cloud services
     
+    *   Security teams struggle with ransomware, cloud services
+    *   Acalvio Technologies, Inc. ShadowPlex v5.2
+    *   As tech reaches end of life, hackers are watching
+    *   Supply chain weak security link for 92 percent of US companies
+    *   How managed detection and response became a game changer
+    
+    *   Zoom tries to make good on security, privacy promises
     *   SMEs relearn security basics under COVID's telework conditions
     *   Phishing pages leverage CAPTCHAs to fool users, evade detection
     *   New report suggests the bug bounty business is recession-proof
     *   As tech reaches end of life, hackers are watching
-    *   Cloudflare announces free, privacy-focused website analytics
 
 Back to Top
 
@@ -295,4 +295,8 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
+
+You can skip this ad in 1 seconds.
+
+x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
