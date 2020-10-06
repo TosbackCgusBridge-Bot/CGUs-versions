@@ -1,7 +1,7 @@
-chatOur COVID-19 response  DetailsLast Day—Friends &. Family Sale EXTRA 30% OFF w/ code: FRIENDS4 Shop All  
+chatOur COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: STYLISH Details  
+EXTRA 25% OFF under $75 with code: STYLISH Details  
 Free Shipping Over $49  DetailsContact-free curbside pickup Learn More  
-2-hour buy online pickup &. go Get Details  
-Our COVID-19 response  DetailsLast Day—Friends &. Family Sale EXTRA 30% OFF w/ code: FRIENDS4 Shop All  
+Our COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: STYLISH Details  
 
 Enable Accessibility
 
@@ -16,7 +16,7 @@ Enable Accessibility
     *   Rewards
     *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
 
-*   School Essentials
+*   New &. Now
 *   Home &. Lifestyle
 *   Women
 *   Men
@@ -24,68 +24,48 @@ Enable Accessibility
 *   Baby &. Kids
 *   Shoes &. Accessories
 *   Jewelry
-*   Salon
-*   Sephora Beauty
+*   Sephora Beauty &. Salon
 
-**_Fall_ the layers to love!** **UP TO 40% OFF Women's fall apparel**select styles
+Explore Shop All DealsSemi-Annual Intimates SaleEnds 10/14
 
-*   Shop All
+*   Shop Bras
+*   Shop Panties
 
-*   Sweaters &. Cardigans
-    
-*   Tops
-    
-*   Blazers
-    
-*   Jeans
-    
-
-Shop All**UP TO 40% OFF Men's fall clothing** **Amazing comfort. All-around versatility.**select styles
+35-60% OFF Fine &. fashion jewelry+ EXTRA 30% OFF\*with **JCPenney Credit Card**&. coupon or code: **FLAWLESS**select styles\*Coupon &. details
 
 *   Shop All
 
-*   Shirts
-    
-*   Hoodies &. Sweatshirts
-    
-*   Coats &. Jackets
-    
-*   Jeans
-    
-
-Shop AllPerfect picks for fall!  UP TO 40% OFF Arizonaselect stylesJuniorsYoung MenGirlsBoys 
+St. John's BayXersionArizonaJF J. FerrarGirlsBoysUnBOOlievable costume ideasGet the whole family screaming for Hallo"_weeee_"n!!Shop Halloween40% OFF Disney &. Disney/Pixar Costumes  select styles | Excluded from coupons.Perk up your home for fall!30-40% OFF Home Saleselect stylesShop AllBeddingWindowDecorRugsUP TO 40% OFF Cuisinart®Find NEW products to love with the kitchen brand that does it all.select styles 
 
 *   Shop All
 
-*   Women
+*   Kitchen Appliances
     
-*   Men
+*   Cookware
     
-*   Boys
+*   Cutlery
     
-*   Girls
+*   Gadgets
     
 
-Shop AllHomeWomenMenShoesJuniorsBaby &. KidsUP TO 30% OFF Home brands only at JCPenneyselect stylesLiz ClaiborneLinden StreetCooksJCPenney Home35-60% OFF Fine jewelry+ EXTRA 35% OFF\*with **JCPenney Credit Card**&. coupon or code: **3CARATS**select styles | Ends 10/4 \*Coupon &. details
+Shop AllMattressesFurnitureHomeWomenMenShoesJuniorsBaby &. Kids
 
-*   Shop All
+**\*For BOGO offer:** Buy one item at regular price and get the second item of equal or lesser value for free, or buy three items at regular price and get three items of equal or lesser value for free, advertised in the specific offer. Some items must be same category of merchendise or same gender. See store associate or jcp.com for details. 
 
-The brands you know &. loveUP TO 25% OFF Activewearselect styles | Excluded from coupons.adidasChampionRare Beauty by Selena GomezAvailable Now at Sephora inside JCPenneyExcluded from coupons.Shop Ouidad
-
-\*"Our Biggest Jewelry Sale of the Season" refers to the most items on sale for the longest duration 9/28/20-10/25/20 during the period from 5/11/20-10/25/20. a future sale of shorter duration may have more items on sale.
+**For jewelry offer:** "Our Biggest Jewelry Sale of the Season" refers to the most items on sale for the longest duration 9/28/20-10/25/20 during the period from 5/11/20-10/25/20. a future sale of shorter duration may have more items on sale.
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 26 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   St. John's Bay Womens Long Sleeve Open Front Cardigan $17.49with code~$44~2
+*   St. John's Bay Womens Long Sleeve Open Front Cardigan $18.74with code~$44~3
 *   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693
     
     $24.99sale
     
-    ~$36~5676
-*   Worthington Womens Long Sleeve Cardigan $20.99with code~$44~2
-*   St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt $12.59with code~$30~2
-*   St. John's Bay Womens Mid Rise Straight Leg Jean $15.39 - $30.80with code2219
-*   St. John's Bay-Womens Crew Neck 3/4 Sleeve T-Shirt $11.90with code
+    ~$36~5678
+*   Worthington Womens Long Sleeve Cardigan $22.49with code~$44~2
+*   St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt $13.49with code~$30~2
+*   St. John's Bay Womens Mid Rise Straight Leg Jean $16.49 - $33with code2220
+*   St. John's Bay-Womens Crew Neck 3/4 Sleeve T-Shirt $12.75with code
 
 Shop and Save at JCPenney
 
