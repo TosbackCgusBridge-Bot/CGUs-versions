@@ -9,19 +9,15 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
-    *   A Call To Spy (2020)
-    *   Jiang Ziya
-    *   The Keeper (2020)
-    *   Possessor (2020)
-    *   Save Yourselves! (2020)
-    *   Tar (2020)
+    *   Aggie (2020)
+    *   Henchmen
+    *   Pray: The Story of Patrick Peyton
+    *   The War with Grandpa
     *   See All Opening This Week
     
     Coming Soon
     
-    *   The War with Grandpa
     *   Honest Thief (2020)
-    *   No Time to Die (2020)
     *   Soul (2020)
     *   Wonder Woman 1984
     *   See All Coming Soon
@@ -472,6 +468,8 @@ Offers
 
 New + Coming soon
 
+*   The War with Grandpa
+    
 *   Tenet
     
 *   Shortcut
@@ -483,8 +481,6 @@ New + Coming soon
 *   Antebellum
     
 *   Unhinged (2020)
-    
-*   The Personal History of David Copperfield
     
 *   Words on Bathroom Walls
     
@@ -516,7 +512,7 @@ Videos
 Photos
 
 *   Red Carpet Premieres
-*   September Celebrity Birthdays
+*   October Celebrity Birthdays
 *   Award Shows Red Carpets
 
 Follow Us
