@@ -1,4 +1,4 @@
-<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Friends that grew into family. ‌Places that became home. ‌That's what led us here. discover now Where cold-weather days meet effortless season essentials.shop new arrivals Due to circumstances outside of our control you could potentially see impacts to deliveries. For the most up-to-date store information check here.
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=undefined&amp;ev=PageView&amp;noscript=1">. <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXQLFC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>Skip to main content Friends that grew into family. ‌Places that became home. ‌That's what led us here. discover now Where cold-weather days meet effortless season essentials.shop new arrivals Due to circumstances outside of our control you could potentially see impacts to deliveries. For the most up-to-date store information check here.
 
 *   United States
 *   FIND A STORE
@@ -586,5 +586,3 @@ Did you mean to add items to your wish list?
 Your cart is full!
 
 The maximum number of items allowed in your cart has been reached. This limit exists to protect your experience on the site along with other guests. If you would like to place a large order, please contact guest services at 800.607.9788 or guest.services@buckle.com.
-
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=648432745292102&amp;ev=PageView&amp;noscript=1">.
