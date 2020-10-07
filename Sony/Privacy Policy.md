@@ -129,7 +129,7 @@ Warriors fight side-by-side in Ghost of Tsushima: Legends, a free co-op mode com
   
 Details on classes, missions, and New Game Plus:  http://play.st/36ycngF  pic.twitter.com/Rrq1IiuQFU
 
-15 hours ago View Tweet Instagram Post CF-QyeOljoZ
+1 day ago View Tweet Instagram Post CF-QyeOljoZ
 
 Celebrating 50 Years
 
