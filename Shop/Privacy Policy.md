@@ -610,7 +610,7 @@ Lenovo Explore Close
 1-855-253-6686 option #2
 
 *   Search
-
+*   icon-compare0 Compare Compare (0)
 *   LenovoPro
     *   Sign In To LenovoPRO For Small Business
     *   Learn more
@@ -698,7 +698,13 @@ Top Suggestions
 
 View all >.
 
-Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Lenovo Privacy Statement Top
+Home >. Lenovo Privacy Statement Lenovo Privacy Statement Filter by specs Offers Oops! You are only able to compare 4 items at once. Please remove one from your list.
+
+Please add at least 2 products for compare
+
+Compare Items Clear all item(s) **Did you know?** You can compare models across different series.
+
+Lenovo Privacy Statement Top
 
 Privacy Statement"/>.
 
@@ -1301,4 +1307,4 @@ CUSTOMER SUPPORT
 *   FAQs
 *   Provide Feedback
 
-© 2019   Lenovo.All rights reserved Print this PagePrivacyCookie Consent ToolSite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement
+© 2019   Lenovo.All rights reserved Print this PagePrivacyCookie Consent ToolSite MapTerms of UseExternal Submission PolicySales terms and conditionsAnti-Slavery and Human Trafficking Statement Lenovo uses cookies to understand how you use our website, improve your experience, and offer you personalized advertisements. Visit our Cookie Consent Tool to manage your preferences, and visit our privacy policy for more information.AcceptOptions
