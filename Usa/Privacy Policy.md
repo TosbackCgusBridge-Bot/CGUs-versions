@@ -95,9 +95,8 @@ Autodesk logo
     *   Find a reseller
     *   Special offers
     *   Renewal options
-    *   Compare plans
     *   Options
-    *   Subscriber benefits
+    *   Compare plans
     *   Educational institutions
     *   Financing
 *   About Autodesk
@@ -132,7 +131,7 @@ Save 25% on essential software
 
 For a limited time, save on AutoCAD, AutoCAD LT, 3ds Max, Maya, and Revit LT Suite.
 
-LEARN MORE 03 Days Left
+LEARN MORE 02 Days Left
 
 PRODUCT DESIGN &  
 MANUFACTURING COLLECTION
@@ -147,7 +146,7 @@ Integrated BIM tools, including Revit, AutoCAD, and Civil 3D Learn more Free tri
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products) Promo Data: Deal Days: Oct 6-8 Countdown days: 03
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products) Promo Data: Deal Days: Oct 6-8 Countdown days: 02
 
 *   Subscribe for 3 years. Get 10% off.
     
