@@ -1,3 +1,1 @@
-Privacy policy
-
-Privacy Policy
+undefined
