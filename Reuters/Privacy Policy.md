@@ -46,6 +46,7 @@ Thomson Reuters LEGAL
     *   Data privacy
     *   FinTech
     *   Law firm management
+    *   Legal news
 *   Support centerSupport center
 *   Try and buyTry and buy
 
@@ -209,7 +210,7 @@ Thomson Reuters
 *   Terms of use
 *   Privacy statement
 *   Copyright
-*   For CA: Do not sell my info
+*   For CA: Do not sell my information
 *   Accessibility
 
 Feedback Help us improve by sharing your feedback. Thank you for sharing your feedback with us!
@@ -222,6 +223,6 @@ Enter your email address if you would like to receive a follow up.
 
 Thank you for sharing your feedback with us!
 
-Connecting your feedback with data related to your visits (device-specific, usage data, cookies, behavior and interactions) will help us improve faster. Do you give us your consent to do so for your previous and future visits? More information
+Connecting your feedback with data related to your visits (device-specific, usage data, cookies, behavior and interactions) will help us improve faster. Do you give us your consent to do so for your previous and future visits? 
 
 Skip Send Select an element on the page.
