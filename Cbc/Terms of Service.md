@@ -1,1 +1,1 @@
-Please click here to access our Terms of Use.
+undefined
