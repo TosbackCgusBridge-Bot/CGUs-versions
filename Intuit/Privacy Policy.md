@@ -14,7 +14,7 @@ Enable Accessibility
     Sign InCreate Account
     *   Track My Orders
     *   Rewards
-    *   JCP Credit CardStart Earning Rewards!Sign In create account Cart
+    *   JCP Credit CardCart
 
 *   New &. Now
 *   Home &. Lifestyle
@@ -50,22 +50,30 @@ St. John's BayXersionArizonaJF J. FerrarGirlsBoysUnBOOlievable costume ideasGet 
 
 Shop AllMattressesFurnitureHomeWomenMenShoesJuniorsBaby &. Kids
 
-**\*For BOGO offer:** Buy one item at regular price and get the second item of equal or lesser value for free, or buy three items at regular price and get three items of equal or lesser value for free, advertised in the specific offer. Some items must be same category of merchendise or same gender. See store associate or jcp.com for details. 
+**\*For BOGO offer:** \*Buy one item at regular price and get the second item of equal or lesser value for free, or buy three items at regular price and get three items of equal or lesser value for free, advertised in the specific offer. Some items must be same category of merchendise or same gender. see store associate or jcp.com for details. 
 
-**For jewelry offer:** "Our Biggest Jewelry Sale of the Season" refers to the most items on sale for the longest duration 9/28/20-10/25/20 during the period from 5/11/20-10/25/20. a future sale of shorter duration may have more items on sale.
+**For jewelry offer:**\*"Our Biggest Jewelry Sale of the Season" refers to the most items on sale for the longest duration 9/28/20-10/25/20 during the period from 5/11/20-10/25/20. a future sale of shorter duration may have more items on sale.
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 26 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   St. John's Bay Womens Long Sleeve Open Front Cardigan $18.74with code~$44~6
-*   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693
-    
-    $24.99sale
-    
-    ~$36~5682
-*   Worthington Womens Long Sleeve Cardigan $22.49with code~$44~5
-*   St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt $13.49with code~$30~3
 *   St. John's Bay Womens Mid Rise Straight Leg Jean $16.49 - $33with code2222
-*   St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater $11.24with code~$32~
+*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
+    
+    $4.99 - $27.99sale
+    
+    ~$16 - $40~1257
+*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
+    
+    $29.99sale
+    
+    ~$85~7
+*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
+    
+    $25sale
+    
+    ~$124.98~151
+*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $26.99 - $40.49with code~$60 - $90~135
+*   St. John's Bay-Womens V Neck 3/4 Sleeve T-Shirt $12.75with code
 
 Shop and Save at JCPenney
 
