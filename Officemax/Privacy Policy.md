@@ -44,11 +44,11 @@ $22.02
 
 Change
 
-\-0.115
+0
 
 Percent Change
 
-(-0.52%)
+(0.00%)
 
 Data Provided by Refinitiv. Minimum 15 minutes delayed.
 
