@@ -1,7 +1,7 @@
 *   Return to Campus: Key Information
 *   We urge all our staff &. students to Stay Safe, Save Lives.
 
-*   Academic Year 2020/21 Undergraduate Admissions Update
+*   Covid-19 : Steps to take - for Students | for Staff
 
   Virtual Open Day - Available to watch again
 
