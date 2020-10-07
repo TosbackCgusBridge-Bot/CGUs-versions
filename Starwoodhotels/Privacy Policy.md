@@ -1,4 +1,4 @@
-Flexible Cancellation Travel with confidence during COVID-19. Travel with confidence during COVID-19:   Best Rate Guarantee   Flexible Cancellation   Commitment to Clean   Contactless Services Skip Main Navigation Menu Marriott Bonvoy
+Skip Main Navigation Menu Marriott Bonvoy
 
 *   *   English
 *   Help
@@ -519,7 +519,7 @@ RELATED LINKS
 
 Back to top
 
-Unlock your stay with the Marriott Bonvoy™ App Learn More Top Destinations
+Top Destinations
 
 *   Anaheim Hotels
 *   Atlanta Hotels
@@ -550,6 +550,7 @@ Unlock your stay with the Marriott Bonvoy™ App Learn More Top Destinations
 For Guests
 
 *   Best Rate Guarantee
+*   Room Key
 *   Marriott Bonvoy Moments
 *   Activities
 *   Marriott Insiders
@@ -577,6 +578,6 @@ Loading...
 
 © 1996 – 2020 Marriott International, Inc. All rights reserved. Marriott Proprietary Information
 
-Tracking Preferences Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
+Terms of Use Program Terms &. Conditions Privacy Center Do Not Sell My Personal Information Digital Accessibility Site Map Help*   Loading...
     
-prod8,DC11DE0A-54A6-5560-B79B-090B958870D7
+prod9,CAEED60D-613B-5DFD-95EC-F8D3D7795985
