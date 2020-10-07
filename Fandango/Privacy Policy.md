@@ -48,7 +48,7 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
 *   Movie News Featured Movie News
     
     *   2020 Toronto International Film Festival Preview Read More
-    *   What to Watch on FandangoNOW: ‘John Lewis: Good Trouble,’ ‘The Comey Rule,’ ‘2067’ and More Read More
+    *   What to Watch on FandangoNOW: Disney’s ‘Mulan,’ RZA’s ‘Cut Throat City,’ Ruby Rose in ‘The Doorman’ and More Read More
     *   This Week in Movie News: Jamie Foxx to Return as ‘Spider-Man’ Villain, Oscar Isaac to Play ‘Godfather’ Director Francis Ford Coppola and More Read More
     
     Explore Content
