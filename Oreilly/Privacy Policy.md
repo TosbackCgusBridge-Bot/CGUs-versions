@@ -8,6 +8,7 @@
         *   Certifications
         *   Interactive learning
         *   Live online sessions
+        *   Answers
     *   What’s new
     *   O’Reilly for marketers
     
