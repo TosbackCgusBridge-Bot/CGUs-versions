@@ -1,4 +1,4 @@
-Skip Navigation Live Chat CALL US: 1.800.777.0000  
+Skip Navigation Live Chat Live Chat CALL US: 1.800.777.0000  
   
 We're available 9am-12am ET, 7 days a week. menu
 
