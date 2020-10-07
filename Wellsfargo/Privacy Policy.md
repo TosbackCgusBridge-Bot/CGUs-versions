@@ -28,7 +28,7 @@ Search  Opens a dialog.
     *   Online Banking
     *   Transfer and Pay
     *   Mobile Features
-    *   Control TowerSM
+    *   Control Tower®
     *   ATM Banking
     
     Your Financial Goals
@@ -159,7 +159,7 @@ Search  Opens a dialog.
 *   Privacy Policies and Notices
 *   Wells Fargo Digital Privacy and Cookies Policy
 
-Wells Fargo Digital Privacy and Cookies Policy     
+Wells Fargo Digital Privacy and Cookies Policy
 
 *   Print
 *    ShareFacebookTwitterShare this page
