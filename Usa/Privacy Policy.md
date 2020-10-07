@@ -6,6 +6,8 @@ Change country/language X
 
 Autodesk logo
 
+*   0
+
 *   United States
     
     We have redirected you to an equivalent page on your local site where you can see local pricing and promotions and purchase online.
@@ -113,12 +115,24 @@ Keyboard **ALT + g** to toggle grid overlay
 
 Visit the COVID-19 Resource Center
 
-Ready to make anything
+SPECIAL OFFER
 
-We've combined our most powerful software and services to create one simple package, for one great price—Autodesk industry collections.
+Autodesk industry collections
+
+Get essential products in a bundle and save
+
+Buy a collection of our most powerful software, tailored for your industry, and get a deep discount compared with purchasing products separately.
 
 learn more   _BLOX is tackling the hospital shortage with modular construction._  
-_Read story_
+_Read story_ Learn more
+
+3 DAYS ONLY
+
+Save 25% on essential software
+
+For a limited time, save on AutoCAD, AutoCAD LT, 3ds Max, Maya, and Revit LT Suite.
+
+LEARN MORE 03 Days Left
 
 PRODUCT DESIGN &  
 MANUFACTURING COLLECTION
@@ -133,11 +147,7 @@ Integrated BIM tools, including Revit, AutoCAD, and Civil 3D Learn more Free tri
 MEDIA &.  
 ENTERTAINMENT COLLECTION
 
-Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products)
-
-SPECIAL BUNDLE OFFER
-
-Get 5 subscriptions of AutoCAD LT for the price of 4Get the bundleOffer ends soon
+Artistic tools for entertainment content creation, including 3ds Max and Maya Learn more Free trial Subscribe Incentives Hub Overview: Default Promo Data: Lower price when you subscribe for 3 years (Collections) Promo Data: Lower price when you subscribe for 3 years (Products) Promo Data: Deal Days: Oct 6-8 Countdown days: 03
 
 *   Subscribe for 3 years. Get 10% off.
     
@@ -160,7 +170,9 @@ Free trial
 
 Subscribe
 
-—/year
+$1,268/year
+
+$1,690
 
 Software for Building Information Modeling
 
@@ -170,7 +182,7 @@ Free trial
 
 Subscribe
 
-—/year
+$2,425/year
 
 Cost-effective 2D CAD
 
@@ -180,9 +192,9 @@ Free trial
 
 Subscribe
 
-—/year
+$315/year
 
-Try, buy, or learn more about Autodesk products See all products Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
+$420 Try, buy, or learn more about Autodesk products See all products Welcome to the new era of connected construction Introducing Autodesk Construction Cloud™
 
 We’ve combined advanced technology, a network of builders, and powerful predictive insights to connect all stages of the building lifecycle: design, plan, build, and operate.
 
@@ -197,7 +209,7 @@ See what's included
 
 Product details
 
-\---/year
+$2,965/year
 
 Subscribe
 
@@ -207,7 +219,7 @@ See what's included
 
 Product details
 
-\---/year
+$2,720/year
 
 Subscribe FOLLOW AUTODESK
 
