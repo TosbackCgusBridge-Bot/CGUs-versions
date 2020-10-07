@@ -245,17 +245,17 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   Why the $26 billion in BEC scams are worse than you think
+    *   Attacks on authentication turn ransomware from disruption to disaster
+    *   Building an intelligent cybersecurity strategy
     *   SMEs relearn security basics under COVID's telework conditions
-    *   New report suggests the bug bounty business is recession-proof
-    *   Nudging your employees towards better cyber hygiene
-    *   'Insensitive' phishing test stirs debate over ethics of security training
-    
-    *   Build security by expanding cyber awareness
     *   Common bugs make anti-virus solutions vulnerable to exploitation
-    *   Meet the researcher who wants employers to write better infosec help wanted ads
-    *   Federal watchdog agency pushes proposed White House cyber role into spotlight
-    *   SMEs relearn security basics under COVID's telework conditions
+    *   Acalvio Technologies, Inc. ShadowPlex v5.2
+    
+    *   Acalvio Technologies, Inc. ShadowPlex v5.2
+    *   Axis Security looks to disrupt VPN, secure access markets
+    *   UK says Huawei coding quality still falls short, as global businesses look toward 5G
+    *   Twitter to launch crowdsourced misinformation service 'Birdwatch'
+    *   Attacks on authentication turn ransomware from disruption to disaster
     
     *   Common bugs make anti-virus solutions vulnerable to exploitation
     *   Zoom tries to make good on security, privacy promises
