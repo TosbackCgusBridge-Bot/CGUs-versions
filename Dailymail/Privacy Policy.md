@@ -1,1 +1,1 @@
-Sorry we are not currently accepting comments on this article.
+undefined
