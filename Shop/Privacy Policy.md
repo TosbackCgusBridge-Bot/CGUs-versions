@@ -118,7 +118,7 @@ Lenovo Explore Close
         *   For Performance
         *   For a Gift
         *   Best Bargain
-        *   Recommended Smart Product
+        *   Save on select Tablets
         
         Semi-Annual Sale
         
