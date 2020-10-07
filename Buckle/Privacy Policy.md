@@ -160,7 +160,7 @@
         *   Cologne
         *   Face Masks
         *   Hats
-        *   Jewlery
+        *   Jewelry
         *   Socks
         *   Sunglasses
         *   Wallets
