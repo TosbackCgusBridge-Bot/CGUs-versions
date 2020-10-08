@@ -257,11 +257,11 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Twitter to launch crowdsourced misinformation service 'Birdwatch'
     *   Attacks on authentication turn ransomware from disruption to disaster
     
+    *   H&M not alone: Companies often fall short in privacy protections to employees
     *   Common bugs make anti-virus solutions vulnerable to exploitation
     *   Zoom tries to make good on security, privacy promises
     *   SMEs relearn security basics under COVID's telework conditions
     *   Phishing pages leverage CAPTCHAs to fool users, evade detection
-    *   New report suggests the bug bounty business is recession-proof
 
 Back to Top
 
