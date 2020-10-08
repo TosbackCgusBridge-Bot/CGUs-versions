@@ -1,4 +1,4 @@
-Terms and Conditions Rules and Regulations
+Rules and Regulations
 
 The following rules and regulations apply to all visitors to any Amped Wireless or Newo Corporation (hereby referred to as "Amped Wireless") websites. Please read them carefully before accessing the website. Amped Wireless reserves the right to change these rules and regulations at any time at its sole discretion. If you do not agree with these terms and conditions, please do not access the Amped Wireless website. Amped Wireless reserves the right to seek all remedies available by law for violations of the rules and regulations outlined in the Terms and Conditions.
 
