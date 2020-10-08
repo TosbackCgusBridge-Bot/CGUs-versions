@@ -16,6 +16,7 @@ Enable Accessibility
     *   Rewards
     *   JCP Credit CardCart
 
+*   Toys &. Games
 *   New &. Now
 *   Home &. Lifestyle
 *   Women
@@ -26,12 +27,12 @@ Enable Accessibility
 *   Jewelry
 *   Sephora Beauty &. Salon
 
-Explore Shop All DealsSemi-Annual Intimates SaleEnds 10/14
+Semi-Annual Intimates SaleEnds 10/14
 
 *   Shop Bras
 *   Shop Panties
 
-35-60% OFF Fine &. fashion jewelry+ EXTRA 30% OFF\*with **JCPenney Credit Card**&. coupon or code: **FLAWLESS**select styles\*Coupon &. details
+Explore Shop All Deals35-60% OFF Fine &. fashion jewelry+ EXTRA 30% OFF\*with **JCPenney Credit Card**&. coupon or code: **FLAWLESS**select styles\*Coupon &. details
 
 *   Shop All
 
@@ -56,24 +57,16 @@ Shop AllMattressesFurnitureHomeWomenMenShoesJuniorsBaby &. Kids
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 26 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
+*   St. John's Bay Womens Long Sleeve Open Front Cardigan $18.74with code~$44~7
+*   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693
+    
+    $24.99sale
+    
+    ~$36~5683
+*   Home Expressions Solid or Stripe Bath Towel Collection $2.24 - $17.99with code~$6 - $48~696
+*   Worthington Womens Long Sleeve Cardigan $22.49with code~$44~5
+*   St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt $13.49with code~$30~3
 *   St. John's Bay Womens Mid Rise Straight Leg Jean $16.49 - $33with code2222
-*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
-    
-    $4.99 - $27.99sale
-    
-    ~$16 - $40~1257
-*   LIMITED TIME SPECIAL! Q7 Blush Smart Watch-900006r-18-P04
-    
-    $29.99sale
-    
-    ~$85~7
-*   1/10 CT. T.W. Genuine Diamond Cluster Cocktail Ring in Sterling Silver
-    
-    $25sale
-    
-    ~$124.98~151
-*   JCPenney Home Sullivan Blackout Grommet-Top Single Curtain Panel $26.99 - $40.49with code~$60 - $90~135
-*   St. John's Bay-Womens V Neck 3/4 Sleeve T-Shirt $12.75with code
 
 Shop and Save at JCPenney
 
