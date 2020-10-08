@@ -5,7 +5,7 @@ Skip to Main Content
 *   Certified Used Vehicles
 *   Owners
 *   Espaňol
-*   Set Location
+*   Your Location:67337
 
 *   Toyota Toyota
 *   Select Vehicle
@@ -14,7 +14,7 @@ Skip to Main Content
 *   Build &. Price
 *   Local Specials
 
-ZIP
+ZIP67337
 
 Contact Us Site Map Accessibility Your Privacy Rights Legal Terms California Privacy Contact Us Site Map Accessibility Your Privacy Rights Legal Terms California Privacy Need help? Have a question? Get instant answers 24/7.
 
@@ -1594,7 +1594,7 @@ The use of Olympic Marks, Terminology and Imagery is authorized by the U.S. Olym
 *   73\. EPA-estimated 43 city/44 highway/44 combined mpg for 2021 Avalon Hybrid XLE. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 *   74\. EPA-estimated 27 city/35 hwy/30 combined mpg for 2021 RAV4 LE FWD and Limited FWD. 27 city/34 hwy/30 combined mpg for 2021 RAV4 LE AWD. 28 city/35 hwy/30 combined mpg for 2021 RAV4 XLE FWD and XLE Premium FWD. 27 city/33 hwy/29 combined mpg for 2021 RAV4 XLE AWD and XLE Premium AWD. 25 city/33 hwy/28 combined mpg for 2021 RAV4 Adventure and Limited AWD. 25 city/32 hwy/28 combined mpg for 2021 RAV4 TRD Off-Road. and 41 city/38 hwy/40 combined mpg for 2021 RAV4 LE Hybrid, XLE Hybrid, XLE Premium Hybrid, XSE Hybrid and Limited Hybrid. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 *   75\. 2021 EPA-estimated mileage. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive.
-*   76\. EPA-estimated 21 city/29 hwy/24 combined mpg for 2021 Highlander. 20 city/27 hwy/23 combined for 2021 Highlander AWD. 36 city/35 hwy/36 combined mpg for 2021 Highlander Hybrid. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
+*   76\. EPA-estimated 21 city/29 hwy/24 combined mpg for 2021 Highlander; 20 city/27 hwy/23 combined for 2021 Highlander AWD. 36 city/35 hwy/36 combined mpg for 2021 Highlander Hybrid. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 *   77\. EPA-estimated 30 city/38 hwy/33 combined mpg for 2021 Corolla L, LE, SE Apex CVT and XSE Apex. EPA-estimated 29 city/37 hwy/32 combined mpg for 2021 Corolla XLE. EPA-estimated 29 city/36 hwy/32 combined mpg for 2021 Corolla SE 6MT. EPA-estimated 31 city/40 hwy/34 combined mpg for 2021 Corolla SE CVT and SE Nightshade. EPA-estimated 28 city/35 hwy/31 combined mpg for 2021 Corolla SE Apex 6MT. EPA-estimated 31 city/38 hwy/34 combined mpg for 2021 Corolla XSE. EPA-estimated 53 city/52 hwy/52 combined mpg for 2021 Corolla Hybrid LE. Use for comparison purposes only. Your mileage will vary for many reasons, including your vehicle's condition and how/where you drive. See www.fueleconomy.gov.
 
 Cookie ConsentWe use the following categories of cookies on our website:Required Functional CookiesRequired cookies are essential to provide you with core functionality during use of the website. These functions include e.g. Local Specials, Offers, Dealer Locator, etc. We also collect basic site usage analytics to optimize the experience for our visitors.Performance CookiesPerformance cookies collect information about how our website is used (e.g. number of visits, time spent on the site). These cookies allow us to serve more relevant content for an enhanced shopping experience.CancelSave
