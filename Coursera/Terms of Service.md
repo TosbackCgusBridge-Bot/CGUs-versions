@@ -185,7 +185,7 @@ If you cancel your subscription, cancellation will be effective at the end of th
 
 For Coursera Plus
 
-To get a full refund of your Coursera Plus subscription payment, submit a refund request via the Learner Help Center within 14 days of your payment. Refunds will not be provided if requested after this 14-day period.
+To get a full refund of your Coursera Plus subscription payment, submit a refund request via the Learner Help Center within 14 days of your payment. Refunds will not be provided if requested after this 14-day period. Some Coursera Plus subscriptions may have a free trial period instead of a refund period. If you do not cancel during the free trial, you will be billed the full amount for the subscription you signed up for and be unable to request a refund.
 
 Your Coursera Plus subscription will continue for the subscription period identified at the time of your purchase and then automatically renew unless and until you cancel your subscription or the subscription is suspended or discontinued by Coursera.
 
