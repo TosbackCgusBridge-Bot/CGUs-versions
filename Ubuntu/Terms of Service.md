@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Building competitive advantage by adopting cloud-native approach
 *   Emilia Torino shares what goes into keeping Ubuntu secure
 *   NVIDIA’s Ariel Kit Explains How NVIDIA BlueField DPUs Are Redefining Data Center Services
-*   Dell brings new Intel 11th gen Core processors to the XPS 13 Developer Edition
