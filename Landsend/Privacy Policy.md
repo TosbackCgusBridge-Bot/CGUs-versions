@@ -27,9 +27,9 @@ Lands' End let's get comfy™ Sign In menu
 
 0 Free Shipping on $75+
 
-Receive up to 40% off full-price styles. up to 75% sale &. clearance styles!
+Receive 40% off your order!
 
-code: CLEAR pin: PROMOTION DETAILS
+code: RAKE pin: PROMOTION DETAILS
 
 Customer Service Menu
 
