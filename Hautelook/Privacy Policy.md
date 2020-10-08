@@ -9,8 +9,26 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Rock the Vote: Polished Women's Styles &. Accessories
+    *   Rock the Vote: Home Decor
+    *   AG Up to 65% Off
+    *   Contemporary Brands Up to 70% Off
+    *   Contemporary Shoes Up to 65% Off
+    *   Men's Contemporary Brands Up to 60% Off
+    *   AG Men's Denim Up to 60% Off
+    *   Lucky Bags &. Shoes Up to 60% Off
+    *   Wear It To Heart Activewear Up to 65% Off
+    *   Dresses From Guess &. More Up to 70% Off
+    *   Rain or Shine: Jackets Up to 65% Off
+    *   Men's Contemporary Shoes Up to 65% Off
+    *   Sphera Milano
+    *   David Donahue Dress Shirts Under $50
+    *   French Connection
+    *   Stila &. More Up to 60% Off
+    *   Girls Dresses Up to 65% Off
     *   90 Degree by Reflex Under $35
     *   Hit the Slopes: Puffers &. Parkas ft. NOIZE
+    
     *   Rebecca Taylor
     *   Women's Burberry Fragrances &. More Starting at $30
     *   WFH Dresses Up to 70% Off Incl. Plus
@@ -24,101 +42,87 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Kids' Fashion Shoes ft. Carters
     *   Kiehl's Favorites Starting at $10
     *   Nina Leonard Dresses Incl. Plus
-    *   Shades of Pink Intimates
     *   Original Penguin Up to 65% Off
     *   High Waisted Styles Up to 70% Off Incl. Plus
     *   Mario Badescu Skincare Starting at $12
-    
     *   Sweater Dresses Up to 70% Off
-    *   Kensie Sleepwear Under $20
     *   Free Shipping: Fall Decor Starting at $20
     *   Men's Fall Basics Up to 70% Off
-    *   Designer Watches ft Fendi up to 50% off
-    *   Our Favorite Boots Up to 60% Off
+    
     *   First Time on HauteLook: Moral Code Men
-    *   Shades of Pink Handbags
     *   Men's Denim Under $50
-    *   Women's Comfort Shoe Blowout
     *   Lazy Day Faves: Sleep &. Lounge Under $30
     *   Men's Comfort Shoes Blowout
     *   BergHOFF Kitchen Blowout Up to 60% Off
-    *   Weekend Warrior: Weekenders &. Duffles Up to 60% Off
     *   Roberto Cavalli Men Up to 80% Off
     *   Men's Lounge Shoes Up to 60% Off
-    *   Baby Essentials: Footies, Gear &. More
-    *   Vince Camuto Men Up to 75% Off
     *   Bring Galaxy Indoors: Lights Starting at $19.97
-    
     *   Free Shipping: Wall Art Up to $60% Off
-    *   Men's Dress Shoes Up to 60% Off
-    *   Fresh Finds: Men's Sneakers Up to 65% Off
     *   Sugarfina Holiday Treats Up to 60% Off
     *   Free Shipping: Overstock Fall Art Blowout
     *   Men's Lounge Styles Up to 55% Off
-    *   Luxe Sneakers Up to 60% Off
     *   Antonio Maurizi Men Up to 70% Off
-    *   Premium Denim Best Sellers Under $80
     *   False Eyelashes &. Eyeliner From $9.97
-    *   Kid's Slippers Starting at $15
     *   Mirenesse Starting from $10
-    *   FOREO &. More Up to 60% Off
     *   Kitchen Items ft. Rice Cookers Starting at $24.97
     *   Shun Cutlery Starting at $40
     *   Must-Haves for Every Kitchen Starting at $25
     *   Joe's Jeans Kids
 *   WomenShop Sale Events
     
+    *   Rock the Vote: Home Decor
+    *   AG Up to 65% Off
+    *   Contemporary Brands Up to 70% Off
+    *   Contemporary Shoes Up to 65% Off
+    *   Lucky Bags &. Shoes Up to 60% Off
+    *   Wear It To Heart Activewear Up to 65% Off
+    *   Rain or Shine: Jackets Up to 65% Off
+    *   Sphera Milano
+    *   Stila &. More Up to 60% Off
     *   90 Degree by Reflex Under $35
     *   Hit the Slopes: Puffers &. Parkas ft. NOIZE
     *   Rebecca Taylor
     *   Women's Burberry Fragrances &. More Starting at $30
+    
     *   WFH Dresses Up to 70% Off Incl. Plus
     *   Cozy Styles Under $30 Incl. Plus
     *   Sharp Style: Pointy-Toe Shoes Up to 60% Off
     *   Most Loved: Women's Flats Up to 60% Off
     *   Kiehl's Favorites Starting at $10
     *   Nina Leonard Dresses Incl. Plus
-    *   Shades of Pink Intimates
     *   High Waisted Styles Up to 70% Off Incl. Plus
     *   Mario Badescu Skincare Starting at $12
-    
     *   Sweater Dresses Up to 70% Off
-    *   Kensie Sleepwear Under $20
-    *   Designer Watches ft Fendi up to 50% off
-    *   Our Favorite Boots Up to 60% Off
-    *   Shades of Pink Handbags
-    *   Women's Comfort Shoe Blowout
     *   Lazy Day Faves: Sleep &. Lounge Under $30
-    *   Weekend Warrior: Weekenders &. Duffles Up to 60% Off
-    *   Luxe Sneakers Up to 60% Off
-    *   Premium Denim Best Sellers Under $80
     *   False Eyelashes &. Eyeliner From $9.97
     *   Mirenesse Starting from $10
-    *   FOREO &. More Up to 60% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
+    *   Jewelry
     *   Lingerie &. Shapewear
-    *   Watches
     *   Handbags
     *   Accessories
 *   MenShop Sale Events
     
+    *   Rock the Vote: Polished Women's Styles &. Accessories
+    *   Men's Contemporary Brands Up to 60% Off
+    *   AG Men's Denim Up to 60% Off
+    *   Men's Contemporary Shoes Up to 65% Off
+    *   David Donahue Dress Shirts Under $50
+    *   French Connection
     *   Men's Denim Trend Report ft. Fall Washes
     *   English Laundry &. More Up to 60% Off
     *   Men's Boots Up to 65% Off
+    
     *   Original Penguin Up to 65% Off
     *   Men's Fall Basics Up to 70% Off
     *   First Time on HauteLook: Moral Code Men
     *   Men's Denim Under $50
     *   Men's Comfort Shoes Blowout
-    
     *   Roberto Cavalli Men Up to 80% Off
     *   Men's Lounge Shoes Up to 60% Off
-    *   Vince Camuto Men Up to 75% Off
-    *   Men's Dress Shoes Up to 60% Off
-    *   Fresh Finds: Men's Sneakers Up to 65% Off
     *   Men's Lounge Styles Up to 55% Off
     *   Antonio Maurizi Men Up to 70% Off
     
@@ -126,20 +130,18 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Clothing
     *   Shoes
     *   Accessories
-    *   Watches
 *   KidsShop Sale Events
     
+    *   Girls Dresses Up to 65% Off
     *   Get Out &. Play: Kids' Activewear
     *   Kids' Fashion Shoes ft. Carters
-    *   Baby Essentials: Footies, Gear &. More
-    *   Kid's Slippers Starting at $15
     *   Joe's Jeans Kids
     
     Shop By Category
-    *   Baby
     *   Girls
     *   Boys
     *   Girls' Shoes
+    *   Baby
     *   Boys' Shoes
 *   HomeShop Sale Events
     
@@ -156,26 +158,25 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Luggage &. Travel
     *   Electronic &. Tech Accessories
     *   Cleaning &. Organization
 *   BeautyShop Sale Events
     
+    *   Stila &. More Up to 60% Off
     *   Women's Burberry Fragrances &. More Starting at $30
     *   Kiehl's Favorites Starting at $10
     *   Mario Badescu Skincare Starting at $12
     *   False Eyelashes &. Eyeliner From $9.97
     *   Mirenesse Starting from $10
-    *   FOREO &. More Up to 60% Off
     
     Shop By Category
     *   Makeup
     *   Fragrance
     *   Skin Care
     *   Tools &. Accessories
+    *   Hair Care
     *   Bath &. Body
     *   Men’s Grooming
-    *   Hair Care
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
