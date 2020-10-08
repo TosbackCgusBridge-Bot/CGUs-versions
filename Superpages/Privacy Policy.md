@@ -458,4 +458,4 @@ Contact Us
 *   Social Media Disclaimer
 *   Directory Opt-Out
 
-©2020 Thryv, Inc. All rights reserved. Chat with UsChat Unavailable
+©2020 Thryv, Inc. All rights reserved.
