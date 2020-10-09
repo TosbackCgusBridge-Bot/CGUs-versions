@@ -101,11 +101,11 @@ Up to
 
 Crosstrek Sport Shown
 
-Legacy $22,745\* starting price 2020 Legacy
+Legacy $22,895\* starting price 2021 Legacy
 
 Starting at
 
-$22,745 MSRP
+$22,895 MSRP
 
 Up to
 
