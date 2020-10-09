@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Canonical – Supermicro partnership at the NFV&MEC Plugtests 2020
 *   Building competitive advantage by adopting cloud-native approach
 *   Emilia Torino shares what goes into keeping Ubuntu secure
-*   NVIDIA’s Ariel Kit Explains How NVIDIA BlueField DPUs Are Redefining Data Center Services
