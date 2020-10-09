@@ -1,29 +1,4 @@
-Cookie Notice
-
-Bankrate.com uses cookies to provide you with a great experience and enables you to enjoy all the functionality of the site.
-
-CloseAccept CookiesCookie Preferences
-
-*   Your Privacy
-    
-*   Strictly Necessary Cookies
-    
-*   Performance Cookies
-    
-*   Functional Cookies
-    
-*   Targeting Cookies
-    
-*   More Information
-    
-
-Privacy Preference Centre
-
-Active
-
-Always Active
-
-Save SettingsAllow All <link rel="stylesheet" href="https://assets.brstatic.com/v1.0.3/css/brcom/rebrand-nav.css?id=1012d78c2377f8de516e">. Open navigation Bankrate
+<link rel="stylesheet" href="https://assets.brstatic.com/v1.4.1/css/brcom/rebrand-nav.css?id=d1faee04cbbf653bd9b3">. Open navigation Bankrate
 
 *   BR Mortgages
 *   BR Banking
@@ -646,7 +621,7 @@ Government entities, law enforcement, lawyers, auditors, consultants and other p
 
 None
 
-August 5, 2020 6:21:50 PM EDT <link rel="stylesheet" href="https://assets.brstatic.com/v1.0.3/css/brcom/footer.css?id=8b863dccc364236b815c">. Bankrate About
+August 5, 2020 6:21:50 PM EDT <link rel="stylesheet" href="https://assets.brstatic.com/v1.4.1/css/brcom/footer.css?id=8b863dccc364236b815c">. Bankrate About
 
 *   About us
 *   Press room
@@ -682,4 +657,8 @@ Bankrate US | UK
 
 © 2020 Bankrate, LLC. A Red Ventures company. All Rights Reserved.
 
-<iframe location="coinfo master" src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>. <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2085058148404940&amp;ev=PageView&amp;noscript=1">. <img src="//bat.bing.com/action/0?ti=4064189&amp;Ver=2" height="0" width="0" style="display:none. visibility: hidden;">.
+<iframe location="coinfo master" src="//www.googletagmanager.com/ns.html?id=GTM-N74D8C" height="0" width="0" style="display:none;visibility:hidden"></iframe>.
+
+We use cookies to improve your experience and to enable you to enjoy the full functionality of our site.
+
+Learn more.Cookie Settings Accept Cookies
