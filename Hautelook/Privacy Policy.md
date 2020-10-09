@@ -9,122 +9,128 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
-    *   Rock the Vote: Polished Women's Styles &. Accessories
-    *   Rock the Vote: Home Decor
-    *   AG Up to 65% Off
-    *   Contemporary Brands Up to 70% Off
-    *   Contemporary Shoes Up to 65% Off
-    *   Men's Contemporary Brands Up to 60% Off
-    *   AG Men's Denim Up to 60% Off
-    *   Lucky Bags &. Shoes Up to 60% Off
-    *   Wear It To Heart Activewear Up to 65% Off
-    *   Dresses From Guess &. More Up to 70% Off
-    *   Rain or Shine: Jackets Up to 65% Off
-    *   Men's Contemporary Shoes Up to 65% Off
-    *   Sphera Milano
-    *   David Donahue Dress Shirts Under $50
-    *   French Connection
-    *   Stila &. More Up to 60% Off
-    *   Girls Dresses Up to 65% Off
+    *   Frye Up to 60% Off
+    *   Frye Accessories Up to 60% Off
+    *   Frye Jackets
+    *   Clean Up with Shark Vacuums
+    *   ASTR
+    *   Long Sleeve Tees Up to 70% Off Incl. Plus
+    *   London Times Incl. Plus
+    *   Frye Men &. More Up to 65% Off
+    *   Ben Sherman Up to 70% Off
+    *   Rustic Home Decor Starting at $19.97
+    *   Ben Sherman Men's Shoes Up to 65% Off
+    *   Tie-Dye Active &. More ft. Sage Collective
+    *   All Day Comfort: Wire-Free Bras
+    *   Step into Fall: Comfort Boots &. More Up to 60% Off
+    *   Coat Check: Kids' Outerwear ft. Urban Republic
+    *   Levi's Men Up to 60% Off
+    *   Levi's Kids &. More Up to 65% Off
+    *   Native Kids
+    *   Protective Masks Starting at $15
     *   90 Degree by Reflex Under $35
-    *   Hit the Slopes: Puffers &. Parkas ft. NOIZE
-    
-    *   Rebecca Taylor
     *   Women's Burberry Fragrances &. More Starting at $30
-    *   WFH Dresses Up to 70% Off Incl. Plus
-    *   Cozy Styles Under $30 Incl. Plus
-    *   Sharp Style: Pointy-Toe Shoes Up to 60% Off
+    
+    *   Contemporary Shoes Up to 65% Off
+    *   AG Up to 65% Off
+    *   Wear It To Heart Activewear Up to 65% Off
+    *   Men's Contemporary Brands Up to 60% Off
+    *   Men's Contemporary Shoes Up to 65% Off
+    *   AG Men's Denim Up to 60% Off
+    *   Dresses From Guess &. More Up to 70% Off
+    *   Lucky Bags &. Shoes Up to 60% Off
+    *   Stila &. More Up to 60% Off
+    *   Sphera Milano
+    *   Rain or Shine: Jackets Up to 65% Off
+    *   David Donahue Dress Shirts Under $50
     *   Men's Denim Trend Report ft. Fall Washes
     *   English Laundry &. More Up to 60% Off
-    *   Most Loved: Women's Flats Up to 60% Off
     *   Men's Boots Up to 65% Off
+    *   French Connection
+    *   Girls Dresses Up to 65% Off
     *   Get Out &. Play: Kids' Activewear
     *   Kids' Fashion Shoes ft. Carters
     *   Kiehl's Favorites Starting at $10
-    *   Nina Leonard Dresses Incl. Plus
     *   Original Penguin Up to 65% Off
-    *   High Waisted Styles Up to 70% Off Incl. Plus
+    
     *   Mario Badescu Skincare Starting at $12
-    *   Sweater Dresses Up to 70% Off
     *   Free Shipping: Fall Decor Starting at $20
     *   Men's Fall Basics Up to 70% Off
-    
     *   First Time on HauteLook: Moral Code Men
-    *   Men's Denim Under $50
-    *   Lazy Day Faves: Sleep &. Lounge Under $30
-    *   Men's Comfort Shoes Blowout
     *   BergHOFF Kitchen Blowout Up to 60% Off
-    *   Roberto Cavalli Men Up to 80% Off
-    *   Men's Lounge Shoes Up to 60% Off
     *   Bring Galaxy Indoors: Lights Starting at $19.97
     *   Free Shipping: Wall Art Up to $60% Off
-    *   Sugarfina Holiday Treats Up to 60% Off
     *   Free Shipping: Overstock Fall Art Blowout
-    *   Men's Lounge Styles Up to 55% Off
     *   Antonio Maurizi Men Up to 70% Off
     *   False Eyelashes &. Eyeliner From $9.97
-    *   Mirenesse Starting from $10
     *   Kitchen Items ft. Rice Cookers Starting at $24.97
     *   Shun Cutlery Starting at $40
     *   Must-Haves for Every Kitchen Starting at $25
-    *   Joe's Jeans Kids
-*   WomenShop Sale Events
-    
-    *   Rock the Vote: Home Decor
-    *   AG Up to 65% Off
+    *   Rock the Vote: Polished Women's Styles &. Accessories
     *   Contemporary Brands Up to 70% Off
-    *   Contemporary Shoes Up to 65% Off
-    *   Lucky Bags &. Shoes Up to 60% Off
-    *   Wear It To Heart Activewear Up to 65% Off
-    *   Rain or Shine: Jackets Up to 65% Off
-    *   Sphera Milano
-    *   Stila &. More Up to 60% Off
-    *   90 Degree by Reflex Under $35
-    *   Hit the Slopes: Puffers &. Parkas ft. NOIZE
-    *   Rebecca Taylor
-    *   Women's Burberry Fragrances &. More Starting at $30
-    
+    *   Rock the Vote: Home Decor
     *   WFH Dresses Up to 70% Off Incl. Plus
     *   Cozy Styles Under $30 Incl. Plus
-    *   Sharp Style: Pointy-Toe Shoes Up to 60% Off
-    *   Most Loved: Women's Flats Up to 60% Off
-    *   Kiehl's Favorites Starting at $10
-    *   Nina Leonard Dresses Incl. Plus
     *   High Waisted Styles Up to 70% Off Incl. Plus
+*   WomenShop Sale Events
+    
+    *   Frye Up to 60% Off
+    *   Frye Accessories Up to 60% Off
+    *   Frye Jackets
+    *   ASTR
+    *   Long Sleeve Tees Up to 70% Off Incl. Plus
+    *   London Times Incl. Plus
+    *   Tie-Dye Active &. More ft. Sage Collective
+    *   All Day Comfort: Wire-Free Bras
+    *   Step into Fall: Comfort Boots &. More Up to 60% Off
+    *   Protective Masks Starting at $15
+    *   90 Degree by Reflex Under $35
+    *   Women's Burberry Fragrances &. More Starting at $30
+    *   Contemporary Shoes Up to 65% Off
+    *   AG Up to 65% Off
+    
+    *   Wear It To Heart Activewear Up to 65% Off
+    *   Lucky Bags &. Shoes Up to 60% Off
+    *   Stila &. More Up to 60% Off
+    *   Sphera Milano
+    *   Rain or Shine: Jackets Up to 65% Off
+    *   Kiehl's Favorites Starting at $10
     *   Mario Badescu Skincare Starting at $12
-    *   Sweater Dresses Up to 70% Off
-    *   Lazy Day Faves: Sleep &. Lounge Under $30
     *   False Eyelashes &. Eyeliner From $9.97
-    *   Mirenesse Starting from $10
+    *   Contemporary Brands Up to 70% Off
+    *   Rock the Vote: Home Decor
+    *   WFH Dresses Up to 70% Off Incl. Plus
+    *   Cozy Styles Under $30 Incl. Plus
+    *   High Waisted Styles Up to 70% Off Incl. Plus
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Jewelry
     *   Lingerie &. Shapewear
-    *   Handbags
     *   Accessories
+    *   Handbags
 *   MenShop Sale Events
     
-    *   Rock the Vote: Polished Women's Styles &. Accessories
+    *   Frye Men &. More Up to 65% Off
+    *   Ben Sherman Up to 70% Off
+    *   Ben Sherman Men's Shoes Up to 65% Off
+    *   Levi's Men Up to 60% Off
+    *   Protective Masks Starting at $15
     *   Men's Contemporary Brands Up to 60% Off
-    *   AG Men's Denim Up to 60% Off
     *   Men's Contemporary Shoes Up to 65% Off
+    *   AG Men's Denim Up to 60% Off
     *   David Donahue Dress Shirts Under $50
-    *   French Connection
+    
     *   Men's Denim Trend Report ft. Fall Washes
     *   English Laundry &. More Up to 60% Off
     *   Men's Boots Up to 65% Off
-    
+    *   French Connection
     *   Original Penguin Up to 65% Off
     *   Men's Fall Basics Up to 70% Off
     *   First Time on HauteLook: Moral Code Men
-    *   Men's Denim Under $50
-    *   Men's Comfort Shoes Blowout
-    *   Roberto Cavalli Men Up to 80% Off
-    *   Men's Lounge Shoes Up to 60% Off
-    *   Men's Lounge Styles Up to 55% Off
     *   Antonio Maurizi Men Up to 70% Off
+    *   Rock the Vote: Polished Women's Styles &. Accessories
     
     Shop By Category
     *   Clothing
@@ -132,24 +138,27 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Accessories
 *   KidsShop Sale Events
     
+    *   Coat Check: Kids' Outerwear ft. Urban Republic
+    *   Levi's Kids &. More Up to 65% Off
+    *   Native Kids
     *   Girls Dresses Up to 65% Off
     *   Get Out &. Play: Kids' Activewear
     *   Kids' Fashion Shoes ft. Carters
-    *   Joe's Jeans Kids
     
     Shop By Category
     *   Girls
     *   Boys
-    *   Girls' Shoes
     *   Baby
+    *   Girls' Shoes
     *   Boys' Shoes
 *   HomeShop Sale Events
     
+    *   Clean Up with Shark Vacuums
+    *   Rustic Home Decor Starting at $19.97
     *   Free Shipping: Fall Decor Starting at $20
     *   BergHOFF Kitchen Blowout Up to 60% Off
     *   Bring Galaxy Indoors: Lights Starting at $19.97
     *   Free Shipping: Wall Art Up to $60% Off
-    *   Sugarfina Holiday Treats Up to 60% Off
     *   Free Shipping: Overstock Fall Art Blowout
     *   Kitchen Items ft. Rice Cookers Starting at $24.97
     *   Shun Cutlery Starting at $40
@@ -158,24 +167,24 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     Shop By Category
     *   Home Decor
     *   Kitchen &. Tabletop
-    *   Electronic &. Tech Accessories
     *   Cleaning &. Organization
+    *   Electronic &. Tech Accessories
+    *   Holiday Decorations
 *   BeautyShop Sale Events
     
-    *   Stila &. More Up to 60% Off
     *   Women's Burberry Fragrances &. More Starting at $30
+    *   Stila &. More Up to 60% Off
     *   Kiehl's Favorites Starting at $10
     *   Mario Badescu Skincare Starting at $12
     *   False Eyelashes &. Eyeliner From $9.97
-    *   Mirenesse Starting from $10
     
     Shop By Category
     *   Makeup
     *   Fragrance
     *   Skin Care
+    *   Bath &. Body
     *   Tools &. Accessories
     *   Hair Care
-    *   Bath &. Body
     *   Men’s Grooming
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
