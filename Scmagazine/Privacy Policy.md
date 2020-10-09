@@ -245,23 +245,23 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   Attacks on authentication turn ransomware from disruption to disaster
-    *   Building an intelligent cybersecurity strategy
+    *   Paying ransomware groups might violate US sanctions
     *   SMEs relearn security basics under COVID's telework conditions
-    *   Common bugs make anti-virus solutions vulnerable to exploitation
-    *   Acalvio Technologies, Inc. ShadowPlex v5.2
-    
-    *   Acalvio Technologies, Inc. ShadowPlex v5.2
-    *   Axis Security looks to disrupt VPN, secure access markets
+    *   Close the cybersecurity workforce gap with better skills assessments
+    *   Emerging Products: Deception Networks Tools
     *   UK says Huawei coding quality still falls short, as global businesses look toward 5G
-    *   Twitter to launch crowdsourced misinformation service 'Birdwatch'
-    *   Attacks on authentication turn ransomware from disruption to disaster
     
-    *   H&M not alone: Companies often fall short in privacy protections to employees
+    *   Sheldon Cuffie, American Family Insurance CISO, joins Cybersecurity Collaborative Executive Committee
+    *   Attivo Networks ThreatDefend Platform v5.0
+    *   Zoom tries to make good on security, privacy promises
+    *   Here’s a workable, five-point security plan for navigating the pandemic
+    *   Emerging Products: Deception Networks Tools
+    
+    *   With compliance on the mind, corporate boards up cyber investments
+    *   NYC demonstrates 'gold standard' in cyber resilience amid pandemic
+    *   H&M not alone: Companies often fall short in privacy protections for employees
     *   Common bugs make anti-virus solutions vulnerable to exploitation
     *   Zoom tries to make good on security, privacy promises
-    *   SMEs relearn security basics under COVID's telework conditions
-    *   Phishing pages leverage CAPTCHAs to fool users, evade detection
 
 Back to Top
 
