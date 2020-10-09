@@ -2,214 +2,172 @@ Effective as of January 1, 2020, we have made changes to our Privacy Policy. By 
 
   United States We now ship to your location with Borderfree. I'm shipping to: Afghanistan Angola Anguilla Antigua and Barbuda Armenia Australia Azerbaijan Bahamas Barbados Belarus Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Botswana Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cape Verde Central African Republic Chad China Christmas Island Cocos (Keeling) Islands Congo, Democratic Republic of the Congo, Republic of the Cook Islands Curaçao Côte d'Ivoire Denmark Djibouti Dominica El Salvador Equatorial Guinea Eritrea Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland French Guiana French Polynesia Gabon Gambia Ghana Greenland Grenada Guadeloupe Guinea Guyana Haiti Holy See (Vatican City State) Hong Kong Jamaica Japan Jersey Kazakhstan Kenya Kiribati Korea, Republic of Kyrgyzstan Lao People's Democratic Republic Lebanon Lesotho Liberia Libya Macao Madagascar Malawi Malaysia Maldives Mali Marshall Islands Martinique Mauritania Mauritius Mayotte Micronesia, Federated States of Mongolia Mozambique Myanmar Namibia Nauru New Caledonia New Zealand Nicaragua Niger Nigeria Niue North Macedonia, Republic of Norway Pakistan Palau Papua New Guinea Peru Romania Russian Federation Rwanda Réunion Saint Barthélemy Saint Kitts and Nevis Saint Lucia Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Senegal Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Solomon Islands Somalia South Africa Swaziland Sweden Taiwan Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tonga Tunisia Turks and Caicos Islands Tuvalu Uganda United States Uzbekistan Vanuatu Vietnam Wallis and Futuna Yemen Zambia Zimbabwe I'd like to see prices in: Australian Dollar Bahamian Dollar Bahraini Dinar Balboa Barbados Dollar Belize Dollar Boliviano Bosnian Convertible Mark Brazilian Real British Pound Bulgarian Lev CFA Franc BCEAO CFA Franc BEAC Canadian Dollar Cayman Islands Dollar Chilean Peso Colombian Peso Cordoba Oro Costa Rican Colon Croatian Kuna Czech Koruna Danish Krone Dominican Peso Egyptian Pound Euro Guarani Hong Kong Dollar Hungarian Forint Indian Rupee Israeli Shekel Jamaican Dollar Japanese Yen Jordanian Dinar Korean Won Kuwaiti Dinar Lebanese Pound Lempira Lilangeni Malayan Ringgit Mexican Peso Moroccan Dirham Namibia Dollar Nepalese Rupee Netherlands Antillan Guilder New Romanian Leu New Zealand Dollar Norwegian Krone Omani Rial Pakistan Rupee Peruvian Nuevo Sol Philippine Peso Polish Zloty Qatari Riyal Quetzal Riel Rufiyaa Russian Ruble Saudi Riyal Singapore Dollar South African Rand Sri Lanka Rupee Swedish Krona Swiss Franc Taiwan Dollar Taka Tenge Thai Baht Turkish Lira US Dollar Ukraine Hryvnia United Arab Emirates Dirham Uruguay New Peso Yuan Renminbi Aeropostale
 
-*   Open submenu ( Girls ) Girls
-*   Open submenu ( Guys ) Guys
-*   Open submenu ( Jeans ) Jeans
-*   Open submenu ( Aero World ) Aero World
-*   Open submenu ( New Arrivals ) New Arrivals
-*   Open submenu ( Clearance ) Clearance
+*   Toggle submenu ( Girls ) Girls
+    
+    *   View Home
+    *   Tops
+    *   Tees
+    *   Bottoms
+    *   Jeans
+    *   Dresses + Jumpsuits
+    *   Matching Sets
+    *   Jackets
+    *   Accessories
+    *   Shoes
+    *   Bras + Undies
+    *   Fragrance
+    *   Clearance
+    
+    *   Toggle submenu ( Collections ) Collections
+        *   View All
+        *   New Arrivals
+        *   Rock the Vote
+        *   Lounge Life
+        *   Seamless
+        *   Destroyed Denim
+        *   Face Coverings
+        *   Tiny Tops
+        *   Uniform
+        *   Twisted for Tie Dye
+        *   Jeans Guide
+        *   Online Only
+        *   Tribe Of Tees
+        *   Extended Sizes
+*   Toggle submenu ( Guys ) Guys
+    
+    *   View Home
+    *   Tops
+    *   Tees
+    *   Bottoms
+    *   Jeans
+    *   Jackets
+    *   Accessories
+    *   Underwear
+    *   Cologne
+    *   Clearance
+    
+    *   Toggle submenu ( Collections ) Collections
+        *   View All
+        *   New Arrivals
+        *   Rock the Vote
+        *   Face Coverings
+        *   New Aero Logo
+        *   Tech Fleece
+        *   CHILL ZONE
+        *   Uniform
+        *   Twisted for Tie Dye
+        *   Jeans Guide
+        *   Online Only
+        *   Extended Sizes
+*   Toggle submenu ( Jeans ) Jeans
+    
+    *   View Home
+    *   Toggle submenu ( Girls Jeans ) Girls Jeans
+        *   View All
+        *   Buy 1 Get 1 Free
+        *   Destroyed Denim
+        *   Jeggings
+        *   High Rise Jeans
+        *   Low Rise Jeans
+        *   Curvy Jeans
+        *   Cheeky Jeans
+        *   Ankle Jeggings
+        *   Bootcut Jeans
+        *   Skinny Jeans
+        *   Skater Jeans
+        *   Boyfriend Jeans
+        *   Premium Seriously Stretchy
+        *   Real Denim
+        *   Flex Effects
+        *   Eco-Friendly Repreve
+    
+    *   Toggle submenu ( Guys Jeans ) Guys Jeans
+        *   View All
+        *   Buy 1 Get 1 Free
+        *   Destroyed Denim
+        *   Skinny Jeans
+        *   Slim Jeans
+        *   Straight Jeans
+        *   Slim Bootcut Jeans
+        *   Athletic Skinny Jeans
+        *   Relaxed Jeans
+        *   90's Dad Jeans
+        *   Loose Jeans
+        *   Premium Max Stretch
+        *   CoolMax
+        *   Flex Effects
+        *   Max Stretch
+        *   Eco-Friendly
+*   Toggle submenu ( Aero World ) Aero World
+    *   View Home
+    *   Violet
+    *   Sydney
+    *   Sheikh
+    *   Mari
+    *   Haley
+    *   Gage
+    *   Eco-Friendly
+*   Toggle submenu ( New Arrivals ) New Arrivals
+    
+    *   View Home
+    *   Toggle submenu ( Girls ) Girls
+        *   View All
+        *   Just In
+        *   Rock the Vote
+        *   Face Coverings
+        *   Tiny Tops
+        *   Best Sellers
+        *   Online Only
+        *   Destroyed Denim
+        *   Music + Pop Culture
+        *   Matching Sets
+        *   Jewelry
+    
+    *   Toggle submenu ( Guys ) Guys
+        *   View All
+        *   Just In
+        *   Rock the Vote
+        *   Tech Fleece
+        *   Face Coverings
+        *   New Aero Logo
+        *   Best Sellers
+        *   Online Only
+        *   Real Denim
+        *   Music + Pop Culture
+        *   Destroyed Denim
+*   Toggle submenu ( Clearance ) Clearance
+    
+    *   View Home
+    *   Toggle submenu ( Girls ) Girls
+        *   View All
+        *   New to Clearance
+        *   $9.99 + Under
+        *   $4.99 + Under
+        *   Clearance Tees
+        *   Tops
+        *   Bottoms
+        *   Dresses + Skirts
+        *   Accessories
+        *   Bras + Undies
+        *   Swimwear
+    
+    *   Toggle submenu ( Guys ) Guys
+        *   View All
+        *   New to Clearance
+        *   $9.99 + Under
+        *   Clearance Tees
+        *   Tops
+        *   Bottoms
+        *   Accessories
 
-*   Select Country
-
-*   Help? - Contact Us Help? - Contact Us
+*   Help - Live Chat Help - Call Us
 *   Sign Up/Login
 *   Refer a Friend
-
-Close submenu ( Girls ) Girls
-
-*   View Home
-*   Tops
-*   Tees
-*   Bottoms
-*   Jeans
-*   Dresses + Jumpsuits
-*   Matching Sets
-*   Jackets
-*   Accessories
-*   Shoes
-*   Bras + Undies
-*   Fragrance
-*   Clearance
-
-*   Open submenu ( Collections ) Collections
-
-Close submenu ( Collections ) Collections
-
-*   View All
-*   New Arrivals
-*   Rock the Vote
-*   Lounge Life
-*   Seamless
-*   Destroyed Denim
-*   Face Coverings
-*   Tiny Tops
-*   Uniform
-*   Twisted for Tie Dye
-*   Jeans Guide
-*   Online Only
-*   Tribe Of Tees
-*   Extended Sizes
-
-Close submenu ( Guys ) Guys
-
-*   View Home
-*   Tops
-*   Tees
-*   Bottoms
-*   Jeans
-*   Jackets
-*   Accessories
-*   Flip Flops + Slides
-*   Underwear
-*   Cologne
-*   Clearance
-
-*   Open submenu ( Collections ) Collections
-
-Close submenu ( Collections ) Collections
-
-*   View All
-*   New Arrivals
-*   Rock the Vote
-*   Face Coverings
-*   New Aero Logo
-*   Tech Fleece
-*   CHILL ZONE
-*   Uniform
-*   Twisted for Tie Dye
-*   Jeans Guide
-*   Online Only
-*   Extended Sizes
-
-Close submenu ( Jeans ) Jeans
-
-*   View Home
-*   Open submenu ( Girls Jeans ) Girls Jeans
-
-*   Open submenu ( Guys Jeans ) Guys Jeans
-
-Close submenu ( Girls Jeans ) Girls Jeans
-
-*   View All
-*   Buy 1 Get 1 Free
-*   Destroyed Denim
-*   Jeggings
-*   High Rise Jeans
-*   Low Rise Jeans
-*   Curvy Jeans
-*   Cheeky Jeans
-*   Ankle Jeggings
-*   Bootcut Jeans
-*   Skinny Jeans
-*   Skater Jeans
-*   Boyfriend Jeans
-*   Premium Seriously Stretchy
-*   Real Denim
-*   Flex Effects
-*   Eco-Friendly Repreve
-
-Close submenu ( Guys Jeans ) Guys Jeans
-
-*   View All
-*   Buy 1 Get 1 Free
-*   Destroyed Denim
-*   Skinny Jeans
-*   Slim Jeans
-*   Straight Jeans
-*   Slim Bootcut Jeans
-*   Athletic Skinny Jeans
-*   Relaxed Jeans
-*   90's Dad Jeans
-*   Loose Jeans
-*   Premium Max Stretch
-*   CoolMax
-*   Flex Effects
-*   Max Stretch
-*   Eco-Friendly
-
-Close submenu ( Aero World ) Aero World
-
-*   View Home
-*   Violet
-*   Sydney
-*   Sheikh
-*   Mari
-*   Haley
-*   Gage
-*   Eco-Friendly
-
-Close submenu ( New Arrivals ) New Arrivals
-
-*   View Home
-*   Open submenu ( Girls ) Girls
-
-*   Open submenu ( Guys ) Guys
-
-Close submenu ( Girls ) Girls
-
-*   View All
-*   Just In
-*   Rock the Vote
-*   Face Coverings
-*   Tiny Tops
-*   Best Sellers
-*   Online Only
-*   Destroyed Denim
-*   Music + Pop Culture
-*   Matching Sets
-*   Jewelry
-
-Close submenu ( Guys ) Guys
-
-*   View All
-*   Just In
-*   Rock the Vote
-*   Tech Fleece
-*   Face Coverings
-*   New Aero Logo
-*   Best Sellers
-*   Online Only
-*   Real Denim
-*   Music + Pop Culture
-*   Destroyed Denim
-
-Close submenu ( Clearance ) Clearance
-
-*   View Home
-*   Open submenu ( Girls ) Girls
-
-*   Open submenu ( Guys ) Guys
-
-Close submenu ( Girls ) Girls
-
-*   View All
-*   New to Clearance
-*   $9.99 + Under
-*   $4.99 + Under
-*   Clearance Tees
-*   Tops
-*   Bottoms
-*   Dresses + Skirts
-*   Accessories
-*   Bras + Undies
-*   Swimwear
-
-Close submenu ( Guys ) Guys
-
-*   View All
-*   New to Clearance
-*   $9.99 + Under
-*   Clearance Tees
-*   Tops
-*   Bottoms
-*   Accessories
-
-Buy 1 Get 1 Free Jeans + FS $50 Details
+*   Find a Store
 
 *   Select Country
-*   My Account My Account Login Register My Account My Account Login Register Track My Order Wish List Logout  
 
-Menu Find a Store Aeropostale
+Buy 1 Get 1 Free Jeans + FS $50 Details Menu Aeropostale
 
 *   Girls
     
@@ -251,7 +209,6 @@ Menu Find a Store Aeropostale
     *   Jeans
     *   Jackets
     *   Accessories
-    *   Flip Flops + Slides
     *   Underwear
     *   Cologne
     *   Clearance
@@ -370,54 +327,66 @@ Menu Find a Store Aeropostale
         *   Bottoms
         *   Accessories
 
-*   Select Country
-
-*   Help? - Contact Us Help? - Contact Us
+*   Help - Live Chat Help - Call Us
 *   Sign Up/Login
 *   Refer a Friend
+*   Find a Store
 
-0 Your Shopping Cart is Empty FREE SHIPPING  
-ORDERS OVER $50 Search Catalog Search
+*   Select Country
 
-The future is on your ballot.
+Search Catalog Search Your Shopping Cart is Empty FREE SHIPPING  
+ORDERS OVER $50 Login Register
 
-LEARN MORE SHOP ROCK THE VOTE Learn More Shop Rock The Vote
+Introducing:
 
-In Stores &. Online!
+MONEY MOVES Split your purchases into four easy, interest-free payments. with Klarna.
 
-100s of New Fall Arrivals!
+LEARN MORE Learn More
 
-50-70% Off
+Fall Freshness 50-70% OFF EVERYTHING!
 
-Including Our Freshest-Ever Fleece Hoodies.
+Fall Freshness  
+50-70% OFF  
+EVERYTHING
 
-Girls Fleece Hoodies Guys Fleece Hoodies Shop Girls Shop Guys
+Including 100s of New Arrivals
+
+Shop Girls Shop Guys
+
+Cozy Up!
+
+It's Hoodie  
+Season
+
+It's Hoodie Season
+
+Our Freshest Ever Hoodies.  
+Where Cozy Meets Cool.
+
+Girls Hoodies Guys Hoodies Shop Girls Shop Guys
+
+Step  
+Into Fall
+
+That tapered leg you love gets  
+a comfy refresh for fall.
+
+That Tapered Leg You Love Gets  
+A Comfy Refresh For Fall.
+
+Shop Girls Joggers Shop Guys Joggers Shop Girls Shop Guys
 
 Aero Jeans  
-Buy 1 Get 1 Free\*
+Buy 1 Get 1 Free\*  
++Free Shipping\*\*
 
-Denim All Day. Denim Always.
+Feat. Our High Rise Fit For Her &.  
+Must-Have Stacked Ultra Skinny For Him.
 
-With a new &. improved booty-lifting fit for her &. extra leg room for him.
+Shop Girls Jeans Shop Guys Jeans Shop Girls High Rise High Rise Shop Guys Stacked Ultra Skinny Stacked Ultra Skinny
 
-Shop Girls Jeans Shop Guys Jeans Shop Girls Destroyed Denim Shop Guys Destroyed Denim
-
-\*In store &. online. Add two to cart. Discount reflected at checkout. Excludes Clearance.
-
-Tees  
-Buy 1 Get  
-2 Free
-
-Tees  
-Buy 1 Get 2 Free
-
-vintage-inspired graphics take center stage  
-in signature Aero softness.
-
-vintage-inspired graphics take center  
-stage in signature Aero softness.
-
-Girls Graphics Guys Graphics
+\*In store &. online. Add two to cart. Discount reflected at checkout. Excludes Clearance.  
+\*\*Free shipping on your entire purchase when you buy Aero Jeans.
 
 **Order from our site and  
 pick up your purchase  
@@ -437,6 +406,21 @@ Notifications
 FREE Pick Up  
 At Aero
 
+Tees  
+Buy 1 Get  
+2 Free
+
+Tees  
+Buy 1 Get 2 Free
+
+One-of-a-kind Aero graphics for  
+you to layer now &. love forever.
+
+One-Of-A-Kind Aero Graphics For  
+You To Layer Now &. Love Forever.
+
+Girls Graphics Guys Graphics
+
 The future is on your ballot.
 
 Learn More Learn More
@@ -453,11 +437,57 @@ Aero's Sustainability Efforts <div class="browser-compatibility-alert">. <i clas
 
 For more information, please see our **Privacy Policy**. California residents, see our **California Privacy Notice** and **Do Not Sell My Personal Information** page.
 
-Enter Your Email Sign Up Join Aero's Mobile VIP Club Get texts with exclusive mobile offers and inspo Sign Up Now
+SIGN UP FOR EMAIL
 
-For more information, please see our **Privacy Policy**. California residents, see our **California Privacy Notice** and **Do Not Sell My Personal Information** page.
+Sign up for Aéropostale emails to get the latest styles &. offers.
 
-Follow Us Customer Care
+Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party! **Text JOIN to 237687.**  
+Message &. Data Rates May Apply. Details FOLLOW US Quick Links
+
+*   Track Your Order
+*   Contact Us
+*   Find A Store
+
+Shopping Help
+
+*   Track Your Order
+*   Help
+*   FAQs
+*   Shipping and Handling
+*   Returns
+*   Size Charts
+*   Coupon Page
+*   Use Student Discount
+*   Buy Online, Pick Up In Store
+*   Live Chat (8am - 2am EST)
+
+Gift Cards
+
+*   Gift Cards
+*   Lost/Stolen Gift Cards
+*   Check Gift Card Balance
+
+About Us
+
+*   About Aeropostale
+*   Careers
+*   Supply Chain
+*   Find A Store
+*   Contact Us
+
+SIGN UP FOR EMAIL
+
+Sign up for Aéropostale emails to get the latest styles &. offers.
+
+Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party! **Text JOIN to 237687.**  
+Message &. Data Rates May Apply. Details FOLLOW US
+
+*   Terms of Use
+*   Privacy Policy
+*   CA Transparency Act
+*   © 2020 Aeropostale. All Rights Reserved.
+
+Customer Care
 
 *   Order Status
 *   Track Your Order
