@@ -89,9 +89,7 @@ MOTIVATION
 
 Press Enter to submit Tap to search Fitbit Privacy Policy
 
-_New!_ We recently revised this policy to include disclosures mandated by California’s new privacy law. Please review the summary of changes and updated policy below. You can find the earlier policy in our archive.
-
-**Effective**: December 18, 2019
+**Effective**: October 8, 2020
 
 We believe that transparency is the key to any healthy relationship. At Fitbit, we’re all about healthy. We appreciate that you are trusting us with information that is important to you, and we want to be transparent about how we use it.
 
@@ -262,11 +260,11 @@ OUR INTERNATIONAL OPERATIONS AND DATA TRANSFERS
 
 We operate internationally and transfer information to the United States and other countries for the purposes described in this policy.
 
-We rely on multiple legal bases to lawfully transfer personal data around the world. These include your consent, the EU-US and Swiss-US Privacy Shield, and EU Commission approved model contractual clauses, which require certain privacy and security protections. You may obtain copies of the model contractual clauses by contacting us. Fitbit, Inc. complies with the Privacy Shield principles regarding the collection, use, sharing and retention of personal information as described in our Privacy Shield certifications. Learn more about Privacy Shield here.
+We rely on multiple legal bases to lawfully transfer personal data around the world. These include your consent and EU Commission approved model contractual clauses, which require certain privacy and security protections. You may obtain copies of the model contractual clauses by contacting us.
 
-Fitbit, Inc. is subject to the oversight of the US Federal Trade Commission and remains responsible for personal information that we transfer to others who process it on our behalf as described in the How Information Is Shared section.If you have a complaint about our Privacy Shield compliance, please contact us. You can also refer a complaint to our chosen independent dispute resolution body JAMS, and in certain circumstances, invoke the Privacy Shield arbitration process.
+Please note that the countries where we operate may have privacy and data protection laws that differ from, and are potentially less protective than, the laws of your country. You agree to this risk when you create a Fitbit account and click “I agree” to data transfers, irrespective of which country you live in. For a list of the locations where we have offices, please see our company information here. If you later wish to withdraw your consent, you can delete your Fitbit account as described in the Your Rights To Access and Control Your Personal Data section.
 
-Please note that the countries where we operate may have privacy and data protection laws that differ from, and are potentially less protective than, the laws of your country. You agree to this risk when you create a Fitbit account and click “I agree” to data transfers, irrespective of which country you live in. For a list of the locations where we have offices, please see our company information here. If you later wish to withdraw your consent, you can delete your Fitbit account as described in the Your Rights To Access and Control Your Personal Data section.
+While not relied upon for international data transfers, Fitbit, Inc. complies with the EU-US and Swiss-US Privacy Shield principles regarding the collection, use, sharing and retention of personal information as described in our Privacy Shield certifications. Learn more about Privacy Shield here. Fitbit, Inc. is subject to the oversight of the US Federal Trade Commission and remains responsible for personal information that we transfer to others who process it on our behalf as described in the How Information Is Shared section. If you have a complaint about our Privacy Shield compliance, please contact us. You can also refer a complaint to our chosen independent dispute resolution body JAMS, and in certain circumstances, invoke the Privacy Shield arbitration process.
 
 EUROPEAN PRIVACY DISCLOSURES
 
