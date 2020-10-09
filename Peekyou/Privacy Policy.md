@@ -58,7 +58,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT.
 
-What is PeekScore? Public Records &. Background Checks 3% 
+What is PeekScore? Public Records &. Background Checks 5% 
 
 Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-5%  3% 
+11%  5% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 58, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 58, Casselberry, FL 3
     
 *   Show Less ...
 
-5%  Arrest Records &. Driving Infractions
+11%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -159,7 +159,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 3% 
+Facebook 5% 
 
 *   Prıvacy PoIicy (jayoung) - jaya.fauzi.3
     
@@ -193,7 +193,7 @@ Facebook 3% 
     
 *   Show Less ...
 
-Twitter 3% 
+Twitter 5% 
 
 *   Free Privacy Policy - FreePrivacy1
     
@@ -239,7 +239,7 @@ Twitter 3% 
     
 *   Show Less ...
 
-Instagram 3% 
+Instagram 5% 
 
 *   Privacy Policy - insta\_privacy\_policy
     
@@ -285,7 +285,7 @@ Instagram 3% 
     
 *   Show Less ...
 
-Myspace 3% 
+Myspace 5% 
 
 *   Privacy Policy - 49086242
     
@@ -309,7 +309,7 @@ Myspace 3% 
     
 *   Show Less ...
 
-Social Profiles 5%  Pinterest 3% 
+Social Profiles 11%  Pinterest 5% 
 
 *   Privacy Policy - privacypolicyvino
     
@@ -318,7 +318,7 @@ Social Profiles 5%  Pinterest 3% 
 *   Susan PaquinNote: This Privacy Policy is effective as of November 8, 2012 - suepson
     
 
-Wikipedia 3% 
+Wikipedia 5% 
 
 *   Privacy
     
@@ -346,7 +346,39 @@ Wikipedia 3% 
     
 *   Show Less ...
 
-Music 5%  Photo Albums 5%  Web Search 5%  Images 3% 
+Music 11%  Photo Albums 5% 
+
+*   Flickr's Privacy Policy
+    
+*   Help
+    
+    Apr 30, 2020 · This Privacy Policy explains how Flickr collects, uses and discloses information from and about you when you use the Flickr services, including the Flickr mobile and Apple TV applications and Flickr website (collectively, the "Services"). It does not cover data relating to the SmugMug service. We may change this Privacy Policy from time to time.
+    
+*   Flickr's Privacy Policy
+    
+    Apr 20, 2018 · SmugMug, Inc. and its subsidiaries, including Flickr, Inc. ( “SmugMug”, “we” or “us” ), are passionately committed to the privacy of our customers. This Privacy Policy ( “Privacy Policy”) explains how information about you is collected, used and disclosed by SmugMug. This Privacy Policy applies to information we collect when you use the Flickr services, including the Flickr mobile application and Flickr …
+    
+*   Privacy Policy
+    
+    Embedding Flickr on your website can help readers view your photos easily. Users can take advantage of the service as much or as little as they want, it is absolutely free to use. 100% Free: Make an advanced HTML online picture slideshow for Flickr / Instagram and embed it on your webpage.
+    
+*   Show More ...
+
+*   Flickr Privacy Policy and Notice | Homeland Security
+    
+    Flickr Privacy Policy and Notice. The Department of Homeland Security (DHS or Department) will use this Flickr page for external relations (communications/outreach/public dialogue), to make photos and images widely available to the general public, and promote transparency and accountability. DHS Office of Public Affairs (OPA) serves as the executive agent for the DHS Flickr page and controls who at the …
+    
+*   Flickr | Verizon Media Policies
+    
+    In your Privacy Settings, you can choose to make your photos default to public for anyone to access, you can restrict access to a limited number of other Flickr users, or you can keep those photos private so only you can access them.
+    
+*   Help
+    
+    May 09, 2018 · The Flickr APIs are owned by SmugMug, Inc. and/or its subsidiaries, including Flickr, Inc. ("SmugMug"), which collectively operate the Flickr business division of SmugMug ("Flickr"), and are licensed to you on a worldwide (except as limited below), non-exclusive, non-sublicenseable basis on the terms and conditions set forth herein.
+    
+*   Show Less ...
+
+Web Search 11%  Images 5% 
 
 14
 
@@ -354,7 +386,7 @@ Music 5%  Photo Albums 5%  Web Search 5%  Images 3% 
 
 20
 
-9
+7
 
 facebookx
 
