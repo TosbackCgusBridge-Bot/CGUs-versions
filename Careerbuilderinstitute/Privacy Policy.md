@@ -72,7 +72,7 @@ Part-time
 Work From Home (WFH)  
 Jobs near me  
 Full-time  
-Warehouse  
+Hospital Jobs  
 IT jobs  
 Retail  
 Entry Level  
@@ -108,7 +108,7 @@ Instant Notifications
 
 You'll receive push notifications when your resume is viewed, or when new jobs appear in your most recent search. Making it easy for you to jump right back into your job search.
 
-see how you can up your career status Career Development &. Learning Holiday season retail jobs are growing – plus companies hiring this week Read Article The 2 things hiring managers want from job seekers in 2020 Read Article Jobs available this week as food and retail stores increase hiring Read Article Read More Articles Employers Looking to Post a Job?
+see how you can up your career status Career Development &. Learning Job hunting tips for recent and soon-to-be grads Read Article The 2 things hiring managers want from job seekers in 2020 Read Article Holiday season retail jobs are growing – plus companies hiring this week Read Article Read More Articles Employers Looking to Post a Job?
 
 We have end-to-end solutions that can keep up with you and your standards.
 
