@@ -7,7 +7,7 @@ TABLE OF CONTENTS
 Summary  
 The Information We Collect
 
-*   Information We Collect From You
+*   Information We Obtain From You
 *   Information About Your Transactions
 *   Information From Third Parties
 *   Location Services
@@ -22,6 +22,7 @@ California Residents
 *   Notice of Collection for California Residents
 
 Changes to This Privacy Policy  
+Alternative Format  
 What to Do If You Have Privacy or Security Concerns
 
 SUMMARY
@@ -39,7 +40,7 @@ Non-public personally identifiable information ("Information") is information th
 
 For California Residents, please click here to see the categories of personal information that we may collect.
 
-INFORMATION WE COLLECT FROM YOU
+INFORMATION WE OBTAIN FROM YOU
 
 During the quoting, application, or claims handling processes you may give us Information such as your:
 
