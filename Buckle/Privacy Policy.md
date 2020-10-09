@@ -119,6 +119,7 @@
         *   Coats &. Jackets
         *   Jeans
         *   Loungewear
+        *   Shirts
         *   Shorts
         *   Sweaters
         *   Sweatshirts
