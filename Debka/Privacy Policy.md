@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Wednesday, October 7, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Friday, October 9, 2020  
 
 DEBKAfile
 
@@ -44,102 +44,102 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Biden agrees to virtual debate, Trump pulls out
+    
+    Oct 08, 2020 @ 19:20
+    
+*   Israel-UAE accord to be presented to the Knesset next Monday
+    
+    Oct 08, 2020 @ 19:07
+    
+*   Budget battle between coalition partners
+    
+    Oct 08, 2020 @ 18:49
+    
+*   Finance Minister challenges lockdown, takes issue with PM
+    
+    Oct 08, 2020 @ 08:44
+    
+*   Huge explosion strikes Deraa in SW Syria, causes injuries
+    
+    Oct 08, 2020 @ 08:36
+    
+*   Law restricting demonstrations extended to Oct. 13
+    
+    Oct 08, 2020 @ 08:29
+    
+*   US vice-presidential debate polite and unmemorable
+    
+    Oct 08, 2020 @ 08:03
+    
 *   At least 15 killed in car bomb explosion in northern Syria
     
     Oct 06, 2020 @ 21:05
-    
-*   Ashkenazi and UAE FM visit Holocaust Memorial in Berlin
-    
-    Oct 06, 2020 @ 20:59
-    
-*   Bnei Brak overtakes Jerusalem as covid hotbed
-    
-    Oct 06, 2020 @ 15:58
-    
-*   Covid symptoms may persist for months after recovery
-    
-    Oct 06, 2020 @ 15:36
-    
-*   Coronavirus Cabinet winds up without clear decisions
-    
-    Oct 05, 2020 @ 22:17
-    
-*   Rocket launched from Gaza explodes on open ground
-    
-    Oct 05, 2020 @ 20:33
-    
-*   Gamzu rebukes minister for breaching covid lockdown
-    
-    Oct 05, 2020 @ 16:42
-    
-*   Erdogan: “Jerusalem is ours”
-    
-    Oct 05, 2020 @ 13:03
     
 
-*   Coronavirus Cabinet winds up without clear decisions
+*   Huge explosion strikes Deraa in SW Syria, causes injuries
     
-    Oct 05, 2020 @ 22:17
+    Oct 08, 2020 @ 08:36
     
-*   Rocket launched from Gaza explodes on open ground
+*   Law restricting demonstrations extended to Oct. 13
     
-    Oct 05, 2020 @ 20:33
+    Oct 08, 2020 @ 08:29
     
-*   Gamzu rebukes minister for breaching covid lockdown
+*   US vice-presidential debate polite and unmemorable
     
-    Oct 05, 2020 @ 16:42
-    
-*   Erdogan: “Jerusalem is ours”
-    
-    Oct 05, 2020 @ 13:03
+    Oct 08, 2020 @ 08:03
     
 *   At least 15 killed in car bomb explosion in northern Syria
     
     Oct 06, 2020 @ 21:05
     
-*   Ashkenazi and UAE FM visit Holocaust Memorial in Berlin
+*   Biden agrees to virtual debate, Trump pulls out
     
-    Oct 06, 2020 @ 20:59
+    Oct 08, 2020 @ 19:20
     
-*   Bnei Brak overtakes Jerusalem as covid hotbed
+*   Israel-UAE accord to be presented to the Knesset next Monday
     
-    Oct 06, 2020 @ 15:58
+    Oct 08, 2020 @ 19:07
     
-*   Covid symptoms may persist for months after recovery
+*   Budget battle between coalition partners
     
-    Oct 06, 2020 @ 15:36
+    Oct 08, 2020 @ 18:49
     
-*   Coronavirus Cabinet winds up without clear decisions
+*   Finance Minister challenges lockdown, takes issue with PM
     
-    Oct 05, 2020 @ 22:17
+    Oct 08, 2020 @ 08:44
     
-*   Rocket launched from Gaza explodes on open ground
+*   Huge explosion strikes Deraa in SW Syria, causes injuries
     
-    Oct 05, 2020 @ 20:33
+    Oct 08, 2020 @ 08:36
     
-*   Gamzu rebukes minister for breaching covid lockdown
+*   Law restricting demonstrations extended to Oct. 13
     
-    Oct 05, 2020 @ 16:42
+    Oct 08, 2020 @ 08:29
     
-*   Erdogan: “Jerusalem is ours”
+*   US vice-presidential debate polite and unmemorable
     
-    Oct 05, 2020 @ 13:03
+    Oct 08, 2020 @ 08:03
     
 *   At least 15 killed in car bomb explosion in northern Syria
     
     Oct 06, 2020 @ 21:05
     
-*   Ashkenazi and UAE FM visit Holocaust Memorial in Berlin
+*   Biden agrees to virtual debate, Trump pulls out
     
-    Oct 06, 2020 @ 20:59
+    Oct 08, 2020 @ 19:20
     
-*   Bnei Brak overtakes Jerusalem as covid hotbed
+*   Israel-UAE accord to be presented to the Knesset next Monday
     
-    Oct 06, 2020 @ 15:58
+    Oct 08, 2020 @ 19:07
     
-*   Covid symptoms may persist for months after recovery
+*   Budget battle between coalition partners
     
-    Oct 06, 2020 @ 15:36
+    Oct 08, 2020 @ 18:49
+    
+*   Finance Minister challenges lockdown, takes issue with PM
+    
+    Oct 08, 2020 @ 08:44
     
 
 12PrevNext
