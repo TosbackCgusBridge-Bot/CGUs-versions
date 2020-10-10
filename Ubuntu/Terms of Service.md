@@ -46,6 +46,6 @@ Download Ubuntu ›
 
 Further reading
 
+*   Homelab clusters: LXD micro cloud on Raspberry Pi
+*   Canonical &. Ubuntu at Open Infrastructure Summit 2020
 *   Canonical – Supermicro partnership at the NFV&MEC Plugtests 2020
-*   Building competitive advantage by adopting cloud-native approach
-*   Emilia Torino shares what goes into keeping Ubuntu secure
