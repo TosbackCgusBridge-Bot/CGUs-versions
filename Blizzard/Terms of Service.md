@@ -1,10 +1,10 @@
 Blizzard End User License Agreement
 
-LAST REVISED June 1, 2018
+LAST REVISED October 9, 2020
 
 **IMPORTANT NOTICE:**
 
-**THIS VERSION OF THE BLIZZARD END USER LICENSE AGREEMENT WILL BECOME EFFECTIVE ON June 21, 2018.**
+**THIS VERSION OF THE BLIZZARD END USER LICENSE AGREEMENT WILL BECOME EFFECTIVE ON OCTOBER 9, 2020.**
 
 **YOU SHOULD CAREFULLY READ THIS AGREEMENT (THE “AGREEMENT”) BEFORE INSTALLING OR USING BLIZZARD’S ONLINE GAMING PLATFORM.  IF YOU DO NOT AGREE WITH ALL OF THE TERMS OF THIS AGREEMENT, YOU MAY NOT INSTALL OR OTHERWISE ACCESS THE PLATFORM.**
 
@@ -268,7 +268,7 @@ Except as otherwise provided below, if you reside in the United States, Canada, 
         
 13.  **General.**
     
-    1.  The Platform may not be used, re-exported, downloaded or otherwise exported into (or to a national or resident of) any country to which the U.S. has embargoed goods, or to anyone on the U.S. Treasury Department's list of Specially Designated Nationals or the U.S. Commerce Department's Table of Denial Orders. You represent and warrant that you are not located in, under the control of, or a national or resident of any such country or on any such list.
+    1.  You understand and agree that the Platform may not be used, accessed, downloaded, or otherwise exported, reexported, or transferred in contravention of applicable export control, economic sanctions, and import laws and regulations, including, but not limited to, the U.S. Export Administration Regulations (“EAR”) and regulations promulgated by the U.S. Department of the Treasury’s Office of Foreign Assets Control (“OFAC”). You represent and warrant that you (1) are not subject to U.S. sanctions or export restrictions and otherwise are eligible to utilize the Platform under applicable laws and regulations. (2) are not located or ordinarily resident in a country or region subject to comprehensive or near-comprehensive U.S. sanctions/embargo, unless your use of the Platform in such country or region is authorized by U.S. law. (3) are not an official, employee, agent, or contractor of, or directly or indirectly acting or purporting to act for or on behalf of, a government (including any political subdivision, agency, or instrumentality thereof or any person directly or indirectly owned or controlled by the foregoing) or political party (e.g., Cuban Communist Party, Workers’ Party of Korea) subject to U.S. sanctions/embargo or any other entity in a sanctioned/embargoed country or region or subject to U.S. sanctions/embargo. and (4) will not use the Platform in connection with an end-use prohibited by U.S. law.
         
     2.  Blizzard may assign this Agreement, in whole or in part, to any person or entity at any time with or without your consent. You may not assign this Agreement without Blizzard’s prior written consent. Your assignment of this Agreement without Blizzard’s prior written consent shall be void.
         
