@@ -43,6 +43,7 @@ Skip Navigation
         *   Xandr CSR
         *   Reporting
     *   Diversity &. Inclusion
+        *   Stand for Equality
     *   Ethics &. Compliance
 *   Careers
 *   News
