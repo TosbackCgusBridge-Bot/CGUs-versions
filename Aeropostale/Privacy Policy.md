@@ -441,7 +441,11 @@ SIGN UP FOR EMAIL
 
 Sign up for Aéropostale emails to get the latest styles &. offers.
 
-Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party! **Text JOIN to 237687.**  
+Enter Your Email Sign Up
+
+For more information, please see our **Privacy Policy**. California residents, see our **California Privacy Notice** and **Do Not Sell My Personal Information** page.
+
+SIGN UP For AERO TEXTS Join the party! **Text JOIN to 237687.**  
 Message &. Data Rates May Apply. Details FOLLOW US Quick Links
 
 *   Track Your Order
@@ -479,7 +483,11 @@ SIGN UP FOR EMAIL
 
 Sign up for Aéropostale emails to get the latest styles &. offers.
 
-Enter Your Email Sign Up SIGN UP For AERO TEXTS Join the party! **Text JOIN to 237687.**  
+Enter Your Email Sign Up
+
+For more information, please see our **Privacy Policy**. California residents, see our **California Privacy Notice** and **Do Not Sell My Personal Information** page.
+
+SIGN UP For AERO TEXTS Join the party! **Text JOIN to 237687.**  
 Message &. Data Rates May Apply. Details FOLLOW US
 
 *   Terms of Use
