@@ -8,7 +8,7 @@ Skip to main content Open menu button Primary nav
 *   Players
 *   Stats
 *   Standings
-*   Inspire Change
+*   Crucial Catch
 *   NFL Network
 *   NFL Films
 *   Fantasy
@@ -20,10 +20,13 @@ Skip to main content Open menu button Primary nav
     *   Game Pass
     *   NFL Votes
     *   Community
+    *   Inspire Change
+    *   Hispanic Heritage
+    *   NFL PRIDE
     *   Ways to Watch
     *   En Español
 
-*   NFL Votes
+*   Crucial Catch
 *   Scores
 
 Action related nav
