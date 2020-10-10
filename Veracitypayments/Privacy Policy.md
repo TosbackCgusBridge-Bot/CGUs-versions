@@ -1,4 +1,4 @@
-Sales: **866.906.3480**   Support: **888.237.7850**
+Sales: **866.725.2902**   Support: **888.237.7850**
 
 Sign Up Login
 
@@ -106,7 +106,7 @@ Further, Organizations and users of our Services have the ability to review, cor
 
 **Links to Third-Party Websites**
 
-Our website may contain links to third-party websites. These websites have separate privacy policies that you should review. While we make efforts to choose the links on our website carefully, we cannot take responsibility for the content of linked websites or those companies’ data-handling practices.
+Our website may contain links to third-party websites and in certain situations you may be transferred to a third-party website but it may appear that you are still on this Site. These websites have separate privacy policies that you should review. While we make efforts to choose the links on our website carefully, we cannot take responsibility for the content of linked websites or those companies’ data-handling practices.
 
 **Protection and Storage of Your Information**
 
@@ -185,7 +185,7 @@ Bloomington, MN 55437
 
 **CALL US**
 
-**Sales:** 866.906.3480
+**Sales:** 866.725.2902
 
 **Support:** 888.237.7850
 
@@ -229,7 +229,7 @@ CALL US
 
 **Support:** (800) 675-7430
 
-**Sales:** (866) 906-3480
+**Sales:** (866) 725-2902
 
 **Login**
 
