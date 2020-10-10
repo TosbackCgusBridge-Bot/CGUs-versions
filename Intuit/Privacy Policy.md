@@ -5,7 +5,7 @@ Our COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: STYLISH Deta
 
 Enable Accessibility
 
-*   StoresSouthwest PlazaMore Stores8501 W Bowles Ave, Littleton, CO, 80123303-933-9200 Weekly Ads Engagement GuideValid Jan 24th - Sep 1st
+*   StoresLakeline MallMore Stores11200 Lakeline Mall Dr, Cedar Park, TX, 78613512-257-1177 Weekly Ads Engagement GuideValid Jan 24th - Sep 1st
     
     My Account
     
@@ -27,16 +27,7 @@ Enable Accessibility
 *   Jewelry
 *   Sephora Beauty &. Salon
 
-Semi-Annual Intimates SaleEnds 10/14
-
-*   Shop Bras
-*   Shop Panties
-
-Explore Shop All Deals35-60% OFF Fine &. fashion jewelry+ EXTRA 30% OFF\*with **JCPenney Credit Card**&. coupon or code: **FLAWLESS**select styles\*Coupon &. details
-
-*   Shop All
-
-St. John's BayXersionArizonaJF J. FerrarGirlsBoysUnBOOlievable costume ideasGet the whole family screaming for Hallo"_weeee_"n!!Shop Halloween40% OFF Disney &. Disney/Pixar Costumes  select styles | Excluded from coupons.Perk up your home for fall!30-40% OFF Home Saleselect stylesShop AllBeddingWindowDecorRugsUP TO 40% OFF Cuisinart®Find NEW products to love with the kitchen brand that does it all.select styles 
+UP TO 40% OFF Cuisinart®Find NEW products to love with the kitchen brand that does it all.select styles 
 
 *   Shop All
 
@@ -49,7 +40,16 @@ St. John's BayXersionArizonaJF J. FerrarGirlsBoysUnBOOlievable costume ideasGet 
 *   Gadgets
     
 
-Shop AllMattressesFurnitureHomeWomenMenShoesJuniorsBaby &. Kids
+Shop AllSemi-Annual Intimates SaleEnds 10/14
+
+*   Shop Bras
+*   Shop Panties
+
+Explore Shop All Deals35-60% OFF Fine &. fashion jewelry+ EXTRA 30% OFF\*with **JCPenney Credit Card**&. coupon or code: **FLAWLESS**select styles\*Coupon &. details
+
+*   Shop All
+
+St. John's BayXersionArizonaJF J. FerrarGirlsBoysUnBOOlievable costume ideasGet the whole family screaming for Hallo"_weeee_"n!!Shop Halloween40% OFF Disney &. Disney/Pixar Costumes  select styles | Excluded from coupons.MattressesFurnitureHomeWomenMenShoesJuniorsBaby &. Kids
 
 **\*For BOGO offer:** \*Buy one item at regular price and get the second item of equal or lesser value for free, or buy three items at regular price and get three items of equal or lesser value for free, advertised in the specific offer. Some items must be same category of merchendise or same gender. see store associate or jcp.com for details. 
 
@@ -57,24 +57,20 @@ Shop AllMattressesFurnitureHomeWomenMenShoesJuniorsBaby &. Kids
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 26 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   1/10 CT. T.W. Genuine Diamond 9.3 mm Stud Earrings in Sterling Silver
+*   St. John's Bay Womens Long Sleeve Open Front Cardigan $18.74with code~$44~9
+*   St. John's Bay Womens Mid Rise Straight Leg Jean
     
-    $25sale
+    $8.79 - $44
     
-    ~$124.98~227
-*   Home Expressions Microfiber Plus Ultra Soft Easy Care Wrinkle Resistant Sheet Set $9.74 - $22.49with code~$26 - $60~1761
-*   Home Expressions Lisette Sheer Rod-Pocket Single Curtain Panel
+    2222
+*   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693
     
-    $4.99 - $27.99sale
+    $24.99sale
     
-    ~$16 - $40~1257
-*   Worthington Womens Long Sleeve Cardigan $22.49with code~$44~5
-*   LIMITED TIME SPECIAL! Lab Created White Sapphire Cocktail Ring in Sterling Silver
-    
-    $15sale
-    
-    ~$74.98~36
-*   Liz Claiborne Womens Split Crew Neck Short Sleeve Blouse $13.49 - $13.50with code~$30~8
+    ~$36~6914
+*   St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt $13.49with code~$30~5
+*   Worthington Womens Long Sleeve Cardigan $22.49with code~$44~6
+*   St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater $13.49with code~$32~
 
 Shop and Save at JCPenney
 
