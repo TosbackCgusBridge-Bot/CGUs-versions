@@ -25,19 +25,19 @@ View more results
     
     All Girls Best Games
     *   Funny Throat Doctor
-    *   BFFs Dressing Room
-    *   Instagirls: Halloween Dress-Up
-    *   Tris Date Night Dolly Dress Up
     *   Princess Graduation Party Night
-    *   Tattoo Salon
+    *   Instagirls: Halloween Dress-Up
+    *   BFFs Dressing Room
     *   Ice Slushy Maker
-    *   Princess Hard Times
+    *   Tris Date Night Dolly Dress Up
     *   Mermaid Sauna Flirting
+    *   Princess Hard Times
     *   Beach Kiss
+    *   Goldie: Lip Injections
     *   Mommy BFFs: Pregnant Check-Up
     *   Floral Real Life Manicure
+    *   Tattoo Salon
     *   Bonnie's Surprise Proposal
-    *   Princess: New Look Haircut
 *   Racing
     
     Top Categories
@@ -61,8 +61,8 @@ View more results
     *   Drag Racing Rivals
     *   Moto X3m 3
     *   City Car Stunts 2
-    *   Off-Roader V6
     *   Two Punk Racing
+    *   Off-Roader V6
     *   Russian Car Driver
     *   Madalin Cars Multiplayer
     *   Drift Cars
@@ -90,8 +90,8 @@ View more results
     *   Sniper Reloaded
     *   Shot Trigger
     *   Super Rocket Buddy
-    *   Rebel Attack Shooter
     *   Stickman Archer 2
+    *   Rebel Attack Shooter
     *   Gun Blood
     *   Dino Survival: Shooter Game
 *   Puzzle
@@ -110,18 +110,18 @@ View more results
     All Puzzle Best Games
     *   MahJongCon
     *   Bubble Shooter Classic
-    *   1001 Arabian Nights
     *   Bubble Shooter Classic
     *   Block Wood Puzzle
+    *   1001 Arabian Nights
     *   Pipe Mania
     *   Butterfly Kyodai
     *   Mahjong Link
     *   Mystic Sea Treasures
-    *   Word Wipe
     *   Farm Connect 2
-    *   Mahjong Connect Classic
+    *   Word Wipe
     *   Candy Riddles: Free Match 3 Puzzle
-    *   Mahjongg Alchemy
+    *   Mahjong Connect Classic
+    *   Jewelry Match
 *   Multiplayer
     
     Top Categories
@@ -143,11 +143,11 @@ View more results
     *   Fireboy and Watergirl: The Forest Temple
     *   Hole.io
     *   Gartic.io
-    *   Madalin Cars Multiplayer
     *   Fireboy &. Watergirl 3: The Ice Temple
     *   Master Chess Multiplayer
-    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Crowd City
+    *   Madalin Cars Multiplayer
+    *   Fireboy &. Watergirl 4: Crystal Temple
     *   Match Arena Multiplayer
     *   Fireboy &. Watergirl 2: The Light Temple
 *   Action
@@ -165,8 +165,8 @@ View more results
     
     All Action Best Games
     *   Subway Clash 3D
-    *   Stickman Fighter: Epic Battle
     *   Combat Strike 2
+    *   Stickman Fighter: Epic Battle
     *   Miami Crime Simulator 3D
     *   Bomb It 6
     *   Apple Shooter
@@ -177,7 +177,7 @@ View more results
     *   Sniper Reloaded
     *   Shot Trigger
     *   Slither.io
-    *   Age of War
+    *   Super Buddy Kick
 *   Adventure
     
     Top Categories
