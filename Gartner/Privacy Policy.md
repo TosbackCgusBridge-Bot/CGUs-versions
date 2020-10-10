@@ -86,7 +86,7 @@ Search
     *   NewsroomCareers
 *   Become a Client
     
-    1 800 213 4848
+    1 855 632 0502
     
 
 *   Solutions By Function
@@ -159,7 +159,7 @@ Search
 
 *   Become a Client
     
-    1 800 213 4848
+    1 855 632 0502
     
 
 GARTNER PRIVACY POLICY Effective Date: September 2020
