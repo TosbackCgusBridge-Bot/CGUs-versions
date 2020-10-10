@@ -58,7 +58,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT.
 
-What is PeekScore? Public Records &. Background Checks 5% 
+What is PeekScore? Public Records &. Background Checks 3% 
 
 Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-11%  5% 
+11%  3% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 58, Casselberry, FL 32707 View Full Report
     
@@ -159,7 +159,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 5% 
+Facebook 3% 
 
 *   Prıvacy PoIicy (jayoung) - jaya.fauzi.3
     
@@ -193,7 +193,7 @@ Facebook 5% 
     
 *   Show Less ...
 
-Twitter 5% 
+Twitter 3% 
 
 *   Free Privacy Policy - FreePrivacy1
     
@@ -239,7 +239,7 @@ Twitter 5% 
     
 *   Show Less ...
 
-Instagram 5% 
+Instagram 3% 
 
 *   Privacy Policy - insta\_privacy\_policy
     
@@ -285,7 +285,7 @@ Instagram 5% 
     
 *   Show Less ...
 
-Myspace 5% 
+Myspace 3% 
 
 *   Privacy Policy - 49086242
     
@@ -309,7 +309,7 @@ Myspace 5% 
     
 *   Show Less ...
 
-Social Profiles 11%  Pinterest 5% 
+Social Profiles 11%  Pinterest 3% 
 
 *   Privacy Policy - privacypolicyvino
     
@@ -318,7 +318,7 @@ Social Profiles 11%  Pinterest 5% 
 *   Susan PaquinNote: This Privacy Policy is effective as of November 8, 2012 - suepson
     
 
-Wikipedia 5% 
+Wikipedia 3% 
 
 *   Privacy
     
@@ -346,7 +346,7 @@ Wikipedia 5% 
     
 *   Show Less ...
 
-Music 11%  Photo Albums 5% 
+Music 11%  Photo Albums 3% 
 
 *   Flickr's Privacy Policy
     
@@ -378,7 +378,7 @@ Music 11%  Photo Albums 5% 
     
 *   Show Less ...
 
-Web Search 11%  Images 5% 
+Web Search 11%  Images 3% 
 
 14
 
@@ -386,7 +386,7 @@ Web Search 11%  Images 5% 
 
 20
 
-7
+6
 
 facebookx
 
