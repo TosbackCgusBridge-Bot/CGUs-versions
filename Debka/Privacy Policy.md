@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Saturday, October 10, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Sunday, October 11, 2020  
 
 DEBKAfile
 
@@ -44,6 +44,22 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
+*   Armenia and Azerbaijan agree on a truce after two weeks of fighting
+    
+    Oct 10, 2020 @ 10:25
+    
+*   Nursery schools and some small firms may reopen on Oct. 18
+    
+    Oct 10, 2020 @ 10:12
+    
+*   Second Trump-Biden debate canceled
+    
+    Oct 10, 2020 @ 09:57
+    
+*   More than 250 wildfires doused across Israel
+    
+    Oct 10, 2020 @ 09:44
+    
 *   Nobel Peace Prize awarded to World Food Program
     
     Oct 09, 2020 @ 13:19
@@ -59,39 +75,39 @@ Breaking news
 *   Arab airliners bound for Europe and US  may transit Israeli airspace
     
     Oct 09, 2020 @ 12:05
-    
-*   Biden agrees to virtual debate, Trump pulls out
-    
-    Oct 08, 2020 @ 19:20
-    
-*   Israel-UAE accord to be presented to the Knesset next Monday
-    
-    Oct 08, 2020 @ 19:07
-    
-*   Budget battle between coalition partners
-    
-    Oct 08, 2020 @ 18:49
-    
-*   Finance Minister challenges lockdown, takes issue with PM
-    
-    Oct 08, 2020 @ 08:44
     
 
-*   Biden agrees to virtual debate, Trump pulls out
+*   Nobel Peace Prize awarded to World Food Program
     
-    Oct 08, 2020 @ 19:20
+    Oct 09, 2020 @ 13:19
     
-*   Israel-UAE accord to be presented to the Knesset next Monday
+*   Thousands of evacuations from homes as several wildfires spread
     
-    Oct 08, 2020 @ 19:07
+    Oct 09, 2020 @ 13:11
     
-*   Budget battle between coalition partners
+*   Steady decline in new coronavirus cases during lockdown
     
-    Oct 08, 2020 @ 18:49
+    Oct 09, 2020 @ 12:16
     
-*   Finance Minister challenges lockdown, takes issue with PM
+*   Arab airliners bound for Europe and US  may transit Israeli airspace
     
-    Oct 08, 2020 @ 08:44
+    Oct 09, 2020 @ 12:05
+    
+*   Armenia and Azerbaijan agree on a truce after two weeks of fighting
+    
+    Oct 10, 2020 @ 10:25
+    
+*   Nursery schools and some small firms may reopen on Oct. 18
+    
+    Oct 10, 2020 @ 10:12
+    
+*   Second Trump-Biden debate canceled
+    
+    Oct 10, 2020 @ 09:57
+    
+*   More than 250 wildfires doused across Israel
+    
+    Oct 10, 2020 @ 09:44
     
 *   Nobel Peace Prize awarded to World Food Program
     
@@ -109,37 +125,21 @@ Breaking news
     
     Oct 09, 2020 @ 12:05
     
-*   Biden agrees to virtual debate, Trump pulls out
+*   Armenia and Azerbaijan agree on a truce after two weeks of fighting
     
-    Oct 08, 2020 @ 19:20
+    Oct 10, 2020 @ 10:25
     
-*   Israel-UAE accord to be presented to the Knesset next Monday
+*   Nursery schools and some small firms may reopen on Oct. 18
     
-    Oct 08, 2020 @ 19:07
+    Oct 10, 2020 @ 10:12
     
-*   Budget battle between coalition partners
+*   Second Trump-Biden debate canceled
     
-    Oct 08, 2020 @ 18:49
+    Oct 10, 2020 @ 09:57
     
-*   Finance Minister challenges lockdown, takes issue with PM
+*   More than 250 wildfires doused across Israel
     
-    Oct 08, 2020 @ 08:44
-    
-*   Nobel Peace Prize awarded to World Food Program
-    
-    Oct 09, 2020 @ 13:19
-    
-*   Thousands of evacuations from homes as several wildfires spread
-    
-    Oct 09, 2020 @ 13:11
-    
-*   Steady decline in new coronavirus cases during lockdown
-    
-    Oct 09, 2020 @ 12:16
-    
-*   Arab airliners bound for Europe and US  may transit Israeli airspace
-    
-    Oct 09, 2020 @ 12:05
+    Oct 10, 2020 @ 09:44
     
 
 12PrevNext
