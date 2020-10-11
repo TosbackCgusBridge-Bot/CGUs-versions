@@ -58,7 +58,7 @@ Provo, UT
 
 Privacy Policy lives in Provo, UT.
 
-What is PeekScore? Public Records &. Background Checks 3% 
+What is PeekScore? Public Records &. Background Checks 2% 
 
 Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 32707 View Full Report
     
@@ -88,7 +88,7 @@ Sponsored by **BeenVerified***   Patricia Anne Policy, age 57, Casselberry, FL 3
     
 *   Show Less ...
 
-11%  3% 
+3%  2% 
 
 Sponsored by **PeopleLooker***   Patricia Anne Policy, age 58, Casselberry, FL 32707 View Full Report
     
@@ -118,7 +118,7 @@ Sponsored by **PeopleLooker***   Patricia Anne Policy, age 58, Casselberry, FL 3
     
 *   Show Less ...
 
-11%  Arrest Records &. Driving Infractions
+3%  Arrest Records &. Driving Infractions
 
 *   Privacy Policy
     
@@ -159,7 +159,7 @@ Contact Information &. Address History
     Discover Privacy Policy's address history, phone, age &. more.
     
 
-Facebook 3% 
+Facebook 2% 
 
 *   Prıvacy PoIicy (jayoung) - jaya.fauzi.3
     
@@ -193,7 +193,7 @@ Facebook 3% 
     
 *   Show Less ...
 
-Twitter 3% 
+Twitter 2% 
 
 *   Free Privacy Policy - FreePrivacy1
     
@@ -239,7 +239,7 @@ Twitter 3% 
     
 *   Show Less ...
 
-Instagram 3% 
+Instagram 2% 
 
 *   Privacy Policy - insta\_privacy\_policy
     
@@ -285,7 +285,7 @@ Instagram 3% 
     
 *   Show Less ...
 
-Myspace 3% 
+Myspace 2% 
 
 *   Privacy Policy - 49086242
     
@@ -309,7 +309,7 @@ Myspace 3% 
     
 *   Show Less ...
 
-Social Profiles 11%  Pinterest 3% 
+Social Profiles 3%  Pinterest 2% 
 
 *   Privacy Policy - privacypolicyvino
     
@@ -318,7 +318,7 @@ Social Profiles 11%  Pinterest 3% 
 *   Susan PaquinNote: This Privacy Policy is effective as of November 8, 2012 - suepson
     
 
-Wikipedia 3% 
+Wikipedia 2% 
 
 *   Privacy
     
@@ -346,7 +346,7 @@ Wikipedia 3% 
     
 *   Show Less ...
 
-Music 11%  Photo Albums 3% 
+Music 3%  Photo Albums 2% 
 
 *   Flickr's Privacy Policy
     
@@ -378,7 +378,7 @@ Music 11%  Photo Albums 3% 
     
 *   Show Less ...
 
-Web Search 11%  Images 3% 
+Web Search 3%  Images 2% 
 
 14
 
@@ -386,7 +386,7 @@ Web Search 11%  Images 3% 
 
 20
 
-6
+9
 
 facebookx
 
