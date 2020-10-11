@@ -1,4 +1,4 @@
-**Last Updated: July 15, 2020**
+**Last Updated: October 1, 2020**
 
 For more information, see Privacy on Foursquare.
 
@@ -83,7 +83,7 @@ Data That May Be Shared With Affiliates, Service Providers and Partners
 
 We may share your data with our affiliated entities, and service providers that perform services on our behalf, such as cloud storage, IT services, marketing, analytics and search engine and other software services. These service providers may be located in countries other than the country in which the information originally was collected, such as the United States and Canada. We do not authorize our service providers to retain, use or disclose the data except as necessary to perform services on our behalf or comply with legal requirements.
 
-In addition, when we partner with a business, we may share data by sharing a mobile advertising identifier and other data, or we may share Data in an aggregate form. We may also assist our business partners in combining the data we obtain when you use the Consumer Services with the data we receive from those business partners about online or offline advertisements that you may have viewed (including on unaffiliated apps, websites, and billboards). We do this so that our partners can serve targeted ads, measure the effectiveness of their ad campaign, and perform analytics. We do not share raw location history. We may also share data to our developer community or third parties for analytical or other purposes.
+In addition, when we partner with a business, we may share your mobile advertising identifier or another identifier, and other data such as inferred visits to public locations (such as a store or a restaurant) or as a part of a chain of inferred visits (such as this device went to John’s Coffee Store, then Sarah’s Yoga Studio, and then after, Jenny’s Juice Bar). We do not share your latitude and longitude coordinates, and we do not share inferred home and work location. Data is only shared after it has been processed into an inferred visit to a public location. We may also assist our business partners in combining the data we obtain when you use the Consumer Services with the data we receive from those business partners about online or offline advertisements that you may have viewed (including on unaffiliated apps, websites, and billboards). We do this so that our partners can serve targeted ads, measure the effectiveness of their ad campaign, perform analytics and/or understand you better based on preferences that we infer about you. We may also share data to our developer community or third parties for analytical or other purposes.
 
 Data That May Be Shared With Our Affiliates and Subsidiaries
 
@@ -209,23 +209,15 @@ These rights may be limited in certain circumstances, for example if fulfilling
 
 Transfers of Data to the United States
 
-Our servers are in the United States. If you are using or accessing the Consumer Services from outside of the United States, your data will be transferred to, processed, and stored in, the United States. United States laws may not offer the same privacy protections as the law of your jurisdiction.
+Foursquare may transfer the Personal Data we collect about you to recipients in countries other than the country in which the information originally was collected, including the U.S. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to recipients in other countries (such as the U.S.), we protect that information as described in this Privacy Policy. We transfer the Personal Data we collect about you to the U.S. in order to perform our contract with you or to take steps requested by you in order to enter into a contract. For example, we may transfer your Personal Data to the U.S. for the purposes of creating your account or providing our Services. We also may transfer your Personal Data to the U.S. where you have provided us with your explicit consent. Where we rely on your explicit consent, we will inform you of the purposes for which we require your Personal Data, as well as other supplementary information, at the point at which we obtain your Personal Data. Where you have provided your explicit consent, you have the right to withdraw the consent at any time by contacting us as indicated in the “Contact Us” section below.
 
 EU/Swiss-U.S. Privacy Shield
 
-If you are located in the European Economic Area (“EEA”), United Kingdom (“UK”) or Switzerland, with respect to transfers of personal information to the U.S., Foursquare Labs, Inc., Placed, LLC, and Factual Inc., are each certified under the EU-U.S. Privacy-Shield and Swiss-U.S. Privacy-Shield frameworks (“Privacy Shield”) developed by the U.S. Department of Commerce, the European Commission and Swiss Federal Data Protection and Information Commissioner, respectively, regarding the transfer of personal to the United States. Foursquare Labs, Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles (the “Principles”). Personal data Foursquare Labs, Inc., Placed, LLC, and Factual Inc., receive from the EU in reliance on the Privacy Shield are subject to the Principles. If there is any conflict between the terms of this Privacy Policy and the Principles, the Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
-
-You have the right to access your personal data. In compliance with the Principles, Foursquare commits to resolve complaints about our collection or use of your personal data. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at privacy@foursquare.com. Foursquare has further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive a timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit JAMS for more information or to file a complaint: https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim. The services of JAMS are provided at no cost to you.
-
-You have the ability, under certain conditions, to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. For more information, please visit: https://www.privacyshield.gov/article?id=ANNEX-I-introduction.
-
-The Federal Trade Commission has jurisdiction over Foursquare’s compliance with Privacy Shield. This is in addition to our requirement to disclose personal data to public authorities upon the receipt of a lawful request, including requests made in relation to national security or law enforcement requirements, as discussed above in this Privacy Policy.
-
-If we transfer your personal data to a third party acting as our agent, we remain responsible for how that personal data is processed. This means that we will remain liable under the Principles if any third party acting as our agent processes your personal data in a manner inconsistent with the Principles, unless we were not responsible for the event giving rise to the damage.
+Foursquare Labs, Inc., Placed, LLC, and Factual Inc. are certified under the EU-U.S. and Swiss-U.S. Privacy Shield frameworks developed by the U.S. Department of Commerce, and the European Commission and Swiss Federal Data Protection and Information Commissioner, respectively. Click here to view Foursquare’s EU/Swiss-U.S. Privacy Shield Privacy Shield certification and here for Factual Inc’s EU/Swiss-US Privacy Shield Privacy certification.  We no longer rely on the EU-U.S. or the Swiss-U.S. Privacy Shield framework to transfer personal information to the U.S.
 
 Who is Responsible for Your Data?
 
-Foursquare is a data controller for all data collected under this Consumer Services Privacy Policy.
+Foursquare is a data controller for all data collected under this Consumer Services Privacy Policy. We may have shared your data with the following third party data controllers for their own purposes. To learn more about their data practices, please review their privacy policies. 
 
 13\. Changes to this Privacy Policy?
 
