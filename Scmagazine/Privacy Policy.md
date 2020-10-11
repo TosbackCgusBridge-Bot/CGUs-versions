@@ -245,17 +245,17 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   CounterCraft Cyber Deception Platform v2.6.0
-    *   It’s finally time to go passwordless
+    *   Paying ransomware groups might violate US sanctions
+    *   Credit card security compliance declines for third consecutive year
     *   Here’s a workable, five-point security plan for navigating the pandemic
-    *   Common bugs make anti-virus solutions vulnerable to exploitation
-    *   Acalvio Technologies, Inc. ShadowPlex v5.2
-    
     *   Axis Security looks to disrupt VPN, secure access markets
-    *   Phishing pages leverage CAPTCHAs to fool users, evade detection
-    *   Cisco moves to buy cloud and container security startup
-    *   NYC demonstrates 'gold standard' in cyber resilience amid pandemic
-    *   Microsoft: Ransomware attacks grow more dynamic, human-oriented
+    *   Satellite boom expands network capabilities, but brings new security considerations
+    
+    *   How to speed-up security deployments in industrial organizations
+    *   H&M not alone: Companies often fall short in privacy protections for employees
+    *   More scoring, less boring: How companies can gamify security training
+    *   SMEs relearn security basics under COVID's telework conditions
+    *   Nudging your employees towards better cyber hygiene
     
     *   Phishing scam lures employees by teasing secrets of Trump COVID diagnosis
     *   With compliance on the mind, corporate boards up cyber investments
