@@ -27,7 +27,7 @@ Lands' End let's get comfy™ Sign In menu
 
 0 Free Shipping on $75+
 
-Receive up to 40% off full-price styles. up to 75% sale &. clearance styles!
+Receive up to 40% off full-price styles. up to 75% off sale and clearance styles!
 
 code: CORN pin: PROMOTION DETAILS
 
