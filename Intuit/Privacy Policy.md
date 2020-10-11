@@ -5,7 +5,7 @@ Our COVID-19 response  DetailsEXTRA 30% OFF $75 or more with code: STYLISH Deta
 
 Enable Accessibility
 
-*   StoresLakeline MallMore Stores11200 Lakeline Mall Dr, Cedar Park, TX, 78613512-257-1177 Weekly Ads Engagement GuideValid Jan 24th - Sep 1st
+*   StoresSouthprk Meadows S/CMore Stores9500 S Ih-35 Ste H, Austin, TX, 78748512-280-3872 Weekly Ads Engagement GuideValid Jan 24th - Sep 1st
     
     My Account
     
@@ -16,6 +16,7 @@ Enable Accessibility
     *   Rewards
     *   JCP Credit CardCart
 
+*   Holiday Gifts
 *   Toys &. Games
 *   New &. Now
 *   Home &. Lifestyle
@@ -57,20 +58,20 @@ St. John's BayXersionArizonaJF J. FerrarGirlsBoysUnBOOlievable costume ideasGet 
 
 Show off your #AllAtJCP styleView GalleryMedia Gallery5 of 26 total items loaded in Media GalleryFollow @jcpenney Recommended for You
 
-*   St. John's Bay Womens Long Sleeve Open Front Cardigan $18.74with code~$44~9
+*   St. John's Bay Womens Long Sleeve Open Front Cardigan $18.74with code~$44~12
 *   St. John's Bay Womens Mid Rise Straight Leg Jean
     
     $8.79 - $44
     
-    2222
+    2223
+*   Worthington Womens Long Sleeve Cardigan $22.49with code~$44~6
+*   St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt $13.49with code~$30~8
 *   Playtex 18 Hour® Comfort Strap® Wireless Full Coverage Bra-4693
     
     $24.99sale
     
-    ~$36~6914
-*   St. John's Bay Super Soft Mens Long Sleeve Flannel Shirt $13.49with code~$30~5
-*   Worthington Womens Long Sleeve Cardigan $22.49with code~$44~6
-*   St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater $13.49with code~$32~
+    ~$36~6916
+*   St. John's Bay Womens Crew Neck Long Sleeve Pullover Sweater $13.49with code~$32~1
 
 Shop and Save at JCPenney
 
