@@ -446,7 +446,7 @@ Enter Your Email Sign Up
 For more information, please see our **Privacy Policy**. California residents, see our **California Privacy Notice** and **Do Not Sell My Personal Information** page.
 
 SIGN UP For AERO TEXTS Join the party! **Text JOIN to 237687.**  
-Message &. Data Rates May Apply. Details FOLLOW US Quick Links
+Message &. Data Rates May Apply. Details Sign Up Now FOLLOW US Quick Links
 
 *   Track Your Order
 *   Contact Us
@@ -488,7 +488,7 @@ Enter Your Email Sign Up
 For more information, please see our **Privacy Policy**. California residents, see our **California Privacy Notice** and **Do Not Sell My Personal Information** page.
 
 SIGN UP For AERO TEXTS Join the party! **Text JOIN to 237687.**  
-Message &. Data Rates May Apply. Details FOLLOW US
+Message &. Data Rates May Apply. Details Sign Up Now FOLLOW US
 
 *   Terms of Use
 *   Privacy Policy
