@@ -16,40 +16,40 @@ View more results
     
     *   Dress Up
     *   Kissing
-    *   Love Games
     *   Make Up
-    *   Beauty
+    *   Love Games
     *   Kids
-    *   Dating
     *   Princess
+    *   Beauty
+    *   Dating
     
     All Girls Best Games
     *   Funny Throat Doctor
     *   Princess Graduation Party Night
     *   Instagirls: Halloween Dress-Up
-    *   BFFs Dressing Room
     *   Ice Slushy Maker
+    *   BFFs Dressing Room
+    *   Goldie: Lip Injections
     *   Tris Date Night Dolly Dress Up
     *   Mermaid Sauna Flirting
     *   Princess Hard Times
     *   Beach Kiss
-    *   Goldie: Lip Injections
-    *   Mommy BFFs: Pregnant Check-Up
     *   Floral Real Life Manicure
-    *   Tattoo Salon
+    *   Mommy BFFs: Pregnant Check-Up
+    *   Princess: New Look Haircut
     *   Bonnie's Surprise Proposal
 *   Racing
     
     Top Categories
     
     *   Driving
-    *   Motocross
     *   Offroad Games
-    *   Parking
-    *   Stunt Driving
+    *   Motocross
     *   Motor Racing
-    *   Boat Racing
+    *   Stunt Driving
+    *   Parking
     *   Drifting Games
+    *   Boat Racing
     
     All Racing Best Games
     *   Madalin Stunt Cars 2
@@ -60,9 +60,9 @@ View more results
     *   Real Dog Racing Simulator
     *   Drag Racing Rivals
     *   Moto X3m 3
-    *   City Car Stunts 2
     *   Two Punk Racing
     *   Off-Roader V6
+    *   City Car Stunts 2
     *   Russian Car Driver
     *   Madalin Cars Multiplayer
     *   Drift Cars
@@ -82,8 +82,8 @@ View more results
     Best Games
     *   Subway Clash 3D
     *   Combat Strike 2
-    *   Archery World Tour
     *   Miami Crime Simulator 3D
+    *   Archery World Tour
     *   Apple Shooter
     *   Deer Hunter
     *   Pixel Gun Apocalypse 3
@@ -92,8 +92,8 @@ View more results
     *   Super Rocket Buddy
     *   Stickman Archer 2
     *   Rebel Attack Shooter
-    *   Gun Blood
     *   Dino Survival: Shooter Game
+    *   Gun Blood
 *   Puzzle
     
     Top Categories
@@ -104,8 +104,8 @@ View more results
     *   Mahjong
     *   Bubble Shooter
     *   Brain Games
-    *   Candy Games
     *   Jewel Games
+    *   Candy Games
     
     All Puzzle Best Games
     *   MahJongCon
@@ -113,15 +113,15 @@ View more results
     *   Bubble Shooter Classic
     *   Block Wood Puzzle
     *   1001 Arabian Nights
-    *   Pipe Mania
     *   Butterfly Kyodai
+    *   Pipe Mania
     *   Mahjong Link
     *   Mystic Sea Treasures
     *   Farm Connect 2
     *   Word Wipe
+    *   Dream Pet Link
     *   Candy Riddles: Free Match 3 Puzzle
     *   Mahjong Connect Classic
-    *   Jewelry Match
 *   Multiplayer
     
     Top Categories
@@ -131,34 +131,34 @@ View more results
     *   Social Games
     *   Multiplayer War
     *   Multiplayer Action 3D
+    *   MMO
     *   Qplay Games
     *   Bomb It Games
-    *   MMO
     
     All Multiplayer Best Games
-    *   Ono Card Game
     *   Subway Clash 3D
+    *   Ono Card Game
     *   Fireboy and Watergirl 5: Elements
-    *   Stickman Fighter: Epic Battle
     *   Fireboy and Watergirl: The Forest Temple
+    *   Stickman Fighter: Epic Battle
     *   Hole.io
     *   Gartic.io
-    *   Fireboy &. Watergirl 3: The Ice Temple
     *   Master Chess Multiplayer
-    *   Crowd City
-    *   Madalin Cars Multiplayer
+    *   Fireboy &. Watergirl 3: The Ice Temple
     *   Fireboy &. Watergirl 4: Crystal Temple
+    *   Crowd City
     *   Match Arena Multiplayer
+    *   Madalin Cars Multiplayer
     *   Fireboy &. Watergirl 2: The Light Temple
 *   Action
     
     Top Categories
     
     *   Boy Games
-    *   One player
     *   Flash Games
-    *   Friv
     *   Fun
+    *   One player
+    *   Friv
     *   Stickman
     *   Y8 Games
     *   Fighting
@@ -170,8 +170,8 @@ View more results
     *   Miami Crime Simulator 3D
     *   Bomb It 6
     *   Apple Shooter
-    *   Murder
     *   Deer Hunter
+    *   Murder
     *   Pixel Gun Apocalypse 3
     *   Stickman Warriors
     *   Sniper Reloaded
@@ -185,9 +185,9 @@ View more results
     *   Scary
     *   Anime and Manga
     *   Horror Games
-    *   Kogama Games
     *   Detective Games
     *   Escaping
+    *   Kogama Games
     *   Trollface Quest Games
     *   Ragdoll Games
     
