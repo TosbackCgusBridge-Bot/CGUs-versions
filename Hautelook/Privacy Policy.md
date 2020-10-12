@@ -9,32 +9,52 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Sweaters Up to 70% Off Incl. Plus
+    *   Hit Snooze: Sleep &. Lounge Faves Under $35
+    *   Women's Boots Blowout
+    *   Men's Shoes Blowout
+    *   Sterling Silver Jewelry Starting at $20
+    *   The Coat Shop: Puffers &. Parkas Up to 65% Off
+    *   The Coat Shop: Wool Up to 65% Off
+    *   The Coat Shop: Men's Wool &. Overcoats Up to 65% Off
+    *   The Coat Shop: Faux Fur Up to 65% Off
+    *   The Coat Shop: Performance Outerwear
+    *   The Coat Shop: Raincoats &. Trenches Up to 65% Off
+    *   The Coat Shop: Men's Puffers, Parkas &. Down Jackets
+    *   Timberland
+    *   The Coat Shop: Girls' Styles Up to 70% Off
+    *   The Coat Shop: Boys' Styles Up to 65% Off
+    *   Ray-Ban
+    *   The Coat Shop: Men's Leather &. Suede Jackets Up to 65% Off
+    *   Alexia Admor Dresses Incl. Plus
+    *   Necessary Knits: Tops Under $30 Incl. Plus
+    *   The Coat Shop: Men's Active Outerwear
+    *   Fall Prints Up to 70% Off Incl. Plus
+    *   Chic Home Decor Up to 50% Off
+    *   Timberland Men Up to 60% Off
+    *   Timberland Luggage Up to 70% Off
+    *   Women's Fragrances We Love Under $60
+    *   Jewelry Finds Up To 75% Off
+    
     *   Cashmere ft. M Magaschoni Incl. Plus
     *   Cashmere Accessories Starting at $25
-    *   National Handbag Day: American Designer ft. Tommy Hilfiger
-    *   National Handbag Day: Contemporary ft. THACKER
     *   Men's Cashmere Up to 60% Off
     *   Chic Dresses From Bardot &. More Incl. Plus
-    *   Casual Styles ft. GRAYSON
     *   Cozy Plus Styles Up to 65% Off
-    *   National Handbag Day: Welcome to the Jungle
     *   Fall Candles Up to 60% Off
     *   Chinese Laundry &. More Starting at $25
     *   Lounge Ready: Men's Slippers Up to 70% Off
     *   Staying-In Styles: Sleep &. Lounge
     *   On-Trend: Jewelry Finds Starting at $20
-    *   LED Vanity Mirrors Up to 50% Off
     *   Fresh Finds: Men's Shoes Up to 60% Off
     *   Weekend Wardrobe: Men's Lounge &. More
     *   Lounge Ready: Slippers &. Slides
-    *   Cotton On Kids Starting at $15
     *   Trending Now: Kid's Fall Styles Up to 65% Off
     *   Fresh Finds: Flats Up to 60% Off
-    
     *   National Handbag Day: Brands We Love Up to 70% Off
-    *   Fresh Finds: Kids' Shoes Up to 60% Off
-    *   Frye Accessories Up to 60% Off
-    *   Women's Burberry Fragrances &. More Starting at $30
+    *   National Handbag Day: Contemporary ft. THACKER
+    *   National Handbag Day: Welcome to the Jungle
+    *   National Handbag Day: American Designer ft. Tommy Hilfiger
     *   WILDFOX &. More
     *   XRAY Men Starting at $15
     *   Haircare Ft. Kerastase
@@ -42,29 +62,26 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Robert Graham Up to 70% Off
     *   Sam Edelman Shoes Up to 60% Off
     *   Cozy &. Casual Dresses Up to 70% Off Incl. Plus
+    
+    *   LED Vanity Mirrors Up to 50% Off
     *   Fall Pants &. More Up to 70% Off Incl. Plus
     *   Ron White Shoes Up to 60% Off
     *   Cozy Bedding Up to 50% Off
     *   Men's Premium Denim ft. Monfrere
     *   Educational Toys &. More ft. Fisher-Price
-    *   Frye Up to 60% Off
+    *   Casual Styles ft. GRAYSON
     *   Clean Up with Shark Vacuums
+    *   Fresh Finds: Kids' Shoes Up to 60% Off
     *   Rustic Home Decor Starting at $19.97
-    *   Frye Men &. More Up to 65% Off
     *   Ben Sherman Up to 70% Off
-    
+    *   Cotton On Kids Starting at $15
     *   Levi's Kids &. More Up to 65% Off
     *   Levi's Men Up to 60% Off
     *   Coat Check: Kids' Outerwear ft. Urban Republic
     *   Stila &. More Up to 60% Off
-    *   David Donahue Dress Shirts Under $50
-    *   French Connection
-    *   Kiehl's Favorites Starting at $10
     *   Free Shipping: Fall Decor Starting at $20
-    *   BergHOFF Kitchen Blowout Up to 60% Off
     *   Kitchen Items ft. Rice Cookers Starting at $24.97
     *   Shun Cutlery Starting at $40
-    *   Rock the Vote: Polished Women's Styles &. Accessories
     *   Rock the Vote: Home Decor
     *   Must-Haves for Every Kitchen Starting at $25
     *   Native Kids
@@ -72,77 +89,93 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Sam Edelman Clothing Up to 65% Off
     *   XRAY Men's Shoes Up to 65% Off
     *   Monica Vinader Up to 50% Off
-    *   Frye Jackets
 *   WomenShop Sale Events
     
+    *   Sweaters Up to 70% Off Incl. Plus
+    *   Hit Snooze: Sleep &. Lounge Faves Under $35
+    *   Women's Boots Blowout
+    *   Sterling Silver Jewelry Starting at $20
+    *   The Coat Shop: Puffers &. Parkas Up to 65% Off
+    *   The Coat Shop: Wool Up to 65% Off
+    *   The Coat Shop: Faux Fur Up to 65% Off
+    *   The Coat Shop: Performance Outerwear
+    *   The Coat Shop: Raincoats &. Trenches Up to 65% Off
+    *   Timberland
+    *   Ray-Ban
+    *   Alexia Admor Dresses Incl. Plus
+    *   Necessary Knits: Tops Under $30 Incl. Plus
+    *   Fall Prints Up to 70% Off Incl. Plus
+    *   Timberland Luggage Up to 70% Off
+    *   Women's Fragrances We Love Under $60
+    *   Jewelry Finds Up To 75% Off
     *   Cashmere ft. M Magaschoni Incl. Plus
     *   Cashmere Accessories Starting at $25
-    *   National Handbag Day: American Designer ft. Tommy Hilfiger
-    *   National Handbag Day: Contemporary ft. THACKER
     *   Chic Dresses From Bardot &. More Incl. Plus
-    *   Casual Styles ft. GRAYSON
     *   Cozy Plus Styles Up to 65% Off
-    *   National Handbag Day: Welcome to the Jungle
+    
     *   Chinese Laundry &. More Starting at $25
     *   Staying-In Styles: Sleep &. Lounge
     *   On-Trend: Jewelry Finds Starting at $20
-    *   LED Vanity Mirrors Up to 50% Off
     *   Lounge Ready: Slippers &. Slides
     *   Fresh Finds: Flats Up to 60% Off
     *   National Handbag Day: Brands We Love Up to 70% Off
-    
-    *   Frye Accessories Up to 60% Off
-    *   Women's Burberry Fragrances &. More Starting at $30
+    *   National Handbag Day: Contemporary ft. THACKER
+    *   National Handbag Day: Welcome to the Jungle
+    *   National Handbag Day: American Designer ft. Tommy Hilfiger
     *   WILDFOX &. More
     *   Haircare Ft. Kerastase
     *   Skincare Ft. Shiseido Up to 50% Off
     *   Sam Edelman Shoes Up to 60% Off
     *   Cozy &. Casual Dresses Up to 70% Off Incl. Plus
+    *   LED Vanity Mirrors Up to 50% Off
     *   Fall Pants &. More Up to 70% Off Incl. Plus
     *   Ron White Shoes Up to 60% Off
-    *   Frye Up to 60% Off
+    *   Casual Styles ft. GRAYSON
     *   Stila &. More Up to 60% Off
-    *   Kiehl's Favorites Starting at $10
     *   Sam Edelman Clothing Up to 65% Off
     *   Monica Vinader Up to 50% Off
-    *   Frye Jackets
     
     Shop By Category
     *   Clothing
-    *   Handbags
     *   Shoes
     *   Jewelry
+    *   Handbags
     *   Accessories
     *   Lingerie &. Shapewear
 *   MenShop Sale Events
     
+    *   Men's Shoes Blowout
+    *   The Coat Shop: Men's Wool &. Overcoats Up to 65% Off
+    *   The Coat Shop: Men's Puffers, Parkas &. Down Jackets
+    *   Ray-Ban
+    *   The Coat Shop: Men's Leather &. Suede Jackets Up to 65% Off
+    *   The Coat Shop: Men's Active Outerwear
+    *   Timberland Men Up to 60% Off
     *   Men's Cashmere Up to 60% Off
     *   Lounge Ready: Men's Slippers Up to 70% Off
+    
     *   Fresh Finds: Men's Shoes Up to 60% Off
     *   Weekend Wardrobe: Men's Lounge &. More
     *   XRAY Men Starting at $15
     *   Robert Graham Up to 70% Off
     *   Men's Premium Denim ft. Monfrere
-    *   Frye Men &. More Up to 65% Off
-    
     *   Ben Sherman Up to 70% Off
     *   Levi's Men Up to 60% Off
-    *   David Donahue Dress Shirts Under $50
-    *   French Connection
-    *   Rock the Vote: Polished Women's Styles &. Accessories
     *   Ben Sherman Men's Shoes Up to 65% Off
     *   XRAY Men's Shoes Up to 65% Off
     
     Shop By Category
-    *   Shoes
     *   Clothing
+    *   Shoes
     *   Accessories
 *   KidsShop Sale Events
     
-    *   Cotton On Kids Starting at $15
+    *   The Coat Shop: Girls' Styles Up to 70% Off
+    *   The Coat Shop: Boys' Styles Up to 65% Off
     *   Trending Now: Kid's Fall Styles Up to 65% Off
-    *   Fresh Finds: Kids' Shoes Up to 60% Off
     *   Educational Toys &. More ft. Fisher-Price
+    *   Fresh Finds: Kids' Shoes Up to 60% Off
+    *   Cotton On Kids Starting at $15
     *   Levi's Kids &. More Up to 65% Off
     *   Coat Check: Kids' Outerwear ft. Urban Republic
     *   Native Kids
@@ -156,12 +189,12 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Toys
 *   HomeShop Sale Events
     
+    *   Chic Home Decor Up to 50% Off
     *   Fall Candles Up to 60% Off
     *   Cozy Bedding Up to 50% Off
     *   Clean Up with Shark Vacuums
     *   Rustic Home Decor Starting at $19.97
     *   Free Shipping: Fall Decor Starting at $20
-    *   BergHOFF Kitchen Blowout Up to 60% Off
     *   Kitchen Items ft. Rice Cookers Starting at $24.97
     *   Shun Cutlery Starting at $40
     *   Rock the Vote: Home Decor
@@ -171,27 +204,26 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Home Decor
     *   Kitchen &. Tabletop
     *   Bedding
-    *   Cleaning &. Organization
     *   Luggage &. Travel
+    *   Cleaning &. Organization
     *   Holiday Decorations
     *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
-    *   LED Vanity Mirrors Up to 50% Off
-    *   Women's Burberry Fragrances &. More Starting at $30
+    *   Women's Fragrances We Love Under $60
     *   Haircare Ft. Kerastase
     *   Skincare Ft. Shiseido Up to 50% Off
+    *   LED Vanity Mirrors Up to 50% Off
     *   Stila &. More Up to 60% Off
-    *   Kiehl's Favorites Starting at $10
     
     Shop By Category
+    *   Fragrance
     *   Skin Care
     *   Hair Care
-    *   Fragrance
-    *   Makeup
-    *   Tools &. Accessories
-    *   Bath &. Body
     *   Men’s Grooming
+    *   Makeup
+    *   Bath &. Body
+    *   Tools &. Accessories
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
