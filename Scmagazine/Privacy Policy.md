@@ -245,17 +245,17 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   Paying ransomware groups might violate US sanctions
-    *   Credit card security compliance declines for third consecutive year
-    *   Here’s a workable, five-point security plan for navigating the pandemic
-    *   Axis Security looks to disrupt VPN, secure access markets
     *   Satellite boom expands network capabilities, but brings new security considerations
+    *   Microsoft: Ransomware attacks grow more dynamic, human-oriented
+    *   Five ways to reduce ransomware risk in OT environments
+    *   Common bugs make anti-virus solutions vulnerable to exploitation
+    *   'Insensitive' phishing test stirs debate over ethics of security training
     
-    *   How to speed-up security deployments in industrial organizations
-    *   H&M not alone: Companies often fall short in privacy protections for employees
-    *   More scoring, less boring: How companies can gamify security training
-    *   SMEs relearn security basics under COVID's telework conditions
-    *   Nudging your employees towards better cyber hygiene
+    *   NYC demonstrates 'gold standard' in cyber resilience amid pandemic
+    *   Axis Security looks to disrupt VPN, secure access markets
+    *   Security Automation: when, why, and how
+    *   Microsoft: Ransomware attacks grow more dynamic, human-oriented
+    *   It’s finally time to go passwordless
     
     *   Phishing scam lures employees by teasing secrets of Trump COVID diagnosis
     *   With compliance on the mind, corporate boards up cyber investments
@@ -295,8 +295,4 @@ Back to Top
     This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.  
     Your use of this website constitutes acceptance of CyberRisk Alliance Privacy Policy and Terms &. Conditions.
 
-Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. X
-
-You can skip this ad in 1 seconds.
-
-x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
+Some areas of this page may shift around if you resize the browser window. Be sure to check heading and document order. <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=68780&amp;fmt=gif">. x <img src="https://api.b2c.com/api/noscript-131xlxqjsfx7lh82dpc.gif">
