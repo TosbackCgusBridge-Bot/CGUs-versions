@@ -1,2 +1,2 @@
-CareerBuilder is currently experiencing a service interruption.  
-We apologize for the inconvenience
+Powered By Fortinet FortiGate: Endpoint Control blocked Endpoint Security RequiredThe use of this security policy requires that the latest FortiClient Endpoint Security software and antivirus signature package are installed.  
+Contact your network administrator for assistance.
