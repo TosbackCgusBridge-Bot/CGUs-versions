@@ -5,25 +5,42 @@ Nordstrom RackHauteLook
 *   Invite a Friend, Get $20
 *   Log In / Sign Up
 
-HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
+HauteLookFree Shipping on Orders Over $100\* Extended Returns for the Holidays to Nordstrom Rack
 
 *   All EventsShop Sale Events
     
+    *   Ted Baker London Up to 65% Off
+    *   Ted Baker London Accessories &. Shoes Up to 60% Off
+    *   Ted Baker Men Up to 60% Off
+    *   2XU Activewear
+    *   Sophisticated Luxe Styles Up to 65% Off
+    *   Botkier Shoes Up to 60% Off
+    *   Glam Galore: Marina Dresses Incl. Plus
+    *   Wedge &. Platform Sneakers
+    *   Sock-tober: Cold-Weather Socks &. More
+    *   Tie-Dye &. More: Original Paperbacks Up to 60% Off
+    *   Skincare We Love Ft. Exuviance
+    *   Men's High Top Sneakers Up to 70% Off
+    *   Botkier Handbags Up to 60% Off
+    *   Girls' Dresses Starting at $12
+    *   Best for Baby: Footies, Sets &. More
+    *   Mini Melissa Up to 50% Off
     *   Sweaters Up to 70% Off Incl. Plus
     *   Hit Snooze: Sleep &. Lounge Faves Under $35
     *   Women's Boots Blowout
     *   Men's Shoes Blowout
-    *   Sterling Silver Jewelry Starting at $20
+    *   Sterling Forever Jewelry Up to 60% Off
     *   The Coat Shop: Puffers &. Parkas Up to 65% Off
     *   The Coat Shop: Wool Up to 65% Off
     *   The Coat Shop: Men's Wool &. Overcoats Up to 65% Off
     *   The Coat Shop: Faux Fur Up to 65% Off
-    *   The Coat Shop: Performance Outerwear
-    *   The Coat Shop: Raincoats &. Trenches Up to 65% Off
     *   The Coat Shop: Men's Puffers, Parkas &. Down Jackets
+    
     *   Timberland
+    *   The Coat Shop: Performance Outerwear
     *   The Coat Shop: Girls' Styles Up to 70% Off
     *   The Coat Shop: Boys' Styles Up to 65% Off
+    *   The Coat Shop: Raincoats &. Trenches Up to 65% Off
     *   Ray-Ban
     *   The Coat Shop: Men's Leather &. Suede Jackets Up to 65% Off
     *   Alexia Admor Dresses Incl. Plus
@@ -34,8 +51,6 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Timberland Men Up to 60% Off
     *   Timberland Luggage Up to 70% Off
     *   Women's Fragrances We Love Under $60
-    *   Jewelry Finds Up To 75% Off
-    
     *   Cashmere ft. M Magaschoni Incl. Plus
     *   Cashmere Accessories Starting at $25
     *   Men's Cashmere Up to 60% Off
@@ -47,6 +62,7 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Staying-In Styles: Sleep &. Lounge
     *   On-Trend: Jewelry Finds Starting at $20
     *   Fresh Finds: Men's Shoes Up to 60% Off
+    
     *   Weekend Wardrobe: Men's Lounge &. More
     *   Lounge Ready: Slippers &. Slides
     *   Trending Now: Kid's Fall Styles Up to 65% Off
@@ -55,64 +71,57 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   National Handbag Day: Contemporary ft. THACKER
     *   National Handbag Day: Welcome to the Jungle
     *   National Handbag Day: American Designer ft. Tommy Hilfiger
-    *   WILDFOX &. More
     *   XRAY Men Starting at $15
     *   Haircare Ft. Kerastase
     *   Skincare Ft. Shiseido Up to 50% Off
     *   Robert Graham Up to 70% Off
-    *   Sam Edelman Shoes Up to 60% Off
-    *   Cozy &. Casual Dresses Up to 70% Off Incl. Plus
-    
     *   LED Vanity Mirrors Up to 50% Off
-    *   Fall Pants &. More Up to 70% Off Incl. Plus
-    *   Ron White Shoes Up to 60% Off
     *   Cozy Bedding Up to 50% Off
     *   Men's Premium Denim ft. Monfrere
-    *   Educational Toys &. More ft. Fisher-Price
     *   Casual Styles ft. GRAYSON
     *   Clean Up with Shark Vacuums
     *   Fresh Finds: Kids' Shoes Up to 60% Off
     *   Rustic Home Decor Starting at $19.97
-    *   Ben Sherman Up to 70% Off
     *   Cotton On Kids Starting at $15
-    *   Levi's Kids &. More Up to 65% Off
-    *   Levi's Men Up to 60% Off
-    *   Coat Check: Kids' Outerwear ft. Urban Republic
-    *   Stila &. More Up to 60% Off
-    *   Free Shipping: Fall Decor Starting at $20
     *   Kitchen Items ft. Rice Cookers Starting at $24.97
     *   Shun Cutlery Starting at $40
     *   Rock the Vote: Home Decor
     *   Must-Haves for Every Kitchen Starting at $25
-    *   Native Kids
-    *   Ben Sherman Men's Shoes Up to 65% Off
-    *   Sam Edelman Clothing Up to 65% Off
     *   XRAY Men's Shoes Up to 65% Off
-    *   Monica Vinader Up to 50% Off
+    *   Savvy Cie: Diamonds, Gems &. More Up to 75% Off
 *   WomenShop Sale Events
     
+    *   Ted Baker London Up to 65% Off
+    *   Ted Baker London Accessories &. Shoes Up to 60% Off
+    *   2XU Activewear
+    *   Sophisticated Luxe Styles Up to 65% Off
+    *   Botkier Shoes Up to 60% Off
+    *   Glam Galore: Marina Dresses Incl. Plus
+    *   Wedge &. Platform Sneakers
+    *   Sock-tober: Cold-Weather Socks &. More
+    *   Skincare We Love Ft. Exuviance
+    *   Botkier Handbags Up to 60% Off
     *   Sweaters Up to 70% Off Incl. Plus
     *   Hit Snooze: Sleep &. Lounge Faves Under $35
     *   Women's Boots Blowout
-    *   Sterling Silver Jewelry Starting at $20
+    *   Sterling Forever Jewelry Up to 60% Off
     *   The Coat Shop: Puffers &. Parkas Up to 65% Off
     *   The Coat Shop: Wool Up to 65% Off
     *   The Coat Shop: Faux Fur Up to 65% Off
+    *   Timberland
     *   The Coat Shop: Performance Outerwear
     *   The Coat Shop: Raincoats &. Trenches Up to 65% Off
-    *   Timberland
     *   Ray-Ban
     *   Alexia Admor Dresses Incl. Plus
+    
     *   Necessary Knits: Tops Under $30 Incl. Plus
     *   Fall Prints Up to 70% Off Incl. Plus
     *   Timberland Luggage Up to 70% Off
     *   Women's Fragrances We Love Under $60
-    *   Jewelry Finds Up To 75% Off
     *   Cashmere ft. M Magaschoni Incl. Plus
     *   Cashmere Accessories Starting at $25
     *   Chic Dresses From Bardot &. More Incl. Plus
     *   Cozy Plus Styles Up to 65% Off
-    
     *   Chinese Laundry &. More Starting at $25
     *   Staying-In Styles: Sleep &. Lounge
     *   On-Trend: Jewelry Finds Starting at $20
@@ -122,18 +131,11 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   National Handbag Day: Contemporary ft. THACKER
     *   National Handbag Day: Welcome to the Jungle
     *   National Handbag Day: American Designer ft. Tommy Hilfiger
-    *   WILDFOX &. More
     *   Haircare Ft. Kerastase
     *   Skincare Ft. Shiseido Up to 50% Off
-    *   Sam Edelman Shoes Up to 60% Off
-    *   Cozy &. Casual Dresses Up to 70% Off Incl. Plus
     *   LED Vanity Mirrors Up to 50% Off
-    *   Fall Pants &. More Up to 70% Off Incl. Plus
-    *   Ron White Shoes Up to 60% Off
     *   Casual Styles ft. GRAYSON
-    *   Stila &. More Up to 60% Off
-    *   Sam Edelman Clothing Up to 65% Off
-    *   Monica Vinader Up to 50% Off
+    *   Savvy Cie: Diamonds, Gems &. More Up to 75% Off
     
     Shop By Category
     *   Clothing
@@ -142,51 +144,51 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Handbags
     *   Accessories
     *   Lingerie &. Shapewear
+    *   Watches
 *   MenShop Sale Events
     
+    *   Ted Baker Men Up to 60% Off
+    *   Tie-Dye &. More: Original Paperbacks Up to 60% Off
+    *   Men's High Top Sneakers Up to 70% Off
     *   Men's Shoes Blowout
     *   The Coat Shop: Men's Wool &. Overcoats Up to 65% Off
     *   The Coat Shop: Men's Puffers, Parkas &. Down Jackets
     *   Ray-Ban
     *   The Coat Shop: Men's Leather &. Suede Jackets Up to 65% Off
     *   The Coat Shop: Men's Active Outerwear
+    
     *   Timberland Men Up to 60% Off
     *   Men's Cashmere Up to 60% Off
     *   Lounge Ready: Men's Slippers Up to 70% Off
-    
     *   Fresh Finds: Men's Shoes Up to 60% Off
     *   Weekend Wardrobe: Men's Lounge &. More
     *   XRAY Men Starting at $15
     *   Robert Graham Up to 70% Off
     *   Men's Premium Denim ft. Monfrere
-    *   Ben Sherman Up to 70% Off
-    *   Levi's Men Up to 60% Off
-    *   Ben Sherman Men's Shoes Up to 65% Off
     *   XRAY Men's Shoes Up to 65% Off
     
     Shop By Category
     *   Clothing
     *   Shoes
     *   Accessories
+    *   Watches
 *   KidsShop Sale Events
     
+    *   Girls' Dresses Starting at $12
+    *   Best for Baby: Footies, Sets &. More
+    *   Mini Melissa Up to 50% Off
     *   The Coat Shop: Girls' Styles Up to 70% Off
     *   The Coat Shop: Boys' Styles Up to 65% Off
     *   Trending Now: Kid's Fall Styles Up to 65% Off
-    *   Educational Toys &. More ft. Fisher-Price
     *   Fresh Finds: Kids' Shoes Up to 60% Off
     *   Cotton On Kids Starting at $15
-    *   Levi's Kids &. More Up to 65% Off
-    *   Coat Check: Kids' Outerwear ft. Urban Republic
-    *   Native Kids
     
     Shop By Category
     *   Girls
-    *   Boys
     *   Baby
+    *   Boys
     *   Girls' Shoes
     *   Boys' Shoes
-    *   Toys
 *   HomeShop Sale Events
     
     *   Chic Home Decor Up to 50% Off
@@ -194,7 +196,6 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Cozy Bedding Up to 50% Off
     *   Clean Up with Shark Vacuums
     *   Rustic Home Decor Starting at $19.97
-    *   Free Shipping: Fall Decor Starting at $20
     *   Kitchen Items ft. Rice Cookers Starting at $24.97
     *   Shun Cutlery Starting at $40
     *   Rock the Vote: Home Decor
@@ -210,20 +211,20 @@ HauteLookFree Shipping on Orders Over $100\* 45-Day Returns to Nordstrom Rack
     *   Electronic &. Tech Accessories
 *   BeautyShop Sale Events
     
+    *   Skincare We Love Ft. Exuviance
     *   Women's Fragrances We Love Under $60
     *   Haircare Ft. Kerastase
     *   Skincare Ft. Shiseido Up to 50% Off
     *   LED Vanity Mirrors Up to 50% Off
-    *   Stila &. More Up to 60% Off
     
     Shop By Category
-    *   Fragrance
     *   Skin Care
+    *   Fragrance
     *   Hair Care
     *   Men’s Grooming
-    *   Makeup
     *   Bath &. Body
     *   Tools &. Accessories
+    *   Makeup
 
 Search HauteLook Privacy Policy HauteLook Privacy Policy Overview
 
@@ -427,4 +428,4 @@ Get a $20 giftcard each time a friend you invite makes their first purchase. Lim
 
 Or you can use your personal referral link to invite
 
-Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs. excluded.Easy ReturnsReturn to StoreBring your invoice and returnable item to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailUse our self-service Returns page to get started and return your item.Start Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
+Shipping &. ReturnsFree shipping is applied to orders over $100 before tax. International orders and all items over 5lbs. excluded.Extended Holiday Returns!Eligible purchases made 10/12–12/24/20 can be returned until 2/7/21.Return to StoreBring your invoice and eligible item(s) to your nearest U.S. Nordstrom Rack.Find Your RackReturn by MailUse our self-service Returns page to get started and return your item.Start Your ReturnNote: For items returned by mail, the return shipping fee is $5.95 for the US and $10.95 for Canada. The fee will automatically be deducted from your refund.To see if your item is eligible for return, check your confirmation email or Orders page.Unlock Your Exclusive RewardsTake a minute to complete your profile to view your Nordy Club status and available points.Complete My ProfileSkip for now
