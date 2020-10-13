@@ -9,16 +9,21 @@ GOING BACK TO MOVIE THEATERS Read More Gift Cards | Offers | Sign In Sign Out
     
     Opening This Week = Limited Release
     
-    *   Aggie (2020)
-    *   Henchmen
-    *   Pray: The Story of Patrick Peyton
-    *   The War with Grandpa
+    *   2 Hearts
+    *   Honest Thief (2020)
+    *   The Devil Has a Name (2020)
+    *   Escape from Extinction
+    *   Harry Chapin: When in Doubt, Do Something (2020)
+    *   The Kid Detective (2020)
+    *   S---house (2020)
     *   See All Opening This Week
     
     Coming Soon
     
-    *   Honest Thief (2020)
-    *   Soul (2020)
+    *   The Croods: A New Age (2020)
+    *   Free Guy
+    *   Coming 2 America (2020)
+    *   Death on the Nile (2020)
     *   Wonder Woman 1984
     *   See All Coming Soon
     
@@ -468,17 +473,17 @@ Offers
 
 New + Coming soon
 
+*   2 Hearts
+    
+*   Honest Thief (2020)
+    
 *   The War with Grandpa
     
 *   Tenet
     
-*   Shortcut
+*   Antebellum
     
 *   The New Mutants
-    
-*   The Broken Hearts Gallery
-    
-*   Antebellum
     
 *   Unhinged (2020)
     
