@@ -22,7 +22,7 @@ Close MENU **IS**
 **ES**
 
 *   Starting at $39,9001\*
-*   2.5L I-4 OR 3.5L V6
+*   I-4 OR V6, AVAILABLE AWD
 
 *   Build
 *   Current Offers
