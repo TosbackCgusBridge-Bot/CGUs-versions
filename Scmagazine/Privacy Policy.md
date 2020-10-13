@@ -245,23 +245,23 @@ For users in the EEA, any changes or modifications will be effective upon your e
     *   Emailed
     *   Recent
     
-    *   Satellite boom expands network capabilities, but brings new security considerations
+    *   As tech reaches end of life, hackers are watching
     *   Microsoft: Ransomware attacks grow more dynamic, human-oriented
-    *   Five ways to reduce ransomware risk in OT environments
+    *   Credit card security compliance declines for third consecutive year
+    *   Zoom tries to make good on security, privacy promises
+    *   Illusive Networks Attack Detection System v3.1.126
+    
+    *   Deceptive Bytes Active Endpoint Deception v2020.04.01
+    *   Credit card security compliance declines for third consecutive year
     *   Common bugs make anti-virus solutions vulnerable to exploitation
-    *   'Insensitive' phishing test stirs debate over ethics of security training
+    *   Cisco moves to buy cloud and container security startup
+    *   UK says Huawei coding quality still falls short, as global businesses look toward 5G
     
-    *   NYC demonstrates 'gold standard' in cyber resilience amid pandemic
-    *   Axis Security looks to disrupt VPN, secure access markets
-    *   Security Automation: when, why, and how
-    *   Microsoft: Ransomware attacks grow more dynamic, human-oriented
-    *   It’s finally time to go passwordless
-    
+    *   Hackers chain Windows, VPN bugs to access government systems
     *   Phishing scam lures employees by teasing secrets of Trump COVID diagnosis
     *   With compliance on the mind, corporate boards up cyber investments
     *   NYC demonstrates 'gold standard' in cyber resilience amid pandemic
     *   H&M not alone: Companies often fall short in privacy protections for employees
-    *   Common bugs make anti-virus solutions vulnerable to exploitation
 
 Back to Top
 
