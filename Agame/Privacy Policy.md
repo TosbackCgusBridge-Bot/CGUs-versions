@@ -26,18 +26,18 @@ View more results
     All Girls Best Games
     *   Princess Graduation Party Night
     *   Funny Throat Doctor
+    *   Beach Kiss
     *   Instagirls: Halloween Dress-Up
     *   Goldie: Lip Injections
     *   Ice Slushy Maker
     *   BFFs Dressing Room
-    *   Beach Kiss
-    *   Princess Hard Times
     *   Mermaid Sauna Flirting
     *   Tris Date Night Dolly Dress Up
+    *   Princess Hard Times
+    *   Pixie: Sauna Flirting
     *   Floral Real Life Manicure
     *   Mommy BFFs: Pregnant Check-Up
     *   Princess: New Look Haircut
-    *   Pixie: Sauna Flirting
 *   Racing
     
     Top Categories
@@ -58,14 +58,14 @@ View more results
     *   Moto X3m 2
     *   Xcross Madness
     *   Two Punk Racing
-    *   Real Dog Racing Simulator
     *   Drag Racing Rivals
-    *   Moto X3m 3
     *   Off-Roader V6
+    *   Real Dog Racing Simulator
     *   City Car Stunts 2
+    *   Moto X3m 3
     *   Russian Car Driver
+    *   Off-Road Cycle 3D
     *   Scrap Metal 3: Infernal Trap - Driving Game 3D
-    *   Madalin Cars Multiplayer
 *   Shooting
     
     Top Categories
@@ -84,16 +84,16 @@ View more results
     *   Combat Strike 2
     *   Miami Crime Simulator 3D
     *   Archery World Tour
-    *   Apple Shooter
     *   Deer Hunter
+    *   Apple Shooter
     *   Pixel Gun Apocalypse 3
-    *   Sniper Reloaded
     *   Shot Trigger
+    *   Sniper Reloaded
     *   Super Rocket Buddy
     *   Stickman Archer 2
     *   Rebel Attack Shooter
     *   Gun Blood
-    *   Dino Survival: Shooter Game
+    *   Mr. Bullet
 *   Puzzle
     
     Top Categories
@@ -109,19 +109,19 @@ View more results
     
     All Puzzle Best Games
     *   MahJongCon
-    *   Bubble Shooter Classic
+    *   Bubble Shooter
     *   Bubble Shooter Classic
     *   Block Wood Puzzle
     *   Butterfly Kyodai
-    *   Mahjong Link
     *   1001 Arabian Nights
+    *   Mahjong Link
     *   Mystic Sea Treasures
     *   Pipe Mania
     *   Word Wipe
     *   Dream Pet Link
-    *   Farm Connect 2
-    *   Candy Riddles: Free Match 3 Puzzle
+    *   Jewelry Match
     *   Mahjongg Alchemy
+    *   Candy Riddles: Free Match 3 Puzzle
 *   Multiplayer
     
     Top Categories
@@ -149,7 +149,7 @@ View more results
     *   Crowd City
     *   Match Arena Multiplayer
     *   Madalin Cars Multiplayer
-    *   Fireboy &. Watergirl 2: The Light Temple
+    *   Pool Clash: 8 Ball Billiards Snooker
 *   Action
     
     Top Categories
@@ -169,15 +169,15 @@ View more results
     *   Stickman Fighter: Epic Battle
     *   Miami Crime Simulator 3D
     *   Bomb It 6
-    *   Apple Shooter
     *   Deer Hunter
+    *   Apple Shooter
     *   Pixel Gun Apocalypse 3
+    *   Super Buddy Kick
     *   Murder
     *   Stickman Warriors
-    *   Super Buddy Kick
-    *   Sniper Reloaded
     *   Slither.io
     *   Shot Trigger
+    *   Sniper Reloaded
 *   Adventure
     
     Top Categories
@@ -200,12 +200,12 @@ View more results
     *   Adam and Eve: GO
     *   The Last Survivors: 2 Player Zombie Game
     *   Adam and Eve 2
-    *   Troll Face Quest: Horror 2
     *   Miami Crime Simulator 3D
+    *   Troll Face Quest: Horror 2
     *   World Crafts
+    *   Adam and Eve 3
     *   Adam and Eve
     *   Adam and Eve 4
-    *   Adam and Eve 3
 *   More
     
     *   Girls
