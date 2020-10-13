@@ -161,7 +161,7 @@ Free trial
 
 Subscribe
 
-$1,690/year
+—/year
 
 Cost-effective 2D CAD
 
@@ -171,7 +171,7 @@ Free trial
 
 Subscribe
 
-$420/year
+—/year
 
 Cloud-based 3D CAD/CAM/CAE software for product design
 
@@ -181,9 +181,9 @@ Free trial
 
 Subscribe
 
-$297/year
+—/year
 
-$495 Try, buy, or learn more about Autodesk products See all products Reimagine what’s possible at Autodesk University 2020
+Try, buy, or learn more about Autodesk products See all products Reimagine what’s possible at Autodesk University 2020
 
 Join us November 17-20 for our first-ever global digital conference for designers, engineers, builders, and creators. Explore emerging technologies and learn alongside your peers—with no cost to attend.
 
@@ -198,7 +198,7 @@ See what's included
 
 Product details
 
-$2,965/year
+\---/year
 
 Subscribe
 
@@ -208,7 +208,7 @@ See what's included
 
 Product details
 
-$2,720/year
+\---/year
 
 Subscribe FOLLOW AUTODESK
 
