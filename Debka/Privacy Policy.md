@@ -1,4 +1,4 @@
-Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Monday, October 12, 2020  
+Close Font Resize A- A+ Keyboard navigation Readable Font Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Clear cookies Images Greyscale Invert Colors Remove Animations Close Tuesday, October 13, 2020  
 
 DEBKAfile
 
@@ -44,9 +44,17 @@ Although we take precautions against security breaches, hackers pose a threat to
 
 Breaking news
 
-*   Armenia and Azerbaijan agree on a truce after two weeks of fighting
+*   Iraq’s pro-Iran militias offer ceasefire on attacks against US targetsTT
     
-    Oct 10, 2020 @ 10:25
+    Oct 12, 2020 @ 19:50
+    
+*   Coronavirus figures fall for third day
+    
+    Oct 12, 2020 @ 18:18
+    
+*   Knesset opens winter session marred by government rift
+    
+    Oct 12, 2020 @ 18:15
     
 *   Nursery schools and some small firms may reopen on Oct. 18
     
@@ -67,16 +75,16 @@ Breaking news
 *   Thousands of evacuations from homes as several wildfires spread
     
     Oct 09, 2020 @ 13:11
-    
-*   Steady decline in new coronavirus cases during lockdown
-    
-    Oct 09, 2020 @ 12:16
-    
-*   Arab airliners bound for Europe and US  may transit Israeli airspace
-    
-    Oct 09, 2020 @ 12:05
     
 
+*   Second Trump-Biden debate canceled
+    
+    Oct 10, 2020 @ 09:57
+    
+*   More than 250 wildfires doused across Israel
+    
+    Oct 10, 2020 @ 09:44
+    
 *   Nobel Peace Prize awarded to World Food Program
     
     Oct 09, 2020 @ 13:19
@@ -85,17 +93,17 @@ Breaking news
     
     Oct 09, 2020 @ 13:11
     
-*   Steady decline in new coronavirus cases during lockdown
+*   Iraq’s pro-Iran militias offer ceasefire on attacks against US targetsTT
     
-    Oct 09, 2020 @ 12:16
+    Oct 12, 2020 @ 19:50
     
-*   Arab airliners bound for Europe and US  may transit Israeli airspace
+*   Coronavirus figures fall for third day
     
-    Oct 09, 2020 @ 12:05
+    Oct 12, 2020 @ 18:18
     
-*   Armenia and Azerbaijan agree on a truce after two weeks of fighting
+*   Knesset opens winter session marred by government rift
     
-    Oct 10, 2020 @ 10:25
+    Oct 12, 2020 @ 18:15
     
 *   Nursery schools and some small firms may reopen on Oct. 18
     
@@ -117,29 +125,21 @@ Breaking news
     
     Oct 09, 2020 @ 13:11
     
-*   Steady decline in new coronavirus cases during lockdown
+*   Iraq’s pro-Iran militias offer ceasefire on attacks against US targetsTT
     
-    Oct 09, 2020 @ 12:16
+    Oct 12, 2020 @ 19:50
     
-*   Arab airliners bound for Europe and US  may transit Israeli airspace
+*   Coronavirus figures fall for third day
     
-    Oct 09, 2020 @ 12:05
+    Oct 12, 2020 @ 18:18
     
-*   Armenia and Azerbaijan agree on a truce after two weeks of fighting
+*   Knesset opens winter session marred by government rift
     
-    Oct 10, 2020 @ 10:25
+    Oct 12, 2020 @ 18:15
     
 *   Nursery schools and some small firms may reopen on Oct. 18
     
     Oct 10, 2020 @ 10:12
-    
-*   Second Trump-Biden debate canceled
-    
-    Oct 10, 2020 @ 09:57
-    
-*   More than 250 wildfires doused across Israel
-    
-    Oct 10, 2020 @ 09:44
     
 
 12PrevNext
