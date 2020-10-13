@@ -208,30 +208,23 @@ Lenovo Explore Close
         *   Explore Gaming
         *   Laptops
         *   Desktops
-        *   Accessories
-        *   Monitors
-        *   Headsets &. Headphones
+        *   Accessories &. Monitors
+        *   Gaming Community
+        *   Gaming PC Deals
         *   PC Games
         
         *   By Brand
         *   Legion
-        *   Idea Gaming
-        *   Roccat Gaming Accessories
-        *   Xbox
-        *   Turtle Beach
-        
-        *   Featured
-        *   Gaming PC Deals
-        *   Gaming Community
-        *   Legion Mice
-        *   Gaming Headsets
+        *   IdeaPad
+        *   Oculus Rift S
         
         *   New Products
         *   Legion Tower 5i
-        *   Legion 5 Series
-        *   Legion 7 Series
+        *   Legion 5 Laptop
+        *   Legion 7 Laptop
         *   IdeaPad Gaming 3i
         *   HTC Vive VR Gaming
+        *   Creator 5i
     *   Business
         
         *   Always Free Shipping
